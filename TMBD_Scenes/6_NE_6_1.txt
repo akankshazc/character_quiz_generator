@@ -1,0 +1,285 @@
+Fortunately it was an energy weapon and not a SecUnit-head-busting projectile.
+
+It still fucking hurt. I flinched and rammed into the side of the hatch (ow) and dove sideways to avoid the second blast. Except there wasn’t one, because Ras was flailing instead of aiming. Amena had jumped on his back and was trying to choke him out. (It was a good effort but she didn’t have the leverage to really clamp down with her forearm.)
+
+Eletra stood nearby, waving her arms and yelling, “Stop! What are you doing? Stop!” which was frankly the most sensible thing I had heard a human say in hours. It also told me this wasn’t a planned attack, which is what stopped me from putting a drone through Ras’s face. (Also, I was running out of drones.)
+
+If I sound calm, I was actually not calm. I thought I’d had control of the situation (sort of control, okay? don’t laugh) and then it had unraveled rapidly.
+
+I pushed off the hatch and walked over to pick up the weapon Ras had dropped. It was like or possibly identical to or possibly actually was the tube-like energy weapon Target Two had used on me. Ras must have picked it up while I was distracted by having an emotional breakdown. (Yeah, that was a huge mistake.) It had caused pain in my organic tissue but it hadn’t disrupted any processes so I knew it would be no use on the targetDrones. But at least it should work on the Targets. I put it in my jacket pocket. Then I stepped in, kicked Ras in the back of the kneecap, and caught Amena around the waist. He hit the floor and I set her on her feet.
+
+Amena was almost as angry as I was. “What’s wrong with you?” she shouted at Ras. She glared at Eletra, who made a helpless, baffled gesture. You know, if Ras was going to turn on me, he might have at least warned Eletra first so she wasn’t standing around wondering what the hell was going on.
+
+Ras shoved to his feet and said, “You can’t trust—any of them! It could be any of them—They control them—” He staggered back away from us. His eyes were unfocussed. “You don’t—any of them—”
+
+Amena’s furious expression turned confused. “Any of what?”
+
+That was a good question. I’d seen humans do irrational things (a lot of irrational things) and encounter situations that made them act in ways that were counterproductive at best. (This was not the first time I’d been shot in the head by a human I was trying to protect, let’s put it that way.) But this was odd, even granting the fact that I’d physically intimidated Ras earlier.
+
+Eletra winced and pressed a hand to her head. “Ras, that doesn’t make sense, what—” Then her eyes rolled up and she collapsed.
+
+Amena made a grab for her, then flinched away when Ras folded up and hit the floor. Then Eletra started to convulse. Amena threw herself down on the deck, trying to support Eletra’s head. Ras lay in a tumble, completely limp.
+
+Amena looked frantic. I was a little frantic, too. “They took some medication from the emergency kit,” she said. She jerked her head toward the open kit and the container beside it. “They’re supposed to be analgesics—could they be poisoned?”
+
+It wasn’t a bad suggestion, but if this was something in the medication, I thought the reaction would involve bodily fluids and be way more disgusting. Amena wasn’t affected, so it wasn’t something spread by contact or transmitted through the air system or the water containers. Eletra looked more like her nervous system was being jolted by a power source. Ras looked … Ras looked dead.
+
+I stepped over to the emergency kit still sitting on the bench. It had some limited autonomous functions and had expanded and opened new compartments, responding to the humans’ distress. I took the small medical scanner it was trying to hand me and pointed it at Ras. It sent its report to my feed, with scan images of the inside of Ras’s body. A power source had jolted through the upper part of his chest, destroying the important parts there for pumping blood and breathing.
+
+It looked, oddly, like what being punished by a governor module felt like—
+
+Now there’s a thought.
+
+I checked Scout Two in the control area foyer. The Targets had stopped listening at the sealed hatch and were gathered around Target Four, who now held a strange, bulky device. It was twelve centimeters across and a millimeter thick, with a flat old-fashioned solid-state screen. (I’d seen them on historical dramas.) All the Targets seemed excited about whatever it was showing them.
+
+If it was something that made the Targets happy, it couldn’t be good.
+
+My scan detected a tiny power source on both Eletra and Ras. It hadn’t been there earlier so something had activated it, most likely a signal from Target Four’s screen device. There was no time for finesse; I jammed the whole range.
+
+Eletra slumped, limp and unconscious. If there’d been a last-ditch destroy-the-brain function, there was nothing I could do about it.
+
+Scout Two now showed Target Four poking angrily at the screen as the others watched in obvious disappointment. Hah.
+
+Amena, in the middle of yelling, “Will you stop just standing there and do something—” halted abruptly. The rest came out as a startled huff. She added, “Did you do that?”
+
+“Yes.” I crouched down and lifted Eletra out of Amena’s lap. “This was caused by implants.”
+
+I carried Eletra over to the nearest gurney and carefully set her down. Amena scrambled up and went to Ras. She reached for his arm and I said, “He’s dead.”
+
+She jerked her hand back, then fumbled for the pulse in his neck. “What—How?”
+
+I sent the medscanner’s images to her feed and she winced. “You said it was an implant? Is that like an augment?”
+
+“No, it’s like an implant.” Augments were supposed to help humans do things they couldn’t otherwise do, like interface with the feed more completely or store memory archives. Augments that weren’t feed interfaces were meant to correct physical injuries or illnesses. Augments are helpful; implants are like governor modules.
+
+I pointed the medscanner at Eletra. It found a raised temperature, increased heart rate, and increased respiration rate. I didn’t know what that meant, but it sounded bad. “When this happened, I had a drone view of the Targets in the central section using an unknown device.”
+
+Amena pushed to her feet and stood beside Eletra’s gurney. She was accessing the medical scan data and her expression had that vague look that humans get when they’re reading in their feed. “That looks like an infection. Eletra said her back hurt.” Her face scrunching up with worry and fear, Amena carefully moved the dark hair away from Eletra’s neck, then half-turned her. She had to pull down the back of Eletra’s shirt to find it. Yeah, there was the implant.
+
+Amena sucked in a breath. “That looks terrible.”
+
+It was a metal ring, 1.1 centimeters wide, visible against the brown skin between Eletra’s shoulder blades. It sat in the middle of a rictus of swollen flesh that looked painful even to me, and that was saying something.
+
+Normal external interfaces for humans were designed to look like all kinds of things, from carved natural wood to skin tones to jewels or stones or enamel art pieces to actual plain metal with a brand logo. And why would Eletra, who was an augmented human with an internal interface, need a second external one? And any remote chance that this was some kind of botched attempt at a medical or enhancement augment was outweighed by the fact that no human would put up with this when any MedSystem could fix it in a few minutes at most. And botched was putting it mildly; it looked like a bad human medic had jammed it in with their toes.
+
+Amena was working the problem. “Why didn’t they tell us? We could have … Unless they didn’t know it was there. They said they were unconscious when they were brought aboard.” The consternation in her expression deepened. “Did Ras’s implant tell him to attack you? Or just make him so confused that he shot at the first person who walked in the door? These implants are obviously supposed to incapacitate them if they tried to escape, to keep them under control—”
+
+“I’m familiar with the concept,” I told her. (One of the indispensable benefits of being a rogue SecUnit: not having to pretend to attentively listen to a human’s unnecessary explanations.) “I had one in my head.”
+
+“Right.” She flicked a startled look at me. I love it when humans forget that SecUnits are not just guarding and killing things voluntarily, because we think it’s fun. “Then why did it take the gray people so long to activate the implants? Why didn’t they do it right after we escaped?”
+
+Yeah, about that. I hadn’t kept her updated on my intel. “I don’t think the surviving Targets knew what happened when we were captured.”
+
+Amena argued, “But that one Target got away.”
+
+“I used my drones to kill that Target and a third one, after they locked themselves in the ship’s control area. The other Targets have been trying to get through the sealed hatch and seem to think we’re inside.” I sent Amena a section of my drone video from the control area foyer. “They may think Eletra and Ras are in there with us. Or they activated the implants to try to figure out where they are.”
+
+Amena’s gaze went vague as she reviewed the clip on her feed. “Is that why they’re listening to the hatch?”
+
+I checked the input. Yeah, they were back to that again. “My drone is playing a recording of a conversation.”
+
+Amena lifted her brows. “Right, that’s really clever. Can you use the drones to threaten them and—”
+
+I showed her the clip of the change to the Targets’ helmets. “No. This security update prevents that.”
+
+Amena grimaced and rubbed her brow. “I see. So how do we get to the bridge?”
+
+You know, it’s not like I’m half-assing this, I am actually trying my best despite the fuck-ups. I absolutely did not sound testy as I said, “I don’t know. I have a scout drone in the control area but it can’t access any of the systems.”
+
+Amena stopped and looked at me with an incredulous expression. “So we’re locked out of the bridge and the bot pilot is gone and we don’t know what’s flying the ship.”
+
+The good thing about being a construct is that you can’t reproduce and create children to argue with you. This time I did sound testy. “I’m working on it.” I turned the medical scanner’s image so I could see what was under Eletra’s implant. I really expected the shitty primitive governor module to have filaments extending directly into the human’s nervous system, like a normal augment. But there were no filaments; the images the scanner sent to our feed connection showed the implant was self-contained, narrowing to a blunt point.
+
+Amena held up her hands. “Fine! Wow, you’re so touchy.” She added, “Okay, so if they knew these things were implanted, they would have asked us to help them. Even if they didn’t trust us…” Her brow furrowed again. “I can’t imagine they wouldn’t have.”
+
+I agreed. They hadn’t even asked about the MedSystem, or the medical equipment in the emergency kit. If I was a human and I had this thing jammed in me and I happened to run into a fully stocked medical suite to hide, it would have been at the top of my to-do list.
+
+“We have to get this thing out before it kills her, too.” Amena studied the diagrams and images the scanner sent into our feed. “It’s really primitive. It must have been causing the confusion and pain, but that wouldn’t make them forget it was there.”
+
+I rotated the images so I could make sure I was right about the depth. “No. Something else did that.”
+
+“It’s not very good, for what it’s trying to do.” Amena made a violent jabbing motion at her own neck. “If you knew it was there, and you could get away from the person trying to zap you, you could pop it out with a knife.”
+
+Note to self: Make sure Amena has no reason to jab at her own neck with a knife. “Not if you thought it was interwoven with your neural tissue.” At least when I dealt with my governor module, I’d had access to my own schematics and diagnostics.
+
+Amena wasn’t listening. She went over to rummage in the emergency kit. “Her vital signs are getting worse.” She found a laser scalpel case and brandished it. “I’m going to try to take the implant out.”
+
+“You have medic training.” It was worth asking.
+
+“Basic training, sure.” I was making an expression again because she grimaced. “I know, I know! But you said we shouldn’t use the MedSystem and we have to do something.”
+
+She wasn’t wrong. The kit was transmitting increasingly plaintive warnings. There was a lot of technical medical data to process but the conclusion was obvious that the activation had caused damage to Eletra, if not as much as it had to Ras. The kit was demanding we intervene soon.
+
+Most of my medical knowledge came from watching MedCenter Argala, a historical drama series that had been popular twenty-seven corporate standard years ago and was still available for download on almost every media feed I had ever encountered. Even I knew it was inaccurate. I also found it kind of boring, so I’d only watched it once.
+
+I held my hand out for the scalpel.
+
+Amena hesitated. Did she think I was going to kill Eletra? I’d put up with way more annoying humans, including some that she was related to.
+
+Then she handed the scalpel over, her expression a mix of relief and guilt. “I could do it if I had to.”
+
+Huh. Amena wanted to help, maybe to prove herself. I said, “I know you could.” She hadn’t been bluffing about the neck-jabbing thing, I could tell.
+
+But if we were wrong and removing the implant killed Eletra, at least this wouldn’t be my first accidental murder. Also, my hands don’t shake.
+
+Amena got another wound seal pack out and engaged the emergency kit’s sterile field. I followed its instructions to spray anesthetic prep fluid. Then with the occasional pop-up help hint from the kit’s feed, I used the scalpel to cut through the damaged tissue.
+
+I had a drone view of Amena watching the hand scanner, her brow furrowed in half-wince, half-concentration. I avoided the bits that would bleed a lot (not something a human trying to do this to their own body could have managed, so there, Amena) and the implant popped out.
+
+And Eletra woke up.
+
+She gasped a breath, her eyes open, staring without comprehension at Amena’s stomach. I stepped back and Amena hastily fit the pack over the wound before too much blood leaked out. It powered up and snugged in close to Eletra’s skin; her eyes fluttered closed again. From the report on the emergency kit’s feed, the pack had delivered a hefty punch of painkillers and antibiotics. I put the implant in the little container the emergency kit offered, and the kit dutifully sprayed it with something. (I hope the kit knew what it was doing, because I sure didn’t.)
+
+“It’s okay, it’s okay, we’re helping you,” Amena was telling Eletra, patting her hand.
+
+Ras’s body was there in the middle of everything and that just felt wrong. I picked it up and carried it to a gurney on the far side of the room. In a supply cabinet I found a cover to put over him, but before I did I pulled down his jacket and shirt to look at his implant. It was on his shoulder blade, surrounded by damaged tissue, much thicker and more swollen than Eletra’s. I wondered if he had known it was there, at some point. If he had jabbed at his back with something trying to get it out, before the Targets made him forget about it again. (It was still a stupid thing to do, but I understood the impulse. I understood it a lot.)
+
+Then the emergency kit blared an alarm through our feed as Eletra’s pulse and respiration rate dropped.
+
+The kit flashed a handy annotated diagram of what we should do into the feed. Amena swore a lot and helped me roll Eletra over. I started chest compressions, being extremely careful with the amount of pressure I was exerting. Amena frantically grabbed for the resuscitation devices. The kit was trying to be helpful but it was nothing like a MedSystem sliding into my feed with everything I needed to know right there. It was urging me to start rescue breathing, but I couldn’t. My lungs work in a completely different way than human lungs do. It’s not only that I need much less air but the connections are all different. Aside from the utterly disgusting thought of putting my mouth which I talk with on a human (ugh), I didn’t think I could expel enough air for what the kit wanted me to do.
+
+Amena ran over and started the rescue breathing herself, but it wasn’t working.
+
+I told her, “We need the mask.”
+
+Amena gave up with a gasp of frustration and went back to the kit. She found the mask and wrestled with its sterile packaging, trying to rip the plastic with her teeth, and I couldn’t stop compressions to help her. (Yes, I did just realize we should have thought of this possibility earlier. They never showed humans getting the tools ready on MedCenter Argala, it was all just there.)
+
+Then from across the compartment, the MedSystem made a soft clunk and its platform lights turned violet. It had just powered on. Amena stopped, the mask in her hand finally. She spat out a piece of plastic wrapper and demanded, “Did you get it turned on?”
+
+“No.” That was ART’s MedSystem, but without ART. Its reactivated feed said it was operating at factory standard.
+
+It could be one more weird anomaly in this unending cycle of what the fuck. Or it could be a trick, TargetControlSystem trying to get us to put Eletra in there so it could kill her. Except that Eletra was dying anyway so why bother?
+
+And I tried not to see this as some remnant of ART still in the ship acting to save a human.
+
+Well, fuck it. I stopped compressions, scooped up Eletra, and carried her to the MedSystem’s platform.
+
+I set her down and the surgical suite dropped over her immediately, a pad settling over her chest to restart her heartbeat and a much more complicated mask apparatus lowering to work on her respiration. In six seconds it had her breathing on her own and her heartbeat stabilized. The platform contoured to roll her onto her side. Delicate feelers peeled away the wound pack and tossed it onto the deck, then started to knit the raw bleeding spot in her back.
+
+On the gurney, the emergency kit beeped once in protest, then shut up.
+
+Amena let out a long breath of relief, then wiped her face on her sleeve. She started to gather the scattered pieces of the kit’s resuscitation gear. Trying to fit them back into their containers, she said, “So what turned the MedSystem on—”
+
+I said, “I know as much as you do about what is happening on this ship.” Which was why I put the unknown corporate human who was dying anyway in the possibly compromised MedSystem and not, say, Amena or myself.
+
+I didn’t like that Eletra had nearly died, despite the fact that we had followed all the instructions carefully. I didn’t like that Ras had died before we could do anything. I especially didn’t like that the Targets had killed him. He wasn’t my human but he had popped off right in front of me and I hadn’t been able to do anything about it.
+
+They’re so fucking fragile.
+
+Amena glared, then eyed me speculatively. “Are you sure you’re not hurt? You did get shot in the head, again. And didn’t that gray person shoot you before you tore their lungs out?”
+
+I hadn’t felt any lungs while I was rummaging around in Target Two’s chest cavity, but I’m sure they were in there somewhere. “It was just an energy weapon.”
+
+“It was just an energy weapon,” Amena muttered to herself, in a very bad imitation of my voice, while determinedly trying to fit the mask attachment with the oxygen nodules into the wrong slot. “If you weren’t so angry at me, you’d realize I was right.”
+
+For fuck’s sake. “I am not angry at you.”
+
+Okay, that’s a lie, I was angry at her, or really annoyed at her, and I had no idea why. It wasn’t her fault she was here, we were here, she hadn’t done anything but be human and she wasn’t even whiny. And her first reaction to another human shooting me had been to jump on his back and try to choke him.
+
+Amena gave up on the mask and gave me her full attention. “You look angry.”
+
+“That’s just something my face does sometimes.” This is why helmets with opaque face plates are a good idea.
+
+Amena snorted in disbelief. “Yes, when you’re angry.” She hesitated, and I couldn’t interpret her expression, except that it wasn’t annoyed anymore. “I should have said more, when they were talking about you. It was just like my history and political consciousness class. I didn’t think the instructors were making things up, but … it was just like the examples they used.”
+
+They had been talking about me as a SecUnit the way humans always talked about SecUnits, and it had been pretty mild, compared to a lot of things I had heard humans say. If I got angry every time that happened … I don’t know, but it sounded exhausting. Talking about this was exhausting. “I’m not angry about that.”
+
+Amena demanded, “If you’re not angry, then what’s wrong?”
+
+I was definitely glaring now. “How do you want the list sorted? By time stamp or degree of survivability?”
+
+Amena said in exasperation, “I mean what’s wrong with you!”
+
+There’s that question again, but I assumed she didn’t want to discuss the existential quandary posed by my entire existence. “I got hit on the head by an unidentified drone and shot, you were there!”
+
+“Not that! Why are you sad and upset?” That was the point where even I could tell that Amena was terrified as well as furious. “There’s something you’re not telling me and it’s scaring me! I’m not a fucking hero like my second mom or a genius like everybody else in my family, I’m just ordinary, and you’re all I’ve got!”
+
+I wasn’t expecting that. It was so far from what I thought she had meant, and she was so upset, that the truth inadvertently came out. “My friend is dead!”
+
+Amena was startled. Staring blankly at me, she asked, “What friend? Somebody on the survey?”
+
+I couldn’t stop now. “No, this transport. This bot pilot. It was my friend, and it’s dead. I think it’s dead. I don’t see how it would have let this happen if it wasn’t dead.” Wow, that did not sound rational.
+
+Amena’s expression did something complicated. She took a step toward me. I backed up a step. She stopped, held up her hands palm-out, and said in a softer voice, “Hey, I think you need to sit down.”
+
+Now she was talking to me like I was a hysterical human. Worse, I was acting like a hysterical human. “I don’t have time to sit down.” When I was owned by the company, I wasn’t allowed to sit down. Now humans keep wanting me to sit down. “I have a lot of code to write so I can hack the targetControlSystem.”
+
+Amena started to reach out for me and then pulled her hand back when I stepped away again. “But I think you’re emotionally compromised right now.”
+
+That was … that was so completely not true. Stupid humans. Sure, I’d had an emotional breakdown with the whole evisceration thing, but I was fine now, despite the drop in performance reliability. Absolutely fine. And I had to kill the rest of the Targets in the extremely painful ways I’d been visualizing. I needed to check Scout One’s data to see if I could tell where we were going in the wormhole and how long it would take us to get there. And it occurred to me there might not be a destination, if whatever was controlling ART’s functions knew I’d killed three Targets and had decided to revenge them by trapping us in the wormhole forever. I said, “I am not. You’re emotionally compromised.”
+
+(I know, but at the time it seemed like a relevant comeback.)
+
+Amena, like a rational person, ignored it. She said persuasively, “Won’t it be easier to write code if you sit down?”
+
+I still wanted to argue. But maybe I did want to sit down.
+
+I sat down on the floor and cautiously tuned up my pain sensors. Oh yeah, that hurt.
+
+Amena knelt down in front of me, angling her head so she could see my face. This did not help. She said, “I know you don’t eat, but is there anything I can get you, like something from the kit or a blanket…”
+
+I covered my face. “No.”
+
+Right, so say, just theoretically, I was emotionally compromised. A recharge cycle which I actually didn’t need right now wasn’t going to help with that. So what would help with that?
+
+Taking over targetControlSystem and hurting it very, very badly, that’s what would help with that.
+
+My drone view showed Amena getting up and pacing slowly across the room, her shoulders drooping. Then on the platform, Eletra stirred and made bleary noises. Amena hurried over to her, saying, “Hey, it’s all right. You’re okay.”
+
+Eletra blinked and peered up at her. She managed to say, “What happened? Is Ras all right?”
+
+Amena leaned against the platform, and from the high angle she looked older, with lines on either side of her mouth. Keeping her voice low, she said, “I’m sorry, he died. You had these strange implants in your back, that were hurting you, and his killed him. We had to take yours out and it almost killed you. Did you know they were there?”
+
+Eletra looked baffled. “What? No, that’s … I don’t understand…”
+
+I checked my penetration testing, but there were no results. That was annoying. If a system won’t communicate with me, I can’t get inside it. And apparently targetControlSystem was operating as a single system. Stations and installations use multiple systems that work with each other as a safety feature. (Safety is relative.) I usually went in through a security system function and used it to get to all the others. (Technically, I am a security system, so it was easy to get other security systems to interact with me, or to confuse them into thinking I was already part of them.)
+
+There are still ways to get into heavily shielded systems, or systems with unreadable code, or unfamiliar architecture. I didn’t have a lot of time, so I needed to use the most reliable method: get a dumb human user to access the system for me.
+
+Ras’s implant had ceased functioning, probably having destroyed its own power source to kill him. Eletra’s implant was still in the emergency kit’s little container, where it thought anomalous things removed from humans needed to be stored. It was now covered with a sterile goo but was still capable of receiving. I dropped my jamming signal.
+
+Via Scout Two in the control area foyer, Target Four had set the screen device aside on a bench. All the Targets were talking, ignoring the control area hatch. They looked agitated and angry. They might have figured out that we weren’t locked in the control area, finally. I was glad I hadn’t had the chance to kill all of them, since there was a possibility now that they might actually come in handy.
+
+(I had no idea where the targetDrones were, but logic and threat assessment said they should be congregated up against the hatchways sealing off my safe zone. That was going to be a problem.)
+
+I checked on Scout One’s progress, searching through the images of the floating display surfaces it had captured. Lots of shifting diagrams and numbers that might as well have been abstract art as far as I was concerned. These screens were meant to be interpreted through ART’s feed, and without it to explain and annotate the data, it was all a mess. Couldn’t anything be simple, just for once? I can fly low atmosphere craft but nobody ever thought it was remotely rational to give murderbots the modules on piloting transports. Wait, okay, there was a display with a schematic of ART’s hull, with a lot of moving wavy patterns around it that probably would make sense if I knew anything about what happens in wormholes. There was a time counter on it, but nothing indicated what it was timing. So, not helpful.
+
+What would have been helpful was an episode of Rise and Fall of Sanctuary Moon. Or World Hoppers. Or anything. (Anything except MedCenter Argala.) But media would calm me down, and I wanted to stay angry.
+
+I couldn’t sit here and wait, there had to be something else I could do. I stood up.
+
+“Oh, you’re up.” Amena was sitting on the edge of the platform next to a half-conscious Eletra so she could hold her hand. She eyed me dubiously. “Already. I thought you were going to rest.”
+
+“Do these make any sense to you?” I sent her the display images from ART’s bridge.
+
+Amena blinked rapidly. “They’re navigation and power information, like from a pilot’s station.” She took in my expression and waved a hand in exasperation. “Well, if you knew that, why didn’t you say so?”
+
+Fine, that one was on me. “They’re from my drone sealed in the control area. Do you know how to read them?”
+
+Amena squinted at nothing again, but slowly shook her head and groaned under her breath. She glanced down at Eletra, who was unconscious again, and carefully untangled their hands. “From what she said, I doubt she was on the bridge crew.” Then she lifted her brows. “Do you know if there’s an aux station in engineering?”
+
+I didn’t know that. “An aux station?”
+
+“It’s like an extra monitoring station for the engineering crew. You can’t take control of the bridge unless the command pilot transfers the helm—at least you couldn’t in the ones I’ve seen—but you can get displays for the rest of the ship’s systems. We have them on some of our ships but I don’t know how common they are.” She admitted, “We might have them because our ships are an older design.”
+
+It wasn’t the kind of thing that would be needed on a bot-piloted transport, but it couldn’t hurt to check.
+
+My performance reliability had leveled out at 89 percent. Not great, but I could work with it. I still hadn’t identified the source of the drop. I’d taken multiple projectile hits without having that kind of steady drop. I took Ras’s energy weapon out of my jacket pocket and set it on the bench. “Keep this just in case. It’s not going to work on the targetDrones but it should work on the Targets.” I hate giving weapons to humans but I couldn’t leave her without something. “I’ll go to engineering.”
+
+“Hold it, wait.” Amena hopped off the platform. “I want to go with you.”
+
+I had a confusing series of reactions to this. Not in order: (1) Exasperation, at her, at myself. (2) Habitual suspicion. On my contracts for the company, the clingy clients were the ones most likely to (a) get me shot (b) advocate loudly for abandoning the damaged SecUnit because it would take too long to load me in the transport. (And humans wonder why I have trust issues.) (3) Overwhelming urge to kill anything that even thought about threatening her. “Someone has to stay here with the injured human.”
+
+She grimaced. “Right, sorry.” Then she looked away and rubbed her eyes.
+
+And I’d made her cry. Good job, Murderbot.
+
+I knew I’d been an asshole and I owed Amena an apology. I’d attribute it to the performance reliability drop, and the emotional breakdown which I am provisionally conceding as ongoing rather than an isolated event that I am totally over now, and being involuntarily shutdown and restarted, but I can also be kind of an asshole. (“Kind of” = in the 70 percent–80 percent range.) I didn’t know what to say but I didn’t have time to do a search for relevant apology examples. (And it’s not like I ever find any relevant examples that I actually want to use.) I said, “I’m sorry for … being an asshole.”
+
+That made Amena make a noise like she was trying to express her sinuses and then she covered her face. “No. I mean, it’s all right. I haven’t exactly been nice to you, so we’re probably even.”
+
+I’m going now, right now. Right now.
+
+I was at the hatch when she said, “Just don’t stop talking to me on the feed.”
+
+I said, “I won’t.”

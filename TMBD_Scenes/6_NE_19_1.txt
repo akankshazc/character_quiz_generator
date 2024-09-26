@@ -1,0 +1,139 @@
+SecUnit 03
+
+Status: Retrieval. Initiate Stage One
+
+Arada flies Perihelion’s shuttle with the assistance of its piloting module, and brings it down to the planet’s surface. She had instructed me to ride in the copilot’s observation seat, instead of the cargo compartment, which was an unusual experience.
+
+Our landing site is a platform just below the edge of the plateau, near the Pre–Corporation Rim installation. The platform may have been a secondary landing site, or a base for a large construction bot, but its surface was now clear and it was out of direct line of sight from either the installation or the surface dock. Perihelion is also jamming comm and scan signals in the vicinity, so our approach would not be detected.
+
+I had already disabled scan functions on myself and my drones, in accordance with intel from the retrieved clients.
+
+It is late in the day-cycle on the planet and the weather is clear, with no sign of atmospheric interference that might affect the mission success assessment.
+
+I have three additional inputs: (1) The second shuttle that Ratthi has landed on the flat ground outside the surface dock; (2) the drone controlled by Perihelion, which had been transported in Ratthi’s shuttle and now accompanied the humans Overse, Thiago, and Iris; (3) Perihelion itself, who is monitoring all locations and inputs.
+
+Four of Perihelion’s clients had been persuaded to return to the space dock in the lift tower’s maintenance capsule. They have been successfully retrieved and are now receiving medical attention. Overse, Thiago, and Iris remained to assist in enacting Stage 01 of Plan B01.
+
+All Targets had vacated the surface dock, except for a delegation of five who had agreed to meet with the humans. They had agreed to this meeting when Perihelion sent this message via general comm broadcast to all receivers in the vicinity of the colony site: I have located your primary terraforming engine. Agree to a meeting or I will destroy it.
+
+There had been no response.
+
+Second message: You require proof of intent.
+
+And then Perihelion had crashed and detonated an armed pathfinder into the center of the agricultural zone between the space dock and the Pre-CR installation. The crater was large. The second pathfinder had been detonated in the air above the Pre-CR complex.
+
+The Targets had agreed to the meeting.
+
+Before we boarded our shuttle, Arada told me, “You don’t have to do this. I know facing these people, after what they did to your—the other two SecUnits. It can’t be easy. And I don’t feel right asking you to do this so soon after you hacked your governor module. This must be a confusing time for you.”
+
+It is confusing. But following protocol and assisting in a retrieval are familiar. I told her, “I want to do this.”
+
+She nodded. “Thank you. If you can get SecUnit back—well, a lot of people will be very grateful.”
+
+I had read the HelpMe.file and accepted it as truthful. But there was a difference between accepting data as accurate and experiencing it. The humans would not abandon this SecUnit even though part of our function was to be disposable if necessary.
+
+There is a lot about what is going on here that I don’t understand. But I am participating anyway.
+
+I check our secure feed and comm connections, and then signal to Arada to open the hatch. The intel drones I had attached to the back of my armor peel off and exit the shuttle in a cloud. They spread out, shift into stealth mode, and deploy toward the installation. They are using a code to project the same type of interference emitted by the Targets’ protective gear. They will not be able to detect the targetDrones, but they will not be detected, either. I am projecting the same code, so hopefully the targetDrones will not detect me, but this is untested and it is better to avoid them altogether.
+
+Outside the surface dock, on the wide terrace of the east side entrance, Perihelion’s drone sends video to our secure feed of the five Targets arriving to meet Overse, Thiago, and Iris.
+
+Oh, there is also an armed pathfinder on the terrace.
+
+The Targets are not armed, and are dressed in work clothing and not the more familiar protective suits they use for combat. Two of the Targets exhibit the gray skin on face, hands, and other exposed areas and the other three have blotches of gray on human-normal ranges of skin tones.
+
+On the feed, Ratthi says, Oh, I hope this works.
+
+Hush, Arada says, don’t distract them.
+
+Overse taps her feed in acknowledgment.
+
+The first Target (designated Target One) says, “You can’t detonate the device while you’re here, why threaten us with it?”
+
+Perihelion is feeding the translation to the feed. The language had been identified as the same one used on the space dock’s signage. That’s the Adamantine colony’s language, Iris confirms on the feed. I think this is the same faction as the colonist who helped us on the explorer.
+
+Thiago tells the Targets, “It’s a threat to us, too. The transport is forcing us to meet with you on its behalf.”
+
+(During the initial planning stage aboard Perihelion, Ratthi had voiced an objection: “Are we sure they’re going to buy this? That we’re prisoners of an evil transport who is forcing us to do this?”
+
+Perihelion: I can be very convincing.)
+
+Target One says, doubtfully, “The transport?”
+
+Thiago: “You attacked it, tried to upload a foreign system to it, and took away some of the humans aboard.”
+
+Target Two: “That was the infected group. We aren’t responsible for their actions.”
+
+Thiago: “That may be, but the transport holds all of you responsible. If we knew more about your situation, perhaps it would relent.”
+
+Target Three, sarcastically: “If the ship speaks, why didn’t it come in person?”
+
+Perihelion’s drone: You don’t want to meet me in person.
+
+The Targets react with astonishment and some dismay.
+
+Target Two: “What happened to those who boarded the transport?”
+
+Thiago looks at Overse, who says, “They’re all dead.”
+
+(Thiago and Overse had decided earlier that Overse will be the “bad one” who agrees with the evil transport’s desire to destroy the colony.)
+
+My drones reach the open plaza of the installation, and slip down past the rib structures. I send to our secured feed, Intel incoming. The drones detect seven armed Targets, concealed just inside the two entrances into the structure on the eastern side. The other two entrances appear to be clear. Perihelion taps the feed in acknowledgment.
+
+Target Two: “What do you want from us?”
+
+Thiago: “We want you to return the person who you captured in the drop box embarkation chamber. Return that person and we will leave you in peace.” On the secure feed, he says, I have to try, maybe it will be just this easy.
+
+Overse replies, Oh, Thiago.
+
+Iris adds, It’s never easy.
+
+They are correct. Hostages are never taken simply to be released on demand.
+
+Target One: “We can’t return that person, we didn’t take them. That was the infected group.”
+
+Overse: “Then tell them to return that person, or there will be more detonations.”
+
+Target Two: “They won’t listen to us.”
+
+Overse jerks her head toward the pathfinder. “Make them listen. None of us has a choice.”
+
+Thiago: “If you can tell us where they are keeping our friend, that may convince the transport to wait.”
+
+The drones manage to make stealth entries into the two clear doorways on the western side of the plaza. I report this to Perihelion, who taps my feed again. It sends to the humans: Continue to stall.
+
+The Targets continue to exhibit agitated behavior.
+
+Iris: “Tell us what happened here, maybe that will help. We know you found alien remnants. You put one on the transport’s drive, and on the explorer.”
+
+Target Two: “We didn’t know they did that.”
+
+Target Four, speaking for the first time: “You could be lying. You want our findings.”
+
+Overse: “Was the explosion in your agricultural zone a lie?”
+
+Target One nudges Target Four to step back. “It affects some more than others. We are not all to blame for the actions of a few.”
+
+Iris: “But the few killed most of the crew of the explorer, and they were going to forcibly contaminate us. We were coming to help you. Why should we believe you?”
+
+Overse: “You need to do something besides just repeating that it’s not your fault. Tell us where they’re keeping our friend.”
+
+The drones scout darkened corridors now and I am mainly receiving low resolution visuals. A feed is active but no SecUnit activity has been detected yet. One drone has located an open antigrav shaft and is proceeding down it. I direct a squad to follow it. There are many levels to search. The installation is much larger underground than we had anticipated.
+
+Target Five, suddenly: “Why do you want to know that? You can’t free them.”
+
+Careful, Ratthi warned on the feed. We don’t want them to wonder why you’re asking that question.
+
+Perihelion’s drone: Do I need to demonstrate proof of intent again? How vital is the body of water to your agricultural system?
+
+Targets are agitated again.
+
+Thiago: “You see? If you could tell us where our friend is, perhaps we can make the transport understand this isn’t your fault.”
+
+I receive drone scouting data. I tell Perihelion: Familiar signal activity detected, but drones cannot make contact or establish location. I add, I need to be closer to help the drones determine location. I have to get down there.
+
+Perihelion acknowledges, Initiate phase 2.
+
+Arada has been listening on her feed, and now nods to me. “Good luck,” she says.
+
+I reply, “Thank you.” I climb out of the shuttle, and make certain Arada locks the hatch behind me. Then I start up the rocks to begin a stealth approach of the installation and its central plaza.

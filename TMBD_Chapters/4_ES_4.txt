@@ -1,0 +1,267 @@
+WHEN OUR BUBBLE RETURNED to the station, I went to a hotel kiosk to book a room and Pin-Lee went to get the others. She thought we needed to talk as a group in private. I sort of did, too. (We could have done it via the feed in the garden seating area, but I didn’t trust the humans not to wave their arms and draw attention.)
+
+I took a pod up to the room and of course there was no security feed inside because of the stupid hotel wanting to lure humans in with promises of room privacy so it could record them in the public spaces. This hotel was less expensive than the previous one but the pretty quotient was about the same. And the feed was choked, unless of course you happened to know how to get around that.
+
+The room was a lot more practical, with a normal-sized bed folded up into the wall to leave extra space for chairs, and a display surface that only took up a fourth of a wall instead of all of it, and a bathing facility with more room for towels. SecUnits are never allowed to sit down or use human furniture whether on or off duty, so I sat in one of the chairs and put my feet up on the table. Then I took my feet off the table because it wasn’t comfortable. I entertained myself by infiltrating the hotel’s security system while I waited.
+
+When the room’s feed signaled that they were at the door, I told it to open. I was in my best casual pose, and Sanctuary Moon was on the display surface. (I was actually redirecting the audio as chaff for a suspicious monitor that the hotel might be using to record inside the rooms, even though the booking agreement certified complete in-room privacy.)
+
+Pin-Lee elbowed the other two in and let the door slide closed. She had clearly told them already, because Ratthi was grinning. He said, “You look great! What have you been doing?”
+
+Gurathin’s expression I interpreted as appalled. I still don’t like you, either.
+
+“Ratthi, later,” Pin-Lee said. She stepped past them and dropped down into the other armchair. “SecUnit doesn’t need to tell us where it’s been or what it’s been doing unless it wants to. We need to focus on how to free Mensah.”
+
+I didn’t expect that and I was glad I was looking at the display surface. The lack of a camera was going to make this awkward, at least for me. I could sort of see everyone in the decorative reflective material at the top of the walls, but that was inadequate.
+
+Gurathin took a breath to say something and Pin-Lee pointed at him. “If you’re going to argue—”
+
+Gurathin grimaced and held up his hands in surrender. “No, no argument. I just don’t see how SecUnit is going to help. They won’t release Mensah without the ransom, and we don’t have it.”
+
+Ratthi told me, “Our company liaison said they were probably holding her in the GrayCris corporate headquarters in the upper torus, past the main station security barrier, where visitors aren’t allowed. Now that you’re here—can we just get her out, and escape?”
+
+It was a dumb idea, so I needed to quash it immediately. I’d already secured a private feed connection between the four of us and now I sent my annotated station map into it. “The problem isn’t that GrayCris’ corporate headquarters is in the upper torus.” I sent the image to the room’s display surface, then had it zoom out and plot the route between here and there. I had all the security checkpoints light up, annotating the ones that barred entrance to anyone with a non-station citizen ID, which was all of them. “It’s that we would be leaving territory controlled by neutral TRH security and entering GrayCris’ corporate jurisdiction.” I didn’t know what they’d do to me, now that my data port was nonfunctional and they couldn’t take control of me. There was a long list of alternatives, including just shooting me until I ceased to function and various other things that would seem sensible and practical to them and like torture to me. Whatever, it wasn’t a good idea to get caught, basically. “In this lower ring, GrayCris has to negotiate with and pay off TRH, and any private security service or entity who has jurisdiction, for each operation, which gives us a slight advantage.”
+
+“Oh.” Ratthi sat back in his chair, dismayed. “Even with support from the bond company gunship? I mean, the company said they won’t violate the TRH edict to come aboard the station, but they are out there, with big guns…”
+
+Frankly I hoped they stayed out there. I said, “If GrayCris can’t make you disappear, they want to delay you. They’re probably raising the money to buy off the company. The gunship is also here to exert pressure on GrayCris while the company is negotiating with their reps back on Port FreeCommerce. That ransom GrayCris asked for Mensah’s return will probably go straight to the company, as part of the pay-off.”
+
+Ratthi was clearly shocked. Pin-Lee let out a frustrated breath and said, “That’s what our diplomatic corps on Preservation thought.”
+
+Ratthi turned to her. “You didn’t tell us that!”
+
+Gurathin folded his arms. “I knew it.”
+
+I couldn’t let that one go. I turned and gave him my best skeptical stare. Surprisingly, it worked. He admitted, “I suspected it.”
+
+Pin-Lee was asking Ratthi, “Did you want to know? I was hoping to get Mensah and get out of here before GrayCris managed to negotiate the payoff.”
+
+Ratthi groaned. “No, I didn’t want to know. What happens to Mensah and us if GrayCris makes a deal with the company while we’re here?”
+
+Pin-Lee lifted a hand helplessly and Gurathin looked more sour. He said, “Guess.”
+
+I said, “It’s possible GrayCris can’t afford the payoff.” They might be desperately trying to sell off their alien remnant and strange synthetic collection before even more word got out about Milu. It was against the corporate/political entity interdicts to have alien materials, which meant GrayCris could only trade in it as long as no one knew. The bond company wouldn’t take alien remnants in payment unless they couldn’t be traced to it. There was no chance of that now. Which meant GrayCris was that much more desperate.
+
+In the reflection I watched Pin-Lee look at me. “Is there any way we—you—can get her out without the ransom?”
+
+I had been running possible scenarios, partly to drown out the sound of humans making stupid suggestions. (Not that I don’t like that sound; it’s sort of comforting and familiar, in an annoying way.) “It would be tricky,” I said. By tricky I meant I was getting an average of an 85 percent chance of failure and death, and it was only that low because my last diagnostic said my risk assessment module was wonky. (I know, that explains a lot about me.) “We need to find a way to make them bring her outside the main station security barrier so that I can track her location via her company implant.”
+
+I was going to suggest a hack of their messaging systems, not that I had any idea how to get into those systems yet. Or if that would even work, since presumably a high-security prisoner transfer would need to be signed off by a human or augmented human supervisor who might ask unanswerable questions. But Pin-Lee turned to Ratthi and Gurathin and said, “We could offer them the ransom and arrange an exchange in one of these hotels.”
+
+Ratthi nodded slowly, considering it. “But how much do they know about our finances? Will they know it’s a lie?”
+
+Pin-Lee made an abrupt gesture. “We don’t have to show them a hard currency card.”
+
+Gurathin leaned forward. “I can come up with a convincing feed document listing some of Preservation’s off-planet assets. They don’t need to know that those assets can’t be exchanged yet. But once we get them to bring her to the meeting—”
+
+It wasn’t a terrible plan. It probably wasn’t even in the top ten of terrible plans. I said, “We don’t have to get them to bring her all the way to the meeting. We just need to get them to move her outside that security barrier so I can find her.”
+
+Gurathin turned to me. “If they do, you can take her away from them, no matter how many guards?”
+
+I was beginning to think Gurathin’s asshole expression was some congenital condition he had no control over. I said, “The more guards the better.”
+
+He lifted his brows. “Are you going to kill them?”
+
+Scratch that, Gurathin’s asshole expression is due to him being an asshole.
+
+I could lie, I could say oh no, I won’t kill them, I’m a nice SecUnit. I think I was going to say that, or the more believable version of it. Instead what came out was, “If I have to.”
+
+There was a little silence. Pin-Lee had her lips folded in and didn’t say anything. But I recognized her committed expression from my archived video, from the moment in the hopper when the satellite connection dropped, and she voted to keep going to DeltFall. Ratthi’s face was a study in conflicted resolution. Gurathin just said, “You feel you’re qualified to make that call.”
+
+I said, “I’m the security expert. You’re the humans who walk in the wrong place and get attacked by angry fauna. I have extracted living clients from situations that were less than nine percent survivable. I’m more than qualified to make that call.”
+
+Gurathin sat back, slowly. I stood up. “I’m going to wait in the lobby. Contact me when you make your decision.”
+
+Pin-Lee held up a hand. “Wait, we’ve made our decision.” She looked at Ratthi. “Right?”
+
+He set his jaw. “Right. This is GrayCris we’re talking about. They mean to kill Mensah and us, too, if they can.”
+
+Gurathin said, “We’re agreed.”
+
+I was already standing up. I said, “I’m going to the lobby anyway,” and left.
+
+* * *
+
+I wasn’t sulking or hiding. The lobby was a better strategic position.
+
+This lobby was on multiple levels and had large square biozones depicting different ecologies, with furniture arranged around them. It looked nice, inviting humans to sit around and discuss proprietary information in the hotel’s choked feed so the hotel could record it and sell it to the highest bidder. I also had inputs monitoring the upper-level plaza entrance and the transit lobby.
+
+I found a place to sit where a biozone showing a storm on a gas giant blocked me from the view of the other seating areas.
+
+On the feed the humans settled some details of what I was designating as Operation Not Actually A Completely Terrible Plan.
+
+I sent Pin-Lee a note saying they should arrange to meet the contact here, as their hotel already had GrayCris crawling all over it and so far this one was clear. Pin-Lee forwarded it to the others and they agreed. They didn’t even have anything to collect from their old room. (They were traveling light, with only a few hygiene items, Pin-Lee’s medication, Gurathin’s specialized tool kit, and Ratthi’s lucky spare interface, all of which Gurathin was carrying in a shoulder bag.)
+
+(I thought how odd it was, that I didn’t have to worry about human stuff anymore. It felt like I’d been carrying/stepping over/climbing around human stuff in human habitations for my entire existence. Probably because I had.)
+
+Again, it wasn’t a bad plan given our circumstances. Timing was going to be tight. I didn’t know the route GrayCris would use to bring Mensah to the meeting point. I would have to wait until they moved into range of the hotel’s security cams. Which was fine, except it didn’t leave us much time for our exit strategy, such as it was.
+
+Then Pin-Lee said, “Are we ready?” The other two agreed. Then she called up the hotel’s in-room comm access on the display surface and made the call to their GrayCris contact.
+
+With the comm active, I got a visual from the display surface even though I didn’t have a cam view in the room. Not that there was much to see: the GrayCris contact had the visual blanked on their end. Pin-Lee stated that she had the ransom and where she wanted Mensah brought for the exchange. GrayCris said they wanted the ransom now and would then release Mensah, blah, blah, blah, but it sounded perfunctory to me, compared to other hostage exchanges I’d witnessed. GrayCris really wanted this payoff. Pin-Lee argued for two minutes with them before they gave in, though they wanted to send a representative in first to look at the funds authorization.
+
+After Pin-Lee closed the comm, Ratthi said, “Oh, I hope we’re doing this right.”
+
+Gurathin said, grimly (the way he said everything, basically), “We’ll find out soon enough.”
+
+Pin-Lee said, “It’ll be all right.” (Mensah would have made it sound reassuring; Pin-Lee obviously meant it to sound reassuring and it came out like she wanted them to just shut up.)
+
+Gurathin came down to the lobby to wait for the GrayCris representative and took a seat in plain view on a lower platform, so stiff he looked more like a SecUnit than I did.
+
+Well, in his defense it was a nerve-racking situation. I couldn’t risk the distraction of watching media, but I checked my storage space, and noted that I still had a comfortingly high number of episodes left in the new show I was watching. It helped, a little.
+
+One reason I was nervous was because if this went well and I wasn’t shot to pieces, I would be seeing Mensah again.
+
+On the way to RaviHyral, ART had said that PreservationAux was my crew. I don’t know if ART was being naive or it thought I was. Okay, maybe I was naive enough at the time to think it might be a little true. Then after RaviHyral, I had given up on the idea. Then I had somehow decided I would get evidence for Mensah from Milu and I had seen Don Abene when Miki … died and for a while I was back to the “maybe it was a little true” point again.
+
+But sitting here in a hotel lobby, watching a biozone and running every not-a-SecUnit behavioral code I had, the fantasy fell apart. The hard reality was that I didn’t know what Mensah was to me.
+
+Even after Miki, I still didn’t want to be a pet robot.
+
+Up in the room, Pin-Lee was pacing slowly and trying not to grind her teeth and Ratthi had gone to the bathroom three times. Gurathin was just sitting and staring. Then he said over the feed, Are you there, SecUnit?
+
+No, I left, I said, I’ve decided to live here and just move from hotel to hotel, watching the entertainment feed.
+
+Okay, so that did sound like a much better idea than I meant it to.
+
+There was a pause, then he said, I’m not your enemy. I’m just cautious.
+
+I don’t care about your opinion, I said, and then immediately wished I’d put myself on a one-second delay so I could delete it. It made it sound like I did care. Which I didn’t.
+
+One minute crawled by. Then two. Gurathin said, What did you do, while you were gone? Where did you go?
+
+I didn’t want to answer, because I didn’t want to talk about it, but it seemed weirdly petty to just ignore him. I pulled a selection of video from the trip with Ayres and the others on the way to HaveRatton, mostly exchanges I’d tagged so I could critique my performance later. (A few times I’d broken up fights, been forced to give relationship advice, and the infamous Cracker Wrapper in the Sink Incident.) I cut it together, labeled it “Murderbot Impersonates an Augmented Human Security Consultant,” and sent it to Gurathin.
+
+He was still watching it when the GrayCris representative walked into the lobby from the main entrance.
+
+There was nothing physical to set him apart from the other humans and augmented humans wandering in and out. He was a tall pale human, with long light-colored hair, and he was wearing one of the many local variations of business attire: a dark long-sleeved jacket that went to the knees, over wide pants.
+
+I tapped Gurathin and he stopped the video play.
+
+The GrayCris rep paused and a flash of annoyance crossed his face. He’d encountered the choked hotel feed. The hotel system registered the charge to a station credit account and then gave him access. I caught the results of the routine scan from the hotel’s security drone: no weapons, just interface activity. A brief analysis of the drone’s read gave me a 65 percent probability that he had something on him to falsify the scan. So he was probably armed and probably carrying a secured comm device.
+
+I had access to his feed but I didn’t figure it would do much good. If he had a device on him to fake readings for a security scan, then he had to know a choked hotel feed was hardly the best place for operational communication.
+
+It was the hypothetical secured comm device I had to worry about. Whatever it was, it would need to use the hotel’s relay to reach the station’s comm network.
+
+The GrayCris rep did a visual scan of the lobby and obviously recognized Gurathin, probably from intel obtained by GrayCris on Port FreeCommerce. He went toward Gurathin, who stood to meet him. He said, “Gurathin? I’m Serrat, here at the request of Pin-Lee.” He was calm, confident, with a hint of a friendly smile.
+
+Gurathin’s asshole effect must come in handy at times like this. With a deeply unimpressed expression, he said, “This way,” and started toward the pod junction.
+
+I tapped Pin-Lee and Ratthi to warn them, and continued a visual sweep for hostiles. Like those two humans, strolling casually through the main entrance, casually pausing to casually look around, then casually proceeding to the stairs that led to the lounge/food service area. (Right, so they really weren’t that bad, but I’d been sitting here long enough to analyze the traffic patterns. Humans who walk in looking for something, or are genuinely confused about where to go next, tended to move in erratic ways, their attention caught by the biozones, the feed indicators for the ramp that takes you to the registration area, etc. Compared to that, the hostiles were easy to spot.)
+
+Maybe too easy? The hotel drone scan came back negative, but with that same suspicious pattern as the GrayCris rep. (It was suspicious to me; I’ve fooled a lot of drone scans.)
+
+I marked two more potential hostiles exiting a pipe capsule in the transit lobby, and a check-in with my friends the plaza drone cams showed more outside the hotel’s plaza entrance.
+
+Yeah, I had a bad feeling about that, too. But I was still monitoring the security system, and there were no alerts, no anomalous signals.
+
+I meant to stay here until the exchange was arranged, but now I got up and headed for the pod junction. I had one input riding Gurathin’s feed. He and Serrat had just stepped out of the pod. Gurathin had made the whole trip awkwardly silent. I was reluctantly impressed.
+
+I was in the pod and at the right section by the time Gurathin and Serrat reached the room. There was no cover in the corridor, so I told the pod to hold and notify hotelEnvironmentAccessAndMobilitySystem (MobSys for short) not to take action on any maintenance requests. (It sounds like a lot of trouble just to stop a pod, but if I didn’t do it that way it would have crashed the system. Literally, if I interfered with MobSys’ pod traffic control. And by literally, I mean pods full of humans and augmented humans crashing into each other.)
+
+They were in the room now and Pin-Lee was saying, “We have the currency your corporation asked for. Some of it had to come from liquidated assets, and I’ve received notice that they’re ready to transfer. I won’t produce the list or send the authorization until we see Dr. Mensah.”
+
+Serrat answered, “I assure you, she’s already on her way here, escorted by a security detail. I do need to see the transfer authorization.”
+
+I had one input monitoring Mensah’s implant, but it wasn’t pinging yet. I also had a couple of analyses going, estimating distances and potential routes between here and the upper torus, and I was working on a contingency for the port in case they had real security (i.e., SecUnits from Palisade or one of the other local bond companies) with them. It could potentially get disastrously complicated, but I still thought it was doable.
+
+Then it got disastrously complicated.
+
+In the feed, Ratthi said, Uh, SecUnit? Please help.
+
+Like an idiot my first reaction was to try to switch to the helmet cam Ratthi wasn’t wearing. I had no camera in the room, just audio, and all I could hear was breathing. (This was the flaw in Plan 1A. There had been no way to get a camera in the room in the time we had, or at least not one undetectable to the security screen the GrayCris rep would come prepared to make.) Then Pin-Lee said, “That won’t get you the money. And money is what you need, right? What GrayCris needs right now to call off the bond company.”
+
+Serrat said flatly, “That is not a transfer authorization. That is just a list of assets. What are you playing at?”
+
+Scrambling for my inputs, scrambling to make sure I had control of hotelSecSys, I caught the signal Serrat had just used his comm device to send. It had to be an emergency abort for the hostage release, and possibly a signal for his backup to come in shooting. With zero time for finesse, I killed the main hotel relay, then had to take down two secondary relays that tried to activate to pick up the traffic. Then I found Serrat’s connection to the hotel feed and blocked it. I was busy, so my buffer said, Dr. Ratthi, please describe the problem.
+
+Ratthi’s feed voice was nervous. He has a gun. It’s small, um, palm-sized. Energy weapon, I think too small for projectiles.
+
+On audio, Gurathin said, “That’s the transfer document we were given—”
+
+“And that’s a ridiculous lie,” Serrat said.
+
+Keep him talking, I sent to Pin-Lee. I didn’t want him wondering why his backup hadn’t sent an acknowledgment. I’d just discarded Plan Actually Not All That Terrible and shifted to Plan Approaching Terrible. I stepped out of the pod, and released it back to MobSys as I strode down the corridor. My scan picked up a moving target around the curve and I slowed down to a casual stroll that looked just as fake and awkward as the version performed by the GrayCris reps in the lobby. But my connection to hotelSecSys showed another room door had opened in this section twenty seconds ago and the chance that the approaching humans were hostiles was less than ten percent.
+
+Two small humans rounded the curve of the corridor, very occupied with adjusting shoulder bags and head coverings. They passed me but it slowed my progress to target and I had to walk past the room door until they were out of sight, then wait for them to reach the junction and step into a pod. Then I moved.
+
+I muted my feed audio, which was Pin-Lee, Ratthi, and Gurathin loudly objecting to the gun and protesting their innocence and that the funds transfer bank must have made a mistake and Ratthi was a biologist and he didn’t understand all this esoteric financial stuff and etc. I pressed my ear to the door and upped my hearing, and managed to pick up Serrat saying, “I don’t have time to teach you the facts of corporate relations.”
+
+That gave me his relative position. Then I hit the door release.
+
+As the door slid open, Serrat started to turn toward me. I crossed the room, grabbed his wrist and forced it down, and sent a targeted pulse through my arm to fry the power cell of his tiny, cute little gun. Then I used my other forearm to pin his throat to the wall. This all happened really fast.
+
+Serrat made a strangled noise and tried to shoot me. Even if the gun had still worked, it would have hit me in the shin, which would have just made me that much more pissed off. I squeezed his wrist and he dropped the gun. He was still holding the comm device.
+
+Ratthi had fallen over a chair trying to get out of the way, and Pin-Lee lost a few seconds getting around him. Gurathin staggered but lunged forward and grabbed Serrat’s other hand. He pried Serrat’s fingers open and Pin-Lee plucked the comm device out.
+
+“It’s activated?” Ratthi asked, struggling to his feet.
+
+I said, “I’ve blocked it and his feed.” One of my inputs was the management channel on the hotel feed, which was already filling up with complaints about the comm failure. I had also taken out the connection between the hotel’s choked feed and the station feed. (Which implies I did it intentionally, but I had been in a hurry and just slammed down everything with a signal.) (Yeah, so much for making this a stealth operation.)
+
+Serrat breathed hard, and this close my scan picked up elevated pulse and sweat gland activity. He said, “So this is the supposedly missing SecUnit.”
+
+I checked hotelSecSys’ view of the lobby and spotted the two GrayCris backups. They hadn’t reacted yet, still pretending to be casual around the vending machines, but oh shit did I need to get the hotel feed’s connections back up before they noticed.
+
+Pin-Lee leaned down to grab the gun off the floor. “Is Mensah really being brought here? Was that a lie?”
+
+No response from the implant yet, I told her on the feed. I could still access the station feed, and that’s what would carry the implant’s signal. If GrayCris was really bringing her here, they hadn’t crossed the main station security barrier yet.
+
+So the plan wasn’t a clusterfuck, it was just circling the clusterfuck target zone, getting ready to come in for a landing.
+
+Serrat said to Pin-Lee, “You’re the liars, thinking you could fool us with that ridiculous fake document. Order this thing to let me go. You’re violating station law, threatening me with a deadly weapon.”
+
+“What deadly weapon?” Ratthi demanded. He gestured to the gun in Pin-Lee’s hand. “You threatened us with a deadly weapon, we could call station security on you!”
+
+In the feed, Gurathin said, We can’t call station security.
+
+I know that! Ratthi sent back. I’m bluffing .
+
+Pin-Lee said, “He means SecUnit. SecUnit is the deadly weapon.” She hesitated, then sent to me in the feed, I’m going to touch you, don’t freak out.
+
+Uh, okay. I tapped back an acknowledgment because I was frantically working to bring the hotel’s main and secondary relays back up and I had to get in ahead of the repair techs.
+
+Pin-Lee put her hand on my shoulder and I did not freak out. She leaned in toward Serrat and said, “This is not a deadly weapon. This is a person. An angry person, who wants you to answer the question. Are you bringing Mensah here?”
+
+He smiled at her. “I was. I’ve signaled our security officer to cancel the exchange. They know where I am, and they’ll be here soon. Since you’ve violated station law by bringing in a privately owned SecUnit, no one will help you.”
+
+“You need the ransom to pay off the bond company, right?” Pin-Lee said. I hadn’t looked away from Serrat, though most of my attention was on the admittedly rough job I was doing on the hotel relays and still listening for Mensah’s implant. She added, “Surely GrayCris has assets it can sign over. Or is it revenge?”
+
+Serrat’s face slipped into a skeptical sneer. He didn’t take them seriously, which, sure, I can see why. If you were GrayCris and regularly murdered humans as part of your job, the wrath of three research surveyors from a non-corporate backwater planet probably didn’t fill you with fear. And he was certain they were controlling me somehow. He said, “Revenge? You buy a SecUnit and send it to Milu to expose an essential GrayCris asset operation. You and your little planetary polity have the audacity to think you can compete with a corporation—what did you expect to happen?”
+
+Pin-Lee must have been taken aback, but she said, “GrayCris attacked us first. GrayCris started this. All we want is the return of Dr. Mensah.”
+
+In the feed, a baffled Ratthi said, Milu?
+
+With his augment, Gurathin had some information storage. He said, That was in a newsburst, they asked Mensah about it. It’s an abandoned terraforming platform.
+
+I got the hotel’s relays back up and the activity on the hotel’s management feed began to drop immediately. The two GrayCris targets in the lobby still hadn’t noticed anything wrong. Still nothing from the implant.
+
+They weren’t bringing her. This had all been for nothing. All of it, Milu, Miki’s death, the trip here, everything. I said, “Milu was my idea. I’m a rogue unit.”
+
+He ignored me, but he said to Pin-Lee, “A rogue unit would have left a trail of dead bodies across this station.”
+
+I said, “Maybe I wanted the trail to start here.”
+
+He made eye contact with me, and his pupils widened slightly.
+
+I added, “You people are so naive.”
+
+It was a really good thing that right then Mensah’s implant pinged. I hadn’t completely decided to crush Serrat’s windpipe, I was just entertaining the idea. Instead I pulled him away from the wall and choked him out.
+
+From the humans it was all “Wait!” “No!” “Um—”
+
+“I’m not going to kill him,” I said, and dumped him on the couch. “I know what I’m fucking doing.”
+
+Pin-Lee had tuned her feed to the implant and now clawed the key out of her jacket to check it. “She’s moving, she’s—Can you tell—”
+
+I was already matching the ping to my station maps. “They’re on a transit pipe.” I had to go, now. I told them, “You need to get back to your shuttle. Leave him; by the time he’s conscious GrayCris will already know what we’re doing. Don’t take his comm or his gun with you, StationSec can scan for them. Go down to the hotel’s first-level garden court and take the bubble transit to the next shopping complex, then take pipe transit from there.”
+
+I was out the door before they could do more than take in enough air to object. The corridor was clear so I sprinted to the pod junction. In the feed, I sent, The GrayCris group with Mensah is less than two minutes out and counting, you need to be out of the hotel before they get here. She’ll meet you at your shuttle. Do not try to contact me on the feed. If they buy off StationSec, they could trace us.
+
+We’re going, we’re going, Ratthi sent back, and hotelSecSys told me the room door had just opened and closed. Be careful—
+
+I’m breaking contact, Ratthi, I told him, and stepped into the pod.
+
+I shut my risk assessment module down.

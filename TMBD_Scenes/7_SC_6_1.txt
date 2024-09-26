@@ -1,0 +1,145 @@
+I DON’T KNOW WHAT the initial reaction was for the separatist colonists when they suddenly found a Barish-Estranza exploration team on their doorstep, but our little shuttle family was not happy, let me tell you.
+
+It was early for our scheduled check-in, and the messenger pathfinder wasn’t back yet from delivering our earlier report, but ART-drone pulled down another one so Iris could record and upload an updated status for it to carry outside the blackout zone. Hopefully both pathfinders would be back soon with instructions or some sort of insights as to what the hell to do next. But mostly it would let everybody else know our situation in case Barish-Estranza tried to attack us. Because keeping our presence secret from B-E was completely blown as soon as our humans made contact with the colonists.
+
+(Threat assessment on the probability of an attack by Barish-Estranza was depressingly low. Depressing because the low figure was not because they had suddenly decided to be nice humans who would leave us alone on principle, but because we were so unlikely to be a threat to them that it wasn’t worth the operating expenses to send their SecUnit over here to kill us.)
+
+(Not that I liked its odds if they did. There was me, for what that was currently worth, and ART-drone shared ART-prime’s hit-them-before-they-know-they’re-in-a-fight attitude toward hostile overtures.)
+
+And yes, the humans were all over the place about that SecUnit. We had a conversation about it on the comm while waiting for AdaCol2 to brief its primary operator.
+
+Ratthi had asked me, “So you could”—he waggled his fingers at the side of his head—“to this one, set it free?”
+
+The humans were all watching my shuttle drone, like it was my face. That’s not disturbing at all. I said, “They’re not all going to be like Three.”
+
+What I didn’t want to say was that even though Three had saved my life, I still wouldn’t have left it alone with my humans, whatever threat assessment said, if ART-prime hadn’t been there to keep an eye on it. We hadn’t known Three very long, and we hadn’t seen it under much stress. It was still learning that it could make choices. We wouldn’t know to what extent it was trustworthy until it made some more choices and acted on them.
+
+Iris had her arms folded, her expression deep in thought. She had grown up with ART, and probably knew a lot about bot relationships. (She probably knew more about bot relationships than ART did.) But SecUnits aren’t bots, we’re constructs, and we don’t have relationships like that. Governor modules don’t encourage that kind of thing.
+
+(And I know Three had talked to Ratthi and Amena about the two other SecUnits in its task group, one of which the Targets had directly killed, and the other they had indirectly killed by forcing a human to order it to stay behind on the drop box station. (SecUnits have to stay within a certain range of our clients or the governor modules fry your brain and it is not pretty.) I know Three felt … whatever toward those two units, but I have lots of feelings toward the imaginary humans on my media, and I am perfectly clear on the fact that those relationships are one-sided. There is literally no way to tell if the feelings among those three SecUnits were reciprocal in that situation, even for Three, because governor module.)
+
+(And frankly, the potential to blame all humans for killing its possibly apocryphal friends makes Three’s threat assessment rise even higher.)
+
+Tarik was slumped back in the pilot’s seat with one knee hooked over the armrest (how can that be comfortable) and his expression was opaque, but I also got the feeling he wasn’t unhappy to hear my reasons for why I wouldn’t be doing the thing.
+
+Ratthi was unhappy. He said, “Yes, but it seems … To not offer one the choice, given the opportunity…” He waved a hand. “I’m sorry, I believe you that it’s a bad idea, but I can’t help talking about it anyway. I’ll try not to, I don’t want you to feel like I’m pressing you to do something you don’t think is safe.”
+
+Ratthi knows more about constructs than any human here.
+
+The problem was, 2.0 had been in a unique position with Three. There was no way to replicate that here, even if I didn’t know that just replicating conditions doesn’t always give an identical or even similar result. I said, “We don’t know if they have a SecSystem or HubSystem, or whatever their branded equivalent is, on their shuttle. If I was willing to do this I’d have to take the controlling system over first to make sure the governor module didn’t trigger during the process. Then I’d have to kill its clients to cover up what I’d done.”
+
+Well, probably. And wiping out even a little part of the reinforced Barish-Estranza explorer group was not an option. Okay, it was an option, but it was not an option Seth or Iris or Mensah or any of the other humans seriously wanted to consider. Both Preservation and the University of Mihira and New Tideland would not be okay with it, for one thing. For the other, it was strategically iffy, now that their reinforcements had arrived. It led to a scenario where, at best, we wiped out the whole task group and then had to hide the evidence and just hoped none of the humans felt bad and reported it once we got out of the system.
+
+Whatever, we’re not doing it unless they try to do it to us first. Just to make sure everybody understood, I continued, “Even if I did free the SecUnit, I might have to kill it anyway, if it goes rogue and tries to murder all of you.”
+
+“I see,” Iris said. She looked like she was thinking through about half a dozen scenarios at once and none of them were panning out the way she wanted. Or maybe I was projecting.
+
+There are no easy answers, as Dr. Bharadwaj says. And this will never be an easy question.
+
+While that was happening, AdaCol2 and I arranged a secure comm connection between Iris and its primary operator, a human called Trinh. Who was more than a little weirded out to be contacted by a second group of new humans so soon after the first contact after years of no contact whatsoever. I could sympathize: it would have freaked me out, too.
+
+I listened to bits of the conversation, but it was just too painful, even though Iris was good at talking. After the introductions she opened with, “I know Barish-Estranza told you they’re here to help you. But they’re from a corporation that is trying to take possession of this planet to claim and exploit its assets, and right now those assets are you.”
+
+Through the translator module, Trinh said, “So you’re saying the same thing as they did, that you’re here to help us.”
+
+Ugh. They had no reason to trust us.
+
+In the shuttle Tarik and Ratthi and ART-drone were strategizing, coming up with plans to try to convince the separatists and looking up stuff for Iris to show Trinh to better explain the situation, including vid clips of the fighting between the different factions at the main colony site. The humans had already sent a request via the pathfinder report to bring in a colonist who was willing to vouch for us and give an eyewitness account of the alien contamination incidents. But they knew that might not help, either, because the two groups hadn’t communicated for however many years. (At least that’s what historian Corian back at the main colony had thought. The separatists may have spied on the main group via AdaCol2’s former connection with AdaCol1. Ratthi had been putting together a feed document on what they might know/what we were certain they did know. The concluding paragraph that he was still working on indicated that he agreed with the theory that there were specific reasons for the split between this faction and the main site that didn’t have as much to do with the contamination incidents as previously indicated.) But basically the separatists had no reason to believe the main group’s opinion of us. “Or to even believe anybody we bring up here is actually a colonist,” Tarik had pointed out, “and not just one of us in a stolen environmental suit.”
+
+Tarik has trust issues, ART-drone told me on our private connection. Yeah, I guess that was related to the whole ex-corporate-death-squad thing.
+
+Ratthi, still with the pinched expression that indicated he didn’t think anything was going well, added, “Yes, and Barish-Estranza may be able to bring in a colonist to vouch for them, too. We know they’re in contact with that group out to the south of the main colony.”
+
+It was a mess and it was getting more messy every second. I keep telling myself I’m security, my job is to protect my humans while they try to save these other humans. There wasn’t anything I could do to help except stay out of it. But no one was attacking us right now and I felt useless.
+
+I wasn’t just standing around, at least. AdaCol2 had given me the location of the Barish-Estranza shuttle and told me the best way to get to it without alerting the separatists or the B-E team. I needed to know where it was in case threat assessment was wrong and they did attack us, and I wanted to take a look at it just to make sure … I don’t know, that it didn’t have a giant explosive device attached to it I guess. I needed to do something and going to stare at their shuttle felt proactive.
+
+AdaCol2 had directed me to a passage heading north, not the one ScoutDrone1 had found. AdaCol2 had confirmed the hatch with the functioning emergency light led into the inhabited portion of the installation. I had left ScoutDrone1 there in sentry mode just in case the Barish-Estranza team or the separatists tried to come through it to look for our shuttle. Due to the scanning blackout on the surface, they wouldn’t know where we were unless they went out and looked, or B-E sent their SecUnit to look.
+
+AdaCol2 told me it didn’t have cameras through this section of the installation and that there were no exterior cameras on the surface near the opening above the hangar area. (I know, right? But until now there hadn’t been anyone on the planet who (a) wanted to sneak up and attack them and (b) was even sure where they were.)
+
+(Which just shows you, you should have the cameras installed, just in case.)
+
+ART-drone had taken a position just inside the installation, as a line of defense if hostiles chose to come from that direction. It was also using the shuttle’s cameras to look for approaches on the surface. ART-drone would have difficulty hacking a SecUnit in the blackout zone, but it would be relatively easy to direct one of its pathfinders to smash into one attempting to approach the shuttle from ground level. ART-drone also had more pathfinders in patrol pattern above us, watching for anything attempting to approach via air. It wasn’t nearly as efficient a defense without the pathfinders’ scanners online, but then B-E wouldn’t be able to scan, either.
+
+The passage AdaCol2 had directed me toward was on the opposite side of the foyer space, in the section that ScoutDrone2 was still searching. I had to go down a ramp from the landing level, which led to a junction of three corridors, and take the one that led off to the west, deeper into the rock. Yes, I did this in a strange installation, on a strange system’s say-so.
+
+Because the thing was, Trinh and the other separatist colonists might not have any reason to believe us, but AdaCol2 seemed to.
+
+You can get a long way with bots by just keeping things simple and knowing which requests for information or assistance are unlikely to trip the parameters they’ve been given to guard things and to tell humans “no you can’t go in there/do that.” Bots (normal bots, not combat or spybots, etc.) are usually programmed to default to being reasonable in response to reasonable human or other bot behavior.
+
+I didn’t know what AdaCol2 was programmed to do. Except, like AdaCol1, it put its function to protect its humans first. It had left the channel accessible with the camera view of where B-E was meeting with its humans, so ART-drone was monitoring. No sound, but ART-drone was enlarging it and using the facial and mouth movements it could pick up to interpret the human speech. Ratthi and Tarik were monitoring it and probably understanding more of what was going on than the B-E negotiator because Thiago’s translation module was clearly better.
+
+There was no power for lighting in this corridor, either, which was not super fun for me and made it slow going, even with ScoutDrone2 going ahead to look for things to bump into. AdaCol2 asked if I wanted the emergency lights turned on and I asked if it could do it without someone noticing the allocation of power to a supposedly shutdown area of the installation. It said no. So we were in the dark.
+
+I knew AdaCol2 vouching for me, if in fact it was willing to vouch for me, was not going to change any human minds. (Let’s face it, actual solid physical or visual evidence will often not change human minds.) It probably wasn’t like ART-prime, who is considered to be in command of itself as an individual and second-in-command of missions after Seth, and also has the same title and position both in the teaching faculty and the freeing-former-corporate-colonies side business as Iris, though most of the students and lower-level personnel it interacts with don’t know what its full capability is. (ART had shown me a personnel chart; it was complicated.) I wasn’t sure what kind of relationship the humans here had with AdaCol2 but the chances were good it wasn’t like that.
+
+AdaCol2 could be walking me into a trap, because anything is possible and bad things may not be more statistically possible but it sure seems like they are.
+
+AdaCol2 sent, ID: B-E-SecUnit connection request negative acknowledgment repeat query.
+
+It was telling me that it had been asking the Barish-Estranza SecUnit for a connection but had been ignored, and wanted me to explain why. That was probably a good thing, though normal SecUnits can’t hack, only CombatUnits. From the visual AdaCol2 had given me from its recording of the B-E team’s initial approach, I was 87 percent sure that the unit wasn’t a CombatUnit. It had the same basic armor style as Three and the dead B-E units we had encountered. Plus nobody had been shot yet. CombatUnits don’t get deployed to stand around while humans talk.
+
+But now I was going to have to explain the governor module to a system with no experience connecting to or interacting with SecUnits, except for me, just in the past hour. Here goes. ID: B-E-SecUnit not autonomous.
+
+AdaCol2 responded, query?
+
+Explaining the existential horror of the governor module in LanguageBasic took me through until the end of the corridor, which was at least long enough to circumvent what had to be a large installation. In the shuttle, Ratthi and Tarik were speculating that there were more sites, discovered and undiscovered, all over the planet. Ugh, I hope not.
+
+I passed two sealed doors with transparent ports, one that AdaCol2 said was a maintenance storage chamber and another it said was a junction station for the now defunct life support/atmosphere control in this section. Which explained why the separatists weren’t using this space. The whole place was so big they hadn’t needed to put resources toward repairing this area yet.
+
+Other doorways had been closed up with cut stone blocks and sealant. AdaCol2 said it had been done when it became clear this part of the installation would not be useful for habitation again without a major refit. I couldn’t tell if it meant that had happened in its Pre-CR occupation or when the Adamantine colonists got here.
+
+At the end of the corridor ScoutDrone2 bumped into a hatch similar to the one at the cargo entrance, but only about three meters high. We had gotten through the governor module conversation, which had ended this way:
+
+AdaCol2: query? (translation: why? = why is this necessary and/or why is this considered functional and/or why is this permitted and/or why is this allowed)
+
+Me: answer null (translation: I don’t know and/or unknown and/or I don’t want to talk about it)
+
+With the power out in this area, the hatch was on manual and could be opened from this side with a mechanical wheel and lever, which was incredibly stupid if you didn’t take into account the fact that this whole place had been designed to keep humans safe from a hostile environment, not other humans. AdaCol2 didn’t have cameras out here, either, but the old landing areas scattered around the edges of the installation did have mostly functioning weight sensors, and it knew the shuttle was not in line of sight from the door. So as long as AdaCol2 hadn’t been ordered to lie to me in order to walk me into a trap, I should be okay to open it.
+
+The hatch was heavy and stiff with disuse, but I shoved it open just enough to let ScoutDrone2 out.
+
+Gray daylight and a breath of wind and dust came in. ScoutDrone2 lost its limited scan function as soon as it left the shelter of the emplacement around the hatch, but it still had its camera. It saw a large hangar space, this time with lights, and the far wall was open to a view of more red striated slopes and tumbled rocks. The B-E group must have spotted the opening on visual, though that didn’t explain how they knew to search around here in the blackout zone. (Ratthi had said that they might have been checking out the terraforming engines to see if they could sell them for scrap, but that was mostly sarcastic.)
+
+An angled stone wall, maybe designed to give the hatch a little protection from the weather, blocked off the rest of the hangar. ScoutDrone2 wasn’t picking up anything on ambient audio but the wind and dust movement from outside was enough to obscure small noises like voices and human movement. ScoutDrone2 went low to the ground and edged around the wall. Uh-huh, there was the shuttle, sitting on one of the three intact landing platforms. It was bigger than ART’s, longer, with the cockpit set higher. Through the bubble-shaped port, I could see a human or augmented human sitting inside. Outside, standing beside the ramp to the hatch, was a second SecUnit.
+
+Before she had started speaking with Trinh, Iris had asked ART-drone if it thought the B-E shuttle had actually followed us when we entered the blackout zone. ART-drone did not; post-handoff it had retained ART’s most recent pathfinder scan data from this area of the planet and also its estimated location of the Barish-Estranza ships and their shuttles that were currently deployed. It thought this shuttle could only have entered the zone earlier, maybe even by a day or so. Further analysis would have to be done by ART’s primary iteration, but there must have been a gap in pathfinder scanning that B-E had exploited. ART-drone was miffed by this lapse and figured that ART-prime would be fucking furious.
+
+Iris had said thoughtfully, “The timing is suspect, isn’t it. I wonder if the historian decided to tell us about this place because Bellagaia got word that one of the colonists in the other factions had told B-E.”
+
+Tarik had groaned and rubbed his eyes. “A little heads-up would have been helpful.”
+
+No shit. There was at least a 65 percent chance that we were stuck in this situation because some asshole main site colonist had talked. Why they would do that, I had no idea. Trinh had told Iris that there had been no sign of any kind of alien remnants in or near this installation and, more important, no contamination incidents. So maybe it was jealousy? Except the main colony would have no way to know that after they lost contact. I don’t know, not even humans know why humans do things.
+
+I realized I’d just been standing here again when Ratthi, still monitoring my drone video from the shuttle, asked, “What’s that other door for? Another section of the hangar?”
+
+So I’d missed that, nice. It was a large hangar door, not unlike the one in the hangar we had entered from on the terraforming side, but less monumental. It was still big enough for a shuttle to fly through. To AdaCol2, I said, query?
+
+It showed me a map, pretty limited, of just this part of the installation. This hangar was on the north side, and the corridor led across to another hangar on the east side, so you could fly a shuttle through it to the other side of the installation and were apparently supposed to.
+
+I sent the map to the shuttle’s display surface to show the humans. Iris, now on hold with separatist Trinh, said, “I wonder what this planet was like before the terraforming.”
+
+“Much worse than it is now, apparently,” Ratthi said. “I wonder if the Pre-CR inhabitants also terraformed?”
+
+“Huh,” Tarik commented, and started pulling up geographical data.
+
+Nothing was happening, I might as well stand here as anywhere else I guess. I leaned against the hatch, watching the SecUnit and the B-E shuttle through ScoutDrone2’s camera. Both continued to do absolutely nothing, too. The wind was getting worse outside the shelter of the hangar. It suddenly made an unpleasant shrieking noise that was so loud threat assessment threw an “unidentified condition” alert. It would have been terrifying (I saw the human in the B-E’s shuttle’s cockpit make an abrupt motion, probably a flinch), but ART-drone’s analysis of the sound said it was just violent air movement. I looped my ambient audio so I could filter the wind noise and turn it down a little. ART-drone said, Pathfinders report that weather conditions are deteriorating. The possibility that I may lose contact with them is high. That meant they’d go dormant and set down somewhere, or leave the storm area, depending on how bad it was.
+
+AdaCol2 popped in to confirm that matched with the data from its surface weather stations.
+
+That’s great.
+
+Iris’s comm alerted as Trinh came back on to start talking again. I shifted them to a backburnered channel. I had run out of proactive things to do. I set some alerts and pulled up an episode of Sanctuary Moon. I didn’t want to watch anything new without ART-drone, who couldn’t split its attention to the same extent as ART-prime.
+
+I had been watching for 2.45 minutes when AdaCol2 said, query: activity?
+
+It could tell I was doing something but not what it was. There was no reason not to tell it and I didn’t want it to think we were hiding things from it. Up until we actually needed to hide something from it, anyway. I replied, monitoring media. I didn’t know if it had the kind of visual interpretation function that would let it “see” the show; there are bots that like visual media even though they can’t interpret the images like a human would. Even ART had trouble with the emotional parts, things like how the music meant mood and tone changes, unless it was watching through my filter. (In its spare time, now that it has some data for comparison, it’s writing an update for itself to fix that.) There are some parts of media that you really need human neural tissue to fully understand, but most higher-level bots could still take in the visual information and follow the story, the same as with a text-only or audio-only file. So I put the episode into our connection for AdaCol2 to access.
+
+It said, Type: entertainment and gave me access to a partition loaded with media files.
+
+Oh, hello.
+
+The books and music section alone was huge. I checked the tags on the shows, running them through Thiago’s translator module. It was 82 percent fiction, heavy on the pre-adult programming according to the category index. There was Cruel Romance Personage, which I had never watched (maybe it was good, I didn’t know, I couldn’t get past the title). It had been around for at least four decades in corporate standard years, longer even than Medcenter Argala. But there were so many others I had never seen or heard of before. Some words in the titles and descriptions weren’t matching the versions in the language modules I had loaded. I checked the book and audio sections again and got similar results.
+
+I hadn’t pinged ART-drone because it was busy, and this hadn’t seemed like a ping-worthy conversation at first, but the additional connection from AdaCol2 must have tripped an alert. ART-drone said, It’s linguistic drift. Many of these are Pre–Corporation Rim media.

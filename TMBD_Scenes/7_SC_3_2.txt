@@ -1,0 +1,63 @@
+In the team feed, ART said, ETA is 1.03 minutes. Comm/feed blackout point approaching.
+
+I stopped the episode and sat up. I had been watching a lot of Sanctuary Moon lately, but ART had wanted to go back to a show that we had watched that was popular with the humans on Mihira. It was semi-historical, about early humans leaving their original system for the first time. I’d seen documentary-style series about this before, but this one mixed parts that were realistic with fun stuff like space battles and rescuing people and space monsters and throwing asteroids at planets. (That last part is actually realistic, too, but if you try they will send a bunch of gunships to fuck you up.) Anyway, it was a good show, though I hadn’t told ART that.
+
+We had been flying over a mountain range with lots of craggy peaks and cliffs and it would be a relief to get past it. Even though this was one of ART’s long-range shuttles, not a company hopper constructed and maintained by the lowest bidder. It had actual working safety/emergency equipment (besides me) and behind the seating compartment were tiny secondary cabins with bunks, a small MedUnit, a small galley, plus cargo and lab sample storage space. It also had an actual shower in the restroom unit. But still, a small metal container filled with mushy humans hurtling over spiky rocks for long periods agitates my threat assessment module. There were so many ways to crash and die in mountain ranges, it was also making my stupid risk assessment randomly alert.
+
+“Acknowledged, Peri,” Tarik said. He and Iris were up in the cockpit, which could be sealed off from the rest of the compartment by a hatch, but it was open now so they could talk to Ratthi, who was sitting up in the front row. They still had their environmental suits on as per safety protocol but had let the helmets fold back. Iris had her curly puff of hair tied up in a headband/scarf thing.
+
+Tarik was in the pilot’s seat even though ART had a bot pilot active in the guidance system right now. Even under bot pilot control, there should always be a human or SecUnit at the controls. Preferably a human or SecUnit who actually knows how to use the controls. (Considering how many contracts I had been on where this was not the case, it’s amazing I’m still here in (mostly) one piece.)
+
+I don’t have a module for flying a shuttle, so it’s not like I could do anything if the humans and ART suddenly lost control or there was a catastrophic mechanical failure. (And that just pissed me off. I should have a fucking shuttle piloting module for emergencies. What if all the humans are incapacitated and the SecUnit is the only one who can get them back to the baseship/station/whatever in a shuttle? It’s a more likely scenario than a rogue SecUnit using one to crash into a transport or a mining installation. Believe me, there are a lot more efficient ways of taking out both.)
+
+Iris had gotten up and was looking out the port next to Ratthi’s seat. They were chatting and pointing out evidence of groundwater and vegetation, signs that the terraforming was working. It was one of the things that really sucked about the alien contamination.
+
+From the previous assessments that ART’s crew had done via pathfinder, Adamantine had at least paid for a process that wouldn’t leave the planet trashed if the terraforming engines had to be shut down, unlike GrayCris at Milu. Back on Preservation, the last newsfeed report I had seen about that clusterfuck said that GoodNightLander Independent had taken the planet over as salvage and was trying to untrash it.
+
+Of course I hadn’t seen any newsfeeds since we left for our survey. Huh, I wonder if there had been a news report about our kidnapping. Mensah hadn’t been as interesting to journalists since she ended her term as planetary leader, but Amena was one of her kids and having a kid be dramatically kidnapped during a space battle was probably a big deal, at least on Preservation. (It wasn’t infrequent in my media, but it was one of those things where real life didn’t live up to expectations raised by fiction.) Especially if the journalists realized Mensah’s rogue SecUnit had been involved. If the newsfeeds got interested, was there a way for them to find out that ART was the kidnapper? If they started investigating the University’s lost colony operations, that could be really bad in a lot of really bad ways for a lot of humans, augmented humans, bots, heavily armed judgmental machine intelligences pretending to be ordinary transports, and whatever and whoever else the University had working for it.
+
+Great, something else to worry about. Getting attached to an additional group of humans was always going to be complicated, but. Ugh, I wish I felt like I was prepared for complication. Or prepared for anything.
+
+Redacted
+
+Mensah and the responder had left Preservation Station within an hour of the attack on our survey vessel, as soon as they had found the location data buoy ART had deployed on the way into the wormhole, so she and the crew wouldn’t have any updated newsfeed data. Depending on where the newly arrived Barish-Estranza explorer had embarked from, they might have missed any recent news, too. (The as-yet-hypothetical report would originate from Preservation and take multiple cycles to circulate from station to station, planet to planet—unless we were lucky and Senior Indah had been able to keep it quiet under the Ongoing Investigations rule. Which I absolutely was not counting on.)
+
+(Right, okay, Preservation Station Security is not as shitty at what they do as I originally thought when I first ended up there, but what they do is still mostly accident first response and maintaining safety systems and checking for hazardous cargo violations, and I could think of at least five of them who would blab to everyone in range about the kidnapping with no clue it might make things worse before Senior Indah had a chance to tell them to shut the fuck up. No, six.)
+
+Whatever, we wouldn’t have hard data until the University sent their response vessel, if then. I would just factor the possibility into the projected long-term threat assessment and increase my anxiety levels by the commensurate amount. ART, define commensurate.
+
+It’s a synonym of proportionate. ART’s drone rose up out of the back row behind me and unfolded a lot of spiny arm extensions. The handoff hadn’t occurred yet, but we were almost to the blackout point, forty-two seconds to go.
+
+The drone was a thin oval platform fifteen centimeters in width with a lot of folded-up armatures tucked up against it that were supposed to be helpful in planetary exploration or contact missions and, knowing ART, who knew what they actually did. It added, That was a mission-critical query?
+
+That wasn’t actually a question, so I didn’t answer it. Yes, that’s ART in the drone, and ART flying the shuttle as a bot pilot, and ART monitoring operations with Three back at the colony site, and ART working on repairing its drive, and ART maintaining standard transport functions, and ART following the Barish-Estranza ships with its sensors hoping they’ll do something to justify fucking with them (they started it, as it would point out), and ART currently arguing with Seth about his selection of a high-carb protein for his meal break and threatening to inform Martyn and Iris about it. Most transport bots have to be able to distribute their awareness to some extent, but ART is more complicated than that.
+
+(I had uploaded myself into a bot pilot’s control interface once during a viral attack, and had consequently hard-crashed myself and had to rebuild my memory table from scratch. If I didn’t have human neural tissue also storing archival data, I would have been fucked. (So it did one thing right for once.) If I were uploaded to the entirety of ART’s architecture, I would probably last a few painful seconds at most.)
+
+(That’s why we had to code 2.0 for the viral attack on the contaminated Barish-Estranza explorer.)
+
+(If 2.0 were still here, I probably wouldn’t redacted.)
+
+Each one of ART’s partitions is a little different, depending on its function. For example, ART-drone is not currently protecting a shipful of its important humans, so it’s less likely to blow things up and ask questions later.
+
+Tarik was counting aloud to the blackout point. On the team feed, ART said, Handoff initiated. Good luck.
+
+“Acknowledged. Thanks, Peri,” Iris said, smiling. “Be careful up there. See you soon.”
+
+On my private feed, ART said, Take care of them. And yourself. Before I could come up with a reply, my awareness of ART, its cameras, its feed and comm, the humans working and talking to each other on ART, or using the comm to talk to Mensah and the other humans on the Preservation responder, dropped away. I had expected it to be immediate, but the voices and signals gradually lost volume, fading into an echo, then into nothing.
+
+Threat assessment spiked hard, then dropped back, and for once risk assessment was actually right. Even though it was planned and expected and we had resources like the pathfinders, losing comm and feed contact with your baseship is never going to be a zero-consequence operation.
+
+I still had our shuttle feed, but even with three humans and my three whole drones and our pathfinder escort, it was weirdly isolated. ART-drone was already active, but the sense of it in the feed was much smaller. It said, This process is unnecessarily dramatic.
+
+Absently poking the planetary data in her feed, Iris said, “Honey, you’re the one who comes up with the processes.”
+
+“Is that … weird, that Perihelion does this?” Ratthi asked. He had turned around in his seat to look at ART-drone.
+
+“Everything about this job is weird,” Tarik told him from the cockpit.
+
+Especially Perihelion’s high tolerance for certain members of its crew, ART-drone said. It added, Iris, put your safety restraint on, no one wants to scrape you off the interior port.
+
+Yes, ART-drone is still ART, even though it’s talking about itself in the third person.
+
+Its download was up to date so I didn’t have to restart the episode we had been watching. I restarted where we left off as the shuttle flew farther into the blackout zone.

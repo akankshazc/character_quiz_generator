@@ -1,0 +1,255 @@
+My threat assessment was all over the place right now, but nobody thought ART should lock on to the dock. Instead it did some complicated maneuvers (the kind of thing I don’t know anything about and don’t have to know because ART does) to get close. Me and the two humans whose help I absolutely did not need took EVAC suits over to an airlock.
+
+When we were near enough to see the pits and scarring on the dock’s hull, I picked up its feed. It was dormant but its SecSystem woke when I pinged and it asked for a Barish-Estranza entry code. The explorer must have had codes for the old Adamantine system, or had just released killware to take it down so they could upload their own. Whichever, this version of DockSecSystem was a recent upgrade, but something was wrong with its configuration and it had put itself in standby mode. I was a little nervous, despite the fact that my walls are excellent and targetControlSystem had made no attempt to take me over despite a lot of provocation, what with me trying to kill it and everything. But the fact that we still didn’t know why ART had experienced that first critical shutdown was still making me hyper-paranoid.
+
+But at this point, the only thing I could do to find out if DockSecSystem was compromised was get in there and look. So I did.
+
+The first thing I hit was a barrage of configuration errors. I couldn’t tell if the Barish-Estranza crew had failed the install or if something had tried to mess with it later. It made it a little harder to take control, not because it was trying to fight me but because nothing worked right. In fact, it seemed pathetically glad somebody who knew what they were doing was here. I got control of its entry functions before we reached the lock and told it to let us in.
+
+The hatch slid open and the lock cycled us through to a large reception space, designed for big groups or bulk objects. The EVAC suits had their own lights and vision filters, but the lights embedded in the bulkheads flickered on. Two large rounded doorways with open safety hatches led into corridors and like ART’s scan had said, life support was active.
+
+And unlike the outside, the inside looked nearly new. There wasn’t much, if any, wear. Some scuffing on the floor, that was all. No sign of recent activity, but then we didn’t know which lock the explorer had used.
+
+No, there was a sign of recent activity. A big version of the Adamantine logo with its stylized depiction of a planetary landscape, a cliff face above an ocean shore, was painted onto the metal of the far wall. Someone from the explorer crew had scratched at it with a sharp tool and drawn a sloppy version of the Barish-Estranza logo on the gray and green cliff. Ha ha, vandalism expresses our corporate loyalty, right. Well, the joke was on you, Barish-Estranza employee, because not long after you did that you got killed and/or mind-controlled by alien remnant raiders.
+
+(I know, it’s a logo, but I hate it when humans and augmented humans ruin things for no reason. Maybe because I was a thing before I was a person and if I’m not careful I could be a thing again.)
+
+And maybe it was just the hamstrung SecSystem, but I had the feeling we were going to find some dead bodies in here.
+
+I told my EVAC suit to open and released my drones. I only had sixteen survivors after everything that had happened on ART, but that should be enough for a quick reconnaissance run through this area of the dock. They were also running one of the new codes I’d written. It would emit a field that any targetDrones would associate with the Targets’ protective gear. (If all the targetDrones operated the same basic way, which, of course, we had no idea. But it was worth a try.)
+
+I also had a large projectile weapon from ART’s supply and a smaller energy weapon.
+
+I kept two drones with me in a holding pattern over my head, since I wasn’t getting anything from the cameras except static. As the others zipped off down the shadowy corridors, Overse asked, “Are you picking up anything?”
+
+“The feed is partially down, cameras are offline, and the DockSecSystem isn’t responding correctly.” My drone inputs showed dark empty corridors, with no obvious sign of human occupation, if you didn’t count the bodies. There were three in the junction between the corridors leading to the control area and the passenger entrance to the drop box.
+
+They were all wearing gear in Barish-Estranza colors but I slowed the scout drones down for a long close scan just to make sure. One sprawled face up, the other two crumpled against the wall. Appearance of the wounds suggested they were made by energy weapons, no surprise there.
+
+ART said, Unidentified, which was its way of expressing relief that none of them were its crew members.
+
+There was another body further up the corridor but I already knew what had killed that one.
+
+What I wasn’t seeing was anywhere humans could be locked up. The dock hadn’t been anything but a temporary waystation while the colony was in development, so there were no cabins or facilities yet, just some minimal supply storage and waste disposal. There were interior hatches, but none were shut, suggesting the place had been searched earlier and left like this. I tagged some spots to check out more closely and then sent my drones down the wide corridors meant to transport cargo containers to the drop box loading entrance. It looked like the bigger modules were meant to be moved along the outside of the dock and attach directly to the box.
+
+I forced DockSecSystem into a restart, hoping that would help, and climbed out of my EVAC suit. This time we were wearing the environmental suits under the EVAC units. The material felt thin, but it protected against a lot of toxic substances and had a closed breathing system attached, which we were using despite the fact that the dock’s life support was still working. The suits were really meant for planetary environments but it was a good precaution.
+
+I signaled Overse and Thiago that they could leave their EVAC suits and told them, “We’ll start a physical evidence search here and work our way toward the control area and the drop box.” The drones were telling me the likelihood of Targets lying in wait was low to nil, and without a targetControlSystem installed, it seemed unlikely that there would be targetDrones. We still had to check for any evidence that ART’s crew might have been here. A note saying “help, etc.” was preferable to signs like body parts stuffed into maintenance cubbies or blood and/or viscera smears on walls and deck.
+
+On the comm, Ratthi said, “That still looks like a lot of area to search. Maybe Arada and I should come over, too.”
+
+For fuck’s sake, Ratthi. Amena immediately jumped in with, “Arada should stay with the ship. I could go.”
+
+I started to answer (I don’t know what I was going to say but it was probably something I was going to feel bad about later). Overse and Thiago both took breaths to object. But ART got in before any of us (it helps to not actually need any air to talk) and said, No.
+
+Ratthi tried to clarify, “No to Amena, or no to—”
+
+No to all of you, ART said.
+
+“Perihelion’s right,” Arada said, in a Mensah-like I’m-being-reasonable-but-you-should-all-shut-up voice, “Now let’s let them focus.”
+
+Overse and Thiago had gotten out of their EVACs and did quick checks of their environment suits. Thiago said briskly, “Should we split up?”
+
+I was facing the right-hand corridor and didn’t turn around. I don’t know what my back told him (possibly it was my shoulders, having a reaction to how my jaw hinge was grinding) but he added, “And that was a joke.”
+
+Overse’s smile was dry. She told him, “It was sort of a joke.”
+
+“This way.” I started down the corridor, telling one of my drones to drop back into a sentry position behind the humans to make sure nothing snuck up on us. Yes, I know the scout drones weren’t finding anything, but still. On the shows I liked best, monsters were always a possibility in these situations, but in reality it only happened around 27 percent of the time.
+
+Also a joke. Mostly.
+
+We cleared the short corridors that branched off the main corridor to each lock, and checked the few storage/maintenance cubbies. We weren’t finding anything, not even trash. As we moved to the forward section, I gave up on accessing DockSecSystem through the feed; I needed to find its direct access station to see if it had had any moments of lucidity after the failed load. Not that this situation needed to be any more frustrating or anything.
+
+The lights flickered on for us as we passed and flickered off afterward. We didn’t technically need lights; my eyes and my drones had dark vision filters and the humans had hand and helmet lights they were using to check the walls and floor. I thought the best chance for actual evidence was in the DockSecSystem’s archive, if I could just get the stupid system to load right. If we had to bring ART’s big fancy drones over and do a search for DNA traces, it would be a huge pain in the ass, and if they found nothing, it still wouldn’t be positive evidence that the crew hadn’t been here.
+
+I was hoping a lack of evidence would be the problem, that we wouldn’t find a bunch of DNA smears near an airlock. If that happened, I wasn’t sure how ART would react. Or what I would do about how it reacted. I was terrible at being comforting. It was hard enough trying to do it to humans; I had no idea what would help ART. Everything I could think of seemed drastically inadequate.
+
+Keeping her voice low, Overse said, “This place feels older, like it’s been here a very long time. But we know it was built only around forty years ago.”
+
+We know it was in existence at least thirty-seven years ago. ART was being pedantic in our comm. Space docks were not commonly in use in Pre–Corporation Rim colonies so it is unlikely there was a structure here when Adamantine arrived.
+
+Thiago’s light moved along the edge of the corridor. “It feels that way because it was built for a purpose and then hardly used. According to Perihelion’s information, Adamantine didn’t last for very long after the colony was established. There may have only been one or two supply runs.”
+
+We passed two more corridor openings but from my drones I knew they led to module locks and to the cargo access. My drones had whipped through the central control area but couldn’t get through the hatch into the drop box, which was the one place something/someone might be lurking/hiding/crawled into and died.
+
+We reached the junction with the bodies of the three Barish-Estranza employees and stopped so we could make a quick examination. All had been shot, and their weapons had been taken. The only thing left was some semi-useless crowd-control poppers. (They make loud noises and bright lights, effective against humans who aren’t wearing safety visors. Yes, Barish-Estranza had been prepared to find colonists still alive and possibly resistant to being co-opted into new corporate indenture arrangements.) I collected them so nobody else could use them against us and went ahead to the other body.
+
+It was sprawled at the mouth of the accessway to the drop box loading corridor, face down, lying in a pool of dried fluid that had leaked out of the open faceplate.
+
+ART was riding my feed but it didn’t comment. I didn’t think the humans had any idea what this body was; they had seen it on the raw drone video but it was often hard for humans, who couldn’t read the data stream without a special interface, to interpret.
+
+Overse and Thiago finished and came up behind me. “We’ve reached the other body,” Thiago reported to the others on the comm. “It’s in some kind of military suit—”
+
+“That’s SecUnit armor,” Overse corrected. Her helmet cam pointed to the right side of my face. “That’s right, isn’t it?”
+
+“Yes,” I told her.
+
+The armor design was unfamiliar. From what Leonide had said, it was no surprise that Barish-Estranza hadn’t risked dealing with the company to get their SecUnits and had bought them elsewhere.
+
+(I don’t know why I cared about that. If I was afraid to run into company tech or what. It was all just strange, and whatever, I didn’t like it.)
+
+Thiago stepped closer, his light picking out details. From the position, the SecUnit had been either heading away from the control area or the drop box foyer, but that was irrelevant. I knew what must have happened to it after the humans died, and it might have been pacing or running randomly around the dock. On the comm, Arada asked, “Was it killed by the Targets?”
+
+(Yes, that was a dumb question, which was how I knew ART had told her to ask it. It wanted me to tell the humans what they were looking at, because it thought I should say it aloud and because it wanted them to understand this. And you know, I don’t even know why I hadn’t yet.)
+
+I said, “No.” It still had its weapon, because it had been alive when the Targets left, and even with it helpless they had been just a little too afraid to try to take it away. The armor looked salvageable from the outside, but I’d have to scrape the body out to tell, and when the governor module did something like this, at least in 83 percent of instances I’d personally witnessed, it fried the armor, too. “It was ordered to stand down by one of its clients, then left here.”
+
+The comm was quiet for fourteen seconds. “But how did it die?” Amena asked in a small voice.
+
+(Oh wait, now I know why I hadn’t wanted to talk about this.)
+
+ART interposed, SecUnits have a distance limit, imposed by the contract owner. It’s variable, but if this SecUnit’s clients were taken away in the explorer, or sent to the planet, it would have been in violation, with no way to remedy the situation. Its governor module killed it.
+
+“Oh. Oh, no,” Ratthi muttered. “I knew that happened, but…”
+
+Thiago shook his head. “So it was ordered to do nothing, and then just left here to…”
+
+“How is that rational?” Arada burst out, forgetting she was technically in charge and supposed to be all sensible and restrained. “To have a killswitch on the one person who might be able to rescue you if you’re taken prisoner—”
+
+“It’s a function of the governor module itself,” I explained. “The HubSystem or designated supervisor could override, but they weren’t here.”
+
+“What about the—” Thiago made a gesture back toward the dead humans.
+
+“Dead clients don’t count. Otherwise you could just kill one and carry them around with you.” Okay, for real, that wouldn’t work. The governor module wasn’t nearly as sophisticated as a HubSystem but even it could have figured that one out.
+
+And of course the humans had trouble understanding that your governor module suddenly deciding to melt your brain wasn’t something you could rules-lawyer your way out of.
+
+I was tired of explaining and I didn’t want to talk about it anymore. You know, I hadn’t hacked my governor module to become a rogue SecUnit for no reason. I collected the projectile weapon and the spare ammunition, said, “We need to keep moving,” and went on through the access.
+
+I pretended not to hear Ratthi on the comm telling the others to drop the subject.
+
+We went through another foyer and then an open hatch into a globe-shaped control area. It was clearly meant to be operated mostly via the feed, by humans and augmented humans who were coming in to deliver a cargo to the planet and then leave, probably as rapidly as possible. There were no chairs, just station consoles built into the walls with dormant displays for monitoring the various cargo module locks and for the dock’s internal systems. The gravity was adjusted so you could walk up the curving wall.
+
+Before I could, Overse caught up with me and asked, “Are you all right?”
+
+I was absolutely great. It wasn’t like this situation needed to get any more emotionally fraught, or anything. I said, “I am functioning optimally.” (This was a line from Valorous Defenders, which is a great source for things humans and augmented humans think SecUnits say that SecUnits do not actually say.)
+
+Overse made an exasperated noise. “I hate that show.” I’d forgotten that it was one of the shows I’d pulled off the Preservation Public Entertainment feed. The other humans were listening on the comm so hard I could pick up their breathing. Thiago pretended not to listen, flashing his helmet light over the stations on the upper tier of the control area. Overse added, “Just remember you’re not alone here.”
+
+I never know what to say to that. I am actually alone in my head, and that’s where 90 plus percent of my problems are.
+
+I headed up the wall for the internal systems suite where DockSecSystem’s access was likely to be.
+
+I found it and activated the display surface. It fizzed into view above the console and immediately filled up with error codes. Ugh, I was going to have to try to fix this before I could even see if there was recorded video.
+
+Thiago walked down into the bottom of the globe, looking up toward the curving top. “Overse, did you see this?”
+
+I was neck deep in SecSystem errors but I pointed a drone upward to see what he was talking about. At the top of the dome, above the highest row of stations, was a flat art installation. It was a cityscape with low buildings and canals and lots of foliage, with elevated walkways curving around large flat-topped rock formations. The Adamantine logo was embossed in it with a three-dimensional projection, so it was facing you from whatever angle you looked at it.
+
+Overse frowned upward. “The colonists wouldn’t be in this room, would they? That was for the crews who were sending the supplies down. Or for the future, when there would be more people coming through here, going down to work on the site.”
+
+The partially failed install was taking up most of my attention, but I could tell there was more data woven through the image in marker paint. (Markers are limited broadcasts directly to feed interfaces that work even when the feed is down, and are supposed to be for marking exits and emergency routes and are usually used in the Corporation Rim to torture you with advertising displays.) These were just inert images, not a trap, so I told Overse, “Aim your light at it and move it around.”
+
+She tilted her head and pointed her helmet light more directly, then waved her head back and forth. That stimulated the markers and they started displaying their images, which were maps and diagrams and building plans. I saved the images in case we needed them later, but just a quick scan showed they were all colony infrastructure plans. Things like a shuttle/aircraft port, a combo medical center/community services structure designed for expansion as the population increased, archives and educational structures.
+
+And there was a diagram of the surface dock, the space dock’s counterpart. It was a large structure built around the base of the shaft, but while there were a lot of notes about adding admin and commercial space, there was nothing saying how far away from the main colony it had been built. (I don’t know anything about construction but I’m guessing you didn’t put your dock right in the middle of your colony in case the drop box blew up or the shaft fell over or something.)
+
+Overse was thoughtful. “This is a great deal of proposed development. I wonder how much of it they managed to build?”
+
+Thiago agreed. “Whatever happened later, someone at Adamantine seems to have gone into this intending to see it through to a successful developed world.”
+
+Maybe. The plans indicated not just a lot of expensive surveying work onplanet, but a lot of offsite development, too. Maybe they had spent too much and that was why they had gone bankrupt.
+
+I don’t know what was worse, getting a bunch of “volunteer” contract labor colonists killed as part of an investment scheme, or getting a bunch of actual volunteer colonists killed because of mistakes and mismanagement that ended up exposing the controlling corporation to a hostile takeover.
+
+Overse walked farther up the wall. “And most of these control stations are just unused templates. They were leaving a lot of room for expansion, as if this dock was going to be part of a much larger network.”
+
+On the comm, Amena said, “Then why did they try to keep the corporation who was taking over from knowing where the colony was? Did it not need supplies anymore?”
+
+“That’s a good question.” Overse stepped over to another console. “Maybe it was already self-sufficient.”
+
+Thiago told Overse, “Let’s look for the drop box station. If there’s a log file, we may be able to tell if the colonists were actually allowed to use this dock.”
+
+From our comm, Ratthi said, “But they wouldn’t have had a ship, so why come up here?”
+
+“We don’t know that they didn’t have a ship,” I said, before ART could. It was a good line of inquiry; if there was another ship running around this system, even if it was a short-range type without wormhole capability, it would be important intel. Seeing the inside of the dock had caused some recalculations in my assessments. Who the fuck knew; Adamantine, planning optimistically for a future none of them were going to see, might have left the colonists a small fleet.
+
+Thiago and Overse split up, moving up the walls, checking the stations. Some had marker captions, which provided brief descriptions of what they were for, except they were in a language I didn’t recognize. With no systems on the feed but the new Security load, there was no translation.
+
+Frustrated, Overse said, “Thiago, do you have this language loaded on your interface?”
+
+Thiago answered, “Yes, this is Variance063926. Perihelion, if I tag the right module, can you—” ART was already pulling the module from Thiago’s feed storage and creating a working vocabulary to send back to me and Overse. Thiago finished, “Thank you, Perihelion.”
+
+Overse stopped at a station. “This is it.” She leaned over, using the manual interface to try to get the station to boot. Thiago jogged across the wall to join her.
+
+I was finally able to access DockSecSystem’s video archive and started downloading. I kept hitting corrupted spots and having to work around them. I was still worried about encountering killware or malware or targetControlSystem, but realistically, this situation was the same as the B-E shuttle in ART’s dock: setting a trap here on the off chance that a SecUnit might directly access DockSecSystem seemed like a stretch. It still didn’t make me any less paranoid. (Let’s face it, nothing would.)
+
+And the Targets had reasons not to be too worried about SecUnits. They had seen the Barish-Estranza SecUnits ordered to stand down, made helpless by the governor modules.
+
+Overse said, “Hmm. SecUnit, this is showing log entries from two drop boxes.”
+
+Well, that was interesting, but I’d pulled ART’s schematic of the dock already and checked—there was only the one shaft, the box tucked up into its lock below where we were in the control area. ART, who hates to be wrong, said, Physical structure indicates only one.
+
+Overse scrolled through a file, her helmet light turned off so it didn’t wash out the floating display. “Wait, yes … It’s not a box, it’s a small maintenance capsule. It’s inside the structure of the shaft.”
+
+I started to run what there was of DockSecSystem’s video, skimming through it at a much faster rate than a human could view it. The camera placement and lighting was bad, but I could see figures in red-brown Barish-Estranza environmental gear as they moved back and forth through the main corridor. I had to run it back to make sure, but the contact party’s initial boarding of the drop box wasn’t on here. Stupid humans, being impatient and not nearly paranoid enough, they had screwed up the load of their new SecSystem and then hadn’t even waited until it was fully active to head down to the planet. No wonder their contact party had gotten grabbed by the Targets. The activity lessened as the humans returned to the explorer. I spotted one of the SecUnits patrolling the central corridor, but not the one we’d found.
+
+Thiago pointed over Overse’s shoulder. “It did make a trip to the planet, then returned.”
+
+“Right, but that was…” Overse huffed in exasperation. “Hold on, I need to convert these time stamps.”
+
+Then ART said, Hostile contact, ETA six minutes out.
+
+What the hell? How could it get that close? “Six minutes? What were you doing?”
+
+Contact did not appear on scan until now, that’s what the fuck I was doing, ART replied.
+
+I put my video review on hold. “Do they see you?” Okay, it was a stupid question.
+
+ART said, Of course they see me.
+
+I pulled a view of ART’s control area. Arada was in a station chair, Ratthi and Amena standing on either side, all watching ART’s big display. ART was annotating the displays in the feed so it wasn’t just a mash of numbers and lines and colors.
+
+Frustrated, Arada said, “Something blocked Perihelion’s ability to scan the explorer. I bet we’re dealing with more alien remnant technology.”
+
+It’s probable, ART said. I don’t know what the humans heard, but I read deadly, furious calm. A variation on their ability to interfere with short-range drone scans.
+
+I saw from ART’s feed that the explorer was acquiring target lock. The DockSecSystem, trying to come fully online, sent a belated warning through the feed. We didn’t have time to get back to the lock, put on the EVAC suits, and return to ART. The explorer was in range and could fire on us at any moment. The dock wasn’t designed to be shot at but it was more protection than an EVAC suit. Besides, I hadn’t finished my review of the security video and we hadn’t checked the drop box and its maintenance capsule for physical evidence yet. On the feed, I said, ART, you know what you have to do.
+
+ART didn’t hesitate, or argue. It had gone through the same threat assessment I just had, except faster and a million percent more homicidal. It said, Try not to do anything stupid before I return.
+
+Just keep your stupid comm off, I told it. And I don’t want to hear about your superior filters.
+
+It was already gone.
+
+Overse was trying to call Arada but ART had cut off contact. Thiago turned to me urgently. “What’s happened?”
+
+“ART’s gone after the explorer. It’ll come back here for us when it’s … done.” I realized I had no real idea what ART actually planned to do. And with ART gone, I had no eyes on what was happening outside. Like if, for example, the explorer decided to blow up the dock.
+
+But I did have at least one human who knew what she was doing. “Overse, can you find a station with an exterior scan?” And okay, I only knew what it was called from shows about ships, like World Hoppers.
+
+Overse hesitated, her hand on her helmet where her comm access was. She was worried about Arada. Then she swallowed hard and forced herself past it. “Right. Thiago, did you see—”
+
+Thiago half-walked half-jumped down the wall toward another station. “Yes, it’s here.”
+
+While they were booting the station, I started my review of the security video again. It was patchy, with long sections dissolving into static. I’d reached the part where the DockSecSystem had recorded an ETA from the drop box. I forced myself to slow my review down by 40 percent so I wouldn’t miss any detail. Two humans wearing environmental gear in Barish-Estranza colors came out of the drop box foyer. [blank section] [patchy images of humans walking in the forward corridor] The SecUnit in position near the control area junction stepped forward. I couldn’t read any of its comm or feed traffic; DockSecSystem either hadn’t recorded it or had managed to lose it during one of its reload attempts. [patchy images of three more humans in the foyer] I slowed the video down further as one of the humans stepped up to the SecUnit. [patchy section] DockSecSystem caught a code, a stand down order. Then two Targets came out of the drop box foyer. [video cuts off, system reinitialize]
+
+That was an exhausting exercise in jaw-grinding frustration and I don’t even know if it had helped. All I’d done was confirm Supervisor Leonide’s story and we had been pretty sure she was telling the truth already.
+
+Overse had the exterior scan display up and she and Thiago stared at it unhappily. There was a lot of detail but basically the explorer had broken off when ART had fired on it. ART had missed, and I knew what that meant: it had decided to use our killware. There was still a non-negative chance that one or more members of its crew were aboard the explorer. If ART disabled the explorer, the Targets could hold them hostage. Taking the explorer from the inside out before it knew it was under attack was the best plan. It was sort of the only plan.
+
+I backburnered everything else and focused on the security video again. I skimmed past an infuriating nine minutes and twenty-seven seconds of nothing, then eight Targets ran past, heading down the forward corridor, interspersed with more blank video and patchy static. DockSecSystem caught another emergency code, probably from the SecUnit who had been ordered to stand down. DockSecSystem tried to alert the explorer’s Sec and HubSystem but recorded no response. From comparing timelines I knew this was when the SecUnit still aboard the explorer had sent its emergency message to the supply transport’s SecSystem, so somebody had received the warning.
+
+Thiago and Overse were still talking, worried, as I skipped past restarts and hours of empty corridors and what was at least a several-cycle gap in the timeline. There probably wasn’t anything else useful on here but I had to review it till the end to be certain.
+
+Then the static cleared and I saw a glimpse of a blue uniform passing out of frame.
+
+Overse said, “What is it, SecUnit?”
+
+I realized I had abruptly stepped back from the station. Overse sounded worried and I knew how she felt about being out of contact with Arada. But I was almost completely focused on the video now and my buffer said, “Please stand by, I need to verify an alert.”
+
+I slowed the video down, running it forward on one input while trying to pull coherent images from the static burst on the other. I cleaned up two images enough to get a recognizable view of four humans in blue clothing resembling ART’s crew uniform. They were blurry and I couldn’t increase the resolution, but one faced away from the drop box corridor. He had skin color in the dark brown range and a mostly hairless head, matching the images I had of one of ART’s crew members. It wasn’t an uncommon configuration for humans (some of the Barish-Estranza crew had it, too) but the chance that it was him was in the 80 percent range.
+
+Then on my other input, the video’s static fuzzed into clarity just as a smaller human sprinted past the foyer. The face was obscured but the color and the logo on the uniform jacket were clear.
+
+They were alive. All this time, I hadn’t believed it.
+
+I’d been humoring ART, not really admitting it to myself. Not wanting to think about how I was going to handle it when we found evidence its crew was dead, or if we found nothing at all and it faced the choice of staying in this system forever looking for them, or returning to its base alone. But they were alive. Or at least five of them were and five were better than none. And from the desperate running, they were escaping.
+
+I just hoped they’d made it out.
+
+(Overse had folded her arms, which was awkward in the enviro suit, so she unfolded them. Thiago asked her, “Why did it sound like that?”
+
+“That how it sounds when it uses a canned response, from the time it was working for—enslaved by—the company. It means it’s too busy to talk.” She added, “It never means anything good.”)
+
+I said, “It might be good,” and sent them both the images. “We need to check the drop box.”

@@ -1,0 +1,227 @@
+AdaCol2 picked the spot for the meeting. It was in an adjacent underground development, currently unused, which had apparently been storage for big things that the Pre-CR colony had needed, which weren’t there anymore. The Adamantine colonists used it for large building projects and recreational activities, anything that needed extra space. (If they were like other humans, recreational activities probably = throwing balls or sticks at each other really hard.) Because of that, in addition to being able to activate temporary life support inside the room, AdaCol2 had a couple of camera points in there (for collecting video of the recreational activities/ball throwing). It was actually a great spot, because if the B-E negotiator shot me, AdaCol2 would have video evidence of it, and it would hopefully make them look bad. As long as no one realized I was a SecUnit.
+
+(Okay, that sounds way worse than I mean it. It would take a special kind of weapon to shoot me in a way that would kill me immediately, in a way that a MedSystem couldn’t repair. The SecUnit with B-E Sub-Supervisor Dellcourt had one, but the two I had seen here had not carried any extra weapons, though both probably had an onboard projectile weapon like Three. Barish-Estranza hadn’t come here expecting to fight SecUnits or CombatBots or CombatUnits or anything else on that level, so it was unlikely the negotiator (or “negotiator” since we’re taking about a corporation) would walk in armed with something that was capable of delivering that kind of impact. If it actually turned out to be a trap, I guess they could have sent in one of their SecUnits, which would have been interesting because surprise, me too, and I honestly had no idea what would happen next.)
+
+(I told ART-drone that I suspected the separatist colonists would think both us and Barish-Estranza were pretty shitty, if the negotiation turned into a big SecUnit fight, regardless of who won.)
+
+(You’d win, ART-drone said.)
+
+(Yeah, well, normally, sure. It was basing that on my past performance stats. Right now I wasn’t angry enough for a good SecUnit fight. Mostly I was just tired.)
+
+The hatch at the corridor’s end was big and square, and had a sign and an old-fashioned feed marker in one of the languages the main site Adamantine colonists used, readable via Thiago’s translation module. It was a safety warning about checking the room to make sure it had good atmosphere before entering. There was a little monitoring readout beside it. Not as important for me, as I don’t have the same kind of breathing restrictions as a human or augmented human and would have plenty of time to walk out (stroll out, even) if the life support were cut off.
+
+Also, AdaCol2 was in control of the life support, and I kind of trusted it? Or was indifferent enough to what happened that it amounted to trust? (Yeah, I know, that doesn’t sound right.)
+
+As AdaCol2 opened the safety seal on the door for me, the overhead lights started to blink on. I sent ScoutDrone2 ahead to station itself up on the ceiling. Its video wove between the bands of shadow until it halted to focus on the entrance at the opposite end of the chamber.
+
+The hatch slid open and a human in a B-E environmental suit stepped through. ART-drone said, This is unfortunate. It’s Supervisor Leonide.
+
+You’re kidding me, I said, and at the same time Iris said, Who?
+
+ART-drone pulled my drone camera view and zoomed in for the humans. The chamber had already pressurized and the filtered air had a high quality rating. The approaching figure let the helmet of their suit fold down into a broad collar around their shoulders. I could see ART-drone was right, it was Leonide.
+
+When Supervisor Leonide had first spoken to Arada on the comm and then in person, I thought she looked as perfect as one of the humans who acted in the shows and serials, the ones that were made in the Corporation Rim, where nobody had any skin issues and their hair looked good even if it was messy. She still looked like that, though my drone video picked up subtle cosmetic enhancements to her brown skin, and her dark hair was coiled more to the back of her head now. She was still wearing the metallic chips and gems around her right ear; I didn’t even think any were feed interfaces, they were just for show.
+
+Back in the room, on ScoutDrone1’s video, Ratthi sat up straight, his eyes going wide. On the feed, he said, Oh shit.
+
+Alert to the fact that shit had just gone wrong but not how wrong, Iris asked, You’ve met this person before?
+
+Arada spoke with her, when we first encountered the B-E supply vessel, Ratthi replied. ScoutDrone1 watched him draw a hand down his face. In despair? Probably despair. An in-person meeting. SecUnit went with her.
+
+Tarik grimaced. Maybe she won’t recognize it.
+
+Leonide walked forward confidently, so I did, too. Just without the confidence. The floor was smooth with some kind of sealant over the stone, a little grit from dust grating under my boots. I folded my hood and faceplate back because it would be extremely suspicious at this point if I didn’t. I had engaged all my walk/stand-like-a-human code so maybe she wouldn’t recognize me. When she had seen me before I was wearing ART’s crew uniform, and my hair was flat, and she had been expecting to see a SecUnit. I was in an environmental suit now and Amena had made my hair fluffy (she was trying to make me feel better) and Leonide expected to see some random human. Risk assessment suggested I had a 63 percent chance of pulling this off.
+
+At 3.4 meters away, Leonide halted. I halted, too. Her forehead crinkled and she said, “I recognize you.” Her expression turned incredulous. “You’re the SecUnit.”
+
+Well, fuck risk assessment.
+
+In the room, the humans made various expressions and gestures but I didn’t think they were surprised.
+
+I could stand here and argue with Leonide about whether I was a SecUnit or not but I knew she was smart enough to see it as a stalling tactic. Also, I had nothing to stall for, this was pretty much it. I said, “I’m the SecUnit.”
+
+Her gaze flicked around, checking for the human supervisor who should be here. I don’t think she thought I was a rogue; if she had, I think she would have called for backup or tried to retreat. Her jaw set in a grim line. “Is this a threat?”
+
+I said, “Have you done something that you feel you should be threatened for?”
+
+Yes, I knew it was a mistake, I knew it instantly, just not instantly enough to shut my fucking mouth. Seriously, I’m coding at least a two-second delay right now. I pulled a secure feed connection with Iris and said, I fucked it up. What do I do?
+
+It was a mistake because the tension went out of Leonide’s shoulders and neck, her eyes narrowed, and my threat assessment spiked. Because, while she was afraid of a mindless killing machine, she wasn’t afraid of sarcasm. And if I was talking and being sarcastic, I wasn’t a mindless killing machine.
+
+Her voice dry, Leonide said, “This venture continues to be full of surprises.”
+
+Shitty, shitty surprises.
+
+Iris replied, You did not fuck up. You have a connection with her now, she thinks she knows you. Our goal is to find out what she’s going to do to get these people to leave here and hand themselves over to a corporation. Just keep her talking, see what she reveals.
+
+What Iris meant was that Leonide wouldn’t consider me a threat, not in the talking part, so she might let down her guard. Which, what the hell, maybe, anything’s possible.
+
+To Leonide, I said, “You could leave.” This would be easier if I was angry at her, but she was just a typical corporate supervisor. I could be angry at her, I guess, since she tried to take Arada prisoner. But since the thing that happened I don’t think I’ve had an emotion that wasn’t the visual equivalent of a wet blanket crumpled on a floor.
+
+Leonide didn’t appear to consider that suggestion seriously. “Why is the Preservation ship here? Has Mihira-Tideland offered Preservation a claim on the resources of this planet?”
+
+I didn’t know if she really thought that because I was a SecUnit I would be compelled to answer a question from a human, or if she just wanted to give it a try to make sure it wouldn’t be that easy. I said, “Preservation already has all the alien contamination it needs.”
+
+Via ScoutDrone1 in our rooms, I was watching Iris tell the others to not contact me directly now if they had a suggestion; she wanted all communication with me going through her feed connection because she didn’t want me distracted. I can’t be distracted with multiple inputs like a human (okay, I absolutely can, but I wasn’t going to be right now), but I appreciated the gesture.
+
+Leonide’s whole affect was skeptical. “Then what are you doing here? Why send a tool to what was supposed to be a negotiation between equal parties?”
+
+So her plan was also to get me to talk so I’d reveal our plans unintentionally. I had a feeling it wasn’t going to work out for either of us. Also on Sanctuary Moon, the Colony Solicitor will act skeptical when she questions people, because it makes the humans talk more, trying to convince her. I’d seen feed journalists do the same thing in interviews, so it was a real thing, not just for the show. It doesn’t work if you’d really rather not be talking at all. I said, “The University has a contract for sustainability evaluation and mapping with the Pan-Rim Licensing Agency and this system was listed as a priority.” It was the exact same answer Arada had given her, the last time she had asked that question.
+
+One of Leonide’s eyebrows tilted. Arada had done kind of a shit job with that whole negotiation, so maybe a callback to that wasn’t my best move. “And why is a SecUnit part of that evaluation? Aren’t your kind used only for enforcement and imprisonment and attack?”
+
+Unfair, considering she was exactly the kind of human who had made sure there was a market for us to be doing those things, and was actually here with two of her own SecUnits right now.
+
+I could have said I was a member of the Preservation Survey team on the responder or that I was part of Mensah’s staff, but that contradicted the other lies we had already told or implied to Leonide. The only thing that was keeping the stalemate between us and the B-E task group in balance was the University’s legitimacy and recognized authority with the other corporates that were signed up with the various licensing agencies the University did evaluations and testing for. If the B-E task group found out we were big liarheads, then they could claim we were raiders or that they thought we were raiders or whatever, and they might attack us. And they wouldn’t win.
+
+ART had run the numbers. Killing a whole bunch of humans and augmented humans, some of whom you had rescued previously, most of whom were just doing jobs they or their families had been indentured into, was not a great solution.
+
+From the rapid eye movement and grimaces going on in our room, the humans were trying to come up with an answer, too, just slower, because of organic brains.
+
+I said, “That’s proprietary information.” Not great, but all I could come up with before I ran out of time. Then I made it worse by attempting a counterattack. “You have two SecUnits with you. Why did you bring them here?”
+
+She did a sad smile thing with her mouth, like she gave a shit about SecUnits. It seemed out of character. “The only thing that can stop a SecUnit is another SecUnit.” Not true, actually, but it was like a rhetorical question, but not a question. Also a logic fallacy, or a logic something, since she hadn’t known there was another SecUnit here until just now. Before I could think of something else pointless, she added, “And what will that evaluation be? Is this planet still viable for a colony?”
+
+I was relieved by the change of subject for .05 seconds. In the room, Ratthi mouthed the word shit. Tarik was squeezing the bridge of his nose like he was trying to will something to happen. ART-drone hadn’t reacted but I could tell it was on a private feed with Iris. On our secure connection, Iris said, When the report is ready, it will be released to the colonists. Which was a good call, I had been about to lie and say it was great.
+
+Because it wasn’t great, that had been increasingly obvious. Ag-bots were vital to the survival of the colony and they kept turning up infected with the remnant contamination. It was still a possibility that there were other sites on this planet with possible contaminants.
+
+I said, “When the report is ready, it will be released to the colonists.”
+
+“Hmm.” Leonide folded her arms and looked down, paced a step to the side, like she was deep in thought. It looked performative. (I’d watched enough performances in my shows to know one when I saw one.) Performative like the sad smile. I thought it was meant for me, since her opinion of SecUnits’ intelligence could not be that high, let’s be real.
+
+(Since the thing happened, I had been relying a lot on threat assessment, which has a high success rate. But Leonide’s body language here was not threatening.)
+
+(I should have paid more attention to Iris’s body language, her increasingly worried expression, and the way she had folded her arms tightly. All three humans were alerting to something, some unconventional evidence of hostile behavior, that threat assessment was not set to pick up on.)
+
+(I’m going to have to code a patch for threat assessment.)
+
+Still playacting thoughtful, Leonide said, “Barish-Estranza’s evaluation has already concluded that this planet is not viable for continued inhabitation by any kind of colony. It could be a research center for the effects of alien contamination, certainly.”
+
+Uh. Yeah, I didn’t like that she’d mentioned that. The research center in the drop box station was one of the more feasible ideas for keeping corporates off the planet and giving the colonists more time to decide what they wanted to do. The colonists hadn’t been approached about it yet because without more muscle from the University, there was no way to make B-E agree to it.
+
+The humans didn’t like it, either. ART-drone said, Our comm and feeds are always secure. Barish-Estranza could have employed audio surveillance while our teams were in the field. It was pissed off.
+
+They could just be good guessers, Iris said. It’s a good idea, that’s why we thought of it. SecUnit, ask her if that’s Barish-Estranza’s intention.
+
+Yeah, I should have thought of that. “Is that Barish-Estranza’s intention?”
+
+“I think we both know that isn’t the case,” Leonide said. “It’s been clear to us since arriving here that the University, an institution that researches alien contamination and makes a great deal of profit off its evaluations, is planning to turn this planet into a testing laboratory—”
+
+Uh? “No. The University doesn’t own this planet. The colonists own it. That was in the Adamantine charter.” Probably not, we had no idea, because we didn’t have a copy of that charter. It was in the charter we were in the process of forging, to get the colony listed as an independent entity under the ownership of its inhabitants. Iris passed me an answer on the feed and I said, “The University submits evaluations for multimember licensing agencies for set fees. There’s no bonus for finding alien contamination. For any kind of ongoing research here, there would have to be a leasing and licensing agreement with the colonists.”
+
+But Leonide was talking over me, ignoring the smart answers Iris was giving me and saying, “Yes, the colonists own this useless, dangerous place. The University wants them to stay here, where they will be trapped, turned into laboratory subjects during the next outbreak. That’s the plan, isn’t it?”
+
+Threat assessment wasn’t spiking, but it should have been. I said, “No, that’s not the plan. That’s a stupid wrong plan.” The only response I could think of was that the evaluation and testing thing was also a cover for the University’s side business in freeing lost colonies from permanent indenture and exploitation by predatory corporations. Yeah, even I wasn’t stupid enough to say that out loud. “You’re the one with the plans.”
+
+Iris said grimly, I don’t know where she’s going with this.
+
+Leonide demanded, “Then why were you repairing the routers?”
+
+“Because humans need routers.” I mean, obviously. Also to fool Barish-Estranza into thinking we weren’t hoping to convince the colonists to evacuate as soon as ART’s backup ships arrived. I couldn’t say that, either.
+
+In background I was running Leonide’s body language through an analysis and it finally threw out some results: indications suggested she was talking to someone else, someone who wasn’t me. It wasn’t just a cultural bias: I’d watched her talk to Arada, this wasn’t the way she normally communicated with other humans. Was she acting this way because I was a SecUnit?
+
+Forcefully, emotion in her voice, she said, “The University needs the routers, to safely record the effects of alien contamination on the trapped population!”
+
+“We don’t need routers for that.” We could do that with pathfinders, if we— Oh shit. “That’s not true. You want to take the population away to indenture them in a mining colony.”
+
+“We’ve offered to transport these people to a viable living situation,” she corrected, making her voice do some emotional throbbing thing like she was upset.
+
+Despite the performance, that was contract language. The Corporation Rim’s legal definition of “viable” covers a lot of horrible territory, I had seen it over and over again in surveys and living conditions in work habitats.
+
+I didn’t know what to say. The research lab thing was true but it would help put the colonists in charge of the planet, to leave or stay however they wanted.
+
+I had the sick feeling that wasn’t going to happen.
+
+Performative emotions, my analysis said. With increasing intensity. Leonide had been performing, all along, but. But I wasn’t the audience. Shit. Oh, shit. AdaCol2’s cameras were active and she was performing to the one ten meters away, giving it her best angle.
+
+Okay, my brain works much faster than a human’s, right? It handles multiple inputs at one time. Especially under emergency conditions, it can be like the humans are moving in slow motion. That was still happening, Leonide was moving in slow motion, but I couldn’t fucking do anything about it. It was like a transport was slow-motion falling on me and no matter how fast I was I couldn’t get out from under it.
+
+ART-drone had access to my results and had come to the same conclusion I had, at about the same second. It said, Iris, SecUnit, I just deployed a targeted burst of interference to disrupt the camera feeds.
+
+Distracted, Iris said, I’m seeing one view from SecUnit’s drone. Is there—
+
+ART-drone said, The cameras installed by the colonists for viewing events in this space. They were watching this.
+
+Iris’s mouth opened but she didn’t say anything, aloud or on the feed.
+
+Ratthi said, But they wouldn’t believe it. Even the most naive corporate would realize Barish-Estranza’s motive—
+
+They aren’t corporates, Tarik said. He leaned back on the bed, like he was exhausted. Their parents and grandparents were corporates.
+
+That media that AdaCol2 had was either Pre-CR or from forty years ago. Their last contact with a corporation was from forty years ago. The adults who were in charge here now had no real idea what the Corporation Rim was like. There were probably older humans here who could tell them, maybe, depending on what that first contamination event at the main colony had done to the group’s general health and life expectancy. But would they listen? Did humans ever fucking listen to anybody—human, augmented human, bot, SecUnit—who was trying to tell them that they were in danger, that their world was about to fall apart?
+
+Leonide had paused, frowning as she listened to her feed. Someone must be telling her the cameras had been cut. She turned and started to walk out.
+
+Okay, now I hated her.
+
+Iris looked furious. SecUnit, I’m sorry, that was my fault. I should have realized what she was doing. I’m going off feed now, I’m going to try to contact Trinh.
+
+This was what Barish-Estranza wanted, this was why they wanted a negotiation. The colony leaders wouldn’t let them make their pitch so they made it this way. They had told the colonists here that the University meant to turn their colonies into a lab experiment and now everything we did and said was suspect. Trying to convince them to go away on ART and other University ships? We could be taking them off someplace to experiment on. B-E would offer an employment contract that would get them off the planet and look great right up until they got to the mines, or were dumped on a barely survivable planet to park it for more development later, or were subcontracted out to something worse.
+
+I walked out of the big chamber into the corridor, and just stood there.
+
+I wanted to kill every Barish-Estranza human here. I could do it.
+
+It wouldn’t help. They would just send more.
+
+We would have to give up, get on the shuttle, go back to the humans we still might be able to save at the main colony. I didn’t want to do that. I wanted to save these fucking humans, who hid underground and watched all this media with their kids and had no idea of the kind of danger they were in.
+
+I told ART-drone, We have to make them leave. We can’t let this happen to them.
+
+ART-drone said, We can’t force them. It’s against the University’s charter. It added, It is immoral.
+
+I said, It would be kinder to kill them.
+
+It would not. Not unless they were in physical extremity with no hope of medical intervention, and even then, they would have to agree to it. Would it have been kinder to kill you, before you disabled your governor module?
+
+I said, Yes.
+
+ART-drone said, You know I am not kind.
+
+In the room, Ratthi said, SecUnit, are you all right?
+
+I was so furious, and ART-drone was being stupid, and unfair, and right, and I wanted to smash something, mostly myself. You’d kill them if they tried to hurt your humans. Even having an emotional collapse, I knew saying that meant I’d lost the argument. Once we’d entered “this increasingly unlikely scenario which is not actually occurring in any way makes me right” territory, it was all over.
+
+Of course, ART-drone said. It poked me in the threat assessment module. And what is the probability of that, again, exactly?
+
+It’s such an asshole when it knows it’s winning. Fuck off, I told it. Okay, killing them to save them was the worst idea, I got that, I just wanted to say it, to have some kind of release for the buildup of rage and regret and this … despair at the fucking waste of it. And ART-drone had even ruined that for me.
+
+I wouldn’t give up, I couldn’t. We had to persuade them, I had no idea how. I wish Me 2.0 had survived for a lot of reasons, but specifically right now I wished it had survived because I suspected it would be really good at this. It had persuaded Three to disable its governor module and help it rescue a bunch of humans from the Targets. On TranRollinHyfa, I’d offered to hack a CombatUnit’s governor module and it had just tried to kill me even harder. On RaviHyral I’d hacked a ComfortUnit and turned it loose, and for all I knew it might be out rampaging around wiping out whole stations, but okay, the chances were against that. I’m just saying, this is not something where you can guarantee a result, with humans or constructs.
+
+Me 2.0 had used my private files, something I had never tried before. But Three had made the decision to read the files and to use my code to disable its governor module. It could have made a different decision after that, and killed all the humans the Targets were holding prisoner, instead of retrieving them to take to ART.
+
+Me 2.0 had persuaded Three to make a decision that was difficult and dangerous for it and that changed Three’s whole … everything, all of its existence. It had made the difference between survival and death for ART’s crew and the other captured humans. How the fuck had it done that? Just with my files?
+
+Dr. Bharadwaj was making a documentary about SecUnits and constructs, trying to convince humans to not be shitty to us. I had the sections that were completed so far in my archive, but that wasn’t what we needed. We needed something to show the humans what Barish-Estranza was like, what it would be like for them, signing a contract that took their lives away. That made them as much prisoners as SecUnits were, but more disposable, and without any bond companies to get mad because you destroyed their property.
+
+I started searching my archive, looking for everything I had on what corporations did to humans. I had a lot of clips from Preservation media, both documentary news and fiction, but I knew it wasn’t persuasive by itself, not unless you already knew what the Corporation Rim was like.
+
+I dug deep, looking for my oldest vids. Everything before I’d disabled my governor module had been deleted in memory wipes, so what I had was fairly recent. Again, I had clips of work camps, mining installations, groups of contract workers, excerpts from reports, segments from newsfeeds, the time the worker had almost fallen into the collector, but most of it didn’t have context, there was nothing to pull it together. It was just a lot of random data and video.
+
+ART-drone could probably come up with exactly what we needed; there had to be anti-corporate documentaries in ART’s archives. But ART-drone couldn’t access ART’s archives here in the blackout zone. Did we have time to leave and come back? I didn’t even know.
+
+This was so fucking frustrating.
+
+I looked again at what Me 2.0 had done, hoping for a clue. It hadn’t shown Three just raw data, it had shown it my curated logs. I could probably reproduce what it had done, if I wanted to convince the humans to disable the governor modules they didn’t have. Though really, parts of this were sort of relevant …
+
+It’s the format. No, not really. It’s what you do with the format.
+
+(While this was happening, weird shit was going on in my organic parts. Like, a sweat broke out on my organic skin. I would think I was heading for another emotional breakdown, but my performance reliability had started a slow, steady climb. It would have been more frightening, but my performance stats were close to what they looked like when something unexpected but interesting and exciting happened in some really good media. I had taken snapshots of my internal diagnostic processes during my first time through watching Sanctuary Moon, and a brief comparison showed this didn’t match exactly, but it was very close.)
+
+(In the room, Iris tried to get Trinh to talk to her on the comm while Ratthi and Tarik tried to get me to respond. AdaCol2 tried to ping me. ART-drone told them all to wait.)
+
+I pulled my archive of conversations with Dr. Bharadwaj, how she and Mensah had talked about the fact that they knew how constructs were made and used before they met me, but it wasn’t until they interacted directly with me that they had really understood what it meant. That’s why Bharadwaj thought it was so important for me to be in the documentary. She said I had to tell my story. Which I knew, already, sort of. It’s not just the data that has to be correct, but the way that you present it has to feel right, be right. I’d learned that the hard way, trying to convince humans to not do stupid things and get themselves killed.
+
+It was obvious that media could change emotions, change opinions. Visual, audio, or text media could actually rewrite organic neural processes. Bharadwaj had said that was what I’d done with Sanctuary Moon: I’d used it to reconfigure the organic part of my brain. That it could and did have similar effects on humans.
+
+I had to make media to tell a story to these humans. Not my story, and not just me talking. I had to tell their story, the story of what would happen to them if they said yes to Barish-Estranza. It would technically be fiction, but the kind of fiction that was true in all the ways that mattered.
+
+I realized I was sitting in a huddle on the floor, my face buried in my hands. When I looked up, ART-drone said, What happened? I didn’t want to interrupt while your stats indicated a positive development.
+
+I said, I had an idea, and put together a brief synopsis of my conclusion and how I’d gotten there, and sent it into our shared processing space. We need media, visual, audio—we’ll need music—and text. We had to hit them with everything.
+
+I wasn’t sure it would understand; ART doesn’t experience media the way I do.
+
+But ART-drone said, Interesting. We need to consult the humans.

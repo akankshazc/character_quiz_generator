@@ -1,0 +1,113 @@
+ONE LAST THUMP ON the barrier told me the Combat SecUnit wasn’t happy about losing. My organic parts felt quivery, I had shrapnel stuck all over me, but I was still at 83 percent performance reliability. (It’s good there’s not a separate statistic for my mental performance reliability because I don’t think even I would rate it as all that great at the moment.)
+
+Gurathin knelt beside an open maintenance floor panel next to the gate, tools scattered around, and Ratthi held a light for him. The panel was painted with an emergency feed marker label that in a selection of different languages read Manual Release. I didn’t even know they had those in ports. I’m a SecUnit, not an engineer.
+
+Our shuttle slot was six locks down, glowing emergency lighting showing me Mensah standing beside it holding a small energy weapon. Why the hell did she have that? Oh, because although a security barrier had dropped in the other gate at the end of this section, a small crowd of humans had been trapped here and stood back against the stationside bulkhead.
+
+We needed to get out of here before somebody convinced PortSec to get those barriers up.
+
+I shoved up and my knee joint started to give way. I staggered and Ratthi ran up to me. He hesitated, waving his hands. “Do you mind if we help—”
+
+I gripped his shoulder to stay upright and tried not to fall on him. I was fairly sure the joint had been hit by shrapnel from drones destroyed in the air, as a direct hit would have taken my leg off. Gurathin ran to shoulder my other arm and we limp-ran awkwardly to the shuttle.
+
+Mensah jerked her head to tell us to go in first while she covered our retreat. Arguing with her would be stupid, but it was hard to override that programming. We went through the hatch and then she backed in after us. She cycled the lock closed and yelled, “Pin-Lee, we’re clear!”
+
+Thumps vibrated through the deck as the shuttle pushed away from the lock. I pulled away from Ratthi and Gurathin, who climbed out of the way so Mensah could step past us and up to the cockpit. It was a small ship-to-ship shuttle, with only one compartment with seating along the bulkheads, and a cubby for emergency supply storage and a restroom. I had ridden in this exact model of shuttle before, on contract.
+
+My knee joint gave out and I collapsed on the deck. I’d tuned my pain sensors down, but maybe too much. I said, “Ratthi, I really need you to get this shrapnel out of my knee joint.”
+
+Ratthi leaned over me. “Can it wait? There’s a MedSystem on the ship.”
+
+I could already feel the company systems at the edge of my feed, recognizing me, wanting in. I accessed the shuttle’s cameras, fought a brief battle with ShuttleSecSys, and started deleting everything that had been recorded since the Preservation team boarded. Ratthi was being an optimist again. On the company ship, it wouldn’t be a MedSystem, it would be a cubicle. “It absolutely cannot wait,” I told him.
+
+Ratthi dropped to the deck beside me and yelled for Gurathin to bring the shuttle’s emergency kit.
+
+In the cockpit, Pin-Lee was monitoring the bot pilot while Mensah stood beside her. A warning from station Port Authority set off a comm alarm. “What is it?” Pin-Lee asked.
+
+Mensah’s expression was hard with fury. “An ‘unnamed corporate resident’ has just launched a ship and it’s on an intercept course with us.”
+
+Pin-Lee said something really filthy that wasn’t supposed to be in my language base. “Guess which corporate resident.”
+
+They thought it was GrayCris, but I’m pretty sure it would be a Palisade ship, contracted by GrayCris. Ratthi got the scalpel and extractor out of the emergency kit. With Gurathin leaning over his shoulder, he opened the organic material just above my damaged knee joint to reach the shrapnel.
+
+A Palisade ship could catch the shuttle and board it. The last thing I wanted was to ask the company gunship for help. The last thing I wanted was for GrayCris to catch us. The two last things were incompatible. It was time to stop fucking around. I accessed comm and secured a feed channel to the company gunship.
+
+I sent, System System.
+
+I had three seconds to wonder if the company interface would still acknowledge me. I’d gotten to the bot pilot earlier, but that was a partial hack. This time I was going to the front door. Then I heard, Acknowledge.
+
+I sent: Active, hazardous retrieval in progress, bonded clients, go go go go.
+
+The reply was Received and the shuttle’s bot pilot reported that the gunship had just rotated toward us.
+
+As Ratthi extracted the projectile from my knee joint, I watched the sensors.
+
+The gunship accelerated. I couldn’t tell if it was communicating with the GrayCris intercept or not. Then Shuttle’s sensors picked up the energy signature that meant the gunship was powering up primary weapons. Oh yeah, they were communicating all right.
+
+Ratthi tried to use wound sealant to close the hole in my organic tissue, but it wouldn’t take because of the proximity of my inorganic joint. I was going to leak for a while. “Are you okay?” he asked, watching me worriedly.
+
+Gurathin sat on the bench, frowning at me.
+
+“Not really,” I said.
+
+Sensors showed that the Palisade ship had changed course and slowed. The view wavered as the gunship snatched us in passing and began to curve away from the station. The shuttle shivered as the hull closed around us. I grabbed the bench and started to climb to my feet.
+
+Ratthi said, “Careful, careful. You don’t want to reopen—Oh, it’s still bleeding, sorry—”
+
+Still frowning, Gurathin said, “They can’t take you away from us. Dr. Mensah will not allow it.”
+
+The lock was cycling and Mensah stamped back through the shuttle, barefoot and mad. She handed her energy weapon to Gurathin, who shoved it into the shuttle’s emergency kit.
+
+As the hatch opened, Mensah pushed forward in front of me.
+
+Standing in the opening was a figure in a powered suit. It was an augmented human, not a SecUnit, but the gun was big enough.
+
+Mensah planted her hands on either side of the hatch, making it clear they would have to come through her to get inside. “We are bonded clients, and this is my personal security consultant. Is there a problem?”
+
+A crew member peered out from behind the suit and said, “Dr. Mensah, SecUnits are not allowed aboard armed transports, unless there are special circumstances. It’s … too dangerous.”
+
+Mensah said, “These are special circumstances.” Her voice was icy.
+
+Nobody moved. The ship’s secured feed activity went frantic for seven minutes that felt like thirty. (And the way I experience time, that’s a lot.) (Yes, I started some media in background.) The gunship’s bot pilot pinged me curiously. Active SecUnits are never carried on gunships because they’re right, it’s too dangerous; we’re shipped on unarmed transports as cargo. The bot pilot had communicated with SecUnits over the feed on missions, but it had never had one aboard before.
+
+Then the comm activated and a voice said, “Dr. Mensah, this is the ship’s combat supervisor. I’ve been asked to secure a bond to guarantee safety aboard this ship.”
+
+Ratthi objected, “What? We already have a bond.”
+
+The comm clarified, “This bond is required when bringing an unsecured deadly weapon aboard an armed company transport.”
+
+Yes, that’s me they’re talking about. It would have been more funny if I hadn’t been leaking onto the deck.
+
+Pin-Lee’s voice was somewhere between furious and incredulous. “Are they serious? Right, never mind, that was a stupid question, of course they’re serious.” She turned as Gurathin handed her their bag. She muttered, “How much do these fuckers want now?”
+
+She was right, they were fuckers. Not that I hadn’t known that before, but it was just harder to take now. I tapped my private feed connection to Mensah and said, I can take over this ship.
+
+Mensah replied, No, there’s no need, we can pay them.
+
+We shouldn’t have to. We don’t have to . The bot pilot was curious and friendly, but it was no ART, it couldn’t stop me. I could take over the ship’s SecSystem before this human with the temptingly large familiar projectile weapon could blink. I could get that weapon before that human could blink. I wanted to do it, and it bled through into the feed.
+
+Mensah turned, gripped the collar of my jacket with both hands, and said, “No.”
+
+Everyone got quiet. Ratthi and Gurathin, Pin-Lee still fishing in the bag for hard currency cards, the crew outside the hatch, the voice on the comm. I suddenly needed to see Mensah’s face and I dropped the shuttleSec camera views and looked down at her.
+
+She looked mad and exhausted, which was exactly the way I felt. I sent, You have no idea what I am.
+
+She tilted her head and looked more mad. I know exactly what you are. You’re afraid, you’re hurt, and you need to calm the fuck down so we can get through this situation alive.
+
+I said, I am calm. You need to be calm, to take over a gunship.
+
+Mensah’s eyes narrowed. Security consultants don’t get their clients into unnecessary pitched battles for control of their rescue ship . She added, Because that would be stupid.
+
+She wasn’t afraid of me. And it hit me that I didn’t want that to change. She had just been through a traumatic experience, and I was making it worse. Something was overwhelming me, and it wasn’t the familiar wave of not-caring.
+
+Fine, I sent. I sounded sulky, because I was sulky.
+
+I hate emotions.
+
+“Good,” she said aloud. “Pin-Lee, do we have the money for this idiotic unnecessary bond?”
+
+“Yes.” Pin-Lee waved a handful of hard currency cards. “If that’s not enough, I have our account info, I can transmit an authorization—”
+
+Mensah finished glaring at me and turned around. The crew who had just watched her face down a rogue SecUnit, in person and via the powered armor’s helmet cam, stared wide-eyed. She said, “Since we are bonded clients, may we come aboard while we settle our bill?”
+
+There was a hesitation, then the comm said, “Please come aboard, Dr. Mensah.”

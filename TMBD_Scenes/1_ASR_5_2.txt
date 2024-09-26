@@ -1,0 +1,71 @@
+It may seem weird that Mensah was the only human to think of abandoning the habitat while we waited for the beacon to bring help, but as I said before, these weren’t intrepid galactic explorers. They were people who had been doing a job and suddenly found themselves in a terrible situation.
+
+And it had been hammered into them from the pre-trip orientation, to the waivers they had to sign for the company, to the survey packages with all the hazard information, to their on-site briefing by their SecUnit that this was an unknown, potentially dangerous region on a mostly unsurveyed planet. They weren’t supposed to leave the habitat without security precautions, and we didn’t even do overnight assessment trips. The idea that they might have to stuff both hoppers full of emergency supplies and run for it, and that that would be safer than their habitat, was hard to grasp.
+
+But when Pin-Lee and Gurathin shut down HubSystem, and Volescu unpacked the satellite download that was meant for me, they grasped it pretty quick.
+
+Bharadwaj outlined it for us on the comm while I was getting my last extra suit skin and my armor back on. “It was meant to take control of SecUnit, and the instructions were very specific,” she finished. “Once SecUnit was under control, it would give them access to MedSystem and SecSystem.”
+
+I got my helmet on and opaqued it. The relief was intense, about even with finding out that the combat override module had been removed. I love you, armor, and I’m never leaving you again.
+
+Mensah clicked onto the comm. “Pin-Lee, what about the beacon?”
+
+“I got a go signal when I initiated launch.” Pin-Lee sounded even more exasperated than usual. “But with HubSystem shut down, I can’t get any confirmation.”
+
+I told them over the feed that I could dispatch a drone to check on it. A good beacon launch was pretty important right now. Mensah gave me the go-ahead and I forwarded the order to one of my drones.
+
+Our beacon was a few kilos away from our habitat site for safety, but I thought we should have been able to hear it launch. Maybe not; I had never had to launch one before.
+
+Mensah had already got the humans organized and moving, and as soon as I had my weapons and spare drones loaded, I grabbed a couple of crates. I kept catching little fragments of conversation over the security cameras.
+
+(“You have to think of it as a person,” Pin-Lee said to Gurathin.
+
+“It is a person,” Arada insisted.)
+
+Ratthi and Arada sprinted past me carrying medical supplies and spare power cells. I had extended our drone perimeter as far as it could go. We didn’t know that whoever hit DeltFall would show up at any second, but it was a strong possibility. Gurathin had come out to check the big hopper and the little hopper’s systems, to make sure no one other than us had access and that HubSystem hadn’t messed with their code. I kept an eye on him through one of the drones. He kept looking at me, or trying not to look at me, which was worse. I didn’t need the distraction right now. When the next attack came, it was going to be fast.
+
+(“I do think of it as a person,” Gurathin said. “An angry, heavily armed person who has no reason to trust us.”
+
+“Then stop being mean to it,” Ratthi told him. “That might help.”)
+
+“They know their SecUnits successfully gave our SecUnit the combat module,” Mensah was saying over the comm. “And we have to assume they received enough information from HubSystem to know we removed it. But they don’t know that we’ve theorized their existence. When SecUnit cut off HubSystem’s access, we were still assuming this was sabotage from the company. They won’t realize we know they’re coming.”
+
+Which is why we had to keep moving. Ratthi and Arada stopped to answer a question about the medical equipment power cells and I shooed them back to the habitat for the next load.
+
+The problem I was going to have is that the way murderbots fight is we throw ourselves at the target and try to kill the shit out of it, knowing that 90 percent of our bodies can be regrown or replaced in a cubicle. So, finesse is not required.
+
+When we left the habitat, I wouldn’t have access to the cubicle. Even if we knew how to take it apart, which we didn’t, it was too big to fit in the hopper and required too much power.
+
+And they might have actual combat bots rather than security bots like me. In which case, our only chance was going to be keeping away from them until the pick-up transport arrived. If the other survey group hadn’t bribed somebody in the company to delay it. I hadn’t mentioned that possibility yet.
+
+We had everything almost loaded when Pin-Lee said on the comm, “I found it! They had an access code buried in HubSystem. It wasn’t sending them our audio or visual data, or allowing them to see our feed, but it was receiving commands periodically. That’s how it removed information from our info and map package, how it sent the command to the little hopper’s autopilot to fail.”
+
+Gurathin added, “Both the hoppers are clear now and I’ve initiated the pre-flight checks.”
+
+Mensah was saying something but I had just gotten an alert from SecSystem. A drone was sending me an emergency signal.
+
+A second later I got the drone’s visual of the field where our beacon was installed. The tripod launching column was on its side, pieces of the capsule scattered around.
+
+I pushed it out into the general feed, and the humans went quiet. In a little voice, Ratthi said, “Shit.”
+
+“Keep moving,” Mensah said over the comm, her voice harsh.
+
+With HubSystem down, we didn’t have any scanners up, but I had widened the perimeter as far as it would go. And SecSystem had just lost contact with one of the drones to the far south. I tossed the last crate into the cargo hold, gave the drones their orders, and yelled over the comm, “They’re coming! We need to get in the air, now!”
+
+It was unexpectedly stressful, pacing back and forth in front of the hoppers waiting for my humans. Volescu came out with Bharadwaj, helping her over the sandy ground. Then Overse and Arada, bags slung over their shoulders, yelling at Ratthi behind them to keep up. Guranthin was already in the big hopper and Mensah and Pin-Lee came last.
+
+They split up, Pin-Lee, Volescu, and Bharadwaj headed for the little hopper and the rest to the big one. I made sure Bharadwaj didn’t have trouble with the ramp. We had a problem at the hatch of the big hopper where Mensah wanted to get in last and I wanted to get in last. As a compromise, I grabbed her around the waist and swung us both up into the hatch as the ramp pulled in after us. I set her on her feet and she said, “Thank you, SecUnit,” while the others stared.
+
+The helmet made it a little easier, but I was going to miss the comfortable buffer of the security cameras.
+
+I stayed on my feet, holding on to the overhead rail, as the others got strapped in and Mensah went up to the pilot’s seat. The little hopper took off first, and she gave it time to get clear before we lifted off.
+
+We were operating on an assumption: that since They, whoever They were, didn’t know that we knew They were here, They would only send one ship. They would be expecting to catch us in the habitat, and would probably come in prepared to destroy the hoppers to keep us there, and then start on the people. So now that we knew They were coming from the south, we were free to pick a direction. The little hopper curved away to the west, and we followed.
+
+I just hoped their hopper didn’t have a longer range on its scanners than ours did.
+
+I could see most of my drones on the hopper’s feed, a bright dot forming on the three dimensions of the map. Group One was doing what I’d told them, gathering at a rendezvous point near the habitat. I had a calculation going, estimating the bogie’s time of arrival. Right before we passed out of range I told the drones to head northeast. Within moments, they dropped out of my range. They would follow their last instruction until they used up their power cells.
+
+I was hoping the other survey team would pick them up and follow. As soon as they had a visual on our habitat they’d see the hoppers were gone and know we’d run away. They might stop to search the habitat, but they also might start looking for our escape route. It was impossible to guess which.
+
+But as we flew, curving away to the distant mountains, nothing followed us.

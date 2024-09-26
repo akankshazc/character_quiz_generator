@@ -1,0 +1,81 @@
+So that’s where I was, figuratively in an uneasy truce with Station Security, when Mensah had gotten the call that a dead human had been found in the station mall.
+
+(She had pressed her hands down on her desk and said, “Could this be it?”
+
+She meant the GrayCris attack we had been waiting for. Without access to surveillance I felt so useless. “Maybe.”
+
+Her face made a complicated grimace. “I almost hope it is. Then at least we could get it over with.”)
+
+And now I was literally standing over a dead human.
+
+Tech Tural was back, and two other techs were lurking out in the Trans Lateral Bypass, running analysis via the feed and ineffectively poking databases. Mensah headed back to her council office, with her two assistants and the task group of drones I had assigned to her. Since there were no station cameras in the corridors (which, if there were, I have to point out, we’d know who had killed the dead human—excuse me, the deceased) I had sort of built my own surveillance network using my intel drones.
+
+(I had promised not to hack Station systems. Nobody had said anything about not setting up my own systems.)
+
+“No ID report yet,” Tural was telling Indah.
+
+Indah wasn’t pleased. “We need that ID.”
+
+Tural said, “We tried a DNA check but it didn’t match anyone in the database, so the victim isn’t related to approximately 85 percent of Preservation planetary residents.”
+
+Indah stared at Tural. So did I, with my drones. Was that supposed to be a result?
+
+Tural cleared their throat and forged on, “So we’re going to have to wait for the body scan.”
+
+DNA sampling in the Preservation Alliance was voluntary and no samples were taken from arriving travelers. There were too many ways to spoof DNA-related ID checks so most places I knew of, at least in the Corporation Rim, didn’t use it as a form of verifiable ID. Full body scans were more accurate, not that they couldn’t be fooled, too. Example A: me.
+
+Indah stared at me in a challenging “let’s see what all you’ve got” way. Indah did not actually want to see what all I got so I just asked Tural, “Have you done a forensic sweep?”
+
+“Yes.” Tural didn’t look like I’d asked anything strange, so I must have used the right words. Note to self: forensic sweep is not just a media term for it. “I’ll send you the report when it’s ready.”
+
+It was too bad they’d already done it, I wanted to see what it looked like for real instead of just in my shows. “Do you have the raw data files? I can read those.”
+
+Tural looked at Senior Officer Indah, who shrugged. Tural sent me the data files via the feed and I ran them through a quick analysis routine. There was a lot of stray contact DNA in the junction, caused by so many humans coming through here and touching stuff. (Humans touch stuff all the time, I wish they wouldn’t.) But the presences and absences of contact DNA on the body told an odd story. I said, “The perpetrator used some kind of cleaning field after the attack.”
+
+Indah had just turned away to say something to one of the other officers. She turned back, and Tural looked startled. “You can tell that from the data?”
+
+Well, yeah. Processing raw data and pulling out the relevant bits was a company specialty and I still had the code. “There’s an unusual lack of contact DNA on the deceased’s clothes.” Samples from the deceased, the two humans who had found the deceased, and the first responder medical team had been included in the comparison file; the latter two groups of samples were present on the deceased’s clothes, just like you would expect. But the deceased’s own sample was not present. The clothes were as clean as if they had just popped out of the recycler or a sterilization unit. So therefore … Right, you get it. I turned my analysis into a human-readable form and sent it back to Tural and Indah.
+
+Tural blinked and Indah’s gaze went abstract as they both read it. That was going to take a while so I crouched down to look at the body’s obvious wound. (There could be others, and this wasn’t necessarily the cause of death; we wouldn’t know that until they took the deceased to a MedSystem with a pathology suite.)
+
+It was in the back of the human’s head, near the base of the skull. All I could tell from a visual was that it was a deep wound, with no exit point. No sign of cauterization. And there should be more blood and brain matter on the floor plates. “If this was the cause of death, the deceased wasn’t killed here.”
+
+“That we knew,” Indah said, her voice dry. She glanced at Tural and said, “We need a search for what kind of cleaning tools could remove contact DNA and which ones are available on station. Particularly the ones that are small enough to conceal in a pocket or bag.”
+
+It’s too bad we don’t trust the SecUnit who is an expert at running those kinds of searches. Just to be an asshole, I said, “The tool could have been brought in from off-station.”
+
+She ignored me.
+
+Tural made notes in their feed, then said, “Even without the contact DNA, the clothes should tell us something. They’re distinctive.”
+
+You might think that. The deceased was wearing a knee-length open coat over wide pants and a knee-length shirt, which wasn’t an uncommon combination as human clothing goes, but the colors and patterns were eye-catching. It might have been a clue leading to planetary or system origin, or at least suggest a place that the deceased had visited recently. But the chances were that it wasn’t. I said, “Not necessarily. You can get clothes like this in the automated shops in some station malls in the Corporation Rim. If you pay extra, you can get whatever color you want and design a pattern.” I knew this because my dark-colored pants, shirt, jacket, and boots had come from a place like that and I’d found it really annoying that the Preservation Station mall didn’t have one. Most of the station’s clothing supply came from the planet, where human-hand-made clothing and textiles were so popular there was hardly any recycler-produced fabric. (I told you Preservation is weird.)
+
+Tural said, “I didn’t know that.” They leaned in with the scanner and took a tiny sample from the deceased’s coat.
+
+Indah’s frown had deepened. She said, “So the clothes could indicate cultural origin, or have been chosen to blend in on some other station or system. Or just be a fashion whim.”
+
+Don’t look at me like that’s my fault. I’m just telling you shit I know.
+
+Tural studied the fabric analysis report. “You’re right, this is recycler fabric. It could have come from a store like that.”
+
+“Or a transport.” They both stared at me. I said, “Some transports have very sophisticated onboard recyclers.”
+
+Indah pressed her lips together. Look, I know I wasn’t narrowing it down, but you have to consider all possibilities. She said, “Can the clothes tell us anything?”
+
+Well, sure. “The deceased wasn’t afraid of being noticed. Or they wanted to look like they weren’t afraid of being noticed. They wanted to look like a visitor.” Humans from the planet wore all kinds of things, but on the station the most common were the work/casual pants, short jacket, and a short or long shirt or tunic, and the more formal long robes or caftans in solid colors with patterned trim. Bright multicolored patterns like this were unusual enough to stand out. “There are two ways to move through station transit rings if you’re afraid someone’s watching for you. You can try to fade into the background, which is much easier to do if there’s a crowd. You can also make yourself look distinctive, like someone who isn’t worried about being seen.” I would never have been able to pull it off. But an actual human with actual human body language who didn’t have to worry about the energy weapons in their arms pinging weapons scanners might. “You have to be ready to change out your clothes and appearance. You would always need to look like you came from somewhere else.” Which was easy enough to do on big stations with lots of automated shops.
+
+Tural’s expression had gone from frustrated to thoughtful and even Indah looked speculative. Tural said, “Medical should check to see if this person’s skin or hair color was altered recently.”
+
+Indah looked down at the body. “Hmm. If I saw this person swinging along the walkway, I’d think they were a legitimate visitor and not give them a second thought.”
+
+Uh-huh, and that’s why I needed to oversee Mensah’s security. I said, “You need a travel bag, too.” It sounded facetious, but it really was important. If this human’s distinctness had been a disguise, they needed a bag. A bag implied you had somewhere to go, it helped you fit in. I checked the images my drones had collected of the area surrounding this junction, but there was no stray discarded bag. “If the idea was to look like a visitor, there should be a bag.”
+
+“Can’t hurt to look.” Indah stepped back and said into her comm, “I need a check of the immediate area, and a station-wide check at lost-and-found depots. We’re looking for anything resembling a travel bag.” She paused to listen to her feed and added, “Pathology is here. We need to get out of the way.”
+
+Tural asked, “Can I take the broken interface for analysis? The scene’s been scanned and position-mapped.”
+
+Indah nodded. “Take it.”
+
+Tural hesitated, glanced at me, but Indah told me, “That’s enough for now. We’ll call you if we need you.”
+
+I know a “fuck off” when I hear one. So I fucked off.

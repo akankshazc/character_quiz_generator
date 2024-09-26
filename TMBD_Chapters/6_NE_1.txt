@@ -1,0 +1,159 @@
+I’ve had clients who thought they needed an absurd level of security. (And I’m talking absurd even by my standards, and my code was developed by a bond company known for intense xenophobic paranoia, tempered only by desperate greed.) I’ve also had clients who thought they didn’t need any security at all, right up until something ate them. (That’s mostly a metaphor. My uneaten client stat is high.)
+
+Dr. Arada, who is what her marital partner Overse calls a “terminal optimist,” was somewhere in the comfortable middle zone. Dr. Thiago was firmly in the “Let’s investigate the dark cave without that pesky SecUnit” group. Which was why Arada was pressed against the wall next to the hatch to the open observation deck with her palms sweating on the stock of a projectile weapon and Thiago was standing out on said observation deck, trying to reason with a potential target. (That’s “potential” per the earlier conversation where Dr. Arada said Oh SecUnit, I wish you wouldn’t call people “targets” and Thiago had given me the look that usually means It just wants an excuse to kill someone.)
+
+But then, that was before the Potential Targets started to brandish their own large projectile-weapon collection.
+
+Anyway, those are the kind of things I think about while I’m swimming under a raider vessel that’s attempting to board our sea research facility.
+
+I swam out from under the stern, careful to avoid the propulsion device. I broke the surface quietly, stretched and caught the railing, and pulled myself up. The daylight was bright, the air clear, and I felt exposed. (Why couldn’t the stupid raiders attack at night?) I had drones in the air, giving me camera views of both decks of this stupid boat, so I knew this part of the stern was empty.
+
+The superstructure above me was triangular, angled back in a way to make it faster or something, I don’t know, I’m a murderbot, I don’t give a crap about boats. The upper deck wrapped around the bow where the forward weapon emplacement was. It gave the stupid boat a lot of blindspots, which were someone else’s security nightmare. It was more sophisticated than the other boats we’d seen on this survey, with better tech.
+
+Of course that just made it vulnerable.
+
+I was also monitoring our outer perimeter and the scattered islands surrounding us, in case this was a distraction and there was a second boarding attempt planned. And of course I had a camera on the unfolding shitshow on the observation deck.
+
+Thiago stood out there nearly four meters from the hatchway, not even wearing his protective gear, very much like a human who didn’t trust his SecUnit’s situation assessment. The apparent leader of the Potential Targets stood at the edge of the deck, barely three meters away, casually pointing a projectile weapon at Thiago. I was more worried about the six other Potential Targets scattered around on the stupid boat’s bow deck, and the nozzle of the weapon mounted above the bow deck currently trained on the upper level of our facility.
+
+Some of the Potential Targets weren’t wearing helmets. There’s a thing you can do with these small intel drones (if your client orders you to, or if you don’t have a working governor module), when the hostiles are dumb enough to get aggressive without adequate body armor. You can accelerate a drone and send it straight at the hostile’s face. Even if you don’t hit an eye or ear and go straight through to the brain, you can make a crater in the skull. Doing this would solve the problem and get me back to new episodes of Lineages of the Sun much more quickly, but I knew Arada would make a sad face at me and Thiago would be pissed off. I would probably have to do it anyway. Unfortunately, Potential Target Leader was wearing a helmet.
+
+(Thiago is a marital partner of Dr. Mensah’s brother, which is why I gave a crap about his opinion.)
+
+Also, I had no intel yet on how many hostiles were inside the boat where the controls to the large weapon were. Prematurely eliminating the visible targets (excuse me, potential targets) on deck might just tip us out of incipient shitshow into full-on shitshow.
+
+There was sort of a chance that Thiago might actually talk our way out of this. He was great at talking to other humans. But I had a drone waiting just inside the hatchway with Arada. (Overse would be upset if I let her marital partner get killed, and I liked Arada.)
+
+Still managing to sound calm despite everything, Thiago said, “There’s no need for any of this. We’re researchers, we’re not doing anything to hurt anyone here.”
+
+Potential Target Leader said something that our FacilitySystem translated through our feed as, “I showed you I’m serious. We’ll take what we want, then leave you in peace. Tell the others to come out.”
+
+“We’ll give you supplies, but not people,” Thiago said.
+
+“If you have nice supplies, I’ll leave the people.”
+
+“You didn’t have to shoot anyone.” Heat crept into Thiago’s voice. “If you needed supplies, we would have given them to you.”
+
+Don’t worry, the “anyone” who got shot was me.
+
+(Thiago, while violating the security protocol everyone agreed to IN ADVANCE, had walked out to the observation deck to greet the strangers on their stupid boat. I followed and pulled him back from the edge, and so Potential Target Leader shot me instead of him. Got me right in the shoulder. I managed to fall off the observation deck and miss the water intake. Yes, I was pissed off.
+
+“SecUnit, SecUnit, are you there—” Overse, in the facility’s command center, had shouted at me over the comm interface.
+
+Yes, I’m fine, I’d sent her over the feed. It’s a good thing I don’t bleed like a human because hostile marine fauna was about all this situation needed. I’ve got everything under fucking control, okay.
+
+“No, it says it’s fine,” I heard her relaying to the others on our comm. “Well, yes, it’s furious.”)
+
+I swung over the railing and dropped to the deck. I’d tuned my pain sensors down but I could feel the projectile wedged in next to my support framework and it was annoying. Staying low, I crawled down the steps into the first cabin structure. The human inside was monitoring a primitive scanner system. (I’d jammed it even before I got shot, feeding it artistic static and random reports of anomalous energy signatures to keep it busy.) I choked her until she was unconscious and then broke her arm to give her something else to worry about if she revived too soon. I didn’t take her projectile weapon but I did pause to break a couple of its key components.
+
+The room was stuffed with bags and containers and other human crap. There were neat storage racks but everything was jumbled on the deck. We had seen eleven groups of strange humans in water boats from a distance, and had been contacted by two of them. Both had been what Thiago called “unusually divergent” and some of the others had called deeply weird. Both groups had taken the same elaborate precautions to show they were approaching in a non-hostile manner and had not displayed any weapons. Both groups had wanted to trade supplies with us. (Arada and the others had wanted to just give them what they needed, but Thiago had asked them to trade their stories of why they were here on this planet.)
+
+So okay, maybe Thiago had reason to suppose this group would also be non-hostile. But the earlier groups had given me a chance to develop a profile of local non-hostile approaches/interactions and this group hadn’t fit.
+
+Nobody fucking listens to me.
+
+Potential Target Leader and their friends aboard Stupid Boat were also dressed better than the other humans we’d encountered, in clothing that looked newer if not cleaner. There was no planetary feed (stupid planet) but Stupid Boat had its own rudimentary feed that was heavy with games and pornography but light on anything that might be helpful for a security assessment, like who these people were and what they wanted. Even the individual humans’ feed signatures only contained info about sexual availability and gender presentation, which I didn’t give a damn about.
+
+I slipped through into a grimy metal corridor, then a human stepped out of the next doorway. I disarmed them and slammed their head into the floor.
+
+The door to the next compartment was closed, but one of my drones had landed on the roof earlier, flattened itself to a window, and got me some good scan and vid intel. That was kind of important, because this was the compartment with the control station for the large boat-busting projectile weapon that was currently pointed at our facility.
+
+According to the drone’s video, one small human sat in the weapon station, their attention on a primitive camera-based targeting screen. Three large humans, all armed, sat around casually on battered station chairs, though the other stations had missing or badly jury-rigged or outdated equipment. They were chatting, watching Thiago and Potential Target Leader on the screen, la la la, just another day at work.
+
+The compartment was a bulbous structure set to the right of the bow, and reinforced with metal to protect and support the large weapon. The six hostiles near the bow casually pointing projectile weapons at the facility’s observation deck were too far away to hear as long as I didn’t overdo it. So I snapped the lock and didn’t slam the door as I went through.
+
+I hit Target One at the weapon station with an energy pulse from my left arm, throat punch to Target Two as the others came to their feet, pivot and smash kneecap of Target Three, slap Target Four’s weapon aside and break collarbone. I’d already had FacilitySys prepare a translation for me, the only sentence I figured I’d need. I said, “Make a noise, and everybody dies.”
+
+Target One slumped unconscious over the weapon control station, wound steaming in the damp air. The other three stayed on the deck, whimpering and gurgling.
+
+One of the hostiles outside had glanced around, but didn’t change position. Thiago, who was unexpectedly good at stalling, had avoided the question of whether the other researchers were going to come out on the observation deck so Potential Target Leader could decide if he wanted to abduct them or not. Thiago was now listing all our supplies and pretending to stumble over FacilitySys’s translation advice. (I knew he was pretending; he was a language expert among other things.) My drone view showed me that Potential Target Leader enjoyed watching Thiago sweat, and that maybe Thiago had noticed and was playing it up a little. He was pretty smart.
+
+Okay, okay, I admit that it was a little upsetting that Thiago didn’t trust me.
+
+(He and Mensah had had a conversation about me, back on Preservation Station when Arada was planning this survey. Transcript:
+
+Thiago: “I know I’m in the minority here, but I have serious reservations.”
+
+Mensah: “Arada is in charge of this survey, and she wants SecUnit. And frankly, if it isn’t the one providing security, I’ll withdraw my permission for Amena to go.”
+
+(Amena is one of Mensah’s children and yes, she is on our facility right now. No pressure!)
+
+Thiago: “You trust it that much?”
+
+Mensah: “With my life, literally. I know what it will do to protect her, and you, and the rest of the team. Of course, it has its faults. In fact, it’s probably listening to us right now. Are you listening, SecUnit?”
+
+Me, on the feed: What? No.
+
+I’d missed the rest. I’d thought it was better to shut down my tap on the room’s comm access and get out of there.)
+
+Target Two whispered something, which FacilitySys rendered as “What are you?”
+
+I said, “I’m a Shut Up or Get Your Head Smashed.”
+
+So that was two sentences I’d needed.
+
+I had to get out there because Target Leader had started to walk toward Thiago and avoiding a hostage situation was important to my risk assessment module’s Projected Schedule of Events Leading to a Successful Resolution. (In company terms that’s a PSELSR, which is a terrible anagram.) (I don’t mean anagram, I mean the other thing.)
+
+Thiago backed away, saying, “You don’t want to do this. You really don’t want to do this.”
+
+Yeah, well, it was a little too late for them to run away.
+
+I stepped to the outside hatch and told my drones to get into position. Two of the hostiles had helmets and body armor, and one had a helmet but the face shield had been removed. I hit the hatch release and gave the order.
+
+(At the last second, I changed the drones’ instructions from head or face kill-hits to disabling wound-hits in exposed patches on arms and hands, even though it was the hostiles’ own stupid, stupid fault for attacking us. Thinking of Arada’s sad face made me too uncomfortable.)
+
+The stupid hatch (I hate this boat) was slow and all six targets had turned toward me by the time it opened. My drones struck just as I dove out onto the deck. I hit one target with an energy burst from my right arm, kneecapped the second, two dropped from drone strikes and the last one went down flailing, hand closing convulsively on his weapon’s trigger and shooting me right in the chest. For fuck’s sake.
+
+By that time, Target Leader had Thiago’s arm, weapon pointed at Thiago’s head.
+
+I sacrificed six more drones to turn the weapons scattered around me into useless heaps of metal, then shoved to my feet. I walked up the boarding ramp onto our observation deck. I said, “Let him go.” I didn’t really feel like negotiating. I have a module on it, somewhere in my archive. It was never much help.
+
+Target Leader’s eyes had a lot of white showing, and he was exhibiting multiple signs of stress. So was Thiago. A drone view showed me what I looked like, water dripping from my clothes, my jacket with the Preservation survey logo and shirt showing projectile weapon holes, stained with fluid and a little blood.
+
+I circled them as if heading for the hatch. Target Leader dragged Thiago around to stay facing me, then yelled, “Stop! Or I’ll kill him!”
+
+He was right, I’d been trying to make him move, setting up a shot. He had stopped with the observatory bubble behind him, not a good angle for me.
+
+“You can still get out of this,” Thiago gasped. “Just let us go. You can take me as a hostage—”
+
+Oh, right, that’ll help. I said, “No hostages.”
+
+“What is that thing?” Target Leader demanded. “What are you? You’re a bot?”
+
+Thiago said, “It’s a security unit. A bot/human construct.”
+
+Target Leader didn’t seem to believe him. “Why does it look like a person?”
+
+I said, “I ask myself that sometimes.”
+
+Over the comm loudspeaker, Dr. Ratthi said, “It is a person!” In the background, I heard Overse whisper, “Ratthi, get off the comm!”
+
+While that was going on, I did a quick search of my archived video and pulled an episode of Valorous Defenders. It’s not a bad show but this is a terrible episode where the characters are attacked by evil SecUnits. (That’s like the opposite of an oxymoron, since in the media, there’s no such thing as a non-evil SecUnit.) (Is there a word for the opposite of an oxymoron?) I grabbed the three-minute sequence where the SecUnits swarm the base and slaughter the helpless refugees. I uploaded it to stupid boat’s porn feed and set it to play on an endless loop.
+
+I’m fast, so I’d finished by the time Target Leader shook Thiago and said, “Order it to back off.”
+
+Thiago made a noise suspiciously like a derisive snort. “I wish I could! It doesn’t listen to me.”
+
+I listen to you plenty, Thiago.
+
+“Who does it—” Target Leader wisely gave up on that tack. “Listen, whoever controls this thing, I’m taking this one on my ship—”
+
+“I’ve destroyed your engine,” I said. I really should have done that. Well, too late now.
+
+Glaring with fury, Target Leader jerked Thiago and Thiago stumbled and leaned away from him. And I saw the hole blossom in Target Leader’s upper arm, in the scant few centimeters of clothing and skin exposed between the joints of the badly fitting armor.
+
+I lunged forward and grabbed Thiago, slung him aside, then ripped the projectile weapon away from Target Leader. I knocked him lightly in the stomach and chest with the stock and he dropped to the deck.
+
+Arada stepped out of the hatch, the projectile weapon sensibly pointed down even though my scan showed she had already engaged the safety. She said, “Are you all right? Thiago? SecUnit?”
+
+I said earlier that I was trying to set up a shot; I didn’t say whose.
+
+Arada had taken a course in weapons use after the whole thing with GrayCris. I guess having a bunch of murderers chasing you around a planet so they can suppress your research by murdering you would tend to make you more cautious, even if you are a terminal optimist.
+
+On the feed, I said, Dr. Thiago, Dr. Arada, get inside. I grabbed Target Leader and tossed him onto the deck of his boat, where the other targets were crawling around trying to get to their hatch. My scan picked up a power surge in the boat’s weapon system. That’s what happens when you don’t have time to clear your hostile vehicle. I said over the comm, “Overse, now would be good.”
+
+The thing Overse and the others had been doing while all this was going on was preparing our facility for launch. Under my boots, the deck rumbled and vibrated and our outer supports heaved out of the water, sending waves crashing into the boat as we lifted up.
+
+I don’t think the raiders had realized the facility was mobile. The force of displaced water as our drive kicked in shoved the boat sideways, and the raiders lost their targeting lock.
+
+Our outer supports folded in and we lifted further above the surface. The comm loudspeaker broadcast a siren and a translated warning about minimum safe distance and I guess the raiders believed it because their engines revved frantically. I recalled my drones and they shot down toward us to stream in through the hatch. I walked in after them and let the hatch close behind me as the launch protocols started.

@@ -1,0 +1,79 @@
+WHEN I GOT BACK to HaveRatton Station, a bunch of humans tried to kill me. Considering how much I’d been thinking about killing a bunch of humans, it was only fair.
+
+Ship was on approach and I was waiting impatiently to pick up HaveRatton’s feed. Since Ship was a minimum capacity bot pilot and had all the brains and personality of a heat shield generator, I was also monitoring all its inputs and caught the navigation alert when it came in. (I knew Ship wouldn’t betray me intentionally, but the chance of it doing so unintentionally was resting at a solid 84 percent.)
+
+The alert was from HaveRatton’s Port Authority, and ordered Ship to divert away from its usual slot in the private commercial docks to another section at the end of the public passenger embarkation zone.
+
+I still had the schematic of HaveRatton from when I had boarded Ship here on the way to Milu. I could see that section of the embarkation zone was right next to the PA’s docks, where the deployment point for the station’s security response team was.
+
+Oh, that’s not suspicious at all.
+
+Was it about me? Maybe, probably? Ship had carried Wilken and Gerth, who had been sent to sabotage GoodNightLander Independent’s attempt to reclaim GrayCris’ abandoned terraforming facility, so it might be about them. Wilken and/or Gerth were hopefully being held by GI somewhere now, and GI might have requested HaveRatton do a routine search for evidence.
+
+It didn’t matter. If there was anybody waiting for Ship, I couldn’t be aboard when it docked.
+
+I could direct Ship to a different dock but that wasn’t a great idea. The PA would not only know someone aboard had done it, but that that someone was riding a bot-piloted cargo transport whose feed manifest said it was currently traveling without crew or passengers and was on minimal life-support. Even stations as big and heavily armed as HaveRatton had to be careful of anomalous approaches that might turn out to be raiders attempting to board. (It would be a stupid attempt, since Ship couldn’t carry enough raiders to do anything but die messily in the embarkation zone, but I’d spent my entire life on security contracts trying to stop humans from similar catastrophic stupidity.) It might worry the station command enough that they would fire on Ship. Ship might be unresponsive but it was doing its best and I didn’t want it hurt.
+
+So it was a good thing I still had the evac suit.
+
+I’d used it to escape Abene’s shuttle after the combat bot attack—another thing that had happened that I wished I could delete from my memory. (Deleting memories like that doesn’t work. I can delete things from my data storage, but not from the organic parts of my head. The company had purged my memory a few times, including my whole mass murder incident, and the images hung around like ghosts in an endless historical family drama serial.)
+
+(I like endless historical family drama serials, but in real life, ghosts are way more annoying.)
+
+Earlier when I was getting ready for station arrival, I had packed the evac suit into a supply locker. I figured since Ship seldom ran passengers along with cargo, it would be a long time before somebody finally noticed it wasn’t on inventory and actually checked its docs and registrations. Now I started unpacking it, fast.
+
+I really didn’t want to get caught.
+
+I stuffed my bag under my jacket and got the suit on and activated. As Ship made its docking maneuver and eased up on the designated slot, I cycled through the cargo module airlock on the opposite side. Ship’s drones gathered to watch me, confused as to why I was going out the wrong door and beeping sadly about it. As Ship locked on to the station, I slipped out the airlock and sent a close and seal request. As I pulled myself along Ship’s outer skin, I deleted the last few bits of me from its memory.
+
+Bye, Ship. You were there when it counted.
+
+If a report of what had happened on Milu had gone out on a faster transport (Ship’s progress was leisurely at best) then it could have easily beat me here. They might know that a SecUnit had come to Milu, saved some humans, failed to save a human form bot, killed the shit out of three combat bots, and that Ship was the only transport who had left Milu right after all that happened.
+
+Me not being aboard when they searched, with no sign of having been there, would obscure the issue somewhat. It’s not like I needed any food or used waste disposal. I’d used a little extra air and the shower but I’d purged the recycling logs. A forensic sweep might show that I’d been there. If forensic sweeps worked like they did in the entertainment media, which, come to think about it, I had no idea if they did or not.
+
+(Note to self: look up real forensic sweeps.)
+
+I reached the side of the station, doing a physical scan for security cams or drones or whatever while searching for feed and comm signals. Other ships were locked on nearby, but all I could see were hulls and bulky cargo mod ules, no large viewports with humans looking out wondering who that random escaping SecUnit in the suit was. I caught a few signals, but all were either debris detectors or cargo bot guides. I followed the line of magnetic clamps used by the cargo bots to secure modules to the station, and found a bot in the process of removing a module from a large cargo transport. I accessed the bot’s feed channel and checked its work orders. The transport it was currently working on was bot-piloted, crew on leave, passengers disembarked. I asked the cargo bot if I could go inside the transport before it inserted the new empty module. It said sure.
+
+(Humans never think to tell their bots things like, say, don’t respond to random individuals wandering the outside of the station. Bots are instructed to report and repel theft attempts, but no one ever tells them not to answer polite requests from other bots.)
+
+I climbed inside the empty module structure and up to the airlock. I pinged the transport, it pinged back. I didn’t have time to bribe it, so I sent it the official station hauler’s security key I had just pulled from the cargo bot’s memory, and asked it if I could come inside and walk through and out to the dock. It said sure.
+
+I cycled through the lock, took off the evac suit, and found a storage locker to pack it into. At the main airlock, I borrowed the security camera to take a look at myself. I’d removed the blood and fluid from my clothes back on Ship, in the cleaning unit in its passenger restroom, but there hadn’t been anything on board to fix the projectile and shrapnel holes. Fortunately the jacket I was wearing was dark and the holes weren’t that visible, and the shirt collar was just high enough to cover the disabled data port in the back of my neck.
+
+Normally that wasn’t a problem, as most humans had never seen a SecUnit without armor and would assume the port was just an augment. If the humans who had diverted Ship were after me, they probably knew that a SecUnit without armor would look like an augmented human.
+
+(Possibly I was overthinking this. I do that; it’s the anxiety that comes with being a part-organic murderbot. The upside was paranoid attention to detail. The downside was also paranoid attention to detail.)
+
+I made sure I was running the code I’d written to make my walking gait and body language more human, deleted myself out of the transport’s log, and walked out through the main airlock into the station docks.
+
+I was already in the feed, using it to hack into the station’s weapons-scanning drones, telling them to ignore me. It was always important to hack the weapon scanners, since I have two inbuilt energy weapons in my forearms. This time it was more important, because among other things I had an armor-piercing projectile weapon and ammo in my bag.
+
+It was one of Wilken and Gerth’s weapons that I’d taken when I left Milu. I’d spent some time on the return trip using Ship’s tool suite to take it apart and rebuild it into a more compact form, so it was easier to conceal. So now I was not only a rogue unit, I was a rogue unit carrying a weapon designed to shoot armored security. Which is just playing to the humans’ expectations, I guess.
+
+But fooling the weapons scanners was so much easier now than it had been the first time I’d done it while leaving Port FreeCommerce. Part of it was learning the quirks of the different security systems I was encountering. But what really helped was that all this coding and working with different systems on the fly had opened up some new neural pathways and processing space. I’d noticed it on Milu, when I’d been handling multiple inputs without any Hub or SecSystem assistance, to the point where I thought my brain was going to implode. Hard work really did make you improve; who knew?
+
+Following my map, I left the secure (supposedly secure) dock area and took the walkway toward the station mall. It passed over the end of the public embarkation zone and the PA dock where Ship had been directed.
+
+I had been in crowds of humans enough times by now I shouldn’t panic anymore—I had ridden on a transport with a whole crowd of humans who thought I was an augmented human security consultant and talked at me nonstop nearly the whole time. Except there was a little panic.
+
+I should be over this by now.
+
+Every nerve in the organic parts of me twitched as I blended with a large group of transport passengers. It helps that in stations like this, humans and augmented humans are distracted. Everybody’s a stranger, everybody’s checking the feed for info or communication or entertainment while they’re walking. As the walkway passed in front of Ship’s slot, I spotted a big group down on the embarkation floor. With the rest of the crowd of humans, I turned my head to glance down.
+
+Twenty-three of them in power suits, all heavily armed, forming up for a boarding operation. None were in SecUnit armor, and I wasn’t picking up any pings, so they were probably all human or augmented human. Forty-seven security drones of various sizes and armament circled over their heads in a deployment-ready swarm. I caught a station security drone and had it zoom in on the shoulder logo of a suit. I didn’t recognize it immediately, except for the fact that it wasn’t a HaveRatton station logo. I tagged it for a future image search.
+
+HaveRatton Station Security was there, but they were back at the entrance to the Port Authority zone, watching the boarding operation. So whoever it was had contracted with HaveRatton to bring an armed team in. That’s expensive. And worrying. You don’t need twenty-three humans in power suits and a flotilla of security drones for an evidence search.
+
+Station security had to be using their drones to keep an eye on the security company stamping around on their dock area. I checked my captive StationSec drone’s recording buffer and found nearly an hour of intercepted comm traffic. I downloaded it and ran a query for the word SecUnit. It hit almost immediately.
+
+SecUnit. You think this thing is really onboard?
+
+Intel says possibly. I—
+
+With its controller?
+
+No controller, dim-iot, that’s why they call them rogues.
+
+Oh yeah. It was about me.

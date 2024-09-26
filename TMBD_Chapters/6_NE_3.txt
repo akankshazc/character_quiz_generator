@@ -1,0 +1,305 @@
+We docked with our baseship with no problems, and Arada and the others transferred control to the baseship crew. (The facility wasn’t wormhole capable and was basically just a big, awkward lab module that could land and take off under its own power.)
+
+It was only four standard Preservation day-cycles back to Preservation via wormhole, and I meant to use the time to finish watching Lineages of the Sun. It was a long-running historical family drama, set in an early colony world, with one hundred and thirty-six characters and almost as many storylines.
+
+I’d watched family dramas before, but I’d never spent much time around human families before coming to Preservation. (Data suggests family dramas bear a less than 10 percent resemblance to actual human families, which is unsurprising and also a relief, considering all the murders. In the dramas, not Mensah’s family.)
+
+When the company owned me and rented me out for surveys, my security protocol included datamining, which meant monitoring and recording the humans every second for the duration of the contract, which was excruciating in a lot of ways. Pretty much all the ways. (All the ways involving sex, bodily fluids, and inane conversations.) It would never stop being novel to be around a bunch of humans in a relatively confined space and be able to close a door between me and them and not have to care what they were doing.
+
+Which didn’t mean the humans left me alone.
+
+Ratthi came to my cabin. I didn’t have to let him in, so I did. (I know, I was still getting used to the idea of not minding the fact that a human wanted to talk to me.) He sat on the folding seat opposite my bunk and said, “Thiago will come around, you’ll see. He just doesn’t…”
+
+Ratthi was reluctant to finish the sentence, so I did. “… trust me.”
+
+Ratthi sighed. “It’s all the corporate propaganda about SecUnits being dangerous. He doesn’t know you. He doesn’t know what you’re really like.”
+
+This would be annoying, if Ratthi didn’t genuinely believe it. He’s never seen me kill anyone close up and I’d like to keep it that way.
+
+“And he didn’t know why it was so important that Mensah be protected on station.” He waved a hand at me though I hadn’t said anything. “I know, the more people who knew, the more chance of the newsfeeds finding out. And there was nothing else we could have done, really.”
+
+After Ratthi left, Overse came. When I told the door to open, she just stuck her head in and said, “I don’t want to interrupt, I just wanted to thank you. This is Arada’s first time as a survey lead, and you’ve been really supportive and I know that’s made a difference, and helped her confidence.”
+
+I had no idea how to react to that since I wasn’t sure what being supportive entailed. My job wasn’t to make the humans obey Arada, that wasn’t how Preservation worked. Besides, that hadn’t been a problem. The survey team was grumbly occasionally, but everybody had done their job to a reasonable level. The chance of a mutiny was so low it was registering as a negative number. I’m not sure the word “mutiny” could even apply to any situation that might occur with this survey team; most of them had to be begged to complete the required self-defense certification before we left. And this was what Preservation called an academic survey, where the data collected was going into a public database. (If the planet had been in the Corporation Rim, it would be open to exploitation, but out here nobody wanted it for anything.) I defaulted to, “Arada contracted with me.”
+
+“Yes, and we both know that you’re very capable of making it clear when you think someone doesn’t know what they’re doing.” She smiled at the drone I was using to watch her. “That’s all.”
+
+She left and I replayed the conversation a couple of times.
+
+I trusted Arada’s judgment to a certain extent. She and Overse had always been firmly in the “least likely to abandon a SecUnit to a lonely horrible fate” category, which was always the category I was most interested in. They were my clients, that was all. Like Mensah, like Ratthi and Pin-Lee and Bharadwaj and Volescu (who had opted to retire from active survey work, which gave him the award for most sensible human) and yes, even Gurathin. Just clients. And if anyone or anything tried to hurt them, I would rip its intestines out.
+
+
+
+* * *
+
+
+
+When we came through the wormhole into Preservation space, I was watching episodes of The Rise and Fall of Sanctuary Moon again, since there wasn’t time to start anything new before we reached the station. (Being interrupted isn’t nearly as annoying when I already know the story.) I was worried about Mensah, if everything had been okay while I was gone. I wasn’t sure exactly what “okay” would involve, but I was willing to settle for “unmurdered.”
+
+I was just finishing a rewatch of episode 137 when the ship’s alarm sounded through the comm and feed.
+
+It might just be a navigation anomaly, like another transport in the wrong place. We were in a commonly used approach lane and Preservation tended to be visited by lots of non-corporate transports with no bot pilots who wandered all over the place trying to figure out where the hell they were, or at least that was how I interpreted the constant litany of complaint from Preservation Station Port Authority that Mensah had involuntary access to. With no bot pilot on our baseship, I couldn’t get direct system updates, but I tapped the comm system to let me listen in on the bridge. Transcript:
+
+Copilot Mihail: “It came out of nowhere! Nothing on comm.”
+
+Specialist Rajpreet: “That’s a docking approach. I’m reading active weapons.”
+
+Pilot Roa: “That’s it, raise the Station and tell them—”
+
+Mihail again: “Copy, but there’s no responders near us—”
+
+Well, shit. I rolled out of the bunk and pinged the team feed, and sent to Arada: Dr. Arada, we’re being approached by a potentially hostile vessel. A boarding attempt may be imminent.
+
+A potentially— Oh no! Arada responded.
+
+Again? Overse asked.
+
+I let them deal with the other team queries coming in as I opened my code-sealed locker. I pulled out the projectile weapon, checked the load and charge, then woke my dormant drones. They all activated their cameras at once and I had to take a few seconds to sort and process the multiple inputs.
+
+I’d changed out of the survey uniform before we’d entered the wormhole and back into the clothes I liked (human work boots, pants with lots of pockets (good for storing my small intel drones), T-shirt, and soft hooded jacket, all dark colors) because I didn’t like logos, even the Preservation survey logo, which was just a variation on the planetary seal, and not a corporate logo. I had a deflection vest from Station Security Operations designed to provide some protection from inert blades, slow projectiles, fire, acidic gas, low energy pulses, and so on. I hadn’t been wearing it because it was a) worthless for the kind of firepower usually deployed against me and b) it had a logo on it. (I know, I need to get over that.)
+
+I made myself put it on under my jacket. I might need all the help I could get.
+
+By this point the Potential Hostile had continued to approach. Pilot Roa was now making a general announcement which was pretty much the same thing I’d already told Arada. As I left the cabin, my drones converged on me in a cloud formation. I needed more direct info from the baseship so I sent one ahead, and it whizzed past me as I started down the corridor toward the access. I had a plan, but it was mostly “keep the hostiles off the ship,” which is not so much a plan as a statement of hopeful intent.
+
+This could be really bad.
+
+I know, I know, I’m Security, I should already have a plan in place for a boarding action. But I was used to having a human supervisor come up with the plans and … Okay, right, I just hadn’t bothered because the chances of an attack while en route to and from the mission site were so slight it wasn’t worth taking the time off from viewing media. I’d put all the work into coming up with attack and defense scenarios for the facility while on planet. (None of which I got to use during the one actual attack on the facility, but though it was tempting, “advance planning sucks” seems to be the wrong lesson to take from that whole incident.)
+
+Anyway, SecUnits were shipped as cargo on company transports and I didn’t even have any old procedure documents for ship-based actions in my archive. The only ship-to-ship attack I’d participated in had been viral, and I’d almost destroyed my brain during it.
+
+Speaking of which, my alert monitors on comm and feed weren’t picking up any attempts by the hostile to make contact. That might just mean they already knew there was no bot pilot to attack with killware or malware.
+
+I went up the ramp past the crew lounge toward the control deck. My drone had zipped ahead up into the baseship and through the passage to its bridge. When the bridge hatch opened to let Rajpreet out, it slipped in. Now I had a camera view of the sensor display surfaces floating above the control boards. Mihail sat in a station chair, sweat plastering their light hair to their forehead. Roa was on his feet pacing, dark brow furrowed in thought, one hand pressed to his feed interface. It looked like a clip from an action series, right before something drastic happened.
+
+Then something drastic happened.
+
+The hit wasn’t at all like the way they show ship combat in the media. I felt something more like a power surge than anything else. Gravity fluctuated just enough to thump me against the bulkhead and the ramp lights flickered. A flood of automated warnings came from the facility engineering pod and then the feed and comm cut out. I scrambled to pick up the baseship’s feed, then gravity fluctuated again as the facility’s drive went offline and we switched to reserve power for life support. My drones scattered as the gravity flux interfered with their propulsion, then pulled back into formation.
+
+On the baseship bridge, my drone watched as Roa and Mihail froze, like a scene on pause. Then Roa said, “That was an impact.”
+
+Mihail’s voice was hoarse as they cycled through displays. “On the facility’s drive housing. A locator missile. Attacker must have fired it when they spotted us leaving the wormhole.”
+
+Oh, shit. Seriously: oh, shit.
+
+My organic parts had a reaction that reminded me how lucky I was not to have a digestive system. We didn’t blow up in the next ten seconds so I pushed off from the bulkhead and kept going toward the facility control deck.
+
+I stepped through the hatch. It was a small hub-shaped control area, with the stations for attaching lab modules and everything else the facility needed to do when it was sitting on a planet. Overse was in the pilot suite though right now the baseship had control. Ratthi was hanging on to the back of the comm chair. Both looked frantic. From the flashing displays, frantic was the right reaction.
+
+“I can’t reach Roa on the comm or feed,” Ratthi was saying.
+
+“It’s all down,” Overse reported. “Arada—” she began, and then grimaced as she remembered there was no feed, no one outside the compartment could hear her. “Damn it!”
+
+I told my drone in the cockpit to establish a connection between Overse’s and Arada’s interfaces and the baseship’s feed. I said aloud and on the feed, Baseship, I’ve reestablished a temporary connection to the interfaces on the facility control deck.
+
+Roa replied, What, SecUnit? Can Arada hear me?
+
+She’s not— Overse began, then Arada swung through the hatch on the far side of the control deck. Overse’s face twisted with relief and she bit her lip hard, then added, Here she is.
+
+I hear you, Roa, Arada said, her mental voice hurried but calm. She reached to squeeze Overse’s shoulder, and nodded to Ratthi and me. Can we tell where the attacker means to board?
+
+The words “means to board” made something uncomfortable happen to my organic parts again. Maybe similar to what Ratthi, who had just made a little “urk” noise, felt.
+
+This would have all been a lot easier if I wasn’t so worried about the stupid humans.
+
+Roa’s voice stayed calm but my baseship bridge drone saw his expression as he said, Looks like they’re heading for the lower level facility hatch, the lab level. I’ve sent Rajpreet down there.
+
+Ratthi and Overse exchanged horrified expressions. Arada set her jaw and told Roa, Understood.
+
+She looked up at me. “SecUnit, could you please…?”
+
+I said, “On my way.”
+
+I ducked back out to the corridor, telling one of my drones to stay in the control deck as a relay. The center foyer was just around the curve, and above it the gravity well access to the baseship. Safety protocols had engaged an air barrier, which allowed solid objects (like humans and SecUnits) to pass through but blocked air flow, so the atmosphere couldn’t rush out if a seal breached.
+
+Leading down from it was a second gravity well that had ladders and a set of stairs for use when the facility was sitting on a planet. Without fluctuating power to worry about, I could have just stepped in and floated down to the lowest facility level, but getting smashed to pieces against a bulkhead wouldn’t be handy just now so I swung down the ladders instead.
+
+Ozone and smoke that the scrubbers couldn’t handle hung in the air and the lights fluctuated. Via my control deck drone, I saw Arada tell Ratthi, “With the feed and comm down we’re going to need a head count to make sure everyone’s accounted for after that hit.”
+
+“Right, right, I’m on it!” Ratthi hurried out the hatch toward the living quarters.
+
+From the bottom of the well I took the central ramp around and came out into the junction for the lower lab level hatch. The smoke here was thick enough for me to pick it up on visual. Specialist Rajpreet was already there, having climbed all the way down the gravity well from the baseship. She had a sidearm—there were a couple in the bridge emergency kit—ready to defend the hatch from a boarding attempt.
+
+It’s always nice when a human looks relieved to see you.
+
+Her voice was mostly steady when she said, “I don’t think we have much time.” I used one of my drones to add her to my feed relay, and she reported, Roa, Dr. Arada, can you hear me? SecUnit’s here at the lock.
+
+I said, What’s our status?
+
+Arada said, Overse has comm partially active. On cue, the comms emitted a burst of static and Overse’s voice said, “To all facility crew, comm and feed are not responding, please report to the facility crew lounge immediately and wait for further instructions.”
+
+Roa said, SecUnit, I need to make an announcement, can you relay me through the facility comm?
+
+Sure, I don’t have anything else better to do. I said, Go ahead.
+
+Over the comm, Roa said, “The incoming transport has fired on us and is now making a docking maneuver aimed at the facility’s lower level. Station has dispatched an armed ship and two free merchant transports have broken off station approach and are responding as well, but they’re all eighty-four minutes out at best. SecUnit, can you—” The hesitation was long. “Can you repel a boarding attempt long enough for help to arrive?”
+
+Every human on the baseship and the facility was listening.
+
+It was a tricky question. It came down to how many raiders were violently determined to come aboard and what kind of weapons they had. (That scenario could turn out any way from “we thought this was an easy target, let’s run away” to Rajpreet making a desperate last stand with her sidearm over the pieces of what was left of my body.) If they sent an EVAC-suited boarding party down the outside of the hull and came in through one of the hatches in the baseship as well as this one— But that wasn’t what my clients needed to hear right now.
+
+On comm, I said, “Yes.”
+
+Rajpreet’s throat moved as she swallowed, and she muted her feed. She said aloud, “Just tell me what you need me to do.”
+
+I would definitely do that, as soon as I knew. Assuming worse-case scenario (and coincidentally getting her out of my way so I didn’t have to worry about saving a human while I was trying to kill/maim/discourage a bunch of other humans), it was best for her to take up a guard position at the entrance to the gravity well, to at least buy the baseship some time. I was about to tell her to do that.
+
+A jolt vibrated through the deck and a sudden uncompensated surge of acceleration knocked Rajpreet flat. I hit the bulkhead and slid down as my drones scattered. The lights fluctuated again and the life support cut out, then back in.
+
+Oh, this is not good. My plan (make that “plan”) depended on holding the intruders back until the armed station responder or the angry raider-hating merchants got close enough to scare them off. But my bridge drone was reading displays that indicated the hostile had grabbed the facility with the tractors transports use to attach and detach modules. It was pulling us close, intending to clamp us onto its hull and drag us into the wormhole with it. From their frantic cursing, Roa and Mihail agreed.
+
+I got upright and caught Rajpreet’s flailing arm to help her stand. The facility’s comm came back online with a static-obscured warning alarm. Yes, great, that’s really helpful right now.
+
+A survey member, Adjat, staggered into the foyer from the corridor that led to the facility’s lowest storage and lab space. Rajpreet told them, “Get up to crew level, hurry!”
+
+Adjat nodded, heading for the corridor. “Hatches are jammed to labs 3 and 4, I don’t know if anyone’s trapped—”
+
+“They’re doing a headcount up there,” Rajpreet said, pushing them on toward the access.
+
+I had an idea, though it had its downside. On the feed, I said, Roa, can the baseship jettison the facility?
+
+The baseship itself was just a small carrier, with bridge, drives, and living space for the five-person crew. Most of its bulk was designed to be able to grab or deploy the facility module.
+
+Mihail replied, calm but breathless, He’s working on it, checking sensor view to see if our clamps are clear—
+
+So they had already thought of it. It was nice working with smart humans. Now if I could just keep them all alive.
+
+A lot of my attention was on the hatch two meters away from me. I was scanning for any attempt to breach it, either physically or via the hostile’s feed. I tried a breach of my own through the feed, but the hostile’s wall was so solid I couldn’t get any kind of read off it.
+
+On my feed relay, Arada said, We can remote-jettison from here—the facility command center—if you transfer control. But we need to get the rest of the team up to the baseship.
+
+Ratthi added, I’m doing a headcount now, but with the feed and comm not responding—
+
+Roa broke in: Our clamps are clear, we can jettison.
+
+Arada said, Roa, will they be able to scan us? If they can tell we’ve abandoned the facility—
+
+Roa replied, They may be able to.
+
+They would definitely be able to. Before anybody else could butt in, I said, They may fire on the baseship once the facility is jettisoned.
+
+That was the downside I mentioned. It just depended on how anxious the hostile was to get to the wormhole with the facility before the responder and merchants arrived, whether they were ordinary assholes or huge assholes, if they wanted the facility or the humans in the facility, if they were afraid of retaliation by Preservation or just didn’t care.
+
+The survey team members still trying to talk on the relay feed all shut up.
+
+Roa said, Yes, that’s … Yes. Dr. Arada, we don’t have a lot of time, do we evacuate and jettison or—?
+
+Still sounding calm, Arada said, SecUnit, do you agree we should jettison?
+
+Oh right, I was the security team head.
+
+If I/we were wrong about this, the hostile would fire on the helpless baseship and we would all die. If we stayed with the facility, there might be a chance for rescue. If the hostiles didn’t drag us into the wormhole, overwhelm me, and kill all the humans or do other terrible things to them.
+
+The cheap education modules the company gives SecUnits had never mentioned this kind of dilemma, so I didn’t have anything strategic to go on.
+
+Ugh, self-determination sucks sometimes.
+
+I reminded myself I had always wanted humans to listen to my advice. I said, Jettison.
+
+Arada said, We jettison. Ratthi, confirm head count and send everyone up to the baseship. She sounded calm and certain. Much more so than Roa.
+
+“Attacker is still pulling us toward the wormhole,” Mihail announced on comm, not sounding too much like someone who was restraining the urge to scream a little.
+
+On the relay, I heard Ratthi yelling at people to get moving and I got sporadic drone views of survey team members hurrying into the gravity well.
+
+Roa took a breath. “Facility control, prepare for separation.”
+
+Overse announced, “Facility module will seal in two minutes and counting.”
+
+Drone audio picked up someone arguing but I had to prioritize Roa and Mihail and Arada, who were all telling different humans to do different things. My bridge drone’s view of the sensor display started to show more interpretable detail. That big wobbly thing was the wormhole. The two blips way off (way way off) in the distance were our potential rescue ships. There was no blip for the hostile because it was too close.
+
+Another vibration traveled through the deck but this one was more familiar. Rajpreet’s gaze was on the hatch display, her eyes wide. She whispered, “They attached to our lock.”
+
+Whispering may have been an irrational impulse, but I could definitely sympathize. I said on the feed relay, Hostile has matched locks.
+
+Overse said, Ratthi, I need a confirmed head count, now. My gravity well drone picked up two stragglers, Remy and Hanifa, scrambling up the ladders to the baseship and Ratthi, for fuck’s sake, coming back down.
+
+I started to tap his feed but I picked up something on audio. It was scraping, vibrating through the outer hatch. Okay, that’s definitely happening. I sent on the feed, Hostile is attempting to breach the hatch, boarding may be imminent.
+
+Roa said, Rajpreet, SecUnit, get out of there.
+
+I told Rajpreet, “Go, I’ll be behind you.”
+
+Rajpreet backed toward the corridor access. If the hostiles chose this moment to board, before we could seal off and separate, we were screwed.
+
+I heard Ratthi yell, “No, No!” through my drone audio. His voice was harsh with fury, fear. The impulse to run to him made me flinch, but I needed to hold my position. Something had gone wrong up there. On the feed, I said, Dr. Ratthi, report.
+
+Ratthi, of all my humans except Dr. Mensah, listens to me the most carefully. Probably it has something to do with the time he was about to step out of the hopper to retrieve some equipment and if he had, he would have been eaten by giant predatory fauna. Sounding simultaneously frustrated, angry, and terrified, Ratthi said, Amena and Kanti aren’t here. Thiago is looking for them. They aren’t in the quarters or the upper labs, they must be down in the lower level somewhere.
+
+Well, shit.
+
+I had audio and visual of the baseship access through my drones, so I was able to see when it exploded. (No, not physically exploded. Emotionally exploded.) Humans yelling and waving their arms and other unhelpful things.
+
+You know, it’s not like I’m having a good time either right now.
+
+I told Rajpreet, “Get to the gravity well access,” and started down the corridor toward the labs and sample storage, where Adjat had tried to tell Rajpreet about jammed doors. I ordered a drone to stay near the hatch so I would have some warning if anything came through it. I split the rest of the formation, sending two-thirds up the access to take a guard position with Rajpreet and telling the rest to follow me. On the feed, I said, calmly, Acknowledged, I’ll find them. SHIT.
+
+I’d made a stupid mistake. Feed access in the facility was down unless your interface was in range of one of my drones, so the connection could be relayed to the baseship, and the comm was patchy and unreliable. We, me and the humans, were too used to the feed, which made it impossible to lose track of someone, to leave them behind. With an active feed, even if you were unconscious, your interface could be used to track your location.
+
+Arada said over the feed, We’re holding for you, SecUnit.
+
+Get to the baseship, Arada, I sent back.
+
+It was amazing how fast our mostly orderly retreat had turned into a disaster. My drone formation formed around Rajpreet, who was waiting anxiously at the bottom of the gravity well. At the top, baseship crew and survey team members gathered, clutching handweapons they barely knew how to use. I just hoped nobody accidentally shot themselves or anyone else. I tapped my drone relay and saw Arada, Overse, Ratthi, and damn it Thiago waiting at the facility access junction. Arada was talking on the feed to Roa and trying to shove a resisting Overse into the gravity well. I started to tell them—I don’t know what I was going to tell them, but it was going to involve the words “I can’t do my job if none of you fucking listen to me” but then interference blotted out the connection and I lost all my drones in the baseship.
+
+I reached a hatch to lab 3 that was stuck partly open, just a few centimeters from the deck. I hit the floor and directed my scan under the hatch, but I couldn’t pick up any indication of a human body, living or otherwise. But drone audio detected a muffled human voice, coming from farther up the corridor.
+
+I shoved upright and slammed around the curve and oh right, that must be the hatch Adjat had seen. The bulkhead was crumpled along the top of the seal, and the panel with the manual release had been blown in a power surge. The plastic parts were melted and the whole hatch assembly was dripping with fire suppressant foam where the automated emergency system had engaged. The facility’s systems in this area must be down or cut off, and the emergency report had never reached the control deck. My audio picked up a muffled voice from the blocked compartment, but it was too faint for human hearing.
+
+My first impulse was to blow the hatch. Fortunately my second impulse was to grab the manual release and pull. It didn’t give, but I could feel the seal was broken. At least some of the locks that held it shut had been disengaged. Which meant someone had already triggered the manual release inside but something was jammed. I ripped the panel open and found crumpled metal pinning the release mechanism. I shoved my sleeve back, tuned the energy weapon in my right arm down to the lowest setting, and burned through it. The hatch clunked as it released and I dragged it open.
+
+Kanti jolted forward and I caught her. “It wouldn’t open,” she gasped. She clutched the kind of tool used on surveys for chipping rock samples and her hands were bloody. The power inside was out, the only light from the emergency glows along the walls, and equipment and sample cases were jumbled everywhere. Amena was across the compartment, her leg pinned under a lab bench that had collapsed when the bulkhead crumpled. She was conscious and struggling to free herself.
+
+My hatchway drone showed the warning lights blinking around the lock. Yikes. I pulled Kanti out into the corridor and took the tool away from her. “Get to the gravity well, now.” On what was left of the feed I told Rajpreet, I’m sending Kanti to you.
+
+Kanti hesitated, eyes wide and glazed over. Blood trickled down from a cut above her hairline. Behind me, Amena yelled, “Kanti, go!”
+
+Kanti pulled away and ran erratically down the corridor, bouncing off the bulkhead. I ducked into the compartment and went to Amena. Tears streamed down her face, her nose running in that gross “badly upset human” way. She banged on the lab bench. “Here, here, we couldn’t pry it up!”
+
+I felt under it carefully, where the support strut had pinned her leg. There wasn’t blood, though it had to hurt. I felt marks on the metal from the tool Kanti had been clutching. She had had it in the right spot, but didn’t have the leverage needed to pry up the strut. I wedged the tool back in place and leaned on it. My drones met Kanti at the end of the corridor and formed a protective cloud around her as she stagger-ran through the foyer toward the gravity well.
+
+The strut bent back and Amena tried to wriggle out and yelped in pain. I said, “Just take it slow,” and managed to sound like we had all the time we needed. (We did not.) My hatchway drone relayed the rising energy readings from the airlock where something was trying to override the security seal.
+
+In the access tube, Rajpreet had grabbed Kanti and was climbing with her up the gravity well, both surrounded by my cloud of drones. Amena wriggled some more, wincing, then reached for my arm and said, “Just pull really hard!”
+
+I took her arm and tugged and she slid out from under the bench. I stood, pulled her with me, and picked her up in one arm. I’d lost contact with Rajpreet but my drones confirmed she wasn’t in the gravity well anymore. I told Amena, “Hold on,” and ran down the corridor.
+
+I couldn’t make anywhere near my top speed; there was too much debris, the corridor too narrow and curving.
+
+I made it almost to the end of the corridor just as the hatch blew with a loud pop. The smell of melted metal and ozone filled the corridor. My hatch drone sent me a view of hazy smoke and movement inside the lock. Time for a split millisecond decision—could I sprint through the foyer, past the breached hatch, up the ramp to the gravity well, and climb up into the baseship so we could close the hatches and separate before the hostiles stormed inside?
+
+Uh, maybe?
+
+Then my input from the hatch drone dissolved in an abrupt burst of energy. I took a silent step backward, then another, keeping the motion smooth and slow. I started a quick analysis of the drone’s last transmitted intel. On the feed, I sent, Hatch is breached, hostiles onboard, seal and jettison now.
+
+I didn’t pick up any acknowledgment and couldn’t tell if it went through or not.
+
+Amena was silent, holding herself stiffly immobile against my side, her heart pounding. I eased back around the curve in the corridor, and stepped into the first open hatch. I set her down and mouthed the words “No noise.” She nodded, gripped the hatch’s safety rail to stay upright, and looked up at me with wide eyes. I wanted to use my drones to look at her, but while that was calming for me, it wouldn’t be for her. If I was going to get her out of this alive, keeping her calm and communicating accurately was going to be important. I put my face in an expression that I hoped would convey reassurance, then changed it to intense concentration and stared at the bulkhead. The image analysis finished and I reviewed it. The drone had caught a sensor ghost of something that was emitting energy and floating about two meters above the deck. I included Amena’s interface in my relay and said, Close the hatches, Arada, do it now. They have drones.
+
+Amena caught her breath and bit her lip, but didn’t say anything.
+
+Still no acknowledgment. I didn’t know if they could hear me, if they had already jettisoned, what the hell was going on up there. We had to be close to the wormhole by now.
+
+(It sounds like I was calm, but I had no idea what the hell I was going to do.)
+
+I felt feed static like a drill through the back part of my head, and then Overse saying, SecUnit, SecUnit, can you hear me? We’ve jettisoned the facility from baseship and are in the safepod, about to launch. Can you get to the EVAC suits in the lower secondary lock? The baseship can catch you in their tractor.
+
+I almost said aloud, “Why are they in the fucking safepod and not in the baseship?” but managed not to. Amena watched me with a not reassuring combination of fear and exasperation. The EVAC suit thing … was not a bad idea at all.
+
+Copy, we’ll go for the EVAC suits, I told Overse. If there was an acknowledgment, I didn’t hear it.
+
+I held out an arm and Amena grabbed my jacket. I picked her up and sent half the drones ahead to scout our path. There was no sign of any hostile movement yet.
+
+I stepped out into the corridor and headed away from the main hatch foyer to the junction to the engineering pod. It looked worse than the lab corridor. Lights were down to emergency levels and the deck had buckled.
+
+Fortunately we didn’t have far to go, just straight through the pod. My audio picked up a banging and grinding noise—maybe the intruder’s drones trying to get through a hatch somewhere.
+
+We reached the engineering outer hatch foyer, light from the emergency markers pointing to the EVAC suit locker.
+
+These were a different model than I’d used before, more expensive, where you could step into them and pull them up with an assist from the suit’s own power supply. I set Amena down and she rapidly tied her hair up, then did a one-legged hop into the suit. I ordered my drones to land on me and go dormant, and had my suit on by the time she was fastening her helmet. Something vibrated deep in the deck; was it the safepod launching? My organic parts didn’t feel good about this. If that was the safepod, I think they’d waited too long. Human actions often seem way too slow to me because of my processing speed, but I didn’t think this was one of those times.
+
+The suits also had secure feed connections, so I could check to make sure Amena’s was working and sealed properly, and access its controls. Don’t use your comm, I told her over the secured feed. They could be scanning for any kind of activity and it was easier for me to mask our feed than the comm.
+
+Got it, she replied. Her feed voice was nervous but not panicky. The suit was supporting her injured leg, letting her stand upright. I’m ready.
+
+I told her suit to follow me and opened the airlock.

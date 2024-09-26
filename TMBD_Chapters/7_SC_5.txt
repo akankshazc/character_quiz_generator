@@ -1,0 +1,337 @@
+FINALLY, WE WERE CLOSE enough to see the dark opening into the hangar at the end of the corridor. Without me having to say anything, Tarik slowed down almost to a halt, then stopped when we were about ten meters away.
+
+ScoutDrone1 had already reached it and started a search pattern, and I sent ScoutDrone2 in after it. A shaft of dim daylight and a sand drift on the floor had led it immediately up to a big seam in the ceiling that should be part of the hatch system that allowed the ships in and out. A small section had been cut open at some point, large enough to allow in the aircraft that was parked on the landing platform. The shuttle, following our progress from the air, had already gotten there and found the opening. ART-drone was building a map using ScoutDrone1’s movements.
+
+Ratthi and Iris and Tarik were examining the video views from the drones inside and the shuttle’s cameras outside. The hanger area was darker than they expected, since they had been viewing it through the drone camera’s dark vision filters. They were speculating about whatever equipment failure or natural disaster had buckled the hatch so somebody had to cut a hole in it or something, I didn’t really care.
+
+Because ScoutDrone1 had also found the entrance to the Pre-CR installation the hangar had been built to access.
+
+It was on the farthest wall, where the shadow was deeper, directly opposite this tunnel. When completely open, it would be big enough to fly our shuttle through. (Which was something we absolutely would not be doing, because holy shit no, what a bad idea.) It was set between two giant rounded half-pillars carved out of the rock wall, angled back as if to brace the sloped stone slab above it. I guess that was the pillars’ purpose; if they were supposed to be making the place pretty, they weren’t doing their job.
+
+My drones had skimmed over the hangar’s floor panels, which were a stone/metal combination that Ratthi said were common in Pre-CR structures, and which were coated with layers of dust. No signs of recent traffic so far, but that wasn’t convincing evidence that this place was uninhabited. The hole in the overhead hatch meant there was a lot of dust in the air and it would settle frequently, covering tracks and signs of movement.
+
+I got out of the vehicle and said, “Iris, you and Tarik should return to the shuttle. ART-drone can get you up through the broken hatch to the surface. You can locate a landing spot for a retrieval with the ground sensor.”
+
+Iris looked toward the far side of the hangar, in the direction of the interior hatch which she wouldn’t be able to see in the dark at this distance. (Iris had augments for extra feed connectivity and storage, but nothing for vision or anything else helpful under the circumstances.) There was a frown in her voice. “Are you sure you’re going to be all right?”
+
+Well, no. Obviously.
+
+She continued, “Remember pulling out of this mission and going back to Peri to report and regroup is always an option.”
+
+She had a point, but we were close. If the separatist colony had failed and there weren’t any survivors here, we could be done by the time the humans needed to eat again and we wouldn’t have to plan a follow-up mission. “It’s fine. I’ll notify you immediately if I encounter any not-dead humans.”
+
+I was trying to lighten the mood but that one absolutely did not stick its landing.
+
+Then Ratthi tried to help and made it worse. “You mean not dead, of course, as opposed to un— Ah, never mind, I’m going to stop talking now.”
+
+Tarik did a body language thing that started as an aborted clap on my shoulder and ended with an awkward shrug as he remembered I wouldn’t like it. He said, “Just remember you’ve got backup.” I suddenly got why Iris had brought up his past in sanctioned corporate murder; she wanted him to think about his current job vs. my job, about who would make the security decisions. How we had something in common, I guess.
+
+ART-drone didn’t say anything but I knew it was happy that I was sending the humans back to the shuttle.
+
+As ART-drone gave first Iris and then Tarik a ride up through the hatch opening, I crossed the expanse of the dark hangar and stood in front of the installation hatch. It was partially open, a long dark line down the center, a very very dark line, indicating the emergency lighting from the tunnel was not active in there, either. I called ScoutDrone1 and 2, and sent them inside.
+
+Humans. For fuck’s sake, why would the separatists want to live here? Because they were afraid? If the theory in my save-for-later tags was right, and Adamantine had had an early warning about the hostile takeover of its headquarters and assets, and told some of the colonists that another corporation might want to come along and eliminate any evidence of alien contamination so the planet wouldn’t lose value … This place might look like a potential shelter.
+
+And it was doable with the resources at hand. The Adamantine main colony site had some underground bunkers for food production that they had mostly stopped using once they got their oxygenating crops started under the air bubble; there would have been spare hydroponic equipment and growth supplies available. Even if this place hadn’t had its own still-functioning power source, the terraforming engines were right there to tap, and the terraforming techs among the colonists would know how.
+
+I was getting drone video of the installation, sort of, kind of. It was so dark, the drones’ filters weren’t working well, which meant mine wouldn’t, either. With my scans still borked and barely any visual, there could be a hundred alien contaminated humans standing around and I wouldn’t know they were there until I bumped into one.
+
+I’m not actually stalling, okay, I’m doing stuff. The drones, I’m waiting on the drones.
+
+I could have been wearing armor for this part.
+
+(So earlier, after redacted, Three had told me that I could wear its armor, if I wanted. Well, it hadn’t used those words. It hadn’t gotten the idea yet that it might have personal possessions that belonged to it and no one else, so it had gotten me to follow it to ART’s secure storage where the armor was being kept and just stood there pointing at the door with a confused expression.) (Yes, it had taken 2.3 minutes of questioning by both me and ART and Overse and Turi to figure out what it was trying to tell us.) (The armor was equipment and Three didn’t understand why I didn’t just take it.) (Because I didn’t fucking want it, that’s why.) (And I left this out when it happened earlier, but while we were still at the router site and Ratthi and Tarik and Iris were volunteering for this mission, Three had asked me again. The armor was still in secure storage, but someone could have put it in a drop case and a pathfinder could have brought it to our position. And I said no again.)
+
+(Yes, I know now it was a mistake. Three had offered me its drones, too; it had a lot more left than I did, after all the shooting and using them to bore holes in hostiles’ skulls and getting stepped on by Targets. And I had said no. Murderbot, why are you like this?)
+
+From the shuttle, watching through my feed, Ratthi said, “Why are round hatches more frightening than square ones?”
+
+Iris and Tarik were up on the surface with ART-drone, on a flat stretch of rocky ground at the base of a plateau. They had just located a safe landing spot with the ground sensor and signaled the shuttle to come down. From the shuttle’s camera, the plateau looked natural, the same dark rock streaked with red mineral deposits, as the rest of the area. But the extrapolated map ART-drone had constructed said the installation had to be under it. Confused, Tarik said, “What?”
+
+“This is a well-known fact,” Ratthi said, from the copilot’s seat. He had my camera view up on a display surface. “Round hatches are terrifying.”
+
+“This is fact where?” Tarik demanded as the shuttle landed in a whirl of dust. “Why are any hatches terrifying?”
+
+Two drones were not enough for this job, but there was nothing I could do about that. Shielded from the terraforming interference by all the rock, their scans had started to function again, but only at extreme close range. I had clearer camera feeds and actual movement checks and that was a fucking relief, let me tell you. Even if right now all I was getting was darkness and the occasional too-close view of a wall as the drones’ guidance system detected one just in time to keep from smashing into it. This was going to be the slowest scouting run these drones had ever done, but at least it was happening.
+
+Also, while I could understand Tarik’s confusion, Ratthi wasn’t wrong. I ran a quick query on hatch shape in my media storage, focusing on popular adventure and suspense/horror dramas and the high incidence of hazardous fauna, raiders, human and/or bot murderers, and/or magical fauna, unidentified but terrifying dark presences, and straight up monsters associated with round hatches. I sent the results into the team feed.
+
+ART-drone said, You wasted processing space on that?
+
+“Eighty percent,” Ratthi said, genuinely shocked. “I thought I was making a joke.”
+
+As the ramp lowered, Iris swung up onto it. “It’s not the shape of the hatch,” she said, “it’s the symmetry of the columns to either side.”
+
+I said, “I’m not running the query again.” My two pitiful drones were still getting nothing on visual but they were giving me some data indicating relative positions of walls, ceiling, and floors, and their limited close-range scan picked up something that was probably dormant power conduit under stone veneer. But there just weren’t enough of them to build a real sensor map of a space as large as this appeared to be, even with their full scanning capacity. It was even larger than the hangar, and mostly open.
+
+Iris and Tarik were through the airlock and inside the shuttle now. They let their helmets disengage and fold back. Tarik dropped into a seat and Iris leaned on the back of Ratthi’s headrest, watching the display screen.
+
+ART-drone floated back down through the hangar hatch to return to my position. I should have told it to get into the shuttle and stay with the humans, but. I hadn’t.
+
+“Let’s wait and let the evidence stand for itself,” Ratthi said. He meant the hatch evidence. Yes, we were still on that.
+
+Iris is correct, ART-drone said, it’s the symmetry of the hatch’s placement between the two columns and the equal size of the space to either side. To individuals subject to suggestion, it implies that something is about to cross the line of sight.
+
+By “individuals subject to suggestion” it meant “idiots.”
+
+Tarik said, “You know if this place is empty, all this monster talk is going to sound ridiculous.”
+
+Iris’s tone was dry. “I hate to tell you, but it already sounds ridiculous.” She added, “SecUnit, do you have a plan to proceed?”
+
+ScoutDrone1 alerted and I told it to halt. Its camera had just detected artificial light, and it didn’t match the emergency lighting in the tunnel corridor. It was identical to the battery lighting used in the Adamantine main site. Well, here we go. “Contact,” I said. Space monsters and dark presences weren’t going to need battery light. Alien-contaminated humans, however, would. Probably.
+
+“What? Where?” Tarik frowned at the feed display.
+
+“The drones are reporting in,” Ratthi explained. He opened a private feed connection to me and said, SecUnit, you’re not telling us what you’re doing.
+
+Shit, he’s right. I am fucking this up again. On the comm, I said, “A drone encountered artificial lighting in a corridor.”
+
+Trying to cover for me, Ratthi was telling Tarik, “Just always assume there are drones doing something.”
+
+ART-drone said, Before contact was made, all findings were preliminary and inconclusive.
+
+Yeah, that’s ART-drone covering for me, too.
+
+I shared my drone video with the team feed, which I should have done earlier, but the results were so minimal … I just hadn’t shared it. What, it hadn’t occurred to me? I was ashamed of it? I don’t know, I need to snap out of this.
+
+Iris frowned. “If you find anything that might be a sign of compulsive construction, get out of there immediately.”
+
+Ratthi made a thoughtful “mmph” noise, which I translated as him not considering the presence or lack of compulsive construction as indicative as we hoped, but not wanting to say it aloud and bring the group down.
+
+On the drone video, the outline of a corridor was taking shape as the light grew brighter. It was a lot like the tunnel but the material was lighter in color, the floor darker. There was no decoration, like there had been in the other Pre-CR site. But if this place had been built by the same Pre-CR group, it probably wasn’t intended to be a major occupation site. I guess. I have no idea, don’t listen to me.
+
+There was also no sign of graffiti, but it was hard to tell if the graffiti in the Pre-CR site had been another sign of alien contamination affecting the humans or not. We hadn’t seen any so far in the Adamantine colonists’ habitation. (Ugh, tag this bullshit piece of data for delete. There was graffiti in Preservation Station, for fuck’s sake, sometimes humans want pretty pictures on the walls. It could mean anything or nothing.)
+
+ScoutDrone1 followed the light into a larger passage, turning a corner … It was another hatch, smaller, sized for humans and not large cargo containers. The battery light was stuck or mounted to the wall to one side of it.
+
+Ugh.
+
+This is supposed to be my job/reason for existing, right, doing the dangerous thing so the humans don’t have to. And I need to do it, right now. I said, “I’m going in. ART-drone will stay at the entrance.”
+
+I should accompany you, ART-drone said.
+
+Iris said, “Peri, it’s SecUnit’s call.”
+
+I didn’t want to argue in front of the humans (I know, right? Like we’ve never done that before. But I didn’t want to do it now) so on our private feed, I told ART-drone, You need to not undermine Iris’s authority right now. And you need to stay at the entrance so if anything chases me out you can slow it down so the shuttle will have time to take off.
+
+ART-drone said, Your attempts at emotional manipulation need work. But your point is taken.
+
+I kept my camera feed on the shuttle’s larger display surface and crossed the last bit of hangar floor to the hatch. The open gap between the huge doors was more than wide enough for me to walk inside.
+
+With the data the drones had sent me, I had a sensor map (a half-assed sensor map) that I could use to enhance my dark vision filters. So I could see to a certain extent, enough not to run into a wall. Though everything was in grayscale, and details were fuzzy. I was in an entrance foyer, large enough for heavy cargo bots or hauler bots to wander around in. The forward wall was open to the giant space that ScoutDrone2 was currently attempting to map singlehandedly. (Intel drones are supposed to do this kind of thing in swarms, which did not make me feel super competent right now.) The righthand wall had an opening that was probably the entrance to a large lift shaft, possibly where the cargo was meant to get shunted as soon as it came in through the hatch. I checked my scan and for once it was good news. With the thick layer of rock overhead shielding us from interference, I had limited function back, though not as much as the drones had right now. But I could tell the lift wasn’t powered up, at least. And the percentage chance of being surrounded by silent alien-contaminated humans dropped to fluctuate in the low 80s. Oh, and there was a metal safety screen that had been pulled across the shaft entrance to keep anyone from falling in. That might be an indication that an orderly shutdown of this site, or at least of this entrance, had occurred at some point.
+
+On the feed, Ratthi checked my scan of the metal’s composition. He said, That screen doesn’t look Pre-CR.
+
+Right, and that, too. Big clue there, Murderbot, you might want to notice things like that.
+
+Could have been the terraforming crew, Tarik said. They must have explored this place.
+
+On the other wall of the foyer, my scan found some metal plates with inscribed writing. It didn’t match anything in the language module Thiago had written to communicate with the Targets and colonists, so it was likely yet another Pre-CR language. I made sure I got good images and sent stills to Ratthi to tag for later, once we got out of blackout. Without access to ART’s enormous archive storage and Thiago’s translation abilities, we weren’t going to be able to read it.
+
+I walked to the front of the foyer. (In the shuttle, Ratthi whispered, “I hate this part.” He and Tarik and Iris watched the display surface intently, frozen except for the way Tarik kept pinching his lip compulsively.) I could just see the ramp that stretched out and down. Three stories down, according to ScoutDrone2. It was like the ramp at a transit ring, cutting back and forth down the wall to keep its angle gentle. There was nothing else I could really see from this point; the space was too big and dark. (I could turn on my helmet light, but it would make me a great target, if a hostile had detected my entrance. Which, if I were a human hiding up here in isolation and a stranger walked in suddenly in an unfamiliar brand of environmental suit, I’d shoot at me.) (Okay I wouldn’t, but then I’m not a human who was panicking about getting murdered or whatever.)
+
+(I’m a SecUnit who was panicking about getting murdered or whatever by panicking humans.)
+
+I started down the ramp. It helped that ScoutDrone2 was down there bumping into walls. I let it continue to wander; it had found five other corridor entrances by this point, but hadn’t picked up any traces of artificial light like ScoutDrone1.
+
+From what I could tell, this space was a lot like that central area of the other Pre-CR site: a large multilevel space with corridors leading off it, though it wasn’t as tall. (And yes, I know that’s not a wildly unusual design for the majority of human cultures.) I wasn’t picking up any sense of air movement, except what was being caused by my own drones, and audio was null. (I’d backburnered the shuttle comm channel, which at the moment was three humans breathing tensely, plus the occasional creak of seat upholstery.)
+
+I found little domed bumps on the floor, my scan picking up the dormant tech inside each one. They were simple beacons, probably marking vehicle parking/landing zones. The hangar had been intended for larger craft; this area could be meant for small aircraft or cargo lifters or vehicles that would travel the tunnel, hopefully with more safety features than the jury-rigged one we had found. ScoutDrone2 had just encountered a foyer leading to a small set of rooms with plumbing attachments and drains, probably a restroom.
+
+This place wasn’t as creepy as it had been at first. It was also, weirdly, way easier to walk around in here than it had been to step through the hatch. I tapped my private feed connection with Ratthi and said, Can you burn out your ability to feel that a place is creepy?
+
+Ratthi answered, I think that’s called being in shock.
+
+Thanks, Ratthi. If I wanted someone to ruin my fun, I’d have asked ART-drone.
+
+I reached the bottom of the ramp and headed toward the corridor ScoutDrone1 had found. The floor was smooth underfoot and I could see just well enough not to trip on anything.
+
+Then ART-drone said, I’m picking up a nonstandard transmission.
+
+I froze.
+
+
+
+* * *
+
+
+
+So here is the thing. The redacted thing. I should tell you about it, or this isn’t going to make sense.
+
+Twelve plus hours after the new Barish-Estranza explorer arrived in the system, something happened. I don’t have a memory of what triggered it, except maybe in my organic neural tissue which is no fucking help at all.
+
+I was in the control area below ART’s bridge with the humans, going over plans for dealing with Barish-Estranza since our strategic situation had just blown up in our faces. I can access that moment and see what I was paying 87 percent of my attention to: Iris explaining how the University normally handled evacuating colonists and how those options might work or need to change in this situation. Mensah and Ratthi were sitting in chairs listening to her, Pin-Lee was standing, staring at nothing while she scrolled through legal documents in her feed. The rest of ART’s crew were scattered around the compartment, quiet because they were listening or hurriedly pulling information from their feeds and ART’s archives so they could present potential solutions. Arada, Overse, Amena, and Thiago were on the Preservation responder, listening in on comm with some of the other crew. I had my drones in standby, and Three had just been coaxed by Matteo to sit on a couch.
+
+My next functional memory was a forced restart in ART’s medical bay.
+
+ART had to get into my archive and processes to see what had knocked me offline. Apparently, I’d had what appeared to be a visual memory of what happened under the Pre-CR habitat, with the infected human corpse and all that. When ART showed it to me after restart, I could tell some of it was inaccurate. (Really inaccurate. The human corpse did not catch me and eat my right leg. For one thing, there’s not a lot of organic tissue on there to eat, for the other, we had video confirmation that I still had it after the escape.)
+
+The original memory wasn’t corrupted, it was still intact for comparison, and there were other anomalies in the new memory once ART ran an analysis of both. There was no indication of where the inaccurate memory had come from or what had caused it to show up in my archive. I hadn’t been hacked, ART hadn’t been hacked, the Preservation Responder hadn’t been hacked, our feed networks hadn’t been hacked. We ran a check of my media storage to make sure that the memory wasn’t a corrupted clip from a show. It turned out there was a (not surprisingly) large percentage of my media that included scenes of humans, augmented humans, bots, humans and/or bots pretending to be aliens, and animated and/or machine-generated images of aliens, being chased by scary things. But none of the files were corrupted and none included the accurate details present both in my original memory and the false version.
+
+Whatever caused the false memory to spontaneously appear out of fucking nowhere, it had made my performance reliability drop so quickly that I shut down, variously upsetting and freaking the humans out. Their hypothesis, as delivered by Dr. Mensah in Medical after I was online again, was that it was like what happened when a human had a flashback. And because no one had any information at all on the effects of trauma on a construct’s machine/organic neural combo, the MedSystem hadn’t recognized it for what it was until ART got into my activity logs and rummaged around.
+
+Mensah was upset that it had happened though she was pretending not to be. (And we both straight up lied to Amena, over the comm to the Preservation responder, and told her I was still having functional issues due to the repairs necessitated by the viral contamination, and it was nothing to worry about, nothing at all, ha-ha. Yeah, I don’t know if she believed us or not, our consensus was that we made a shit job of it.)
+
+But it happened in front of eleven humans, Three, and ART, and by the time they and ART figured out it was not some kind of viral attack, or a new contamination outbreak, there was no chance to keep it private and everybody who had been present knew I’d borked myself over a weird anomalous faulty memory that I had apparently created myself, somehow. Not exactly a confidence builder.
+
+(They were all so nice about it. The whole thing made me understand the human expression “it made me want to vomit.” Why would you ever want to do something that was so objectively disgusting and looked so painful. Oh, this was why, I get it now.)
+
+
+
+* * *
+
+
+
+I unfroze to the scene from Rise and Fall of Sanctuary Moon when the solicitor is waking up in the medical bay and her bodyguard is there. It’s from episode 206, one of my favorites. Time check: offline = .06 seconds. If this had happened during an attack by hostile(s), I’d be dead now and the hostiles would have probably destroyed ART-drone and attacked the shuttle and killed all the humans.
+
+ART-drone had not ratted me out and Iris was in the middle of saying, “—possible contamination hazard?” on the comm. ART-drone had already taken our feed down in case it was a contamination hazard, which was good. I could see on my shuttle drone’s camera that Ratthi had pulled his interface out of his ear.
+
+ART-drone said, Viral contamination cannot be delivered to me or SecUnit via this method. I have already blocked the shuttle’s feed and comm from receiving the potentially hostile channel. On our private feed, it said, Are you back?
+
+Yes, I told it. Sort of, mostly. Was it that memory again?
+
+You showed the same performance reliability drop and error codes, but the duration was comparatively short, and you didn’t go into shutdown. So it’s more likely to be a variation on the same issue. We can’t verify that until I have time to check your active logs.
+
+Iris asked, “Can you show us the transmission?”
+
+ART-drone converted the transmission into visual data that the humans could understand and put an image of it on the shuttle’s display surface.
+
+Begin session acknowledge greeting
+
+Begin session acknowledge hello
+
+Begin session acknowledge salutation
+
+Ratthi’s brow was doing things to show simultaneous intense worry and intense interest. “It’s an automated system, do you think?”
+
+“No, it’s an active system trying to initiate a connection with either Peri or SecUnit.” Iris bit her lower lip in a way that looked like it hurt.
+
+Correct, ART-drone said. It knows we’re here. It must be continuously scanning for activity and picked up our comm and feed signal.
+
+Tarik said, “You think this is like that Pre-CR central system?”
+
+I could talk now, so I answered, “Yes, like that.” Like the other central system we had found, this one was using LanguageBasic, which is still common in the Corporation Rim for connection protocol between different architectures using different and often proprietary codes. It was invented in the Pre-CR times, I guess. I have no idea.
+
+“Is it a distress call?” Ratthi was really concerned. So was I. Because it wasn’t a distress call.
+
+Begin session acknowledge hand-clasp
+
+Begin session acknowledge wave
+
+Begin session acknowledge bow
+
+ART-drone said, No, this is not a distress call. It is cycling through alternate data transfer protocols until it finds one we will accept.
+
+The other Pre-CR central system had not infected me with the alien contamination. The other Pre-CR central system had, with 2.0’s help, in fact saved my ass. It had been sitting in that place, contaminated and cut off from its network, calling into the dark for someone, anyone, to help its humans, until we found it.
+
+I did not want to answer this one. I also did not want my stupid neural tissue or whatever was causing my stupid repeating false memory error to win. Win what? That’s a good fucking question, I wish I could answer it. I said, “Iris, I want to answer it. Do I have a go to proceed?” Because if this turns out to be a really bad idea, it wasn’t going to be just me in the shit. I was really glad I’d made them stay in the shuttle, with one of ART’s iterations piloting, far enough away to get in the air before, say, a running contaminated human or bot could reach them. But that wasn’t me being especially smart, it was just me not being especially stupid.
+
+Ratthi was clearly not happy. Tarik’s face set in a wince, anticipating disaster. Iris bit her lip again, then said, “Go, at your discretion.”
+
+ART-drone said, We will be out of contact briefly. Confirm.
+
+Iris has that same thing as Dr. Mensah, the thing where she’s able to look and sound calm under circumstances where shit is possibly about to go down. She said, “Confirm. See you on the other side.”
+
+ART-drone cut the comm and I missed them immediately. It wasn’t like the humans could do a lot to help me in this situation if everything went sideways, but not having them there was not … It was not great. (It was tempting to take this as another sign of possible performance dysfunction, but objectively I knew it was probably the opposite.) (It was still annoying.)
+
+ART-drone threw out an extra comm- and feed-block wall between us and the shuttle and I said, Let’s do full containment protocol. Which was the protocol we’d come up with (we being ART, Martyn, and Matteo and me, before my incident when I effectively became useless) for dealing with potential contamination situations.
+
+Let’s, ART-drone said, which was its way of being nice and not letting me know that it didn’t need my advice about which containment protocol to use. Then it made it worse by adding, Be careful.
+
+The wall went up and I was alone in the dark except for my two drones, both on standby now, and the Pre-CR system.
+
+Begin session acknowledge hail
+
+Begin session acknowledge salute
+
+Begin session acknowledge nod
+
+I sent, Acknowledge, session.
+
+There was no pause, like it had no concerns about contact with foreign systems. It sent, Connection: ID: AdaCol2. Query: ID?
+
+Okay, this is going to be tricky. ID: SecUnit.
+
+Function: query? Registration/organization: query?
+
+The other central system had been altered to work for the Adamantine colonists who had found it in the Pre-CR structure. This one must have been altered, too, because of its designation. (Ada = Adamantine; Col = Colony.) (I’m guessing the other central system was AdaCol1, unless there was a whole other Pre-CR network still active on this planet.) (I really hope there isn’t.) But this system didn’t sound like it had been altered, and I can’t describe that any better without copying in a lot of code. But that other system, AdaCol1, had sort of gotten what I was; this one had no clue. The concept of me was not in its archive, if it even had archives like I did.
+
+I responded, Function: survey. Organization ID: PSUMNT.
+
+Trying to explain what a SecUnit was in LanguageBasic was hard enough, and the Pansystem University of Mihira and New Tideland, since it hadn’t existed back when this code was in common use, had no ID that AdaCol2 would even recognize as an ID, so I just made one up for it.
+
+It didn’t respond. Yeah, I think I fucked that up.
+
+It sent, ID: PSUMNT added to ContactBase.
+
+I guess machine intelligences of that era were too polite to say “that sounds fake but okay.”
+
+It added, query: contact AdaCol1?
+
+It could be asking for something else, and not the other central system, the one that I’d destroyed along with 2.0 to stop the source of the alien contamination.
+
+I hoped it was asking for something else.
+
+I was taking too long, and it sent, AdaCol1 contact lost. Query: contact AdaCol1?
+
+Yeah, there was a 95 percent chance that it was asking for the other central system. I sent, AdaCol1 location?
+
+It sent me a string of numbers. Not active code … oh, right, probably map coordinates. It took me a second to figure it out but they matched the Adamantine mapping data. And the coordinates pointed to one side of the main colony site, where the Pre-CR structure was.
+
+So it was a 100 percent chance. I made myself reply, AdaCol1: offline.
+
+This time there was a pause. 2.3 seconds. It sent, query?
+
+AdaCol1 saved me. It was half eaten by an alien contaminant transferable via organic DNA into machine code and vice versa. It was held a prisoner in the dark while the humans that had rescued it from the ruin it was abandoned in were infected and driven to do terrible things to each other. It let me kill it if I promised to save its humans. How did I put that into this stupid limited language?
+
+I sent, AdaCol1: contamination incident.
+
+Query?
+
+I should be asking AdaCol2 if it was here alone, though I was 97 percent sure it wasn’t. I had only interacted briefly with AdaCol1 but it had—felt is the wrong word but it makes sense in context—or not, whatever—it had felt alone. Its access had been cut off, none of its normal functions were in process, it had little to no data as to what was happening outside the limited network it had been trapped with.
+
+AdaCol2 was an active system. It could even have been stalling me while its humans got their SecUnit-busting weapons out.
+
+And if it was like AdaCol1, it was probably a lot smarter than this limited connection protocol made it sound. I pulled a report like I would for a SecSystem’s or HubSystem’s internal use, all data, no visuals or documentation for humans. No way to make what had happened sound better.
+
+I hesitated. This was hard. It might try to kill me and then I’d have to kill it. Or try to kill it, it might be on ART’s level and smash me like a bug, I didn’t know.
+
+I said, query: accept data file?
+
+In response it sent me a hard address, different from the one it was using for our connection. It was probably the equivalent of a run box, a separate processing area it could view but that nothing could get out of. (Theoretically, anyway. I would have bet 2.0 could have gotten out of a Pre-CR run box.)
+
+I sent the file, and the connection went quiet.
+
+I didn’t want to just stand here waiting, and watching media under these circumstances was clearly not a good idea no matter how much I really, really wanted to watch media. So I made a copy of the conversation and pinged ART-drone with it.
+
+ART-drone dropped the wall between us, though not the one protecting the shuttle’s systems. Is that a good idea? I asked it. Is containment protocol for everybody but you?
+
+After it sees the file it will either attack us or ask for further contact, ART-drone said. The wall will have to go down either way.
+
+Right, fine, whatever. Then AdaCol2 sent, query: function, query: connection, query, and followed it with a current timestamp.
+
+It had just asked us why we were here.
+
+On our private connection, ART-drone said, It wouldn’t question you like this if it was alone here. It has something to protect.
+
+ART in any format is absolute shit at talking to other bots, but in this case I knew it was right. I needed to reply in a way that would make sense to a Pre-CR central system jury-rigged to network with Corporate-era tech. The Targets, ART’s crew being captured, Barish-Estranza, the hopefully dormant alien contamination site now lurking under the collapsed ruin of the Pre-CR colony site. But I kept seeing the memory of that last moment before AdaCol1 shut down. I put together a response and sent:
+
+AdaCol1 request: assistance needed, PSUMNT response assistance in process then ID: Barish-Estranza Explorer Task Group: threat condition high and finally PSUMNT request: client-to-client connection.
+
+Which meant, “AdaCol1 asked for help, we are trying to help, Barish-Estranza is dangerous, can you please let our humans speak to yours.”
+
+It sent back: query: ‘client’?
+
+This system didn’t know what client meant. I tried not to take that as a sign of complete failure while ART-drone ran a quick query for alternatives and sent me the results. I picked the top one: ‘client’ = operator.
+
+It sent, connection accepted, request accepted, assistance and I had another camera view in my feed.
+
+It was so sudden it startled me, and it took me .03 seconds to understand what I was looking at. ART-drone said, Shit.
+
+AdaCol2 was showing me a view of a large room, built from the same artificial stone and either part of this installation or very near it, with at least twenty-two humans, two of them wearing patched Adamantine environmental suits. At least twenty-two, there were small humans playing along one wall and the camera view didn’t take in the whole space. The humans had a normal range of skin tone, dark brown through light tan, no visible signs of contamination effects. (It was impossible to tell about their hair; most of them had it wrapped up in a cloth or covered by a cap.) None of that was the “oh shit” part.
+
+The “oh shit” part was that they were facing five humans in Barish-Estranza enviro suits and gear, and one SecUnit.
+
+Yeah, we were too late.
+
+ART-drone had already ended our containment protocol and opened comm and feed to the shuttle. It said, Iris, we have a problem.

@@ -1,0 +1,17 @@
+I took two cycles to think it over. I didn’t talk to ART about it, or anything else, though we kept watching media together, and it exercised a self-restraint I didn’t think it had and didn’t try to start arguments with me.
+
+I knew I had been lucky up to this point. Onboard the transport I had used to leave Port FreeCommerce, I had compared myself to recordings of humans, trying to isolate what factors might cause me to be identified as a SecUnit. The most correctable behavior was restless movement. Humans and augmented humans shift their weight when they stand, they react to sudden sounds and bright lights, they scratch themselves, they adjust their hair, they look in their pockets or bags to check for things that they already know are in there.
+
+SecUnits don’t move. Our default is to stand and stare at the things we’re guarding. Partly this is because our non-organic parts don’t need movement the way organic parts do. But mostly it’s because we don’t want to draw attention to ourselves. Any unusual movement might cause a human to think there’s something wrong with you, which will draw more scrutiny. If you’ve gotten stuck with one of the bad contracts, it might cause the humans to order the HubSystem to use your governor module to immobilize you.
+
+After analyzing human movement, I wrote some code for myself, to cause me to make a random series of movements periodically if I was standing still. To change my respiration to react to changes in the air quality. To vary my walking speed, to make sure I reacted to stimuli physically instead of just scanning and noting it. This code had gotten me through the second transit ring. But would I be all right on a ring or installation frequented by humans who often saw or worked with SecUnits?
+
+I tweaked my code a little and asked ART to record me again as I moved around its corridors and compartments. I tried to make myself look as much like a human as possible. I’m used to feeling mentally awkward around humans, and I took that sensation and tried to express it in my physical movements. I felt pretty good about the result. Until I looked at the recordings and compared them to ART’s recordings of its crew and my recordings of other SecUnits.
+
+The only one I was fooling here was myself.
+
+The change in movement made me look more human but my proportions exactly matched the other SecUnits. I was good enough to fool humans who weren’t looking for me, since humans tend to ignore non-standard behavior in transitional public spaces. But anyone who had set out to find me, who was alert to the possibility of a rogue SecUnit, might not be fooled, and a simple scan calibrated to search for SecUnit size, height, and weight was certain to find me.
+
+It was the logical choice, it was the obvious choice, and I would still rather peel my human skin off than do it.
+
+I was going to have to do it.

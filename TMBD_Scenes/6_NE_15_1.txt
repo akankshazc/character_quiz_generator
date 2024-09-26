@@ -1,0 +1,77 @@
+I stopped my show and woke my drones as the drop box maintenance capsule sent an arrival alert through its local feed. It had been decelerating already but now it was braking to enter the surface docking structure. I’d been checking feed and comm for any kind of signal contacts but I couldn’t pick up anything but what was coming from the capsule itself. The downside of that was no information; the upside was that if the surface dock’s feed and arrival notification system were down, maybe nobody knew we were coming.
+
+And it was uncomfortably similar to when Amena and I had first come aboard ART, to an apparently dead feed. And yes, I was scanning the ranges associated with targetControlSystem, but nothing was there, either.
+
+“We’re here.” Overse shifted in her seat, edgy with nervous energy.
+
+Thiago sat up and said, “Good timing, I just finished the preliminary module.”
+
+Overse snorted. “I don’t know how you can work under these conditions.”
+
+“It gives me something else to think about.” Thiago made a move to rub his face and bonked his glove on his helmet. “I used to work on language puzzles before my exams at FirstLanding. Tano thought I was out of my mind.”
+
+“Considering what we’re doing at the moment, I don’t think Tano was wrong,” Overse told him.
+
+Thiago said, “SecUnit—” and I thought oh great, what now. Then he finished, “I’ve been assembling a working vocabulary module of the languages the Targets are using. Without Perihelion to translate for us, it could come in handy.”
+
+Well, now I feel like an asshole.
+
+I pulled the module out of his feed and stored it as the capsule braked, jerked twice, then clanked as it dropped into its docking slot. Its local feed signaled arrival and Overse hurriedly used the manual controls to switch it over to standby. I was already unstrapping and pushing out of the seat. I stepped over to the hatch and stopped it as it was about to slide open. The capsule was showing a good environment outside and a gravity within acceptable parameters but I was glad we had the environmental suits. I let the hatch open just a notch and sent a drone out.
+
+Outside was a corridor, walls, floor, and ceiling made of sandy stone, with metal support girders. (Not actual stone, but an artificial building material that looked like it.) Round light sources studded the girders at intervals but there was no power. The drone followed it out to a foyer with a taller ceiling, with round windows set high in what had to be an outside wall, letting in gray daylight. Racks and cabinets and an unused workbench lined the other walls. A thin layer of dust on the floor said this area hadn’t been disturbed in a long time, and also indicated that somewhere in this structure was an opening to the outside where there was actual dirt. The door wasn’t a pressure hatch, it was a manually operated metal sliding door.
+
+Overse and Thiago had gotten to their feet, watching me. I sent the drone’s video to their interfaces and said, “Stay here. I’m going to take a look around. Don’t use the suit comms.” I was setting up a feed relay through my drones, which should be secure, but I didn’t want to press my luck. “Even though there’s no signal traffic, they might still have a way to monitor comms.”
+
+Overse pressed her lips together. She clearly didn’t like the idea of separating the group but didn’t argue. “Be careful. Don’t go too far without us.”
+
+“Are you sure you should go alone?” Thiago didn’t look happy either. All the concern was annoying, which was me being complacent or unfair or something, considering how humans being worried about me possibly going off alone to die was such a recent development in my life.
+
+I just said, “I won’t be long,” and let the hatch open the rest of the way.
+
+I left two drones with the humans and brought the rest with me down the corridor into the foyer to catch up with the scout drone. The absence of any kind of feed signal was still eerie, but if the surface dock wasn’t being used, it sort of made sense. A quick check showed lots of tools and maintenance supplies stored in the cabinets, neatly put away and barely used. I couldn’t pick up anything on audio except the low grumbling of the capsule’s power train in its deactivation cycle. I eased the door open along its track, which thankfully did not screech, and let a squad of five drones out.
+
+I got views of wide, high-ceiling corridors made of the manufactured stone. A few of the flat light pads on the girders were lit, so there must be emergency power somewhere. The drones’ scan found marker paint exit signs on the walls and nothing nearby on audio, no machine or human movement, no voices. I slipped out the door and followed the drones.
+
+Two more turns and the drones found a wide exterior sliding door that was partially open. I got drone video of what was outside but I wanted to see it myself, so I sent them back into the interior corridors to keep scouting and went outside.
+
+From the map I’d pulled up on the space dock, the surface dock was a big oval structure, built around the shaft. I walked out onto a long stone balcony, sand grating under my boots, about three stories off the ground looking out to the west. The sky was overcast with puffy gray clouds but the view was clear. I was looking at a lake, shallow and glassy, curving away from the looming wall of the dock. A wide causeway led off from the far side of the building, crossing the lake toward another set of three large structures maybe two kilometers away, a complex big enough to dwarf the dock.
+
+The buildings were multistory, trapezoidal, made out of a gray material, and arranged in a half circle around a raised plaza in the center where the causeway ended. They had rib-like supports curving up from their bases that might be decorative, or maybe for power-generating, I had no idea. To the east around the front of the surface dock was a sea of green plants, fronds waving in the breeze. Increasing magnification as much as I could, I saw a structure under the greenery, probably growing racks supporting the growth medium off the ground, full of water and whatever else plants needed.
+
+What the hell kind of colony was this?
+
+A figure stood up out of the plants suddenly, almost ten meters tall and covered with spikes. It’s a good thing I don’t have a full human digestive system because I was so startled something would have popped out of it involuntarily. Before I could fling myself back through the doors I realized it was an agricultural bot. Its lower body had ten long spidery limbs for moving around without crushing anything, and its upper part was a long curving “neck” with a long head and like I said, covered with spikes.
+
+(Agricultural bots have the statistically lowest chance of accidental injuries but are physically the most terrifying. It’s weird how something designed to take care of delicate lifeforms looks the most like it wants to tear you apart and eat your humans.)
+
+Anyway, back to what I was saying, what the hell kind of colony was this.
+
+It wasn’t the plants or the ag-bots—that was normal. Plants could be engineered to do a lot of things for colonies, like produce gases or other chemicals. But for one thing the complex didn’t resemble the Adamantine colony plans, not at all. And you would expect everything to be more messy and human, with things under construction, piles of materials, temporary habitat structures, or the remains of temporary habitat structures that had been stripped to build permanent structures. No air or ground vehicles were visible, no boats or docks on the lake. No trash. This place looked simultaneously abandoned but well cared for. Like whatever it was being used for, it wasn’t meant for humans to live in.
+
+I sent images to Overse and Thiago, and there were stunned exclamations. Indicating the complex with the weird ribs, I asked, Is that an alien structure? (It was the obvious question.)
+
+No, it couldn’t be, Overse said, but she sounded like she wasn’t certain.
+
+Thiago said, I agree, that looks too … usable for humans to be an authentic ruin. It also looks too old to have been built by the Adamantine colonists. I have seen reports claiming that groups compulsively constructing unusual structures is an early symptom of remnant contamination. It could have been built by the Pre-CR colonists, under the influence of the remnants.
+
+That was probably right. Intrepid hero explorers found alien ruins all the time in shows like World Hoppers, but in reality it was more like what happened to transports that got trapped in endless wormhole journeys. Nobody knew what happened or what anything looked like because everybody involved died.
+
+The compulsive construction thing sounded really creepy, though.
+
+Thiago added, It could also just be an early Pre–Corporation Rim structure of a style that we don’t recognize.
+
+That’s probably what the Adamantine colonists thought before they got eaten or turned into liquid or whatever.
+
+The ag-bot took another step, bending its neck down into the plants. I didn’t see any humans or Targets, but there were definitely power sources here because I was picking up some interference on my scan that indicated something like large-scale air barriers in operation. Ratthi had mentioned they might be in use to keep the colony’s atmosphere contained, so that made sense.
+
+My drone had found the end of the dock structure and got a view of the far side, which was a flat valley, punctuated with angular rock formations sticking up out of the ground randomly. The dock and the drop shaft must be on a plateau and this was the edge. Reddish brown scrubby grass dotted with bits of brighter red covered everything that wasn’t rock or dirt, the colors brilliant even under the overcast sky. There was a long straight obviously artificial canal that came out of the base of the plateau somewhere below and ran off toward the rising hills some distance away. The light wind came from that direction, ruffling the grass.
+
+There was no sign of other buildings. Maybe Thiago was right and the complex was from the Pre–Corporation Rim colony. If it was, their budget must have been big enough to make the company break out in greed sweat. All that currency and none of it going for bonds.
+
+(If they had gotten company bonds, at least somebody might have been around to say Hey, maybe we should go when they encountered the toxic alien remnants or whatever else it was they had encountered.)
+
+And where was everybody?
+
+My drones sent me an alert and I checked their inputs. They were picking up ambient audio: voices echoing against manufactured stone and projectile weapon fire.
+
+Oh, that’s where everybody was.

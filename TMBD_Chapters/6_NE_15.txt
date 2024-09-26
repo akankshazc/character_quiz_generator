@@ -1,0 +1,293 @@
+I stopped my show and woke my drones as the drop box maintenance capsule sent an arrival alert through its local feed. It had been decelerating already but now it was braking to enter the surface docking structure. I’d been checking feed and comm for any kind of signal contacts but I couldn’t pick up anything but what was coming from the capsule itself. The downside of that was no information; the upside was that if the surface dock’s feed and arrival notification system were down, maybe nobody knew we were coming.
+
+And it was uncomfortably similar to when Amena and I had first come aboard ART, to an apparently dead feed. And yes, I was scanning the ranges associated with targetControlSystem, but nothing was there, either.
+
+“We’re here.” Overse shifted in her seat, edgy with nervous energy.
+
+Thiago sat up and said, “Good timing, I just finished the preliminary module.”
+
+Overse snorted. “I don’t know how you can work under these conditions.”
+
+“It gives me something else to think about.” Thiago made a move to rub his face and bonked his glove on his helmet. “I used to work on language puzzles before my exams at FirstLanding. Tano thought I was out of my mind.”
+
+“Considering what we’re doing at the moment, I don’t think Tano was wrong,” Overse told him.
+
+Thiago said, “SecUnit—” and I thought oh great, what now. Then he finished, “I’ve been assembling a working vocabulary module of the languages the Targets are using. Without Perihelion to translate for us, it could come in handy.”
+
+Well, now I feel like an asshole.
+
+I pulled the module out of his feed and stored it as the capsule braked, jerked twice, then clanked as it dropped into its docking slot. Its local feed signaled arrival and Overse hurriedly used the manual controls to switch it over to standby. I was already unstrapping and pushing out of the seat. I stepped over to the hatch and stopped it as it was about to slide open. The capsule was showing a good environment outside and a gravity within acceptable parameters but I was glad we had the environmental suits. I let the hatch open just a notch and sent a drone out.
+
+Outside was a corridor, walls, floor, and ceiling made of sandy stone, with metal support girders. (Not actual stone, but an artificial building material that looked like it.) Round light sources studded the girders at intervals but there was no power. The drone followed it out to a foyer with a taller ceiling, with round windows set high in what had to be an outside wall, letting in gray daylight. Racks and cabinets and an unused workbench lined the other walls. A thin layer of dust on the floor said this area hadn’t been disturbed in a long time, and also indicated that somewhere in this structure was an opening to the outside where there was actual dirt. The door wasn’t a pressure hatch, it was a manually operated metal sliding door.
+
+Overse and Thiago had gotten to their feet, watching me. I sent the drone’s video to their interfaces and said, “Stay here. I’m going to take a look around. Don’t use the suit comms.” I was setting up a feed relay through my drones, which should be secure, but I didn’t want to press my luck. “Even though there’s no signal traffic, they might still have a way to monitor comms.”
+
+Overse pressed her lips together. She clearly didn’t like the idea of separating the group but didn’t argue. “Be careful. Don’t go too far without us.”
+
+“Are you sure you should go alone?” Thiago didn’t look happy either. All the concern was annoying, which was me being complacent or unfair or something, considering how humans being worried about me possibly going off alone to die was such a recent development in my life.
+
+I just said, “I won’t be long,” and let the hatch open the rest of the way.
+
+I left two drones with the humans and brought the rest with me down the corridor into the foyer to catch up with the scout drone. The absence of any kind of feed signal was still eerie, but if the surface dock wasn’t being used, it sort of made sense. A quick check showed lots of tools and maintenance supplies stored in the cabinets, neatly put away and barely used. I couldn’t pick up anything on audio except the low grumbling of the capsule’s power train in its deactivation cycle. I eased the door open along its track, which thankfully did not screech, and let a squad of five drones out.
+
+I got views of wide, high-ceiling corridors made of the manufactured stone. A few of the flat light pads on the girders were lit, so there must be emergency power somewhere. The drones’ scan found marker paint exit signs on the walls and nothing nearby on audio, no machine or human movement, no voices. I slipped out the door and followed the drones.
+
+Two more turns and the drones found a wide exterior sliding door that was partially open. I got drone video of what was outside but I wanted to see it myself, so I sent them back into the interior corridors to keep scouting and went outside.
+
+From the map I’d pulled up on the space dock, the surface dock was a big oval structure, built around the shaft. I walked out onto a long stone balcony, sand grating under my boots, about three stories off the ground looking out to the west. The sky was overcast with puffy gray clouds but the view was clear. I was looking at a lake, shallow and glassy, curving away from the looming wall of the dock. A wide causeway led off from the far side of the building, crossing the lake toward another set of three large structures maybe two kilometers away, a complex big enough to dwarf the dock.
+
+The buildings were multistory, trapezoidal, made out of a gray material, and arranged in a half circle around a raised plaza in the center where the causeway ended. They had rib-like supports curving up from their bases that might be decorative, or maybe for power-generating, I had no idea. To the east around the front of the surface dock was a sea of green plants, fronds waving in the breeze. Increasing magnification as much as I could, I saw a structure under the greenery, probably growing racks supporting the growth medium off the ground, full of water and whatever else plants needed.
+
+What the hell kind of colony was this?
+
+A figure stood up out of the plants suddenly, almost ten meters tall and covered with spikes. It’s a good thing I don’t have a full human digestive system because I was so startled something would have popped out of it involuntarily. Before I could fling myself back through the doors I realized it was an agricultural bot. Its lower body had ten long spidery limbs for moving around without crushing anything, and its upper part was a long curving “neck” with a long head and like I said, covered with spikes.
+
+(Agricultural bots have the statistically lowest chance of accidental injuries but are physically the most terrifying. It’s weird how something designed to take care of delicate lifeforms looks the most like it wants to tear you apart and eat your humans.)
+
+Anyway, back to what I was saying, what the hell kind of colony was this.
+
+It wasn’t the plants or the ag-bots—that was normal. Plants could be engineered to do a lot of things for colonies, like produce gases or other chemicals. But for one thing the complex didn’t resemble the Adamantine colony plans, not at all. And you would expect everything to be more messy and human, with things under construction, piles of materials, temporary habitat structures, or the remains of temporary habitat structures that had been stripped to build permanent structures. No air or ground vehicles were visible, no boats or docks on the lake. No trash. This place looked simultaneously abandoned but well cared for. Like whatever it was being used for, it wasn’t meant for humans to live in.
+
+I sent images to Overse and Thiago, and there were stunned exclamations. Indicating the complex with the weird ribs, I asked, Is that an alien structure? (It was the obvious question.)
+
+No, it couldn’t be, Overse said, but she sounded like she wasn’t certain.
+
+Thiago said, I agree, that looks too … usable for humans to be an authentic ruin. It also looks too old to have been built by the Adamantine colonists. I have seen reports claiming that groups compulsively constructing unusual structures is an early symptom of remnant contamination. It could have been built by the Pre-CR colonists, under the influence of the remnants.
+
+That was probably right. Intrepid hero explorers found alien ruins all the time in shows like World Hoppers, but in reality it was more like what happened to transports that got trapped in endless wormhole journeys. Nobody knew what happened or what anything looked like because everybody involved died.
+
+The compulsive construction thing sounded really creepy, though.
+
+Thiago added, It could also just be an early Pre–Corporation Rim structure of a style that we don’t recognize.
+
+That’s probably what the Adamantine colonists thought before they got eaten or turned into liquid or whatever.
+
+The ag-bot took another step, bending its neck down into the plants. I didn’t see any humans or Targets, but there were definitely power sources here because I was picking up some interference on my scan that indicated something like large-scale air barriers in operation. Ratthi had mentioned they might be in use to keep the colony’s atmosphere contained, so that made sense.
+
+My drone had found the end of the dock structure and got a view of the far side, which was a flat valley, punctuated with angular rock formations sticking up out of the ground randomly. The dock and the drop shaft must be on a plateau and this was the edge. Reddish brown scrubby grass dotted with bits of brighter red covered everything that wasn’t rock or dirt, the colors brilliant even under the overcast sky. There was a long straight obviously artificial canal that came out of the base of the plateau somewhere below and ran off toward the rising hills some distance away. The light wind came from that direction, ruffling the grass.
+
+There was no sign of other buildings. Maybe Thiago was right and the complex was from the Pre–Corporation Rim colony. If it was, their budget must have been big enough to make the company break out in greed sweat. All that currency and none of it going for bonds.
+
+(If they had gotten company bonds, at least somebody might have been around to say Hey, maybe we should go when they encountered the toxic alien remnants or whatever else it was they had encountered.)
+
+And where was everybody?
+
+My drones sent me an alert and I checked their inputs. They were picking up ambient audio: voices echoing against manufactured stone and projectile weapon fire.
+
+Oh, that’s where everybody was.
+
+
+
+* * *
+
+
+
+The audio bounced off the walls and obscured its direction of origin; without the drones I wouldn’t have been able to get close without being spotted.
+
+The standoff was toward the center of the dock, in the main drop box loading chamber. With the map I’d downloaded from the space dock, I found a ramp to the upper levels, past corridors and doorways to empty rooms, out to an open gallery level overlooking the dark arrival chamber. It wasn’t a great spot for a sniper, even with the cover of the low safety wall. The angles were bad and I had to send my drones down to the embarkation floor to get a good look at who was fighting who.
+
+With the power down, the space was shadowy, and someone had already shot out the big overhead emergency lights in the curved ceiling. The drop box chamber was bigger than the one on the station, with wide girders forming high arches over the foyer in front of the giant safety hatches. They were closed, blocking off the box’s now-empty landing zone. Doorways on the west side of the chamber had groups of Targets clustered in the shadowed archways, yelling, ducking back into cover, and taking shots at another smaller group on a broad balcony on the upper level on the east side, to my right. Several dead Targets were scattered across the floor in front of the drop box hatches.
+
+Yes, those were definitely Targets down there. But many still had characteristics that made it way more obvious that they were humans who had been physically altered, like body types other than the tall skinny alien chic look of the Targets who had taken over ART. Most wore the kind of rough work clothing normal for colonies or mining, a cheaper, more battered version of ART’s environment suits with hoods but no breathing gear, or a mix of plain work clothes, plus a random collection of what looked like old uniforms and protective gear. That made it hard to see faces, but the drones identified a whole group where the gray skin coloring was obviously some kind of progressive condition and not a natural or cosmetic effect. Interestingly, the ones who were more obviously altered humans weren’t all fighting on the same side.
+
+I didn’t spot any of the distinctive Target weapons. They used projectile weapons without logos that looked badly hand-assembled out of spare parts, and I noted one weapon that had probably come from the Barish-Estranza contact party. With everybody running around so much, I couldn’t get an accurate count, but there were at least a hundred Targets scattered through here, and ambient audio suggested more fighting in the corridors to the east. No sign of targetDrones, but below the east side balcony I spotted debris that might be drone remnants.
+
+So this all looked like a big mess but it told me two things: (1) the theory about the Targets being colonists who had been exposed to alien remnant contamination was probably correct. (We had been around 82 percent certain of that but it was nice to take it all the way up to 96 plus.) And (2) they had at least two factions who didn’t get along at all.
+
+But if ART’s crew had arrived in the drop box while this was going on, I didn’t like their chances. I didn’t see any dead humans, but if they had gotten captured again, this was going to be way harder than I’d hoped.
+
+But my drones were finding a lot of cubbies and possible hiding spots along the walls below my position, like openings to cargo storage spaces, another doorway that the map said ran under this balcony and toward the exterior of the dock, a dispatch corral designed for an older model of hauler bot, an entrance to a lift pod lobby …
+
+Wait. There we go.
+
+A decorative glass rock wall curved out away from the open door to the lift pod lobby, and around the side of that wall a figure crouched. The angle was bad, but I could see an arm resting on the glass and it was dark brown, wearing a decorative woven bracelet. The pushed-up sleeve of the T-shirt was a light blue. None of those things suggested a Target.
+
+If you had just arrived in a drop box and found a bunch of Targets fighting or about to fight a pitched battle on the embarkation floor, you might run toward the obvious lift pod lobby. Then you’d discover the power was out and the lift pods were inactive and you’d accidentally got yourself pinned down. I sent a drone in for a closer look.
+
+It got a good image of the human crouched behind the glass wall. It was Iris, ART’s Iris.
+
+I had a moment. ART was going to be so relieved.
+
+Iris was small, shorter and slimmer than Ratthi, not much bigger than Amena. Her dark hair was the curly kind that puffed out a lot but she had it pulled back and tied up in a band. Her long-sleeved T-shirt and pants and soft shoes were the casual version of ART’s blue crew uniform, and she had stains at her knees and elbows, cuts on her hands, and a discolored bruise on her left forearm, but I didn’t see any worse injuries.
+
+The drone crept in past her, around a corner and down a short corridor into the lift pod lobby. And there were the others.
+
+Four humans crouched beside the wall next to the pod access. They had pulled the panel off the control board and were working on it with inadequate tools and a tiny pin light. They must be trying to get one of the pod tube doors open so they could climb the shaft.
+
+Well, this was going to be tricky. I sent, Overse, what’s your status?
+
+We’re fine, she replied. Did you find anything? My drone cam showed that she and Thiago were in the maintenance capsule’s lobby, searching the cabinets.
+
+I sent them a drone view of the confrontation and ART’s crew. There was some quiet but excited flailing. Then Thiago said, Can we get them out via the lift pod, get power to it somehow?
+
+Overse said, That wouldn’t work—we’d have to find the power plant, restart it. But if we could get into the pod shaft just above them and open the doors on their level from the inside—
+
+I didn’t like that plan. We didn’t know how long the fighting had been going on and it might stop at any moment, and whoever won would go after the trapped humans. I said, It would take too long, and the pods might be blocking the shaft. I’ve got a better idea.
+
+At least, that’s what I thought at the time.
+
+
+
+* * *
+
+
+
+The hard part was fighting against thousands of hours of module-training and experience plus common sense that said never hand a weapon to a human and especially never tell them to do something with it. The weapons in question were just poppers, and the human was Overse who never panicked, but still.
+
+Now she was following a drone up to the balcony I’d found. It was terrible as a sniper position, but it would work fine for this. I was with Thiago in the lower corridor that would hopefully be our escape route. With no feed except my drone relay, I’d had to send a drone to make a direct connection with Distraction01 and Distraction02. It had made contact seventeen seconds ago, so we were go to proceed as soon as Overse was in position. Just in time, because 1.4 minutes ago I had marked a lull in the second area of conflict, the corridors to the east of the arrival chamber, and the last thing I needed right now was for the Targets to declare a truce and stop shooting each other.
+
+And Thiago, standing behind the corridor support girder with me, looked tense. Keeping my voice low, I said, “Are you sure you’re okay to do this?”
+
+“Yes, I’m sure, and it doesn’t help to keep asking me over and over again,” he whispered back.
+
+Well, he wasn’t wrong about that. The problem was mostly me, I felt guilty asking for help, though I’d tried to set things up so neither human would be exposed to fire.
+
+My drones showed Overse just reaching the doorway to the balcony. She dropped to her knees and crawled up to the low wall. I switched to our joint feed and said, Clear to proceed.
+
+Thiago braced himself.
+
+As Overse armed the three poppers, I started to run. She flung them over the rail two seconds before I hit the archway into the arrival chamber. Still falling, the poppers popped. Lights flashed like lightning in a biozone and booms echoed off the chamber’s walls. I’d tuned my hearing down and filtered my vision but I could still see and hear the effects. Just not as dramatically as the Targets on either side of the chamber who yelled, screamed, fell down, and randomly fired their weapons. I sprinted the fifteen meters along the back wall of the chamber and ducked around the glass partition shielding the doorway of the lift pod lobby.
+
+As I whipped around the wall, Iris scrambled backward and almost fell out of cover. I stopped and said, “Don’t get into the line of fire, Iris.” (I know, I’m bad at this part. On a contract, I could say, Please don’t be alarmed, I’m your contracted SecUnit. You are in a dangerous situation. Please stop doing:insert stupid thing here: immediately.) Out in the drop box chamber, Targets shot blindly at each other, each side convinced the other had set off the poppers as the prelude to a rush attack. The rest of ART’s crew, still in the back of the lobby and working on the pod control, had reacted to the noise but hadn’t heard me enter the foyer. I added, “There’s only five of you here—where are the others?”
+
+“Who are you?” Breathing hard, Iris pushed away from the wall but didn’t panic. I saw the change in her expression as she started to recognize the enviro suit I was wearing. (It went from righteously pissed off and terrified to confused.) “How did you get that suit?”
+
+Overse and her drone raced through the upper corridors, headed back to the maintenance capsule to get it ready for our escape. Thiago waited in the corridor, one knee bouncing impatiently. I said, “I borrowed it from your transport. It sent me to retrieve you. Where are the other three?”
+
+She frowned, uncertain and wary. “They didn’t make it off the corporate ship. A colonist helped us escape when they were transferring us to the space dock’s drop box. We couldn’t—” Her self-control was good but raw pain made her voice go thick. “She said it was too late for them. Then she was killed in the dock before I could find out what had happened—” She stopped, glaring. “If our transport sent you—from where? Where did you come from?”
+
+A scan showed no anomalous power sources. I said, “They didn’t put an implant in you, did they? Show me the back of your neck.”
+
+She was understandably pissed off. “I’m not going to turn around and show you my neck, strange person I just met on a hostile planet.”
+
+Right, so, I could point out that I was the one with the weapons, but I didn’t want to make my first interaction with one of ART’s humans all about me threatening her when I had no intention of following through. It just seemed unproductive, basically. I said, “That’s what someone with an implant would say, strange person I just met on a hostile planet who I am trying to rescue.”
+
+She was keeping her expression somewhere in the vicinity of angry tough, and doing a pretty good job of it, but I could see she knew it wasn’t an unreasonable request. “No, no implant. I know they did that to some of the explorer’s crew, but not to us.” She turned around, lifting her hair to show me.
+
+“I’m going to touch your back briefly.” I stepped close enough to pull down the back of her T-shirt and make sure there was no wound. I stepped back. “Clear. Now in approximately five minutes I need you and the others to follow me out of here, turn to the left, and run down the first corridor. You’ll meet a human wearing one of Perihelion’s enviro suits. Follow him and do what he says.”
+
+She turned back around, lowering her hair and eyeing me with startled speculation. “Are you a SecUnit?”
+
+That’s never not an awkward question. And my first impulse was to lie, since she was an unknown human, except she was ART’s human, so what came out was, “What makes you think that.”
+
+(I know, I know.)
+
+She just looked more certain. “You’re Peri’s SecUnit.”
+
+Oh, ART’s humans had a cute pet name for it. I saved that to permanent archive immediately. I said, “I am not Perihelion’s SecUnit.” Then I ruined it by adding, “Whatever it told you about me isn’t true.”
+
+She lifted her brows. “But you are the SecUnit Perihelion told us about?”
+
+So there’s ART, telling all these humans about me. “If I am, will you do what I say so I can get you out of here?”
+
+She hesitated, undecided but wanting to believe. “I will if you show me your face.”
+
+“It showed you images of me?” What the shit, ART?
+
+“Obviously.” Her expression hardened. “If you’re really Peri’s friend, show me your face.”
+
+Well, fine. I told the suit to retract the faceplate and fold its hood down. Her gaze sharpened and I had to look at the manufactured stone wall past her head. My face was basically the same since ART had helped me change my configuration, though I’d made my hair and eyebrows thicker. But the drone watching Iris’s face for me showed the recognition in her expression.
+
+A little of the tension went out of her body. “Thank you.” Her face looked younger. She looked like she had been pretending to have hope and now she didn’t have to pretend anymore.
+
+(Confession time: that moment, when the humans or augmented humans realize you’re really here to help them. I don’t hate that moment.)
+
+Iris said, “Is Peri all right? Where is it? And how did you get here? Did you follow us to this system?”
+
+“It’s fine. It was at the space dock but it left to chase the explorer. It—” I wasn’t going to tell her about the whole kidnapping thing. Unlike some giant asshole research transports, I’m not a snitch. “It’s a long story. Please get the others and tell them we’re about to leave.”
+
+She took a sharp breath and went to get the others.
+
+
+
+* * *
+
+
+
+So now I had Seth, Kaede, Tarik, and Matteo in addition to Iris. (They were smart, and had kept the exclamations and arm waving to a minimum when Iris told them I was here.) I didn’t know yet how we could get the other three off the explorer, or if they were still alive, but at least I could get these humans back to ART. (Five was better than none, but I knew how I’d feel if I had to give up three humans. It would suck.)
+
+“How do we know you’re really Peri’s friend?” Seth said. He was the one I’d gotten the brief image of on DockSecSystem, tall, very dark skin, with less hair than most SecUnits. From ART’s records, he was Iris’s parent. “The colonists uploaded some sort of system when Peri was offline, they could have access to all Peri’s archives, they could know what you look like.”
+
+That didn’t make any sense but using logic with traumatized humans never works. (I could make a remark there about logic not working with humans, period, but I’m not going to do that.) I could give them video clips of me onboard ART, but that wouldn’t help. Conversations between me and my humans could be faked, and the conversations ART and I had were in a data exchange language that humans wouldn’t be able to read without an interpreter, which could be faked, too. I said, “The name I call Perihelion is ART, which stands for Asshole Research Transport.”
+
+Seth’s grim expression relaxed and Tarik said, “You definitely know the real Peri.”
+
+Kaede, standing by my left elbow, added, “Peri has a very dry sense of humor.” She was about the same size as Iris, but her skin was lighter and her hair was yellow.
+
+They all had bruises, blood-stained and torn clothes, Seth had a limp, and Tarik kept pressing his hand to his lower abdomen and trying not to wince in a way that made me want to call a nonexistent MedSystem. Kaede cradled her right arm, which had a big blue-purple splotch that meant something in it was badly hurt. Matteo, who had blood crusted along their hairline and bleeding fingers from trying to get the lift pod open with no tools, said impatiently, “Has it been longer than two minutes or is that just me?”
+
+The map had been inaccurate about the height of the corridors so the schedule had been pushed back, and they were getting jittery. (Jittery humans who I am attempting to extract from the middle of a firefight, always fun.) Only partly to distract them, I said, “Do you have any intel about what happened here?”
+
+“It’s alien remnant contamination.” Kaede looked up at me, her brow wrinkled. “The colonists knew it was here. Adamantine thought the Pre–Corporation Rim colony had sterilized the site, but they were wrong.”
+
+Matteo tucked their hands under their armpits. They were small like Iris and Kaede, and had a lot of dark hair that had come loose from braids. “Apparently the Adamantine colonists started to get sick not long after they got here. Some had physical symptoms—the changes to skin color, weight, eye color. They knew it was alien remnant contamination, so they moved out of the primary site and established a colony on a secondary site further away.”
+
+“That, in itself, was not rational,” Tarik added. I could see his point. But it was probably why Adamantine had destroyed the records of the colony’s location. They didn’t want to get caught, plus they knew whatever happened, it wouldn’t be good for the colonists stuck here.
+
+Kaede continued, “Five years ago there was another outbreak of symptoms, but this time it was much worse. Some developed psychological effects, but others didn’t. Some of the affected seem to think they’re part of an alien hivemind.”
+
+Seth waved toward the drop box chamber. “That’s what we think this is about—they’ve formed factions, with the ones who are less affected trying to hold off the others. The drop box arriving again triggered the fight.”
+
+Iris said, “We’re fairly sure the alien hivemind thing is a group delusion.”
+
+“It has to be a delusion,” Tarik said. He swayed a little and Seth steadied him.
+
+“It doesn’t have to be a delusion—” Matteo began, and Kaede and Iris both started to object.
+
+Seth said firmly, “I do not want to hear this argument again.”
+
+Everybody shut up, which was just as well because Distraction01 and 02 were about to arrive.
+
+We had almost lost our window of opportunity: the Targets on the balconies had withdrawn most of their force, and the Targets on the other side of the chamber had shifted position, getting ready to advance. From the way they were moving, I think somebody had figured out there was something sketchy happening in the lift pod lobby. I said, “We’re thirty seconds out. Remember, go to the left, down the corridor, and follow Thiago. I’ll cover you.” My drones showed him in the corridor, waiting tensely, and I tapped his feed to tell him it was almost time. He sent an acknowledgment. Overse had reached the maintenance capsule access and was bouncing on her heels, waiting.
+
+Iris glanced at the others. “Everybody ready?”
+
+They nodded, and Seth squeezed her shoulder. I had given her my secondary energy weapon, just in case. (I know, it had been hard enough to give Overse the poppers. But Iris had let a strange SecUnit look at the back of her neck and she was ART’s favorite.)
+
+I had camera views via my drones so I knew what the chorus of startled yells from across the arrival chamber meant. Just as the two ag-bots rolled into the room and unfolded, I dove out from behind the glass wall and started shooting.
+
+Obviously the Targets knew what the ag-bots were but two suddenly bursting into the shadowy chamber, standing up and waving their limbs was startling. It was so startling a dozen Targets shot at them in reflex. I picked off four Targets who had just moved into position above us and two in the archway directly across. I had more poppers but I hadn’t gotten them out and armed them because I didn’t think they’d be as effective a second time.
+
+(In hindsight, this turned out to be another mistake.)
+
+The humans had followed instructions and darted out behind me. I had a drone on Iris as she led the dash to the correct doorway (I say dash but humans are so damn slow even at the best of times and this group was exhausted and starving and in shock). Iris stopped at the doorway to wait for the others. They scrambled by and Seth grabbed her arm and tried to push her ahead of him as he limped down the corridor. Iris’s drone picked up a front view of Thiago, ducking out and motioning urgently for them to keep running.
+
+My timeline had seventeen seconds to provide covering fire in the chamber and I wanted to keep it chaotic, at least until the humans got out of the long straight corridor and into the section with the access to the maintenance capsule. It was at least a seven-minute run for a healthy human and these humans were barely upright, so I wanted to give them as much time as possible.
+
+Then suddenly, shit went sideways.
+
+I was controlling the ag-bots through a drone relay and I felt the input drop when I lost contact. Then ag-bot 1 whirled and slapped me across the chamber.
+
+For a bot with such delicate limbs, ag-bots pack a pretty solid punch. I hit the manufactured stone floor, bounced, hit it again, and bumped to a sprawling stop. (I’ve had worse.) Immediately I rolled and came to my feet, and that was when I realized all my inputs had dropped, the ag-bots, my drones, everything.
+
+Then ag-bot 2 collapsed itself down and dove down the corridor after the humans.
+
+Oh hell no. I pulled the handful of poppers out of the enviro suit’s pouch, and even with my inputs down, the direct contact allowed me to make enough of a connection to arm most of them. I threw them down just as ag-bot 1 lunged at me, they went off, and it froze as all the noise and light overwhelmed its navigational sensors.
+
+I bolted after ag-bot 2, so fast I only felt impacts from two projectiles, one in my back and one in my upper thigh. I had lost contact from all my drones so the only input I had was my own visual and that was not enough input for this situation.
+
+Approaching at top speed I saw the humans still running, strung out up ahead, Seth last. Then Seth collapsed. The ag-bot slid to a stop near him and its spidery limbs reached down. I couldn’t get there in time and if I lost one of ART’s humans like this …
+
+Then Iris flung herself at the ag-bot, slamming through its delicate limbs to fire her weapon directly at the center of its body where its processor was. It would have been a great save. But her weapon didn’t have the power to penetrate the casing and all it did was make the ag-bot, or whatever was controlling it, angry. It turned its limbs inward and grabbed her.
+
+But by that time I was there.
+
+I wasn’t sure my weapons would get through that reinforced body casing, either, so I shot it in the knee joint. That leg partially collapsed and it forgot about tearing Iris apart. I circled in front, shooting limb joints, and it dropped her.
+
+She sprawled on the ground, then flailed forward to Seth and tried to haul him to his feet. I kept firing, keeping the ag-bot at bay as it tried to claw toward them. I could have still lost both of them at that point but as I angled around I caught a glimpse of Thiago sprinting up to Seth. Then the bot surged forward again, unfolding more limbs, and I shot more joints. Man, this thing had a lot of limbs.
+
+I risked a look back and saw Thiago had Seth slung over his shoulders and was running down the corridor with Iris. She threw a desperate look back at me and I yelled, “Keep running!”
+
+I turned back and had a perfect shot at the ag-bot’s fifth knee joint. Hah, this is over. I fired and the joint blew out.
+
+It was over, because that was when the ag-bot collapsed on top of me.
+
+It hurt because apparently those things weigh a lot more than they look like they do. It was a good thing I don’t need that much air. I shoved and wiggled and lost my primary weapon, but I managed to get out from under its body.
+
+But by then the Targets were there, and they all started shooting at me. I couldn’t get up. I shielded my head with my arms, and felt the projectiles going through the enviro suit but not the deflection fabric of the uniform ART had made for me. Then the fabric started to fail under all the impacts and this could be—
+
+Performance reliability catastrophic drop.
+
+Forced shutdown.
+
+No restart.

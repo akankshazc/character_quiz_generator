@@ -1,0 +1,51 @@
+The corridors and rooms were tunneled out of the rock, with safety lights semi-randomly mounted to walls. Empty, collapsed pressure crates were stacked in every corner. For a long time this section had been used for storage, just like the shaft. In the ceiling a track of lights had been embedded, the panels clouded or broken. There were decorative designs on the tops and bottoms of the walls, but writing had been scrawled over them. Most of it was illegible, even with Thiago’s language module. The floor had smelly stains. These are never good signs, in a place where humans live. Something terrible had happened here and it made creeping sensations on my organic skin.
+
+I was not in great shape. Projectiles kept popping out of me as I limped along and the leaking was worse. Also, in Adventures in Living with Your Own Killware Cozied Up Inside Your Head, 2.0 had partitioned off a corner of my processing space. It would have worried me more if it wasn’t in there watching episode 172 of Sanctuary Moon.
+
+I needed that processing space, especially with my performance reliability dropping, but what I didn’t need was 2.0 forgetting its directive and turning on me, so everything it did to retain its self-awareness was great. It probably needed some code patches but I wasn’t sure I could do it without ART, particularly now. I still had my pain sensors tuned down but the grinding in my knee joint was distracting and made me feel vulnerable and it just wasn’t a good time to make changes to active killware.
+
+Then the corridor opened into a big hangar space, so big the safety lights were just spots in the shadows. I adjusted my filters again and made sure it was empty before I limped out into it. The hatch in the roof was large enough for mid-sized air craft. The floor plates were scratched and stained but I could still see faint lines and directional marks. More decorative art climbed the walls but it was faded and my eyes were starting to blur from trying to make it out. Rounded doorways opened into two stairwells in opposite walls, and next to the one on my right was a primitive lift tube that still had power. (There was no actual pod, just a gravity field that you’re supposed to float up or down in and having seen the accident stats in the mining installations that still used them, I’d rather detach another hand than get into that thing.)
+
+Colonies, even from forty Corporation Rim Standard years ago, didn’t look like this. This was the Pre-CR installation that Adamantine had built their colony next to.
+
+Directly across from me was an opening into a foyer, and in its far wall a broad hatch, wedged partly open. From the warping, it looked like it had been in close proximity to an explosion. Deep scars marked the stone walls and floor around it.
+
+I couldn’t pick up any movement on audio, and scan showed power sources, which no shit, we were in the engineering level of a large structure, of course there were power sources. I limped into the foyer and then moved closer at an angle, until I could see through the gap in the hatchway.
+
+A round room, dim light from a working overhead track. A curved metal table with solid-state screens set in racks to raise them to human eye level.
+
+It’s not aliens, 2.0 said.
+
+We knew it wasn’t aliens, I told it.
+
+It countered, We were seventy-two percent sure it wasn’t aliens.
+
+That was an outdated assessment but I didn’t need to argue with myself right now. I stepped inside.
+
+More tables and racks all made of skinny cylinders bolted together, the kind of assembly structure it would have been easy to transport in bulk and build into any configuration you needed. The tables circling the outer periphery of the space held the solid-state screens, some larger than the ones the Targets used, some smaller. Now 86 percent were dead or broken, the active ones showing static. The bigger components and pieces of equipment were oblongs and circles and one star-shaped thing, half a meter tall and wide, that sat in a cage-like rack in the center.
+
+It didn’t look very much like the Pre-CR tech in historical dramas; everything was smaller and more usable, with curving elegant lines and textured materials in shades of dark gray. The star-shaped thing had to be the Pre-CR equivalent of a central system, just sitting there all creepy and silent, nothing but the distress call on its feed.
+
+Speaking of creepy, oh, there’s a dead human.
+
+They were lying face-down, sprawled between the star-shaped component and the outer ring of screen stations. The body was wrapped in strands of white crystal-like growths that extended out across the stone floor.
+
+Strange growths aside, when the other humans leave a dead one lying around, it’s just never for a good reason.
+
+2.0 said, I bet that white substance is from the alien remnant.
+
+Uh-huh, I said. Yeah, I bet, too.
+
+The system’s assistance needed changed to caution, hazardous material, so it knew we were here.
+
+Um, 2.0 said, adjust your filters. Scan for active signals below the standard channels.
+
+I made the adjustments. 2.0 took in the data and made the diagram before I could.
+
+This wasn’t so much an oh shit moment as it was a spike of brain-numbing terror. I was expecting a room full of active connections, from the components to the screens and then through the walls to the rest of the installation, even if some or most of those connections were sending or receiving from damaged or dead nodes.
+
+Instead, the diagram showed the connections, but they came from the dead human body, and formed a weblike mass. It was interwoven with the central system, then stretched out to the walls, following the old connection pathways.
+
+I bumped into the hatch, which was when I realized I had been backing up.
+
+2.0 whispered, That’s targetControlSystem.

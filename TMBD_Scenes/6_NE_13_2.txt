@@ -1,0 +1,57 @@
+The drop box log file Overse had found confirmed that the main box had made two recent trips to the surface and back: one when the explorer had first arrived and the contact party had been taken over by the Targets, and then a second trip later, and if we were converting the time stamps right, that second trip had taken place around one hundred and thirty-five hours after ART had been attacked. We weren’t far behind them.
+
+“The second time it returned automatically—it was only on the surface for about fifteen minutes,” Overse said. “I think whoever took it down didn’t have the right command code to keep it on the surface.”
+
+“The maintenance capsule would have been easier to operate, surely,” Thiago said, looking up at the drop box’s hatch.
+
+The foyer was huge, easily large enough for cargo modules, one wall the enormous sealed hatch over the box’s loading deck. The whole space was an airlock; when the box was ready to start its trip down the shaft, the hatch on the corridor behind us would close to protect the interior from a blow-out if anything went wrong with the undocking.
+
+The schematic I’d pulled from the SecSystem showed the box had passenger space for eighty-two humans on top of racks for cargo, and it looked like the passenger loading area was inside the box itself. I had one camera view from DockSecSystem at the front of the box, above the main lock, looking into the passenger space where there were rows of acceleration chairs.
+
+Overse told Thiago, “They didn’t know the maintenance capsule was here. I can’t even see the entrance and I know where it is.”
+
+I could see it, a narrow gantry along the wall, leading to a small human-sized hatch, but I had dark vision filters in my eyes.
+
+“You’re right,” Thiago said. “And you know, if it’s been up in the dock the whole time, the Targets might not realize it’s here, either.”
+
+Hah, Thiago called them Targets.
+
+The rudimentary launch system chimed and sent a graphic into the feed showing the pressure and life support level inside the drop box was now normal and the hatch was ready to open. “Get clear,” I told the humans and they headed for the doorway at the back of the chamber. Once they were there I told the launch system to open the box. The giant hatch started to slide up, the burp of released air not making it past the extra safety of the air barrier, another precaution against potential blowout. Wow, this thing was slow. And it had taken seven minutes to get the box ready to open. ART’s crew had either been able to hold the Targets off while they waited for the box to get ready for launch, or the box had already been pressurized and waiting to go. Which implied they had help from someone.
+
+Or the Targets had caught them and killed them and they were all lying dead just inside the box where the camera view didn’t reach, but I really hoped not.
+
+The hatch slowly revealed a dark space of empty cargo racks, then a set of stairs climbing to the passenger platform. Lights blinked on up in the passenger area where the seats were. I sent my drones in to check for anything lurking, though threat assessment was low. (Look, if there were space monsters, they probably wouldn’t need a pressurized environment, right? They didn’t in Timestream Defenders Orion.)
+
+My drones didn’t turn up anything in the initial pass so I sent them on a second, slower run, tapped the humans on the feed, and walked in.
+
+There was a slight sense of pressure when I passed through the air barrier. Its presence sort of did fit in with Overse’s theory that Adamantine had planned on the colony actually succeeding. Air barriers were an expensive safety feature for stations, only used when you expected a lot of passenger traffic.
+
+Overse and Thiago caught up with me as I scanned the area around the stairs, and then started up. The box had artificial gravity just like a transport, so I guess humans could have ridden down in the cargo area. But if I was trying to escape in a drop box I would have headed for the acceleration chairs just on the general principal that they had to be there for a good reason. I thought ART’s humans would have, too.
+
+On the third step down from the top I found blood drops. They could have been from the Barish-Estranza contact party, but I had a feeling. I sent the camera image to the humans and continued up to the platform. Thiago paused to pull out a little sample collector and scrape the blood off the step. He told Overse, “Perihelion should have samples of their DNA to match, but…” He made a gesture.
+
+Overse’s mouth was a thin line. “Hopefully we won’t have to.”
+
+She meant hopefully we’d be able to find them alive. Ugh, my humans are optimists. But this was the first time we’d had a real trail of evidence to follow, and right now it was hard to cling to the comfort of bitterness and pessimism.
+
+As I reached the passenger platform I saw it curved around on top of the cargo racks. In the first row of seats I found more blood spotted on the upholstery and the safety straps. Like humans had rushed in here and flung themselves into the seats. No sign of bodies or pools of blood, no sign of energy weapon damage. Reports from the drones’ slow scouting pass were coming back negative.
+
+Thiago put his sampling gear away. He looked from the unresponsive side of my enviro suit helmet to Overse and said, “They must have gone down to the planet. I think our next step is obvious.”
+
+“Obvious,” Overse admitted, “but maybe not very smart.”
+
+It was kind of obvious. The dock had a comm system linked to the planet but the only people likely to be on the other end were the Targets. There was no way to contact ART’s crew except by going down there.
+
+I had two choices. (1) Go down to the surface alone, leaving the humans here, where the Targets could return or some unknown factor could randomly appear and kill them and then Mensah and Arada would never speak to me again, which might not be a factor if I never got off the planet. (2) Take the humans with me, where I could get them killed and/or die with them. (3) Sit here until the explorer destroyed/captured ART and returned, or ART destroyed/captured the explorer and returned, in which case I would still need to go to the surface anyway, possibly with even more humans trying to butt in and come with me so they could get killed, too. Three, that was three choices.
+
+When you put it like that, option 2 was looking pretty good.
+
+Overse and Thiago watched me. I said, “Threat assessment is…” I checked it. “Never mind.”
+
+Overse did her version of one of Arada’s rueful eye-squinting expressions. “Arada will think I’m trying to get back at her for going to talk to those corporate predators on the supply transport.”
+
+Thiago patted her shoulder. “Tell her you were the voice of reason but you were outvoted.”
+
+“Are we doing this?” Overse asked me. “Because I think we need to.”
+
+Yeah, I thought we needed to, too. But not via the giant drop box. I said, “Yes, but we’re going to be sneaky about it.”

@@ -1,0 +1,153 @@
+Well, this was just great.
+
+The humans started to disperse, Arada and Overse toward engineering, Ratthi going back to Medical to get the pathology suite ready. Amena helped Thiago clear the meal trays off the table. He touched her shoulder. “My daughter, are you sure you’re all right to speak to this corporate?”
+
+“I’m fine, Uncle.” She was exasperated and did this shrugging shoulders-flopping arms thing that illustrated that very well. “I don’t think Eletra would try to hurt me. And she knows SecUnit is here. And ART.” She glanced at me, guiltily. “It said I could call it ART.”
+
+Of course it did. I felt the hinge of my jaw grind.
+
+Thiago squeezed Amena’s shoulder. “Just be careful.”
+
+“I will,” Amena told him, already heading back into the prep area where the nearest recycler was. “I’m going to get her some fresh clothes, it’ll give me an excuse to go in there.”
+
+Thiago looked at me and I looked at the wall. He said, “I want to thank you for everything you did for Amena.”
+
+Was it grudging or was I just in a terrible mood? I don’t know, I have no idea, so I didn’t respond.
+
+Amena came out with a packet of clothing from the recycler and I followed her down the corridor toward Eletra’s bunkroom. From ART’s camera view, Eletra had gotten up to get another container of water from the bathroom, so it was a good time for Amena to casually stroll in and offer the clothes.
+
+Then ART secured a private channel with me and said, I don’t need your help.
+
+That’s not what you thought when you kidnapped me, I told it.
+
+I meant, you don’t have to speak to me if you don’t want to.
+
+Fine, whatever, I don’t care. I said, Do you want the fucking help or not?
+
+ART dumped its archive on me and I was immediately drowning in the giant mound of data that comprised its second-by-second status checks. Fortunately, after keeping track of the company’s shit-tons of mined data, I knew how to deal with it. I started by defining what the gap in ART’s memory archive might look like, which I was guessing would be a giant interruption in the constant incoming reports from subsystems like life support, navigation, etc. It was tricky, because for ART these were not like discrete reports from connected systems, but more like the sensory input I would get from the pads on the tips of my fingers. It was a lot more complicated than the way my own archives stored data. But once I had an idea of what I was looking for, I constructed a query.
+
+I stopped at the top of the bunkroom corridor and let Amena go on alone. I didn’t want Eletra to see me or to realize I was lurking out here, since I thought that might impede Amena’s ability to get her to talk. Amena reached the hatch and sent Eletra a note on the feed: Hello, I brought you some spare clothes, can I come in?
+
+While Eletra opened the hatch with the feed control and they sorted through the clothes, I checked my inputs for the others: Arada and Overse had stopped in the corridor that went toward the engineering module. Arada hugged Overse, and Overse kissed her and said into her ear, “You can do this, babe. You’re a bulkhead.”
+
+“I’m a wibbly bulkhead,” Arada muttered.
+
+(The wibbliness was why I trusted Arada. Overconfident humans who don’t listen to anybody else scare the hell out of me.)
+
+Arada stepped back and smiled at Overse. “Got to get to work.”
+
+ART had dispatched the medical gurney earlier and it had been moving methodically around the ship picking up messy dead Targets. Now it floated into Medical where Ratthi waited, Thiago following it in. There was a lot of congealing blood and fluids. “Oh, this is not going to be fun,” Ratthi muttered.
+
+“No,” Thiago agreed grimly. “I’ll get the biohazard gear.”
+
+ART added to its action list: Repair and reactivate drones. Collect targetDrones for examination and destruction.
+
+In the bunkroom, Amena was asking, “How are you feeling?”
+
+“Better.” Eletra folded a jacket in her lap. “I know you’re going to ask, but we didn’t know those implant things were in us. I don’t remember that at all.”
+
+Interesting, ART said.
+
+I was still mad, right? But it was interesting. I said, Because you have a gap in your memory archive?
+
+Yes. It can’t be the same cause, of course, but it’s the same operational approach. Take a prisoner, cause a memory disruption.
+
+I hate it when ART is right. It was the same operational approach and we really needed to find out if the Targets had used alien remnant tech to cause the memory disruptions or not. I said, The mix of outdated human technology and alien remnant could mean the stupid Pre–Corporation Rim humans established a colony on an interdicted alien remnant site.
+
+Not necessarily, ART said. Before I could argue, it added, The site might have been undiscovered, not interdicted.
+
+ART had a lot stricter standards about what constituted evidence than humans did. It was always wanting to prove things actually existed before it would make plans for what to do about them. (Yes, it was annoying.)
+
+ART said, It’s possible to theorize that something from the original Pre-CR colony may have remained on the site when the Corporate colonists arrived. But it seems strange that the later colonists would preserve and use outdated tech.
+
+I didn’t want to admit it, but ART wasn’t wrong about that, either. This tech wasn’t useless, but I’d taken targetControlSystem down with an attack that was practically from ancient history. (That’s how I’d known about it, from watching historical dramas.) So the facts we know are: that there was a human site in existence before the corporate colony. And that somebody found alien remnants at some point.
+
+ART created a feed graphic (yes, another one) labeled Perihelion and SecUnit’s Initial Suppositions with an access list that included all the humans except Eletra. The first bullet point was: Fact (1) Corporate colony was established on an early Pre–Corporation Rim human occupation site. Questions: Are alien remnants present? If yes, were they original to the site or introduced later? Was the Pre-CR site established because of the presence of alien remnants? Was the corporate colony established because of the presence of alien remnants?
+
+The humans all paused to read it. Amena, listening to Eletra talk about her family, covered her moment of distraction with a cough. (Eletra’s family was in a hereditary indenture to Barish-Estranza and was trying to build up enough employment credit to get her and her siblings and cousins transferred into management training. I knew Amena well enough by now to recognize she was feigning polite interest to disguise horrified interest.)
+
+My queries on ART’s status data started returning results, and I backburnered everything to check them.
+
+Huh.
+
+ART had said it had one forced shutdown and reinitialize, when its crew disappeared and the Targets showed up. Then a second forced shutdown when the targetControlSystem had deleted it. So when had targetControlSystem been loaded into ART’s systems? Presumably its invasion of ART’s systems had caused that first forced shutdown.
+
+Except there were more gaps than that.
+
+I wished Pin-Lee was here. And, though I hated to admit it, I wished Gurathin was here, too. Both were analysts, and while I was way better at it than they were, at least I could have shown them what I was looking at.
+
+I said, ART, look at this.
+
+I was aware enough of ART to know that it was doing several things at once: helping Arada and Overse collect scans from what was left of the alien remnant on its drive, directing the MedSystem’s pathology unit for Ratthi, working on the translation of the Targets’ language with Thiago, guiding the reinitialization and diagnostics of its damaged propulsion systems, plus monitoring all its other ongoing processes. But I suddenly had 86.3 percent of its attention. (For ART, that was a lot.)
+
+It examined my query results. A human in this situation would have said, “That’s not possible.”
+
+ART said, Intriguing.
+
+I needed to put these in a timeline. I looked for major events like wormhole entrances and exits and navigation changes so I would know what they looked like in the status data. ART pulled generic examples for me and I started another query set.
+
+In the bunkroom, Amena had been cautiously working around to the subject of the colony. With a serious expression, she said slowly, “Look, I know you don’t want to reveal things that your … corporate supervisors or whoever don’t want you to, but we really need to know about this lost colony.”
+
+Eletra bit her lip. “It’s proprietary information.”
+
+For fuck’s sake. On our private feed connection, Amena sent, I’m not sure what she means by this. Somebody owns the information?
+
+Yes, I told her. She’s afraid of her salvage corporation. She needs to be more afraid of being recaptured by the Targets.
+
+Amena said, “I understand that but the Targets—those gray people—they could show up again. Especially because no one knows how they got on this transport in the first place, or what happened to the crew.” She lifted her hands helplessly. “Whatever happened to them could happen to us. And it’s more likely the longer we’re stuck here.”
+
+Eletra put her hand on her own shoulder, as if trying to reach for the place where her implant had been. “I thought the new people were the crew?”
+
+ART butted in with, Tell her they are.
+
+Amena nodded earnestly. “Sure, yes, they are, but we’re—they’re missing the crew members who were here when the Targets took over the ship.”
+
+Eletra’s frown deepened. “Why can’t we leave the system?”
+
+“The normal space engines aren’t working yet. But even if we could get to the wormhole, the transport won’t let us go. You heard it. It’s programmed not to leave without its crew, the rest of the crew. And it’s really mean, and determined.” On the feed, Amena said, Sorry, ART.
+
+Apology accepted, ART said. I felt its attention shift in the feed. (Imagine it staring meaningfully at me.) (It could stare all it wanted, I’m not apologizing.)
+
+Amena added, “And we already know about some things, like the alien remnants around the Pre–Corporation Rim colony.”
+
+Both ART and I shut up (I know, I was surprised, too) and waited to see if that would work.
+
+“Oh.” Eletra slumped a little. “I don’t know very much. Ras and I are—were—both environmental techs, and everything was need-to-know. Our briefing said the colony was originally seeded by an early polity, probably via cold sleep ship. It was discovered about forty years ago and re-seeded through the wormhole by a company called Adamantine Explorations, that kept the location private. Then they went down in a hostile buyout and the databases were destroyed—” Amena looked confused and Eletra helpfully explained. “Somebody was probably trying to force the incoming management to pay for the code keys to get the data. But you know, that’s not a very good idea. They might take it out on the seized assets. And it’s bad enough being bought out like that without the management coming in with a grudge against you.”
+
+Amena blinked a lot, apparently as an attempt to control her expression. (I’ve tried it, it doesn’t work very well.) On the feed, she said, When she says seized assets, she means the employees, right? The people?
+
+Correct, ART said.
+
+Eletra continued, “But anyway, the storage media was saved and Barish-Estranza bought it at some point later and they were able to re-create the data, and they launched this salvage project.” She hesitated. “There were rumors about alien remnants. Supposedly some of the recovered data referenced them. But that could have just been rumors.”
+
+Amena said, “So what was Barish-Estranza going to do about the alien remnants, if they were there? You have to have a special license to recover them, right, even in the Corporation Rim?”
+
+“That’s above my pay level.” Eletra touched the back of her neck uneasily. Physical reactions are supposed to be useful for determining whether humans are telling the truth or lying or are secretly planning to murder their whole survey team, etc., and sometimes they were. But also sometimes humans just secreted agitated brain chemicals for no apparent reason, or because something was physically wrong, like their digestive systems malfunctioning. But ART’s scan of Eletra showed she was experiencing signs of physical distress when she talked about the implants. “Was that what was in us?” she said. “Those implants? Did they have strange synthetics? Your coworker took one apart.”
+
+I pulled a preliminary report from Overse’s feed, mostly just the raw data she had collected for the scan. She hadn’t had time to write up any notes from it.
+
+“No, she said it was very simple tech.” Amena bit her lip, trying to look like she was thinking and not reading the feed. ART had completed the report and noted that the implants had no alien components but that they might be receivers for a more esoteric transmitter. It had added “examine all Target technology” to the group worklist and added the line (2) primitive human technology designed to work with alien power sources or strange synthetic materials to Perihelion and SecUnit’s Suppositions chart. “She thought it could have been connected to alien remnant tech.”
+
+Eletra slumped and looked sick.
+
+My query results for establishing a timeline of ART’s forced shutdowns returned and I matched them with the gaps I’d already identified.
+
+That was when I hit the first oh shit moment.
+
+ART, I said.
+
+ART took in my report.
+
+The moment of shock lasted less than .01 second but subjectively it seemed much longer. Then ART did what I should have done first and spoke to Amena on our private feed connection: Amena, leave that compartment.
+
+I added, Now, Amena, it’s potentially dangerous.
+
+Amena was agitated, but channeled it into squinting thoughtfully and pushing at her hair. She looked more like a human who had forgotten to do something rather than one who had just been told they were in danger. “Oh, my Uncle’s calling me on the feed.” She pushed to her feet, backing toward the hatch. “I’ll check back with you later.”
+
+Eletra just nodded wearily.
+
+Amena let the hatch close and then ran down the corridor to me. “What is it?” she whispered.
+
+I took her arm and guided her around the corner. I was having a release of adrenaline from my organic parts and I felt weird and cold. There was no way an implant could have been put into Amena, she’d never been out of my and ART’s sight, but I scanned her again anyway. “ART encountered the Barish-Estranza transports before its first forced shutdown,” I told her. “Whatever attacked it and kidnapped its crew, came from one of their ships.”
+
+Amena’s eyes widened. “Oh shit.”

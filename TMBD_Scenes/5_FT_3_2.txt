@@ -1,0 +1,71 @@
+I went to the transient housing block first because it was statistically more likely, if the initial theory was correct and the dead human had been a recent visitor.
+
+I stopped outside the entrance, near a seating area with chairs and tables, surrounded by large round plant biomes that were partly decorative and partly an information exhibit about what not to touch if you went to the planet’s surface. (Yeah, good luck with that. Trying to get humans not to touch dangerous things was a full-time job.) I stood in a spot where I could pretend to be reading the hostel’s feed instructions and sent a ping.
+
+After 1.2 seconds (I’m guessing the pause was due to astonishment) I got an answer, and I went through the entrance into the lobby.
+
+It was a round high-ceilinged space, with registration kiosks, lots of corridors leading off toward the room sections, and an archway into another room with shelves and cold cases where food products were stored for the humans staying in the hostel. (Or really, for any humans or augmented humans who wandered by. The Preservation Alliance has a weird thing about food and medical care and other things humans need to survive being free and available anywhere.) The bot was in there, restocking items from a floating cart.
+
+It was sort of humanform, but more functional, with six arms and a flat disk for a “head” that it could rotate and extend for scanning. It had rotated it to “watch” me walk through the lobby, a behavior designed to make humans comfortable (its actual eyes were sensors that were all over its body.) (I don’t know why bot behaviors that are useless except to comfort humans annoy me so much.) (Okay, maybe I do. They built us, right? So didn’t they know how this type of bot took in visual data? It’s not like sensors and scanners just popped up randomly on its body without humans putting them there.)
+
+This is one of the Preservation “free bots” you hear so much about. They have “guardians” (owners) who are responsible for them, but they get to pick their own jobs. (Are there any who don’t have jobs and just sit around watching media? I don’t know. I could have asked, but the whole thing was so boring it might send me into an involuntary shutdown.)
+
+It said, “Hello, SecUnit. What brings you here?”
+
+Yeah, whatever. I said, “You don’t have to pretend I’m a human.”
+
+The data in the ping had told me that this bot had different protocols from the ones in the Corporation Rim, probably because it had been constructed somewhere else. I identified its language module, pulled it out of archive storage, loaded it, and established a feed connection. I sent it a salutation and it sent back, query?
+
+It was asking me why I was here. I replied query: identify, and attached an image of the dead human.
+
+A non-dead human walked into the lobby, one of the hostel supervisors. He stopped, stared at us, and said, “Is everything all right, Tellus?”
+
+(The bot’s name is Tellus. They name themselves and hearing about it is exhausting.)
+
+Tellus replied, “We are speaking.”
+
+The supervisor frowned. “Do you need any help?”
+
+Since the bot was still unloading the cart with three of its arms, obviously he was talking about me. The bot said, “No help needed.”
+
+The supervisor hesitated, nodded, and then continued on down a corridor. I don’t know what they think I’m going to do to their bots. Teach them to hack? Bots don’t have governor modules like constructs and it’s not like the Preservation bots weren’t supposedly able to do whatever they wanted.
+
+It’s also not like I didn’t know what the real problem was. I’m not a bot, I’m not a human, so I don’t fit into any neat category. Also, I hate being patronized. (The whole bot-guardian system is like an attraction field for humans who like to be patronizing.)
+
+Resuming the conversation with me, the bot said, query?
+
+Because I could tell it was already running a search against its visual archives, I answered with a copy of the alert Mensah had gotten from Station Security.
+
+It hummed aloud, surprise and dismay, another imitation human reaction. I would have been more annoyed if it hadn’t also just produced a query result: an image of the dead human in mid-stride, passing through the door into one of the hostel corridors.
+
+Hah, got you. Query: room?
+
+The bot said, query: ID? It couldn’t find the room assignment without the dead human’s ID. Or at least the ID the dead human had been using.
+
+I said, ID unknown. We were going to have to do this a different way. Query: rooms plus target corridor = engaged plus without resident plus target time.
+
+The bot ran another search and delivered thirty-six results, all assigned rooms where the occupant was not currently present and was known to have exited the hostel before the dead human’s estimated time of death. The bot added, entry re: unoccupied maintenance inspection authorized. Concern: privacy. Query: item examine?
+
+The bot was authorized to make inspections of unoccupied rooms to check for maintenance issues and was implying I could come along, if I told it what I wanted to see, and if it didn’t think it was a privacy violation.
+
+It would be nice to look for memory clips or other data storage devices, especially if they were concealed data storage devices. But to make an ID I thought I only needed to see one thing. I told it, clothing.
+
+Acknowledge, the bot said. It pulled its arms in and led the way toward the target corridor.
+
+We checked seventeen of the currently empty rooms, and while the bot didn’t let me touch anything, it did open the clothing storage cubbies so I could see the contents in the rooms where the humans hadn’t left their stuff strewn all over the bed and desk. It didn’t need to do that in the eighteenth room. It was fairly neat but the scarf draped over the chair was the same style of pattern as the dead human’s shirt, but in a different color combination.
+
+It could easily have been a coincidence, the style and pattern could have been popular and cheap at some transit station hub. And even with the image it wasn’t actually a positive ID. But Station Security could make it a positive ID with a thorough search of the room and a DNA match.
+
+I created a quick report with images of the scarf, the location of the room, and the feed ID associated with it (name: Lutran, gender: male), and the room-use record, which indicated that Lutran had been registered here for two station cycles. I included the bot’s authorization to view the rooms, and sent it off to Station Security tagged for Senior Indah and Tech Tural. (Station Security was used to getting messages from me about their completely inadequate arrangements for Mensah’s security.) I sent a copy to the hostel bot so it would know what was going on if they came to ask it questions. Then I signaled that I was leaving.
+
+It followed me back through the corridors to the lobby, where a few new humans had arrived and were standing in front of a kiosk like they had never seen anything like it before. It went to help them, but sent me query: next action?
+
+I still didn’t have enough for a real threat assessment. I should go back to monitoring Mensah’s security arrangements while lurking in the hotel near the admin offices and watching media. I didn’t think I’d hear from Station Security again. (Or at least not about this; I figured they would come up with other ways to try to get rid of me.) I’d have to get intel on their investigation through Mensah’s council channels. To get the bot to leave me alone, I answered, task complete.
+
+I was already out the door when the bot said, query: arrivals data, meaning I should look for the dead human in the transit ring and its traveler records.
+
+I didn’t respond because I don’t need a critique from a “free” bot and I couldn’t access the arrivals data without Station Security’s permission anyway, and fuck that.
+
+Huh, I just thought of another way to do it.
+
+It was annoying that the “free” bot was right, but I needed to go to the transit ring.

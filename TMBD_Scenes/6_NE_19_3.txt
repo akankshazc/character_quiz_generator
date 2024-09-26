@@ -1,0 +1,113 @@
+SecUnit 03
+
+Status: Retrieval in Progress
+
+I circle around the north side of the complex toward a passage between two of the surface structures. Drone intel provides me with a map of the complex, and the location of the Targets concealed in the east side doorways.
+
+The Targets on the surface dock terrace tell the humans the history of the colony. This is a confirmation of intel already obtained by Iris, but not immediately useful.
+
+If the humans cannot obtain the intel, I will enter the complex without it. This is the first retrieval I have performed without a governor module and I want it to be successful. I want to find the other SecUnit. I send a status update to Perihelion and it does not reply immediately. Then it sends, Hold position.
+
+I tell it, I must proceed in order to complete the retrieval.
+
+It said, SecUnit would be angry if I sacrificed you with no chance of success.
+
+What?
+
+Target Two: “They wanted to use the devices in the vault, the old devices. It became worse after that.”
+
+Thiago: “Who decided to start using the implants?”
+
+That disturbs the Targets. Target One: “What implants?”
+
+My drones pick up increased signal activity, deep under the complex, but it is not localized enough to trace.
+
+On the feed, Thiago sends, Ratthi, your analysis—
+
+Ratthi sends a file to Perihelion. Its drone creates a display surface and begins to play video of an implant being extracted from a Target.
+
+The Targets stare at the video.
+
+Overse: “You see? They didn’t tell you about this, did they?”
+
+All the other Targets look at Target Four, who says, “It helps the connection. It’s for protection.”
+
+Target One: “Protection?”
+
+Target Three: “How many of the others have these? Are you forcing them to obey you?”
+
+Then Target Two turns back to the humans and says, “Eight levels below the plaza. They would have your friend there. That’s where the contagion is.”
+
+On the secure feed, Perihelion tells me, I’m pulling the humans out. You are go to proceed.
+
+I reply on the secure feed, Acknowledged, proceeding.
+
+On the terrace, Perihelion’s drone says, Run. You have three minutes to clear the area.
+
+Overse says, “Go, now!” and the humans run along the terrace toward the shuttle.
+
+The Targets are confused, then turn and run down the path away from the surface dock.
+
+Another pathfinder slams down in the agricultural field and explodes. Four more arc across the sky making disruptive screaming sounds. This is a distraction so I may initiate Stage 02 of the retrieval.
+
+The Targets in the east side doorways around the installation’s plaza are disoriented and three run away, headed toward the causeway. I slip inside another doorway without being detected.
+
+Murderbot 1.0
+
+My performance reliability dropped but the spike of fear upped my reaction time and I whacked TargetContact across the head with my table part. The impact staggered it back but still didn’t damage the body. The effort I put into the swing made my wrecked knee joint give way and I hit the floor again.
+
+I needed a bigger weapon. I needed help. I needed to get the fuck out of here.
+
+The rough floor scraped at my palms as I scrambled toward the hatch. I managed to get upright and climb through the gap before TargetContact got to its feet. If it could catch me, this whole thing could start over, but with me down here instead of poor dead Central. I’d like to opt-out of that.
+
+I staggered and limp-ran across the hangar bay toward the stupid gravity tube. (I know I said I didn’t want to use it but I didn’t have time to do the stairs and compared to what was behind me it was starting to look friendly. Also, with the feed dead it couldn’t be remotely shut down.) I heard steps behind me and flung myself in.
+
+I twisted around as the gravity shaft pushed me up. I saw TargetContact less than ten meters behind me. I had to get out before it got to the tube. Two levels went by with me trying to get off the fucking thing without the feed, then I flailed into the unmarked stop zone. It spit me out at the next level and I tumbled into a shadowy corridor and fell on the floor again.
+
+Ouch. I was beginning to lose control over my pain sensors, a sign of an impending system failure. And I think I’d been too late, I think TargetContact saw I’d gotten off on this level. I was terrified of an involutary shutdown; when I restarted I’d be targetControlSystem.
+
+I was higher up in the structure, and had no idea how to get away. It didn’t matter, I had to keep moving. I got up and limp-ran.
+
+The corridor curved to circle around the hangar bay’s shaft and was way too long. It was cleaner and had more lights, obviously used more recently, and there had to be a lift pod or stairs somewhere.
+
+Then I picked up a brief contact. Like a ping. A familiar ping. Drones, there were drones down here. Not targetDrones, my kind of drones. I sent frantic pings back, because it wasn’t like TargetContact didn’t know exactly where I was, I could hear it behind me in the corridor.
+
+Ahead I saw more light and a foyer for a stairwell. I lurched into the foyer just as an armored SecUnit dropped down onto the landing.
+
+I almost triggered both my energy weapons but just in time I saw the sticker on its helmet. In compressed machine language, somebody had used marker paint to write “ART sent me.” This was 2.0’s SecUnit 3.
+
+The opaque helmet focused on me. It said, “I’ve never retrieved another SecUnit before. There is no protocol for this.”
+
+Seriously, fuck protocol. I said, “Hostile incoming. It’s contaminated. Do not scan and don’t let it touch you.” If the contamination worked the way I thought it did I shouldn’t be able to pass it to another SecUnit but who the hell knew. “Don’t scan or connect with me, either, I might be a carrier.”
+
+SecUnit 3 started to say, “Transport Perihelion was able to obtain that intel from retrieved—” Then it leapt and landed past me, pulled the weapon off its back just as TargetContact rounded the corridor. It fired a burst of explosive bolts and TargetContact reeled back, but the impacts didn’t dent the protective alien remnant coating.
+
+“It doesn’t work,” I started to yell, but 3 aimed the next burst at the corridor ceiling. The impacts cracked the lighting track and shattered the material holding it in place. As chunks of stone hit the floor, 3 leapt back to me and grabbed me around the waist.
+
+It said, “Please hold on. I will—”
+
+“I know!” I yelled and grabbed it around the shoulders. “Just go!”
+
+It bounded up the stairs, two levels, three levels. (Being carried like this was really uncomfortable, I can see why the humans don’t like it.) 3 called in its drones and the swarm formed a protective cloud around us.
+
+We came out through a hatchway into daylight, running onto an open plaza, the one I had seen from the surface dock. TargetDrones lay scattered on the paving, dead when targetControlSystem went down. I didn’t see any Targets, but that was probably because a pathfinder sat in the center of the plaza shrieking on comm and audible: Warning: detonation imminent.
+
+I said, “ART armed the pathfinders? And didn’t tell me?” That asshole.
+
+“The humans were surprised, too,” 3 said.
+
+ART’s shuttle dove over the structure’s ribs and dropped into the plaza. The hatch slid open and 3 bounded inside.
+
+It dumped me in an acceleration chair and I had a view of TargetContact sprinting toward us. Then the hatch slammed shut and Arada was shouting “I’ve got them, go, go!”
+
+The thrust almost knocked me out of the seat as the shuttle flung itself upward. (ART must be driving.) I was sitting on the safety webbing which was not helpful. 3 did what I would have done with a wounded human, and dropped into the seat next to me and stretched an arm across to hold me in place. From the pilot’s seat, Arada demanded, “SecUnit, are you all right?”
+
+“Not really,” I said, “I’m infected with contaminated code. 2.0 tagged it as anomalous so ART can delete it. Tell it not to use a medical scanner on me.” Through the port I got a view of the causeway and the dots that were the Targets/Colonists who had been in the structure, running away.
+
+“We know,” Arada told me, breathless from the acceleration. “The crew who escaped from the explorer knew about the scanning and Perihelion figured out how it was done.”
+
+Of course it did. This sounded like a good time to let go and have that involuntary shutdown.
+
+I was fading out when below us, the pathfinder exploded. ART said, TargetContact is offline.
+
+So was I.

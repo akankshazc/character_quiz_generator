@@ -1,0 +1,255 @@
+Now that we knew where the combat bots were, Wilken had us take the central node access to the production pod, where we could walk across the alternate tube access to the engineering pod. Or where I could walk across the alternate tube access, because that was her plan.
+
+“We’ll send the SecUnit in to distract them, and then I’ll go in to get Hirune,” Wilken told Abene.
+
+Miki cocked its head. Abene’s brow furrowed, and the look she threw at me was startled. “That’s suicide, surely.”
+
+Wilken said patiently, “It’s a SecUnit. That’s what they do.”
+
+Miki signaled alarm through the feed. This is not a good plan, SecUnit.
+
+Abene’s expression went hard again. “It’s against the GI standards of operation.”
+
+Wilken lifted her brows. “Do you want Hirune back?”
+
+I watched Abene’s face. She was struggling, torn between her fear for Hirune and the thought of sending me into what was probably going to be a terrible but at least abrupt death. It was interesting to watch, because she knew I was a SecUnit. She grated out, “There has to be another way. Consultant Rin would surely not allow this.”
+
+But she had said she had never seen or worked with a SecUnit before, and Miki didn’t even have an entry in its knowledge base for it. And Abene was a human with a pet robot. She might think of me as Consultant’s Rin pet, like Miki was hers.
+
+We didn’t have time to argue, and I really didn’t want anybody thinking about Consultant Rin, whose fictional existence seemed to be increasingly flimsy, at least to me. I said, “It’s all right, Don Abene. It’s what I do.” It was still extremely difficult not to sound ironic.
+
+On our private connection, I said to her and Miki, It’s all right, I have another plan. It’s safer for Hirune.
+
+Are you sure? Abene said, then, You don’t want to tell Wilken your plan.
+
+No, I didn’t, mostly because I didn’t want her giving me orders I had to ignore. Also because I had only a vague idea of what I wanted to do; most of it was going to be created on the fly. You’re my client. You can monitor me on this connection. I told Wilken, “We should go now. Give me your weapon.”
+
+“What?” Wilken didn’t fall back into a firing position, but the way the armor shifted over her joints made me think that was her first impulse.
+
+I said, “If I’m going in first, I’ll need a projectile weapon.” I just wanted to see what she’d do.
+
+“No, I’m going to follow you in,” Wilken said, not so patiently. “I’ll be at the hatch junction between the production pod corridor and the tube, to give you cover.” She started up the corridor, telling Abene, “Wait here. If I send you a feed message to run, get back to the shuttle.” I followed her, like a good little SecUnit/killing machine.
+
+Behind me, Miki moved to watch us head away up the corridor, sending its camera-view to Abene.
+
+Once we were out of earshot, Wilken muted her comm and feed and said, “Any word from Consultant Rin?”
+
+“No, the station feed isn’t accessible from here.” Which Wilken knew. “I may be able to reach her on comm if you need to speak to her.” I could fake that, but I’d need a little time to work on it.
+
+Fortunately Wilken decided she didn’t want to invite another Security Consultant to give opinions on her strategy, especially since she was planning on getting that Security Consultant’s contracted SecUnit killed. I don’t know what bond companies charge clients when we get killed, but it’s probably a lot.
+
+I figured Wilken’s plan was to send me in, seal the hatch, and when the combat bots killed me, she would tell Abene and Miki that she had tried and now they needed to go back to the shuttle and leave. Without a SecUnit on her side, Abene was unarmed and not wearing powered armor, and Wilken could drag her back if Abene resisted. Of course, if Wilken touched Abene, Miki would intervene, but I’m not sure Wilken realized that.
+
+We reached the hatch junction and Wilken stopped. She said, “Good luck.”
+
+Yeah, fuck you, I thought, and kept walking.
+
+All right, so I wasn’t happy about this. It wasn’t like I had a repair cubicle waiting somewhere. I could repair with a MedSystem but I needed access to one, and the closest one I had any chance of getting to myself was onboard my cargo ship still docked at the station. But I knew I could do this.
+
+(I hoped I could do this. I had been wondering a lot about my judgment lately.)
+
+As I got further up the access tube, out of Wilken’s sight, I backburnered her channel and tapped my connection to Miki and Abene to give them a visual through my feed. (It’s not as good as a helmet camera would be; it uses my eyes to record so it jumps around a lot.) Miki was talking, more to Abene than to me, but I stopped listening. I was fishing for a drone.
+
+I was broadcasting little spurts of static on an open channel. The drone should read it as signals from a vocal comm, like if some poor human was wandering through here, trying to call for help on their comm rather than on the secured interfaces Abene, Miki, and Wilken were using for our feed.
+
+This could blow up in my face in that all the drones might decide to slam through here at once to get me, but I didn’t think that would happen. The bots hadn’t sent them after us yet because they didn’t want us to know they had them, probably because that’s how they intended to attack the shuttle. I was hoping the drones were set to protect the perimeter and a sentry would come to investigate.
+
+I came to a spot where a connector in the tube had empty slots where equipment was supposed to be fitted. It formed shadowy cubbies and I stepped into one. My scan stretched as far as it would go, still sending my tempting intermittent signal. And I got a response. A staticky burst, like a comm trying to reply to me and being drowned out by interference.
+
+A normal SecUnit (you know, one that still had its governor module, less anxious than me but probably more depressed) could do this part, but would be restricted to the canned responses available in the combat stealth module. A drone might be able to recognize those responses as coming from another combat unit and not a human. I didn’t have the combat stealth module anyway (I had never been upgraded with it, probably due to RaviHyral and the whole “killing all the clients” thing, go figure), so I used snippets of dialog from my media storage, extracted and processed to eliminate background noise and music and to remove any identifying code underlying the audio. I sent my prerecorded “Are you—can’t find—where—ship—” artistically obscured with static.
+
+The drone sent another artistic burst of static in response. From its signal strength it was getting closer. I stayed where I was, waiting.
+
+On the feed, Miki said, We’re worried about what you’re doing, SecUnit.
+
+Nothing on scan yet, so I had time to chat. Why are you worried, Miki?
+
+Because we don’t know what you’re doing. Wilken is telling Dr. Abene on her feed that you aren’t doing anything—
+
+The drone had just come into my scan range, moving slowly so as not to alert the human it thought was here. Standing in the dark cubby, I had stopped breathing, stopped any activity it might pick up. I teased it with a little more comm audio. The schematic showed these slots as part of an atmospheric gas sampling station, so the drone had no idea there was room for something human-sized to hide. Confused at the apparently empty passage, it tried to trace the signal. And I pinged it with a compressed list of drone control keys.
+
+(That’s not in the stealth module, and it’s not a function of company-supplied SecSystems. I got it from the proprietary data of a company client who worked on countermeasures for combat drones. I had managed to resist deleting it to fill that space up with new serials. I knew someday it would come in handy.)
+
+One of the keys worked and the drone switched into neutral standby. I wandered around in its control code for a minute or two, making sure I knew how it worked. It, all the other drones (it was reading thirty active), and three combat bots were all operating on a secured feed. All the drones were in the engineering pod foyer with two of the combat bots. The third bot was reading as active in the facility, but there was no location for it. (I had a bad feeling it was heading toward the shuttle to cut us off.) The bots had more layers of security and even now, from within their own network, if I started trying to hack them they’d have time to run up here and kill me. But I could take control of all the drones.
+
+In another twenty seconds, they were all my new drone friends.
+
+Oh, I see, Miki said. Never mind.
+
+But I was going to have to move fast. I told Drone One to remain in standby, and ordered the twenty-nine others to turn on the two combat bots in the engineering pod. Then I started to run.
+
+I rounded a curve, went through two open hatch junctions. I was already hearing energy and projectile weapon fire, metal smashing against walls, and that funny high-pitched whine combat drones make when attacked. I wasn’t controlling them individually; once given the order, the drones knew what to do, and me trying to jumpseat pilot them would just slow them down.
+
+I accelerated as the hatch entrance to the engineering pod came into sight. I reached the end of the corridor at top speed and threw myself forward into a dive.
+
+The hub foyer was now a warzone. I hit the floor and slid out across it. The combat bot nearest the door flailed wildly at the cloud of drones firing and diving at it. It thrashed around like an irritated metal whirlwind, stray blasts from its weapons hitting the walls, the floor, the columns. It smacked a drone with its cutting hand and shrapnel sprayed the room. I’d tuned down my pain sensors in anticipation, but I still felt impacts all over my back and shoulders, little thumps that I knew meant something had cut through my clothes and pierced my skin. (Does that sound terrifying? Because it was terrifying.) The second bot tried to run forward but the drones made a wall and slammed into it, forcing it back with a haze of weapon fire and their own armored bodies.
+
+I rolled to my feet, dove again, and landed next to Hirune. Her body looked intact and I didn’t see any blood pools, but I didn’t have time to check if she was alive. (It didn’t matter. In a retrieval like this, humans wouldn’t believe the hostage was dead unless I brought the body back.) I scooped her up and here came the hard part, I had to run out of the foyer.
+
+The bots had had time to figure out (a) the SecUnit was here (b) what the SecUnit had done to take over their drones and consequently (c) they were really pissed off at that SecUnit. I bolted across the room toward the door.
+
+The two bots had taken out twenty-three of the drones, each one a light, a connection, blinking out of my awareness. But the drones had done a lot of damage, targeting joints, weapons ports, and hands. A camera view from a surviving drone told me the bot behind me had lunged for my retreating back but crashed to its knees; drones had been concentrating fire on its ankle joints while others distracted it.
+
+The bot in front of me threw itself forward to block the door. And I turned right and ran straight for the lift junction.
+
+The combat bots had taken over the lift system like I’d warned Brais, but combat bots can’t hack like a SecUnit. I hadn’t tried for control of the whole system, just this one lift, telling it to wait here for me. The door slid obediently open as I reached it. I ordered it to take me to the production pod. The door slammed on a set of sharp metal fingers and the pod whisked me away.
+
+Drone One was still waiting in the corridor, and I ordered it to close the junction hatches between the engineering pod and the production pod, drill through the walls, and fuse the controls. It whizzed into action as the lift stopped and opened its doors.
+
+I stepped out into an empty junction in the production pod, and sent the code I’d prepared into the lift system. It shut the system down and set a password lock. The combat bots could get past it if they had the right code modules, and if they devoted resources to it that they could be using for other things. It would still buy me the time I needed. I hoped.
+
+Now that I had time to evaluate my own condition, I eased up my pain sensors a little. The impacts I’d felt turned from dull aches to sharp burning, like little explosions under my skin. Ow, ow, okay, ow. I locked my knee joints to stay upright and upped my air intake.
+
+I had taken multiple shrapnel hits from the drones being shredded all around me. I had two hits from projectile weapons, one in my lower left side and one in my left shoulder. I was pretty certain I had been hit by stray shots meant for drones. If the bots had been able to target me, I would be in pieces. I tuned down my pain sensors and the impact sites faded from explosions down to embers. (I know that’s actually not a permanent solution and pretending bad things aren’t happening is not a great survival strategy in the long run, but there was nothing I could do about it now.) The arm where I was storing my memory clips was undamaged, which was a relief.
+
+I started down the corridor toward the production pod foyer, where the others should be.
+
+I tapped Miki’s feed for a report because neither it nor Abene were saying anything and I wasn’t sure what they had been able to see through my visual feed. At that point, Hirune’s gloved hand squeezed my shoulder.
+
+Fortunately I remembered I was carrying a possibly living human and didn’t scream or drop her or anything. Her helmet with its comm mic had been ripped off, and her head rested on my shoulder. She slurred the words, “Who are you?”
+
+I was distracted, and what came out of my buffer was the standard, “I’m your contracted SecUnit.” I was distracted because confused noise was coming from the connection with Miki and Abene. It wasn’t communication from a feed interface, it was audio; Miki was sending me open comm audio over the feed.
+
+Her voice rough and deep with fury, Abene shouted, “Who sent you? GrayCris?”
+
+On my shoulder, Hirune made a confused “huh?” sound.
+
+The other comm audio I could hear was too faint even for me to tell what it was. I had to waste four seconds converting it to a spectrogram before I recognized it. It was two noises, the low pitch of Miki’s joints and the higher pitch of powered armor, bracing against each other.
+
+Well, shit.
+
+I do make mistakes (I keep a running tally in a special file) and it looked like I had made a big one. I had interpreted all of Wilken’s behavior as being about me, about the discomfort and paranoia associated with a SecUnit suddenly appearing out of nowhere, supposedly sent by another security consultant whose existence implied that the clients didn’t trust her and Gerth. (I know, the “it’s all about me” bit is usually a human thing.) But now it seemed she had been uneasy for a whole other reason.
+
+The good thing about getting your security through a bond company like the one that had owned me is that for small contracts you take delivery at a company office, and for big ones it arrives in a company transport. This greatly reduces opportunities for somebody to show up pretending to be your security team when they’ve really been contracted to kill you.
+
+Wilken and Gerth were good. I had listened in on and analyzed their conversations aboard Ship and not picked up any hint of it. But then, if they worked for GrayCris, they would be alert for the kind of bond company security surveillance in use throughout the Corporation Rim.
+
+By this point my drone had reached the hatch junction where Wilken was supposed to be waiting. She wasn’t there, obviously, being busy betraying her clients. (When I said I didn’t like humans working security you thought I was just being an asshole, right?)
+
+I used my connection to Miki’s feed and accessed its camera view. Oh yeah, not good. The image was shaky but I could see Miki had Wilken backed up against a pillar. Miki had one arm pinning Wilken’s right wrist against the pillar, as Wilken tried to bring her projectile weapon down to bear on Abene. Something was wrong with Miki’s hand but I didn’t have a clear view, and I didn’t want to distract Miki at the moment by pulling a damage report. Wilken had her other forearm braced against Miki’s face, like she was trying to shove it away, but that wasn’t what she was doing. She had energy weapons built into the forearms of her armor and she was trying to slide one into position to blow Miki’s head off.
+
+(Miki could operate without its head, but its sensory inputs and cameras were there, and it would be really awkward.)
+
+Wilken had cut me out of her feed connection, but I used Abene’s to bypass the block: This is SecUnit. We can talk about this. Consultant Rin can offer you immunity from prosecution if you testify. I hoped that made sense (it was a line from Sanctuary Moon) and I’m sure it sounded like I was stalling. I wasn’t stalling and I didn’t need her to answer me, I just needed her distracted enough to not think about what I was doing in her feed. Your bosses are going down. Whatever they paid you, it won’t make up for a stint in prison. (Yeah, that was from Sanctuary Moon, too.) In the meantime, I was frantically looking for the right code. The companies that make powered armor are different from the ones that make SecSystems, intel drones, cameras, and so on, and their system architectures were different and it made everything harder.
+
+Abene had a grip on Wilken’s projectile weapon, trying to help Miki wrench it away, but couldn’t do much against the powered armor. I could tell she had no idea about the forearm energy weapon, which was in a much more dangerous position. In the feed, I could hear Abene telling Miki to let go and run, and Miki refusing on the basis that Wilken would then shoot Abene. Who should be running, frankly, but wasn’t going without Miki, obviously.
+
+I reached the turn into the production pod’s foyer where Abene and Miki struggled with Wilken. Her energy weapon slid slowly but inexorably into position next to Miki’s head, despite its attempts to hold her and Abene hanging off her other arm and kicking her. In about thirty seconds I was going to have to put Hirune down on the floor and do this the hard way, if I couldn’t find this code.
+
+On yet another channel, Drone One reported that it couldn’t detect any activity suggesting that the combat bots were trying to blast their way through the hatches it had sealed and jammed. The drone had been cut off from the network and couldn’t report further on the movements of any active units. Which meant that the combat bots had stopped to repair each other (Yes, they’re self-repairing unless their main processing center is destroyed. Yes, that is a pain in the ass and also terrifying.) and would soon be taking another route out of the engineering pod to come after us. Like I didn’t have enough to do right now.
+
+Frantically scanning Wilken’s armor, I finally found the right code. That was a relief. I opened a channel and sent the “freeze” command via the feed.
+
+The reason the company doesn’t use powered armor like Wilken’s is not only because the company is cheap. Powered armor like Wilken’s is hackable.
+
+Miki twisted free and stepped backward, still keeping its body between Wilken and Abene. Wilken froze in place (literally) her face grimacing as she shouted into a comm that wasn’t working anymore. (I had cut off her comm and feed; I wanted current developments to be a surprise to Gerth.) The projectile weapon started to fall from Wilken’s frozen fingers and Abene lunged forward and grabbed it.
+
+Now I could see Miki’s damage; it had two energy impacts on its chestplate and its right hand was a stump.
+
+I said, “It’s all right, I’ve locked her armor.” I ran Miki’s feed back, skimming it to see what had happened. Wilken had waited until I was busy with the combat bots, then had returned to Abene and Miki. She had moved toward them fast, saying she had something important to tell them off the comm and feed. Then she had grabbed Abene by her hair. It was still hanging loose, her helmet left behind after I’d broken the release tab to get her away from the bio sampler.
+
+Wilken had pointed the weapon at Abene’s head and said, “Sorry, it’s not personal.” That comment had cost her the kill, it had given Miki time to slam in between them and force the weapon up and away. (Just because Miki was a pet bot that carried things for humans didn’t mean it wasn’t strong enough to take on powered armor.) Wilken had fired the weapon, destroying Miki’s hand, which hadn’t slowed Miki down, either.
+
+Abene saw me and gasped, “Hirune—”
+
+“She’s alive,” I said, because Abene was armed now and traumatized humans with unsecured weapons make me nervous.
+
+Miki said plaintively, “SecUnit, Consultant Wilken tried to shoot Don Abene.”
+
+Abene slung the weapon over her shoulder and hurried to me. She touched Hirune’s face, then looked up at me. “Oh thank you, thank you.”
+
+It’s nice to be thanked. “Miki, damage report.”
+
+“I am at eighty-six percent functional capacity.” It held up its arm stump. “It’s only a flesh wound.”
+
+For fuck’s sake. Abene turned toward it, shocked. “Miki, your poor hand!”
+
+Oh good, another Abene/Miki lovefest. I said, “Miki, take Hirune.”
+
+Miki stepped forward and held out its arms. Hirune was only semiconscious but had a convulsive grip on my jacket. Abene gently pried her hand away and I deposited her into Miki’s arms.
+
+I turned to Wilken. It was the hair-grabbing thing that bothered me. Along with the snide “it’s not personal.” If Wilken had shot with no warning, Abene would be dead and Miki would be in pieces now. But Wilken had wanted Abene to know that she was betrayed. That was personal.
+
+I don’t like personal.
+
+This was another reason I didn’t like human security consultants. Some of them enjoyed their job too much.
+
+I stepped up to Wilken and pulled off the utility harness that held the explosive packs and other gear. She glared at me through the faceplate. I slung the harness over my shoulder and said, “Don Abene, you might not want to watch this.”
+
+Abene turned away from Miki and Hirune. “No!” Then she added more calmly, “I know you’re angry that she sent you to the combat bots, but don’t kill her.”
+
+I wasn’t angry on my account. Being sent into situations to get shot at was literally my job, or had been my job. I thought everything had happened so fast Abene hadn’t had time to process what Wilken had nearly done to her.
+
+It must have been obvious that her first argument was not compelling, because Abene continued, “If she’s working for GrayCris, we need her as a witness.”
+
+Okay, that did make sense. The whole reason I was here was to find more evidence against GrayCris. I looked into Wilken’s faceplate. Her expression had gone blank, trying to conceal fear. With her comm and feed down, she could still hear us, though our voices would sound like we were at the bottom of a mining tunnel. When it powered down, the armor had automatically opened some vents to allow air circulation, so she wouldn’t suffocate or cook in her own heat. I could give it a delayed command to close the vents once we’d left, and Abene would think it was an accident.
+
+There’s that caring thing again. Did I care if Wilken survived or not? Not really.
+
+I said, “We need to go,” and held out my hand for Wilken’s projectile weapon. Abene handed it to me, and I walked away. I left the vents open.
+
+As Miki and Abene followed me, I said, “The bots in the engineering pod will be trying to reach us once they self-repair, and the drone I captured says that there’s one more active combat bot. It’s probably somewhere between us and the shuttle.” We also knew they would use whatever mobile equipment was left behind in the facility against us. I didn’t want to have to fight another bio sampler.
+
+Abene lengthened her stride to keep up with me. “I can’t reach the shuttle on my feed or comm,” she said. “Neither can Miki.”
+
+“That’s because I’m blocking you,” I told her. “I didn’t want you to say anything that might alert Gerth.” At least not until I figured out what to do about Gerth. I couldn’t get to her armor from here, even if I unblocked the feed. The codes for the armor were unique to each unit (the manufacturers weren’t completely stupid) so I had to be close enough to be able to scan for them.
+
+“I see.” Abene, amazingly, didn’t argue. Or maybe it wasn’t amazingly; she was pretty smart. “I suppose it’s too much to hope that Gerth is not also a hired killer.”
+
+“Analysis from the cargo ship suggested they had worked together for some time,” I said. “We have to assume they were suborned together, or at some point deflected and replaced the security team your company sent.”
+
+“Deflected,” Abene repeated. “That means killed?”
+
+“Probably.” When I picked up the Milu cargo ship on HaveRatton, I hadn’t downloaded any local news, just the bursts about Port FreeCommerce and GrayCris. If there had been reports of two bodies discovered with all identification burned out, I had missed them. (You can’t space people off a transit ring; security looks for that kind of thing and gets very agitated about it.) “With Gerth at the ship, we have a hostage situation.”
+
+I hate hostage situations. Even when I’m the one with the hostages.
+
+Miki said, “That’s not good.”
+
+See, that? That is just annoying. That contributed nothing to the conversation and was just a pointless vocalization to make the humans comfortable.
+
+In her feed, Abene was doing a quick review of my video from the engineering pod. It was less than a minute, so it didn’t take her long. She said, “Was Wilken giving the bots orders? Perhaps they will go dormant without her. But if they report to Gerth, we’re back in the same situation.”
+
+“I don’t think she or Gerth gave them orders,” I said. “I was listening in on their feeds, and I would have heard that, even if it was encrypted.” They hadn’t spoken to each other much at all, which was maybe suspicious in itself. (I know, hindsight is awesome.)
+
+Miki said, “The combat bots could have been in standby and received instructions to activate once anyone arrived at the facility.” Hirune stirred and murmured and Miki responded, “There, there, Hirune. It’s all right.”
+
+Well, yeah, I thought of that already.
+
+Abene was saying, “I don’t understand this. If Wilken and Gerth were sent to kill us, why were the combat bots sent here? Obviously GrayCris wants to stop the assessment, but that’s—”
+
+I said, “Hold it,” and stopped. I needed to do a quick review of my video and prove or disprove this theory and there’s only so many things I can do while walking and scanning for hostiles without a Sec-or HubSystem to help. I let Miki view my feed as I started my analysis, and I was distantly aware of Miki explaining to Abene what I was doing.
+
+I pinged my drone and told it to open its log and query its records and build a list of activations, standbys, and sleep phases. Then I pulled my copy of Miki’s video of the first attack when Hirune had been taken, and did a quick review of it and my video of the second attack, when the combat bot had gone after Wilken. I finished and then checked the log digest the drone had ready for me. (It was really nice to work with such an advanced drone.)
+
+“The combat bots and drones weren’t sent here for you,” I reported to Abene. “They were part of the facility’s manifest from the start. The transit station was still in construction at that point, and wouldn’t have been much help in driving off potential raiders. And GrayCris wouldn’t have wanted to call on any outside agency for help, since they were trying to conceal the fact that they were building an illegal mining platform disguised as a terraforming facility.” And the bots probably weren’t here just for protection from raiders, but also to keep any human workers in line. “The combat bots and drones have been in sleep mode since the facility was abandoned. They were activated when your shuttle docked here. Analysis suggests Wilken and Gerth were surprised by their existence.” A bot analysis would have missed that entirely, but I’m better at reading human faces and voices. (The organic parts in my head do come in handy for that, and of course it was much easier on recorded video, when I could do freezes and zoom-ins, and not in anxiety-causing realtime.) “I think Wilken did believe it was raiders who staged the attack and took Hirune, up until the second attack when she saw the combat bot. There’s a good chance GrayCris didn’t tell her and Gerth about the combat bots, hoping that the bots would eliminate them.” And helpfully tie up any loose ends.
+
+I wondered how Wilken felt about that. It sure hadn’t made her hesitate to finish her mission. She had expected me to be destroyed by the combat bots; she meant to kill Abene and Miki. She had counted on getting out of this and collecting her fee.
+
+Abene let out a breath in frustration and anger. But she said, “Can we use that on Gerth, do you think? Tell her that GrayCris tried to kill her and Wilken as well, that they should testify to what happened. Or use Wilken as a hostage…” She shook her head, biting her lip.
+
+She was thinking strategically, which is always a relief, and asking me questions instead of giving me stupid orders. I didn’t have to obey orders anymore, but that doesn’t make them any less annoying. I said, “Our only advantage right now is that Gerth doesn’t know Wilken was compromised.”
+
+The drone was still reporting no activity from the hatches, which meant the bots had gone the other direction, or were working on the lifts. I told it to come to my position. (When it reached Wilken, I had it stop and hover in front of her face for twenty-six seconds. Okay, so I was a little angry.)
+
+Abene was looking at me again. I could see her doing it from the view through Miki’s camera. She said, “Gerth must be waiting for a sign from Wilken before she acts against the others on the shuttle, surely. I should try to contact Kader. I can get a tight feed connection with him.”
+
+“Are you sure he won’t say aloud, ‘Hey everybody, Don Abene’s just signaled me on the feed’ before you can tell him not to?” That’s a problem with humans.
+
+Abene started to speak, hesitated, and then shook her head once. “He might, he might. But we must find out what is happening aboard the shuttle.”
+
+Miki said, “Vibol doesn’t speak very fast. Maybe we should call her.”
+
+I sent Abene and Miki a warning in the feed right before the drone passed us in silent mode; I was sending it ahead to scout. Abene still flinched, then stared after it. But she was right about the shuttle. If we could get a report from onboard, it would help us plan. Also, Abene and Miki would stop asking me about it, which would be a very big bonus right now. (I’d forgotten how stressful being a SecUnit was.) I said, “You don’t have any security monitoring aboard your shuttle? No cameras? No other bots, even a currently inactive one?”
+
+“No.” Abene pushed her hair back, frustrated but thinking. “There’s no need. There are cameras in the evac suit helmets, but they’re inactive in the emergency lockers.”
+
+Miki said, “Don Abene, there are two evac suits on the flight deck. I have the hard addresses for their comms.”
+
+Abene turned to me. “Can you activate their comms from here?”
+
+I probably could. But whether Gerth had killed the others yet, or was still waiting for a signal from Wilken, it didn’t matter. We still needed to get Gerth off the shuttle.
+
+We needed to get everyone off the shuttle.
+
+I was getting an idea. It was probably a bad idea. (When most of your training in tactical thinking comes from adventure shows, that does tend to happen.) I said, “We need to get back to the geo pod.”

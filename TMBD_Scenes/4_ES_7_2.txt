@@ -1,0 +1,139 @@
+I told you the thing about SecUnits not being allowed to sit on human furniture while on or off duty. So the first thing I did when the crew led us through the lock and down the corridor to a passenger seating area was to sit down on the padded bench.
+
+(I’m not sure it made any impression on the humans. Humans don’t notice these things. But it felt good to me.)
+
+Gurathin sat on the bench against the opposite wall and Ratthi plopped down next to me. This was a big compartment a couple of levels below the flight deck, probably used for meetings with non-company personnel, since it was isolated from the rest of the ship’s structure and the upholstery was relatively new.
+
+The ship’s security crew had stationed themselves in the wide corridor outside the compartment, though the one in powered armor had retreated out of immediate view. (The crew thought they had the SecSystem locked down so I couldn’t get into it. They were wrong.) One crew member was trying to convince Dr. Mensah to go to a cabin to rest, but Dr. Mensah was busy checking over the new bond agreement while Pin-Lee arranged payment.
+
+Listening to the SecSystem’s audio, I heard a crew member in the corridor say, “I’ve never seen one out of armor. They really do look human.”
+
+I made a gesture in that direction that I had only seen in the shows that were rated high on the obscenity scale. Gurathin saw me and made a choking noise.
+
+Then Mensah gave Pin-Lee her okay on the bond agreement, and walked over to glare down at me. In a low voice, she said, “I am so furious with you.”
+
+Ratthi drew back nervously. (Me, Ratthi wasn’t afraid of, but when Dr. Mensah was mad it was better to be in another room.) He said, “Uh, do you want to speak in private—”
+
+“You should sit down,” I told her. “You’ve been through a traumatic experience. Tell them you need the MedSystem’s Retrieved Client Trauma Evaluation protocol—”
+
+“It’s right, you really should get a medical evaluation—” Gurathin began, Ratthi and Pin-Lee chiming in to agree.
+
+“Never mind that.” Mensah had no intention of being distracted. “You stayed behind to get yourself killed.”
+
+Okay, aside from the fact that that was actually my intention at the time, that was not my fault. “They wouldn’t have let me through. I told PortSec if they let you through to the shuttle, I’d stay behind.”
+
+That stopped her. Her brow furrowed. “Is that why you stayed?”
+
+I could have lied. I didn’t want to. “Mostly,” I said. I looked at her with my actual eyes again. “I wanted to win.”
+
+Ratthi, Gurathin, and Pin-Lee all watched me. The company crew incompetently pretended not to try to eavesdrop. Dr. Mensah’s expression softened, just around the edges. Ratthi said, “Why did you come through, then, when Gurathin got the barrier open?”
+
+“Because that last one was a Combat SecUnit and it was going to tear me apart. That’s not winning.” I wish I knew what winning was. And once I started telling the truth, it was hard to stop. “I don’t want to be here.”
+
+Pin-Lee sat down beside Ratthi. “We won’t be here for long. We’re going to rendezvous with a Preservation ship after this wormhole jump and get off this flying vending machine.” She glared toward the crew. “It’s like everything I hate about the corporates wrapped up in one heavily armed package.”
+
+You could say that about me, too. I asked Dr. Mensah, “Then what?”
+
+“That’s what you and I need to talk about,” she said. She glanced at the company crew. “Though let’s wait until we’re not being recorded—”
+
+I lost the rest because I caught an alert from the bot pilot to the gunship’s human captain. We were on approach to the wormhole but the hostile was still tracking us. The ship’s SecSystem had just deflected an attempt to establish a connection via comm to the ship’s internal feed.
+
+“Hostile engaging,” I said. I stood up automatically, but there was nowhere to go. This could be really bad. I didn’t know anything about ship-to-ship combat, but from the alert levels … Palisade couldn’t deliver a code attack via our comm, could they? Outside in the corridor the crew had all gone still, heads tilted, listening to the captain’s feed.
+
+“What?” Ratthi said.
+
+“They’re firing on us?” Mensah said.
+
+“No. It’s a— Incoming!” Too late. Comm had just engaged and was receiving. Above us on the flight deck the captain yelled for someone to manually shut down the feed and someone else was ripping open panels to get to the components. SecSystem snapped into defense mode and walled off life support and weapons. I yelled, “Disengage from the feed, now!” Ratthi and Pin-Lee fumbled to take their interfaces out of their ears, and I cut the connection to Mensah’s implant and threw a wall around Gurathin’s internal augment. Two augmented humans in the corridor fell to the deck, writhing, and I threw walls around them, too. SecSystem should do that, but it was busy fighting off the commands to open the airlocks and allow the ship to decompress.
+
+On the flight deck someone said, “How—How could they—”
+
+Someone replied, “Shitfuckers have our codes, they overrode comm protection—”
+
+Palisade had obtained a set of company comm codes, and had tried the list on our comm until they found one that worked. (Like my list of drone control keys that I used to take over the security drones on Milu and in the TranRollinHyfa port.) Once the connection was made, they had delivered a code bundle to the ship’s feed. Not standard malware or killware, not something I had ever seen before. It was in the ship’s systems, trying to cause a catastrophic drive failure, trying to take down life support, jamming the bot pilot’s command system. SecSystem flung up walls but the hostile code was eating right through them. It was eating SecSystem.
+
+SecSystem lost another wall and the main airlock started to cycle. I slipped into the ship’s control feed and caused a heat surge in all airlock hatches, fusing everything but the manual controls. I tried to cut all non-manual access to engineering but I was too late, the drive started to fail, our engines were cycling down. Sensors showed the Palisade ship on approach. On the flight deck the captain had given two orders to fire main weapons but the bot pilot no longer had access. Gravity ceased abruptly in a backbone tube, trapping the humans trying to get manual access to systems. The captain was trying to assemble the armed retrieval team to repel boarding, but half were augmented humans who were now incapacitated by the attack on their augments and the other half were fighting sealed doors to reach their defensive positions.
+
+I flailed. I tried to help SecSystem but it was dissolving under my hands.
+
+The bot pilot couldn’t speak in words like ART, but in my head I felt its terror. It sent Code: System System. Assistance. Endangered.
+
+It was trying to ask me for help using the company codes, the way I’d asked for help for my clients.
+
+Fuck this. GrayCris is not going to win.
+
+I slipped all the way into the ship, into the pilot bot’s hardware. I’d seen ART do it.
+
+(Yes, ART’s processing capacity is much larger than mine. I’ll address that issue when it comes up, which is real soon now.)
+
+I suddenly had a different body, hard vacuum on a metal skin, I saw the approaching ship with my eyes, not just sensors. It had dispatched a boarding shuttle that was coming in fast, heading toward the gunship’s main docking lock. I pulled back in; there was no time for sightseeing. The bot pilot wanted to know what we should do. It was a good question.
+
+Inhabiting the same hardware like this, the bot pilot and I could communicate almost instantaneously. I pulled SecSystem’s analysis of the attacker so we could both examine it. It wasn’t just a code sequence like malware or killware. It was a conscious bot, moving through the feed like I did, like ART, but with no physical struc ture to go back to; that was why it was so fast. It was like a disembodied combat bot.
+
+The bot pilot asked if the Attacker was a construct created from human neural tissue, rather than a bot, and indicated points in the analysis that would confirm that theory.
+
+I told it that was worse, and better. A disembodied construct would be more vicious, but it would also be easier to trick.
+
+I had an idea I outlined for the bot pilot. If we could trap the Attacker’s code bundle in a contained area and destroy it, we could regain control of the affected systems. But to get the Attacker to go into a contained area, we needed bait. We needed to know what the Attacker wanted/had been sent to do.
+
+Bot pilot said that it wanted to destroy the ship and crew.
+
+I said there had to be a reason. There was no profit for GrayCris in killing us, and a lot of risk in antagonizing the bond company by destroying a ship this expensive.
+
+I reactivated my body, standing rigid in the passenger seating area. Ratthi was out in the corridor, doing rescue breathing on an augmented human crew member who had collapsed due to the attack on her augments. Gurathin was out there, too, both hands in a panel access, holding a corridor hatch open so crew could bypass the backbone and get to the drive. Pin-Lee and Mensah both sat on the floor with two crew members. All four had portable manual interfaces open and were frantically entering code, shoring up SecSystem’s walls. They weren’t fast enough, but what was left of SecSystem probably appreciated the thought.
+
+I said, “Dr. Mensah, why do you think GrayCris is doing this? What do they want?”
+
+Everybody flinched. “What is it doing?” a crew member demanded. “It could have been taken over by the—”
+
+“Shut up,” Dr. Mensah snapped at the crew member. To me, she said, “We think it’s Milu. They must think you have the data you took from Milu with you.”
+
+“It’s got to be that,” Pin-Lee added, not looking up from her display surface. “They could have killed us as soon as we arrived on TranRollinHyfa, but they wanted the money. It’s only been since they realized you were here that things got violent.”
+
+You know, I bet that’s it. And I bet it had something to do with the memory clip I took from Wilken and Gerth. CrayGris must know it existed, must believe I had it. They were too late, since it was in the Preservation system by now, but I doubt they were going to believe that. But it did give me something to work with. “I need someone to trigger a manual disengage of the shuttle we arrived in.”
+
+Mensah dropped her interface and shoved to her feet. “We’ll do it. Pin-Lee—”
+
+“Coming!”
+
+“Thank you for your assistance,” my buffer said, as I shut down again and went back to the bot pilot.
+
+Back in accelerated time, I explained to the bot pilot what I wanted to try. It was fighting for control of its weapon systems, trying to follow the captain’s order to fire. It showed me an intel fragment from the boarding shuttle: manifest suggested a Combat SecUnit was aboard, along with an augmented human boarding team.
+
+Yeah, we couldn’t let that shuttle lock on.
+
+I hadn’t made a copy of the memory clip, but I still had all that data I had recorded on the trip to Milu, all those cycles of Wilken and Gerth talking about not much of anything. It had been analyzed and compressed, but it might resemble the parameters of what Attacker was searching for long enough to make this work.
+
+I couldn’t risk cameras or feed, so I walked my body out of the passenger area and into the shuttle access corridor. I’d fused that hatch, too, but Mensah and Pin-Lee had the panel open for the emergency disengage. “Wait for my signal,” I said.
+
+I told bot pilot we were going to have to make this good. It agreed, and we worked out what we were going to do.
+
+Then bot pilot disengaged SecSystem.
+
+I knew we had to do it but it was terrifying to be so vulnerable. I could feel Attacker bearing down on bot pilot, on me. I told bot pilot we needed to protect this important information so the company could retrieve it later and that I would hide it in the shuttle. Bot pilot ripped the confused ShuttleBotPilot out of its memory core and I dumped the data bundle into its place.
+
+And Attacker transferred itself into the shuttle’s system.
+
+Three things happened at once: (1) ShuttleSecSystem walled the shuttle’s comm system. (2) Bot pilot deleted its own comm system codes and I overloaded and fused its hardware. (3) My body told Dr. Mensah and Pin-Lee, “Now.”
+
+Pin-Lee’s hands moved in the panel and Dr. Mensah worked the controls. The shuttle disengaged.
+
+The gunship was moving slowly at that point, so the shuttle didn’t drop very far away, but with our comms fried it might as well have been on the other side of the wormhole. Attacker was gone, trapped in the shuttle.
+
+Hah, I thought. Take that, you fucker .
+
+Ship’s feed and system codes were trashed, but bot pilot was already reasserting control. SecSystem did the system equivalent of staggering drunkenly to its feet. Someone on the flight deck said, “Oh, mothergods, we’re clear!”
+
+Bot pilot regained control of its weapon system and queried the captain. The captain said, “Confirm, fire.”
+
+I stayed long enough to enjoy the boarding shuttle disappearing in one explosive burst, and the multiple impacts breaching the Palisade ship’s hull, then pulled my scattered code together and dropped back into my body. It felt weird.
+
+Mensah and Pin-Lee still stood in the corridor, watching me worriedly. “We’re clear,” I told them.
+
+Pin-Lee made an excited whooping noise and Mensah grabbed her and swung her around.
+
+I felt weird. Very weird. Very bad.
+
+Performance reliability at 45 percent and dropping. Catastrophic failure—
+
+I felt my body crumple, but I didn’t feel myself hit the deck.

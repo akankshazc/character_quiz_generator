@@ -1,0 +1,47 @@
+It took us four hours and twenty-seven minutes. We didn’t let Iris work on the music, because she was better at organizing and editing, and she had a huge supply of relevant text stored in her archive augment. She took over evaluating clips when Ratthi and Tarik were doing the interview. Also, she ended up reading the narration, though she didn’t think we should use her voice. (“I think they’re as sick of listening to me as I am of talking to them,” she told us.) So ART-drone converted her voice into Dr. Bharadwaj’s, which it had a good sample of from her documentary segments. (“This is absolutely not ethical, it’s the opposite of ethical and is explicitly against Preservation law, but I think she’ll forgive us under these specific circumstances,” Ratthi said.)
+
+By the time we finished, we didn’t have time for the humans to watch the whole thing through, because it was 47.23 minutes total. So we divided it up into three separate segments and each watched one simultaneously. ART-drone processed the tweaks and corrections, and then we had almost no time left.
+
+But when Iris called Trinh and asked to deliver it, someone else answered. They said only Trinh could speak to us and she was “unavailable until later.”
+
+Iris closed the call very politely, and then sat there on the bunk squeezing her fists while we stared at her. She said finally, “Trinh didn’t trust me, but she didn’t trust Barish-Estranza, either. If she’s not part of the discussion anymore, that’s not good.”
+
+I was sweating out of my organic parts again, we were so close. There had to be something we could do. Then Iris said, very quietly, “I will not give up.” She looked up at ART-drone. “Peri, how do we make them watch it?”
+
+I don’t think force will be necessary, ART-drone said, and displayed the media directory AdaCol2 had shown us. I think we just need to make it available.
+
+I should have thought of that, but after all that processing, my performance reliability was down. I needed a restart like nobody’s business. I called AdaCol2 and said, query: file upload permissions?
+
+I didn’t know if AdaCol2 knew or understood what we had been doing. It had a connection to our feed but it would have had to get past ART-drone’s walls to see how high our activity levels had been. It said, query: file type?
+
+I answered: video tag: entertainment, educational. It was really important that the entertainment tag go in first.
+
+AdaCol2: query? It was asking me why.
+
+We want your humans to see it, I said. Information, assistance.
+
+It gave me an address and I sent the upload. ART-drone had a real-time view of the media list, but it hadn’t updated yet. It’s reviewing it, I told ART-drone.
+
+It’s far more sophisticated than it’s pretending to be, ART-drone said.
+
+“But will they watch it in time?” Ratthi asked. He was rubbing his eyes; all three humans had been tired before but now they were beyond exhausted, hyped up on stimulants and every food item we had with simple carbohydrates in it.
+
+“It’s new,” Tarik said, waving his arms. “How long has it been since they got something new to watch?”
+
+“And it’s good, it’s really good.” Iris paced. I wanted to think she wasn’t just trying to convince herself. “This was a good idea, SecUnit. Even if … It’ll be useful to a lot of people.”
+
+Then AdaCol2 said, query: accuracy.
+
+ART-drone had already bundled our annotated data and was shoving it at me. That was something the humans had come up with that I wouldn’t have thought of. We had our emotionally engaging story, and a presentation of the facts behind it with references, but we also had all the interviews, transcripts, videos, academic papers, newsfeed articles, etc., we had used to make it, like the data package part of a survey report. Including the original, longer version of Tarik’s interview done by Ratthi, though in the finished product we had given it the backdrop of ART’s crew lounge, which ART-drone thought was aesthetically better than the bare blue wall of this room, and we used the technique of cutting out Ratthi’s voice, so it was just Tarik giving the answers that complemented that section of the story.
+
+AdaCol2 said, File uploaded just as it appeared in the colonists’ download menu. It was tagged entertainment and educational and most important, new, with a note that it was a gift from the visitors from the University of Mihira and New Tideland. I wished AdaCol2 hadn’t put that last part in. I didn’t think any visitors were super popular in this underground installation at the moment, but we, the uncaring academics who wanted to turn them all into lab experiments, were definitely coming in last. “It’s uploaded,” I said.
+
+Iris stopped pacing and all three humans stared at me. I stared at them with my drones until ART-drone said, Even if they download it immediately, it will take approximately forty-eight minutes for a human to view it.
+
+“Right, of course.” Iris pressed her hands to her face. “We should probably try to get some rest.”
+
+“Or,” Ratthi said, perking up, “we could watch the whole thing together, the way they’ll be watching it.”
+
+Tarik groaned. “You think that will be less stressful?”
+
+At least no one had said if they watch it. Except I thought it, so. Whatever, I need to watch Sanctuary Moon now.

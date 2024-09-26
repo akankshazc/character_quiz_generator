@@ -1,0 +1,37 @@
+By the time the responder locked on and its armed intervention team boarded, I had the other hostiles disarmed, restrained with cuffs I’d found in a locker, and sitting on the deck near the main airlock. I’d found their medical unit (it was an off-brand model, and installed in the galley, but whatever) and was letting it seal up the hole in my back. (Just a regular projectile, not an explosive one, so most of my back was still there. I just didn’t feel like walking around leaking in front of humans right now.) I’d gotten Aylen on comm and confirmed she had called in her team for support and was now trying to coax the six refugees out of the colony ship’s airlock corridor. Apparently they weren’t believing the whole “we’re Station Security and we’re here to help” story. Whatever, it wasn’t my problem.
+
+I’d switched my feed ID back to SecUnit.
+
+Senior Indah walked in. I knew from listening to the responder’s comm that she had taken a shuttle out to it, but I hadn’t expected her to come looking for me. She frowned at the galley. The surfaces were smeared with dried food, and it smelled bad, even worse than human food prep areas usually smell. She looked at me and said, “You were hurt?”
+
+I told the MedUnit to stop and pulled my shirt back down. “What gave it away?”
+
+She folded her arms and leaned against the side of the hatch. My drones showed her expression was sour. “The refugees told me they shot you. They realized you were a SecUnit and thought…” She scratched her head, leaving her short hair sticking up unevenly. “I don’t know what they thought, I’m too tired to sort that out. Do you want to make a criminal complaint against them?”
+
+Uh-huh, very funny. “No.” I didn’t want to talk about it, so I stared at the wall. I just wanted to get off this ship, back to the station, back to my regular job making sure no one killed Mensah. “My short-term contract is completed.”
+
+“Is it?” Indah lifted her brows. “Do you know who killed Lutran?”
+
+With everything else, I’d forgotten about the original objective of this whole mess. “No, who?”
+
+Now she rolled her eyes. “I was asking you.”
+
+Oh, right. “But the hostiles will know who they were working with in the Port Authority.”
+
+“We questioned them briefly and they say they don’t. They were given some instructions to send to a scramble-coded feed address, and they have no idea who was on the other end. We checked and the address has been deleted. I don’t know if I believe they really didn’t know who they were talking to, but it’s going to take time to get them to realize that they can help themselves more by telling us everything.” Her mouth set in a grim line. “I don’t want to wait. I want to find that traitor before they do any more damage.”
+
+Did I want that too? Yes, yes I did. And the parameters of the problem had changed, drastically, in a way that made it solvable. Our suspect pool had been a bunch of humans and augmented humans wandering around in the Merchant Docks mostly unobserved and not interacting with station systems, as we tried to identify an actor who could remove themselves from the few surveillance cameras at will. Now we knew it was a local, someone with legitimate access to Port Authority systems. Locals living on the station do stuff that leaves a trail, that generates records in log files. “You need a surveillance audit.”
+
+Her frown turned confused. “A what?”
+
+“You take all the data available during the time frame when the incidents occurred, not just from the Port Authority systems, but from StationSec, StationCommCentral, TransportLocal, the distribution kiosks, the door systems that allow people to enter their private quarters, anything that saves an ID that tells you what someone was doing at the specific moment when we know the perpetrator was active, and you compare it to the list of potential operators to start eliminating them. It’s going to be harder because your surveillance is crap, but it can still drastically reduce the suspect pool.” She didn’t react and I added, “If we know someone is in the station mall accessing a food kiosk at the exact time the transport suffered the catastrophic failure, then they can be eliminated as a suspect.”
+
+Her gaze turned intrigued. “Some of those systems are under privacy lock, we’d need a judge-advocate to release their access records, but the others…” Then she shook her head. “We narrowed down the time of death, but it’s not exact. And the theory was that some of those actions, like using the cart to dump Lutran’s body in the mall, were prearranged. The actor could have been eating in the station mall when it happened.”
+
+I explained, “But not when the transport was hacked. That can’t be done over the feed. When the transport went down, the actor was there, on board.”
+
+Indah’s face did something complicated, which I think was an attempt not to show enthusiasm. “How long would this take you?”
+
+“A few hours. And I’d need outside processing and storage space.” I’d have to pull a bunch of old company code out of archive storage, build the database, and write the queries.
+
+She pushed off the hatch. “Then let’s get out of here and get started.”

@@ -1,0 +1,153 @@
+I unfroze to the scene from Rise and Fall of Sanctuary Moon when the solicitor is waking up in the medical bay and her bodyguard is there. It’s from episode 206, one of my favorites. Time check: offline = .06 seconds. If this had happened during an attack by hostile(s), I’d be dead now and the hostiles would have probably destroyed ART-drone and attacked the shuttle and killed all the humans.
+
+ART-drone had not ratted me out and Iris was in the middle of saying, “—possible contamination hazard?” on the comm. ART-drone had already taken our feed down in case it was a contamination hazard, which was good. I could see on my shuttle drone’s camera that Ratthi had pulled his interface out of his ear.
+
+ART-drone said, Viral contamination cannot be delivered to me or SecUnit via this method. I have already blocked the shuttle’s feed and comm from receiving the potentially hostile channel. On our private feed, it said, Are you back?
+
+Yes, I told it. Sort of, mostly. Was it that memory again?
+
+You showed the same performance reliability drop and error codes, but the duration was comparatively short, and you didn’t go into shutdown. So it’s more likely to be a variation on the same issue. We can’t verify that until I have time to check your active logs.
+
+Iris asked, “Can you show us the transmission?”
+
+ART-drone converted the transmission into visual data that the humans could understand and put an image of it on the shuttle’s display surface.
+
+Begin session acknowledge greeting
+
+Begin session acknowledge hello
+
+Begin session acknowledge salutation
+
+Ratthi’s brow was doing things to show simultaneous intense worry and intense interest. “It’s an automated system, do you think?”
+
+“No, it’s an active system trying to initiate a connection with either Peri or SecUnit.” Iris bit her lower lip in a way that looked like it hurt.
+
+Correct, ART-drone said. It knows we’re here. It must be continuously scanning for activity and picked up our comm and feed signal.
+
+Tarik said, “You think this is like that Pre-CR central system?”
+
+I could talk now, so I answered, “Yes, like that.” Like the other central system we had found, this one was using LanguageBasic, which is still common in the Corporation Rim for connection protocol between different architectures using different and often proprietary codes. It was invented in the Pre-CR times, I guess. I have no idea.
+
+“Is it a distress call?” Ratthi was really concerned. So was I. Because it wasn’t a distress call.
+
+Begin session acknowledge hand-clasp
+
+Begin session acknowledge wave
+
+Begin session acknowledge bow
+
+ART-drone said, No, this is not a distress call. It is cycling through alternate data transfer protocols until it finds one we will accept.
+
+The other Pre-CR central system had not infected me with the alien contamination. The other Pre-CR central system had, with 2.0’s help, in fact saved my ass. It had been sitting in that place, contaminated and cut off from its network, calling into the dark for someone, anyone, to help its humans, until we found it.
+
+I did not want to answer this one. I also did not want my stupid neural tissue or whatever was causing my stupid repeating false memory error to win. Win what? That’s a good fucking question, I wish I could answer it. I said, “Iris, I want to answer it. Do I have a go to proceed?” Because if this turns out to be a really bad idea, it wasn’t going to be just me in the shit. I was really glad I’d made them stay in the shuttle, with one of ART’s iterations piloting, far enough away to get in the air before, say, a running contaminated human or bot could reach them. But that wasn’t me being especially smart, it was just me not being especially stupid.
+
+Ratthi was clearly not happy. Tarik’s face set in a wince, anticipating disaster. Iris bit her lip again, then said, “Go, at your discretion.”
+
+ART-drone said, We will be out of contact briefly. Confirm.
+
+Iris has that same thing as Dr. Mensah, the thing where she’s able to look and sound calm under circumstances where shit is possibly about to go down. She said, “Confirm. See you on the other side.”
+
+ART-drone cut the comm and I missed them immediately. It wasn’t like the humans could do a lot to help me in this situation if everything went sideways, but not having them there was not … It was not great. (It was tempting to take this as another sign of possible performance dysfunction, but objectively I knew it was probably the opposite.) (It was still annoying.)
+
+ART-drone threw out an extra comm- and feed-block wall between us and the shuttle and I said, Let’s do full containment protocol. Which was the protocol we’d come up with (we being ART, Martyn, and Matteo and me, before my incident when I effectively became useless) for dealing with potential contamination situations.
+
+Let’s, ART-drone said, which was its way of being nice and not letting me know that it didn’t need my advice about which containment protocol to use. Then it made it worse by adding, Be careful.
+
+The wall went up and I was alone in the dark except for my two drones, both on standby now, and the Pre-CR system.
+
+Begin session acknowledge hail
+
+Begin session acknowledge salute
+
+Begin session acknowledge nod
+
+I sent, Acknowledge, session.
+
+There was no pause, like it had no concerns about contact with foreign systems. It sent, Connection: ID: AdaCol2. Query: ID?
+
+Okay, this is going to be tricky. ID: SecUnit.
+
+Function: query? Registration/organization: query?
+
+The other central system had been altered to work for the Adamantine colonists who had found it in the Pre-CR structure. This one must have been altered, too, because of its designation. (Ada = Adamantine; Col = Colony.) (I’m guessing the other central system was AdaCol1, unless there was a whole other Pre-CR network still active on this planet.) (I really hope there isn’t.) But this system didn’t sound like it had been altered, and I can’t describe that any better without copying in a lot of code. But that other system, AdaCol1, had sort of gotten what I was; this one had no clue. The concept of me was not in its archive, if it even had archives like I did.
+
+I responded, Function: survey. Organization ID: PSUMNT.
+
+Trying to explain what a SecUnit was in LanguageBasic was hard enough, and the Pansystem University of Mihira and New Tideland, since it hadn’t existed back when this code was in common use, had no ID that AdaCol2 would even recognize as an ID, so I just made one up for it.
+
+It didn’t respond. Yeah, I think I fucked that up.
+
+It sent, ID: PSUMNT added to ContactBase.
+
+I guess machine intelligences of that era were too polite to say “that sounds fake but okay.”
+
+It added, query: contact AdaCol1?
+
+It could be asking for something else, and not the other central system, the one that I’d destroyed along with 2.0 to stop the source of the alien contamination.
+
+I hoped it was asking for something else.
+
+I was taking too long, and it sent, AdaCol1 contact lost. Query: contact AdaCol1?
+
+Yeah, there was a 95 percent chance that it was asking for the other central system. I sent, AdaCol1 location?
+
+It sent me a string of numbers. Not active code … oh, right, probably map coordinates. It took me a second to figure it out but they matched the Adamantine mapping data. And the coordinates pointed to one side of the main colony site, where the Pre-CR structure was.
+
+So it was a 100 percent chance. I made myself reply, AdaCol1: offline.
+
+This time there was a pause. 2.3 seconds. It sent, query?
+
+AdaCol1 saved me. It was half eaten by an alien contaminant transferable via organic DNA into machine code and vice versa. It was held a prisoner in the dark while the humans that had rescued it from the ruin it was abandoned in were infected and driven to do terrible things to each other. It let me kill it if I promised to save its humans. How did I put that into this stupid limited language?
+
+I sent, AdaCol1: contamination incident.
+
+Query?
+
+I should be asking AdaCol2 if it was here alone, though I was 97 percent sure it wasn’t. I had only interacted briefly with AdaCol1 but it had—felt is the wrong word but it makes sense in context—or not, whatever—it had felt alone. Its access had been cut off, none of its normal functions were in process, it had little to no data as to what was happening outside the limited network it had been trapped with.
+
+AdaCol2 was an active system. It could even have been stalling me while its humans got their SecUnit-busting weapons out.
+
+And if it was like AdaCol1, it was probably a lot smarter than this limited connection protocol made it sound. I pulled a report like I would for a SecSystem’s or HubSystem’s internal use, all data, no visuals or documentation for humans. No way to make what had happened sound better.
+
+I hesitated. This was hard. It might try to kill me and then I’d have to kill it. Or try to kill it, it might be on ART’s level and smash me like a bug, I didn’t know.
+
+I said, query: accept data file?
+
+In response it sent me a hard address, different from the one it was using for our connection. It was probably the equivalent of a run box, a separate processing area it could view but that nothing could get out of. (Theoretically, anyway. I would have bet 2.0 could have gotten out of a Pre-CR run box.)
+
+I sent the file, and the connection went quiet.
+
+I didn’t want to just stand here waiting, and watching media under these circumstances was clearly not a good idea no matter how much I really, really wanted to watch media. So I made a copy of the conversation and pinged ART-drone with it.
+
+ART-drone dropped the wall between us, though not the one protecting the shuttle’s systems. Is that a good idea? I asked it. Is containment protocol for everybody but you?
+
+After it sees the file it will either attack us or ask for further contact, ART-drone said. The wall will have to go down either way.
+
+Right, fine, whatever. Then AdaCol2 sent, query: function, query: connection, query, and followed it with a current timestamp.
+
+It had just asked us why we were here.
+
+On our private connection, ART-drone said, It wouldn’t question you like this if it was alone here. It has something to protect.
+
+ART in any format is absolute shit at talking to other bots, but in this case I knew it was right. I needed to reply in a way that would make sense to a Pre-CR central system jury-rigged to network with Corporate-era tech. The Targets, ART’s crew being captured, Barish-Estranza, the hopefully dormant alien contamination site now lurking under the collapsed ruin of the Pre-CR colony site. But I kept seeing the memory of that last moment before AdaCol1 shut down. I put together a response and sent:
+
+AdaCol1 request: assistance needed, PSUMNT response assistance in process then ID: Barish-Estranza Explorer Task Group: threat condition high and finally PSUMNT request: client-to-client connection.
+
+Which meant, “AdaCol1 asked for help, we are trying to help, Barish-Estranza is dangerous, can you please let our humans speak to yours.”
+
+It sent back: query: ‘client’?
+
+This system didn’t know what client meant. I tried not to take that as a sign of complete failure while ART-drone ran a quick query for alternatives and sent me the results. I picked the top one: ‘client’ = operator.
+
+It sent, connection accepted, request accepted, assistance and I had another camera view in my feed.
+
+It was so sudden it startled me, and it took me .03 seconds to understand what I was looking at. ART-drone said, Shit.
+
+AdaCol2 was showing me a view of a large room, built from the same artificial stone and either part of this installation or very near it, with at least twenty-two humans, two of them wearing patched Adamantine environmental suits. At least twenty-two, there were small humans playing along one wall and the camera view didn’t take in the whole space. The humans had a normal range of skin tone, dark brown through light tan, no visible signs of contamination effects. (It was impossible to tell about their hair; most of them had it wrapped up in a cloth or covered by a cap.) None of that was the “oh shit” part.
+
+The “oh shit” part was that they were facing five humans in Barish-Estranza enviro suits and gear, and one SecUnit.
+
+Yeah, we were too late.
+
+ART-drone had already ended our containment protocol and opened comm and feed to the shuttle. It said, Iris, we have a problem.

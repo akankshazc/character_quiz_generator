@@ -1,0 +1,127 @@
+MY MEMORY WAS IN fragments. I didn’t feel great about it, but it wasn’t the disaster it would have been for a full bot. My human neural tissue, normally the weak link in my whole data storage system, couldn’t be wiped. I had to rely on it to put the fragments back in order and unfortunately its access speed was terrible.
+
+It was taking fucking forever.
+
+I wandered through random images, bursts of pain, landscapes, corridors, walls. Wow, that was a lot of walls.
+
+(Unidentified voices on audio: “Any change?”
+
+“Not yet.” A hesitation. “Do you think we should have let them put it in the cubicle? If it can’t—”
+
+“No. No, absolutely not. They’ve got to want to know how it beat its governor module. If they had the opportunity … We can’t trust them.”)
+
+The worst part was that I couldn’t remember (hah) how long I had been in this state. What little diagnostic info I had suggested a catastrophic failure of some sort.
+
+Maybe that was obvious without the diagnostic data.
+
+A complex series of neural connections, all positive, led me to a large intact section of protected storage … What the hell was this? The Rise and Fall of Sanctuary Moon ? I started to review it.
+
+And boom, hundreds of thousands of connections blossomed. I had control over my processes again and initiated a diagnostic and data repair sequence. Memories started to sort and order at a higher rate.
+
+(Voice on audio: “Good news! Diagnostics are showing greatly accelerated activity. It’s putting itself back together.”)
+
+(Partial identification: client?)
+
+A curved ceiling instead of a wall. That was different. I was lying on a padded surface. I had enough access to memory to know that was unusual, and that unusual usually meant bad. More fragments resolved into coherency, just not in the right order. Transports, Ship, ART. Right, not so unusual then. I was wearing human clothes and not a suit skin and armor, so that matched. Access to another set of connections let me identify the objects overhead as equipment associated with MedSystems. ART? I tried to ping. No, that memory was out of order. I’d taken Tapan back to her friends and left ART.
+
+(Ratthi asked me, “How do you feel?”
+
+The only tag I can access on Ratthi is a partial that says my human friend. That’s strange and unlikely, but the pre-catastrophic-failure version of me seemed sure about it, and I don’t have anything else to go on. “Fine.”
+
+Possibly it’s obvious that I’m not fine. Ratthi said, “Do you know where you are?”
+
+I didn’t have an answer. My buffer said, “Please wait while I search for that information.”
+
+“Okay,” Ratthi said. “Okay.”)
+
+I was in a MedSystem, with the kind of equipment meant for humans or augmented humans recovering from serious medical procedures. There were two hatches in the cabin, one open and one closed. It took me a minute—and I mean a full minute, my access speed was terrible—to recognize the symbol on the closed door as an archaic sign for a restroom. Oh, well, great, a whole minute for something completely unhelpful.
+
+So this was a place you put humans, not bots or SecUnits. Did they think I was a human? That was just stressful, I didn’t want to pretend to be human right now. But I was missing my jacket and my boots. I don’t have any organic parts on my feet and they don’t look like medical augments for an injured human. And, oh right, I was in a MedSystem, which would have immediately diagnosed that I had a terminal case of being a SecUnit.
+
+(“I don’t want to be a pet robot.”
+
+“I don’t think anyone wants that.”
+
+That was Gurathin. I don’t like him. “I don’t like you.”
+
+“I know.”
+
+He sounded like he thought it was funny. “That is not funny.”
+
+“I’m going to mark your cognition level at fifty-five percent.”
+
+“Fuck you.”
+
+“Let’s make that sixty percent.”)
+
+A memory popped up: the company gunship.
+
+A flash of terror hit, so intense it paralyzed me.
+
+But these walls were scuffed, scratched metal, marked with the ghosts of multiple installations. Conclusion: this was not the company gunship.
+
+The one good thing about having emotions was that it accelerated the repair process for my memory storage. (The bad thing about having emotions is, you know, OH SHIT WHAT THE HELL HAPPENED TO ME.) I frantically checked my governor module. But my hack was still in place. Results from the ongoing diagnostic showed that my data port hadn’t been repaired, either. The burst of fear had used up all my oxygen and I had to take a breath. I found the code structures for my walls and started reassembling.
+
+(“I don’t want to be human.”
+
+Dr. Mensah said, “That’s not an attitude a lot of humans are going to understand. We tend to think that because a bot or a construct looks human, its ultimate goal would be to become human.”
+
+“That’s the dumbest thing I’ve ever heard.”)
+
+When I fell on the floor, I discovered I’d been concentrating so hard on rebuilding my memory I’d prioritized it over my operational code. I started another rebuild process, which just slowed everything down. But the organic parts in my head remembered how to stand and walk and it would go faster if I made the rest of me re-learn it.
+
+In attempting to walk, I’d gathered more current data: the medical setup had been retrofitted into an older structure. Old bolts and fittings still marked places on the cabin walls where previous equipment configurations had been changed or removed. Big cables had been run along the walls, then clamped off as no longer necessary. Faded paint and letters were scratched into the bulkhead, phrases, names. The manual control panel for the hatch was so old-fashioned I thought it was a small art installation.
+
+There was a big port, which was strange, since in a wormhole there’s nothing to look at.
+
+Except we weren’t in a wormhole, this was space, and we were on approach to a station. On visual there was nothing but spots of light, but the flight deck was sending sensor data through the comm, which allowed the room’s display surface to give us a close-up view of the station. (Yes, it was complicated and awkward, but that’s what you get when you have a shitty feedless ship.)
+
+Strangely, a large part of the station was designed to look like a giant old-fashioned ship, with … Oh wait, that was a giant old-fashioned ship, with a more conventional circular transit ring built out from the hold area. It was old and ugly but it was no Milu; there were lots of transports and smaller ships in dock. I cautiously extended my reach past my walls and picked up the edge of a station feed.
+
+Dr. Mensah said, “Do you know where you are now?”
+
+Home to her meant a planet. I knew that because I’d shipped memory clips to her family there. Important memory clips. Memory clips that had almost gotten us killed. I said, “I don’t like planets. There’s dust and weather, and something always wants to eat the humans. And planets are much harder to escape from.”
+
+Behind her, Gurathin said, “I think that’s a yes.”
+
+The ship didn’t have any cameras so I couldn’t see anybody. No, wait, I could use my eyes.
+
+“We’re coming up on Preservation Transit Station,” Mensah said. “Do you know what happened?”
+
+“I had a catastrophic failure. I think that’s obvious.”
+
+She nodded. “You extended yourself too far when you were fighting off the code attack on the company ship. Do you remember?”
+
+I think I did, but I didn’t want to talk about it. “Why is this ship so old and shitty?”
+
+Ratthi objected, “Hey, it may be old, but it’s not shitty. It came to Preservation packed into the hold of that much bigger ship, the one that’s become the station, with our grandparents. Well, not Gurathin’s grandparents, he came later.”
+
+“Your grandparents were packed in the hold.” I was skeptical. I’d been packed in a lot of holds and I hadn’t seen any humans in there. Not that I could see inside the other transport boxes, but … You know what I mean.
+
+Mensah had a smile in her voice. I remembered what that sounded like. “They were in suspension boxes, because the trip took almost two hundred years. They were refugees from a failed colony world, and it was the only way to escape. When they arrived in the Preservation system, they were able to make an alliance with two other systems settled earlier by similar refugee ships. When ships from the Corporation Rim discovered us, they refused their help, which kept us independent.”
+
+I found a pocket of archived data on Preservation. Right, my status there was better than equipment or deadly weapon, but I would still have to have an owner. And be a happy bot servant, or something like that. Yeah, that was going to go well.
+
+Possibly I said that out loud, or had said that out loud at some point, because Dr. Mensah said, “No one else on this ship knows you’re a SecUnit. They think that you’re a person with a large number of augments, who was injured while helping us, and that you’re being brought to Preservation as a refugee.”
+
+I actually turned around and looked at her. She was standing next to me, Gurathin was sitting in a chair with a portable display surface bubble, Ratthi was on the bench, and Pin-Lee was leaning on the wall next to the hatch. (And this ship is shitty. It smells like human socks.)
+
+“That last part is true, technically,” Pin-Lee said. “You fit the legal definition of a refugee.”
+
+“It’s very dramatic,” Ratthi added. “The crew think you’re a special security agent who betrayed the company to save us.”
+
+It was very dramatic, like something out of a historical adventure serial. Also correct in every aspect except for all the facts, like something out of a historical adventure serial.
+
+Mensah said, “We have more options now that you’ve changed your appearance, and have been successful at…” She was hesitating over the phrase pretending to be human. I remembered at least three conversations about that. “Let’s say, not being noticed. I want to keep those options open until you’re completely well and you can tell me what you want to do.” She was watching me carefully. “On Port FreeCommerce, I thought you would need a great deal of assistance before you could fit into human society. I was wrong about that and I apologize.”
+
+I focused on her. “I don’t want to go to the planet.”
+
+She nodded. “That’s fine. You can stay on the transit station.”
+
+I was stuck, so I might as well make the best of it. “In a hotel?”
+
+“If you like.”
+
+“With a big display surface.”
+
+She smiled. “That can probably be arranged.”

@@ -1,0 +1,127 @@
+Running through ART’s corridors, I didn’t have a lot of time to plan. The way the MedSystem’s platform had activated in response to Eletra’s medical emergency told me the ship’s operational code, or at least large fragments of it, was still intact. And targetControlSystem was going down under my barrage of contacts, allowing more of ART’s systems to come back online. This was technically a good time to try to breach the control area, but I’d be doing it even if I had to fight through an entire task group of Targets and their stupid semi-invisible drones.
+
+I took the corridor up through the central module and passed a targetDrone bobbing in midair and one bumping along the lower bulkhead. As targetControlSystem went down, it was flooding them with garbage code.
+
+Back in the quarters module, Amena and the others were finally clumping down the corridor toward Medical. They encountered the targetDrone that Amena had disabled with fire suppressant, still floating aimlessly, and Overse bashed it with a cutting tool brought from the safepod.
+
+Scout Two showed me the control area foyer, barely three meters ahead, was empty which meant I’d lost track of Target Four. I just had time to run back its video to see Target Four leave through the forward doorway. Then an energy/heat blast hit me from behind. It struck me in the lower back and I lost traction and fell forward and slid halfway across the deck toward the control area hatch.
+
+My performance reliability dropped to 80 percent.
+
+In the corridor outside Medical, Amena jerked to a halt and yelled, “No, no!”
+
+“What?” Arada demanded.
+
+“They got—They shot—” Amena waved wildly at the Medical hatch. “Stay here with them!” and bolted away. Her drone squad careened after her.
+
+I’ve been hit by projectile and energy weapons a lot more times than I can remember (literally, because of the memory wipes) and it’s not that it doesn’t hurt. But I had tuned down my pain sensors earlier, so it was a surprise when I rolled over and saw the big smear of blood and fluid on the deck.
+
+I could only last so long like this. I needed to move faster.
+
+But at least this solved the problem of how I was going to get the hatch open. Target Four ran toward me because assholes love to see your face when they kill you. He stopped what he thought was far enough away and fired, but I rolled onto my side so the blast hit the deck next to me. I shoved with my feet, used my hip as a pivot, and spun myself around so I could grab his ankle. He shrieked and fell backward, and I climbed up him and snapped his neck.
+
+Targets Five and Six were almost here and I only had three drones left in the corridor. As I shoved to my feet and took Four’s energy weapon, I ordered my surviving drones to run interference for me and take hits if they could. Between the stealth material helmets and the protective suits, the drones didn’t have much chance of kill strikes, but hopefully they’d provide a distraction.
+
+Hefting the big square weapon was hard and I knew I’d lost a lot of muscle and underlying support structure in my back. With my free hand, I popped the panel beside the control area hatch and then fired a short burst at the mechanism inside. The blast of heat convinced the sensors that the ship was experiencing an emergency condition (the sensors weren’t wrong about that) and it reactivated the manual controls. I hit the manual release and the hatch slid open.
+
+I stepped through and hit the close and seal sequence. One of my drones managed a shoulder hit on Target Five but the other contacts disappeared.
+
+As the hatch slid closed, I knew I didn’t have long. I’d had no time to replace the outside hatch panel and while I had some strong evidence to suggest that what the Targets lacked in personality they also lacked in brains, they were sure to try shooting at the controls and sooner or later it would work.
+
+I’d cut Amena’s visual access to my feed, but her drones told me that Arada and Thiago ran after her through the corridors, headed here. (Yeah, I probably should have cut Amena’s input before this. But I’d wanted her to know what my status was if I couldn’t respond.) Scout Two was still in the foyer on sentry so I sent its video to Amena’s feed, so she’d be able to see where the Targets were. I saw her slide to a stop and clutch her head, trying to focus on the new input. I was already stepping past the messily dead Targets One and Three and climbing the stairs to the upper control area and I didn’t have time to help her.
+
+Scout One was there, still monitoring displays. It greeted me with a ping as I set the energy weapon down in the nearest station chair. I needed an interface with the ship’s data storage.
+
+The bond company that used to own me made a lot of its gigantic piles of currency by datamining its customers. That’s recording everything everyone says and then going through it for information that could be sold. Part of my job had been to help record and parse and protect that information until it could be transferred back to the company, and if I didn’t do it in a timely manner indicating complete obedience I got punished by my governor module. (Which was like being shot by a high-grade energy weapon, only from the inside out.)
+
+The raw audio and feed streams make for huge data files, and they had to be moved around a lot and often got saved to unused storage areas on other systems. (This is also a way to destroy data. If you don’t completely hate your clients or you’re feeling particularly disgusted at the company at any one particular moment or you’ve hacked your governor module and need to cover your tracks, you can move data into the buffer of the SecSystem right before it’s due for an update. The files are overwritten and it looks like an accident.)
+
+But my point is, ART was a big transport with a lot of interactive processes and systems working in concert, which meant there were a lot of storage spaces that would not be obvious to human intruders. Or to hostile operating systems like targetControlSystem that seemed unable to use most of the architecture. Storage spaces where you could save a compressed backup copy of a kernel. Possibly your own kernel, if you were an advanced sentient control system who was very smart and very sneaky.
+
+I still couldn’t make feed connections with any of the operating stations so I tapped the pad below the display surface that looked the most like an internal systems monitor. The display floated upward and opened into an array of small data sources. Taking in information visually rather than through the feed felt horribly slow. I pulled up the manual interface and then had to pull the non-corporate-standard coding language out of my archive and load it into my internal processor. I got my query constructed and then flicked through the floating interfaces to get it loaded.
+
+After a subjective eternity that was actually 1.2 seconds long, the system started to display the data storage areas currently holding large and possibly anomalous files with structures that didn’t match the protocol for the area where they were stored. I had been betting on the procedural storage for the med platform, but the first possibility my query turned up was in the galley, in a data storage area hidden in a layer under the usual space for food production formulas. But when I searched on it, it read as empty.
+
+You know, I really don’t have time for this. A loose chunk from my back was sliding down in the station chair and it was hard to hold myself upright. I was leaking a lot, and I hate leaking.
+
+I checked my targetControlSystem channel, just for the satisfaction, and saw multiple failure indicators through my barrage of contacts. Yeah, don’t let the hatch close on you on your way down, fucker.
+
+Scout Two in the control area foyer sent me video of Targets Five and Six, banging away at the open panel beside the hatch.
+
+In a corridor just out of sight of the foyer, Amena’s drone group showed me her, Arada, and Thiago having a tense whispered conversation. Amena waved the fire suppressant container urgently and Arada had the captured energy weapon.
+
+It was exasperating. Amena, get out of there. You know these people are dangerous.
+
+She flinched and grimaced. Where are you? I can’t see what you’re doing anymore! Are you all right?
+
+Sort of, not really. I just have to do this one thing.
+
+I didn’t feel so good and it was hard figuring out the language to expand the query’s search. I ran it again, and again it turned up the food production data storage reserved space. Huh.
+
+TargetControlSystem went down, my contacts pinging an empty void. I didn’t discontinue my code attack, just in case it was a trick.
+
+The query wasn’t faulty, there was something in the food production data storage, no matter how firmly the reader said it was empty. The display station feeds were starting to come back online, so I could access their functions directly via my feed interface, which was a huge relief. I initiated a deep analysis scan of the reserved space in the food production storage, and immediately hit a request for a passcode. Well, shit.
+
+In the corridor, Amena whispered to Arada, “I think it’s dying.”
+
+Arada took the fire suppressant away from Amena and handed it to Thiago. She told him, “Be ready.”
+
+If this was really what I thought it was, the video clip was a clue. I replayed it into the request field and got no response. I ran a quick list of all the character, ship, and place names from World Hoppers. No response. And no time. Eden, the clip had been directed to Eden, a fake name I’d used for human clients, a name ART had never called me.
+
+My name, my real name, is private, but the name ART called me wasn’t something humans could say or even access. It was my local feed address, hardcoded into the interfaces laced through my brain.
+
+It was worth a shot, I guess. I submitted it to the request field.
+
+It was accepted and the storage space opened to reveal a large compressed file. Attached to it was a short instruction document with a few lines of complex code I couldn’t parse. But the instructions were clear. They said, “In case of emergency, run.” I pulled the code into the operating station’s processing area and ran it.
+
+All the lights in the control area went dark, then blinked back to life. Simultaneously all the display surfaces around me flickered, went to blank, then flashed reinitialization graphics.
+
+And ART’s feed filled the ship. In the pleasant neutral voice that systems use to address humans, it whispered, Reload in progress. Please stand by.
+
+Below, the hatch slid open. The Targets started to step inside but Scout Two saw Thiago run into the foyer, bellowing and spraying fire suppressant at them. Target Five turned toward Thiago while Six shoved forward into the control area. Then Arada stepped out from the hatchway and shot Target Five with the energy weapon.
+
+Which left Target Six still armed, with a clear shot at Thiago through the open hatchway.
+
+I grabbed Target Four’s energy weapon and shoved out of the chair, but my legs wouldn’t work right. I collapsed, rolled toward the edge of the platform, and shot Target Six. The blasts hit his chest and face and he staggered back into the bulkhead, then fell over Target Three’s sprawled body.
+
+Target Five staggered and swayed but he pointed his weapon at Arada.
+
+Then ART’s voice, ART’s real voice, filled the feed. It said, Drop the weapon.
+
+Arada dropped her energy weapon and Thiago dropped the fire suppressant. Both held up empty hands. I told it, Don’t hurt my humans.
+
+Target Five shouted something incoherent, then dropped his weapon and lurched sideways, clutching his head. Oh wow, ART must have been able to access Target Five’s helmet, via the code used by targetControlSystem.
+
+Target Five fell over and convulsed once on the deck, then went limp. Thiago started to put his hands down and then reconsidered. He said, “We mean no harm. We’re here because we were attacked by—by that person and others.”
+
+Arada added, “Who are you?”
+
+ART said, You are aboard the Perihelion, registered teaching and research vessel of the Pansystem University of Mihira and New Tideland. Then it added, I’m not going to hurt your humans, you little idiot.
+
+Arada lifted her brows, startled, and Thiago looked boggled. I said, You’re using the public feed, everyone can hear you.
+
+So are you, ART said. And you’re leaking on my deck.
+
+Amena ran through the hatch, shied away from the pile of dead Targets, then ran up the stairs. She dropped to her knees beside me and yelled, “Hey, we need help! We need to get to Medical!”
+
+ART said, I can hear you, adolescent human, there’s no reason to shout. I’ve dispatched an emergency gurney.
+
+I’ve always thought that everything ART says sounds sarcastic. If you were a human, I’m guessing it also sounded more than vaguely menacing.
+
+Arada stepped into the control area. Thiago was checking to see if Target Five was alive. (He wasn’t.)
+
+ART said, The intruder is dead.
+
+“Uhh…” Thiago glanced up at the ceiling. “But who are you? Are you a crew member, or—”
+
+Arada reached the top of the stairs and leaned over me, frowning worriedly. She had a cut above her left eyebrow, a first degree burn on her cheek, and her short hair was singed. She said, “Don’t worry, SecUnit, we’ll get you to Medical.” She squeezed Amena’s shoulder.
+
+I guess Amena had never seen a SecUnit hit with an energy weapon that caused them to lose 20 percent of the body mass on their back and expose their internal structure, because she seemed really upset.
+
+I was losing all my inputs but there was one thing I had to say before the gurney got here. “ART,” I said aloud, because ART could silence my feed if it wanted to. “You did this. You sent those assholes to kidnap my humans.”
+
+Of course not, ART said. I sent them to kidnap you.
+
+Then my performance reliability bottomed out and—
+
+Shutdown. Delayed restart.

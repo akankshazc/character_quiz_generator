@@ -1,0 +1,99 @@
+AYLEN MADE IT CLEAR Ratthi and Gurathin were not invited, which was fine, since Gurathin didn’t want to go and Ratthi was glad because he thought this meant that Station Security knew I didn’t have anything to do with Lutran’s death. Aylen did not make it clear that she didn’t like the fact that I was invited. It would have been easier if she had, because then I would have known where I stood, and if I should be an asshole or not.
+
+Followed by two Station Security officers (feed IDs Farid and Tifany), the Port Authority supervisor (feed ID Gamila), and the Port Authority bot, we walked over to the end of the public docks, through the gates into the cargo section. I did a quick search on Preservation’s local (public) newsstream archive, and found out that Aylen’s title meant she was called on by Preservation authorities to investigate stuff they couldn’t figure out, both on the station and down on the planet. She also did family and workplace arbitration, which meant a lot of talking to upset humans. So, not as cool a job as the title implied.
+
+PA Supervisor Gamila had been pulling info into her feed, and now said, “This cargo transfer has been on hold for two cycles. We were waiting for an authorization but it hadn’t shown up yet when the order to close the port came through.”
+
+Aylen asked her, “Do you know why?”
+
+“No idea. The ship, the Lalow, isn’t responding to messages.” Gamila sounded annoyed. “It doesn’t use modules, and there’s no record of the cargo being offloaded, so we assume it’s still aboard.”
+
+Aylen didn’t react but my drones saw Farid and Tifany exchange significant looks. They weren’t wrong; we already had one dead human associated with this ship, there was a 42 percent chance the Lalow’s failure to respond meant something more suspicious than ignoring their Port Authority feed messages.
+
+The cargo section of the Merchant Docks wasn’t that different from the Public Docks. There was the big space of the embarkation hall with a line of sealed docking hatches against the far bulkhead. Big cargo bots (the configuration that usually only lived on the outside hulls of stations and hauled transport-sized modules) were sitting around or hanging, dormant, from the curve of the high ceiling. The low-level specialized lifters were parked and only a scatter of humans and augmented humans wandered the stacks of pressurized containers. Large modules were pushed back against the bulkhead, waiting to be loaded and shoved out the module drop so they could be attached to transports. Most of the ships currently in dock didn’t use modules, they had cargo compartments that had to be unloaded through inconvenient specialized hatches. That wasn’t unusual for an outsystem/non-corporate political entity ship.
+
+Preservation has high safety standards so we passed through two air walls before we got to the cargo ship’s hatch. (High safety standards are great when they’re designed to protect humans against dangerous stuff like hatch failures and hull breaches; when they’re designed to protect humans against rogue SecUnits, not so much.)
+
+I tried a ping but only got a response from the ship’s transit ring–assigned marker, which had its docking number and the Lalow registry name. This meant no bot pilot that I could get information from. That was depressing. I had no idea what else I was supposed to do as a member of this group and just following humans around listening to them talk felt a lot like just being a SecUnit again. I mean, I am a SecUnit, but … You know what I mean.
+
+Aylen tapped the ship’s comm for attention and sent her feed ID, and added, “I’m a Special Investigator for Station Security. I’m here with a Port Authority supervisor. We need to speak to you about the transport contracted to your trading concern, the one currently in dock in the public transport ring. It’s urgent.”
+
+I’d stopped out of view of the hatch cam, standing to one side, because that’s what SecUnits do. The PA bot came over and stood next to me. Great, that’s great. I wondered if it did anything that wasn’t related to standing around.
+
+The comm acknowledgment pinged and a voice, echoing with the feed-assisted translation, replied, “Just you and the PA. Leave the port heels outside.”
+
+I wonder what the original word choice was that the feed’s translation algorithm had decided “heels” was a good equivalent in Preservation Standard.
+
+(I wasn’t the only one wondering. Tifany’s eyes narrowed and Farid mouthed the word “heels” slowly.)
+
+Aylen glanced at Gamila, and told the officers, and me and the bot I guess, “Wait here.”
+
+The hatch slid open and as they stepped toward it, my threat assessment module spiked.
+
+I checked my drone inputs from Mensah’s task group first, even though they had reported in on schedule, eleven seconds ago, but they were all nominal. Mensah was still in the council offices, the big meeting having broken up into little meetings. She was sitting with four other councilors going over feed documents while they had cups of one of the hot liquids humans like.
+
+Aylen and Gamila had just walked through the hatch, which was now sliding shut. I had the impulse to lunge forward and stop it, but I didn’t, because I didn’t want to look more like a rogue SecUnit than I already did.
+
+And the hatch sealed. Oh, Murderbot, I think you just made a mistake.
+
+Farid cleared his throat. “So … you’re really a SecUnit?”
+
+Yeah, I get that a lot here. I said, “Are you on the feed with Aylen?” She might have a private connection with the two officers that I wasn’t included on.
+
+“Not right now.” Farid’s brow creased and his gaze went to the hatch. “Balin, are you on with Supervisor Gamila?”
+
+Who the fuck is—Oh, it’s the bot. Balin tilted its head and said, “No, Officer.”
+
+Tifany gripped her baton and shifted uneasily.
+
+This is the other thing. Station Security isn’t armed except with those extendable batons (they don’t even deliver shocks, they’re just for hitting/holding off aggressive intoxicated humans) and the officers are only issued energy weapons when there’s actually an energy-weapon-involved emergency. Which is good, because the fewer humans running around with weapons the better. (I say that as a SecUnit who has been shot a lot, often by my own clients, accidentally and on purpose.) But it also meant Aylen was in there unarmed.
+
+I tried to secure a connection with Aylen or Gamila. No response. I tried a test message, a ping that would bounce off the ship’s comm or feed, and got nothing. Which meant something was jamming me, something that had been activated since the hatch had closed.
+
+Fuck not hacking systems. I hit the port admin feed and connected to SafetyMonitor, the PA system that kept up a constant connection with all ships and transports in dock. I used it to find and break the ship’s secure connection to the feed, and tried to pull camera views from inside, but I couldn’t find any video connections except the stupid hatch camera. I caught an audio source but all I could hear was humans yelling some distance away; they must be in another part of the ship, away from the audio pick-up. I found Aylen’s connection to the port feed and upped it, trying to get through to her.
+
+I upped it enough that I caught a burst of static from her and relayed it to the Station Security feed. Both Tifany and Farid looked startled and Balin the bot expanded a sensor net from the back of its neck. I stripped out the static; it was Aylen’s ID, and she was sending a Station Security urgent assistance code.
+
+For fuck’s sake, I knew this was a bad idea and I stood here like an idiot and let it happen. I turned to Tifany and Farid. “I need to get in there.”
+
+Farid had a hand on his interface, sending another urgent-assistance-needed code to the Station Security comm. Tifany was more direct. She drew her baton and said, “Balin, get us inside.”
+
+The PA bot stood up to twice my height (I honestly hadn’t realized it had been crouching until that point), extended an arm, shoved spidery fingers into the control interface in the bulkhead next to the hatch, and sent a complex ping I realized was a decoder. The hatch slid open.
+
+Okay, so that was what the PA bot did when it wasn’t just standing around.
+
+My drones zipped past me and I dove through the hatch after them. This is what I do when I’m not standing around.
+
+Past the airlock, I had a drone view of a shabby corridor, an open hatch at the end, and a shabby human/Target One standing there with a big energy weapon. Audio picked up angry human shouting. Past the target and the hatch was a large compartment with three corridors leading off it. Aylen and Gamila were backed into a corner, Aylen in front with her arms out, trying to shield Gamila. Four additional targets, two armed, faced them. Target Two was the closest, aiming a projectile weapon at them and yelling. Target Three: initial assessment = most likely to fire. She was further away from the hostages, also yelling, and waving her projectile weapon.
+
+Warned by the hatch opening, Target One had time to turn toward me and lift the weapon. I had two humans trying to come in behind me so I didn’t dodge, but I didn’t want to block the energy burst with my head, either. I fired from my right arm and hit the Target’s weapon. (I could have aimed for his face but I didn’t consider him that much of a threat.) He yelped and spun sideways as I reached him. I bonked his head against the edge of the hatch and yanked the damaged weapon away.
+
+I flung him through the hatch in front of me to draw fire, and then stepped through to throw the broken weapon at Armed Target Two. It bounced off her head as I fired my left arm weapon at Armed Target Three and hit her in the chest and shoulder. I was still moving across the compartment and I slammed into Unarmed Target Four along the way and threw him into Target Two who had stumbled back and dropped her weapon. They both went down in a heap and I slid to a stop with my back to Aylen and Gamila. I had my drone task group do a fast circuit of the compartment then break into small squads. Three squads took up sentry positions and the rest shot out of the hatches to search the ship for more targets.
+
+Not an ideal intervention/retrieval; my speed had been a little low. Trying to keep Tifany and Farid from getting shot had thrown me off. Also, I wasn’t sure yet if the Targets were hostiles or just really stupid, so I had held back a little. Target Three had crumpled to the floor, still conscious and trying to grope for her weapon. Before I had to shoot her again, Tifany and Farid barreled in and Farid scooped up the weapon. Targets One and Four were dazed and not attempting to move, Target Five had dropped to the floor and was screaming for no reason. Target Two sprawled on the floor, pretending to be unconscious.
+
+I would have worried about an as yet unknown Target trying to lock us inside (it wouldn’t have worked, but it would have been annoying to deal with) (nobody wants to be locked in a ship with an annoyed SecUnit) (nobody) but my sentry drones had a camera view of Balin planting itself in the hatchway and extending four bracing limbs to keep it open. (I’m guessing the Port Authority has dealt with problem crews before.)
+
+Tifany moved further into the room, taking up a guard position to my left as Farid said, “We’ve called for assistance, and uh, I’ll alert Medical.”
+
+I was getting drone video telling me that the ship was a stripped-down cargo hauler, with a small livable space. The drones hadn’t found any other occupants. From inside, the jamming was easy to take down, and I pulled a manifest from the ship’s feed to double-check the complement. I said, “Ship is clear, listed crew is accounted for.” Because I was tired of Target Two’s shit, I turned around to ask Aylen and Gamila, “Are you injured?”
+
+Target Two made a wild grab for her fallen projectile weapon. I kicked the weapon over to Tifany, who snatched it up and secured it. (Yes, it was unnecessary and showing off.)
+
+Aylen said, “We’re unhurt.” She sounded calm, a dry edge to her voice, but her forehead was damp with sweat and her heart rate was still elevated. Her jacket and shirt had been disarranged, like someone had grabbed her and pushed her. “Thank you for intervening.”
+
+Gamila leaned against the wall, a hand pressed to her chest. “I’m not even sure what happened! They threatened us, wouldn’t even listen to why we were here.”
+
+“You’re here to take our ship!” Target Two snarled, the feed translating. “You pussing corporates! You sent a SecUnit after us!”
+
+I turned to look down at her. “You didn’t know they had a SecUnit until we broke in. Try again.”
+
+Target Two’s brow knit as she looked up at me and her mouth hung open.
+
+Target Five moaned, “Shut up, Fenn. They’re going to take our ship.”
+
+Aylen shook her head wearily and Gamila said, “You should have thought of that before you attacked us!”
+
+My drone sentries saw the Station Security Response Team thunder up to the outer hatch. Balin unwedged itself from its guard position, strode down the corridor, and folded itself down to get into the compartment. It extended a limb across to Gamila, she took it, and it led her out of the ship.
+
+Nobody moved until they were out of the way. Then the response team crowded in and Aylen said, “Arrest everyone associated with this ship. They obviously don’t want to talk to us here, so we’ll do it at the station.”

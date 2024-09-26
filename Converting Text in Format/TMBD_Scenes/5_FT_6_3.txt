@@ -1,0 +1,55 @@
+Mensah’s private office was close by, in the admin block with the Port Authority. But the important part was that her comm and security monitoring wasn’t connected to either StationSec or any of the PortAuth systems, it was a separate secure system used by the council.
+
+And it was really secure, because one of the first jobs Mensah had got for me was to make sure it was “up to date and resistant to corporate or other incursion.”
+
+It was such a relief to step into a place where I had control of the security. As we crossed the tiled floor of the lobby I felt the tension in the organic parts of my back ease. Mensah had notified her staff to let us through, and I removed us from the surveillance camera, just in case.
+
+One of her assistants opened the inner office for us. He had already closed and opaqued the transparent doors on the balcony that looked out over the admin plaza. He was used to me and used to confidential council stuff, so he didn’t even glance up at my drones, just nodded to us and slipped out as we stepped in. He said, “I’ll be in the reception area, just message me when you’re finished,” and engaged the privacy seal on the door.
+
+Indah had been here before but Aylen clearly hadn’t, and looked around at the family images and the plants. (It was a nice office, I had spent a lot of time on the couch.) I used the feed to open the secure terminal, and the big display surface formed in the air above the desk. I opened the secure channel for Indah and for Mensah, who had been holding on her secure feed in the council offices. Then I sent a hail for the responder. When it answered, I opened the connection.
+
+Indah ordered the responder to scan the ships in holding positions off the station and sent the module’s specifications. She told them there was a possibility the Port Authority systems had been compromised and they needed to communicate only with her or Aylen, and via the council system and not Station Security’s system. The responder asked for a confirmation order from the council and Mensah supplied it. Mensah then signed off, telling Indah to contact her immediately if she needed any other assistance, and Indah thanked her.
+
+Then me, Aylen, and Indah were standing in the office looking at each other. Or they were looking at me and my drones were looking at them.
+
+“You really think our systems are compromised?” Aylen asked.
+
+Indah had her arms folded, her expression grim. It had occurred to me she was maybe worried about feeling stupid too, if we were wrong about this. She said, “Yes. It’s the only thing that makes sense.”
+
+I had control of all inputs to this room’s comm and feed, and I caught and bounced a comm call for Indah with Balin the Port Authority bot’s feed ID. It was probably an important call from Gamila but if something had blown up the council’s system would notify us and everything else could wait five minutes. It was time to be honest. I told Indah, “You were wrong when you said it was unlikely to be a local actor. But I think you know that now.”
+
+Indah glared at me, but it was more wry than angry. “Is that what you think? Because you keep insisting it’s a mysterious ultra-hacker.”
+
+Okay, that one stung. “I didn’t use the words ‘mysterious’ or ‘ultra.’”
+
+Aylen watched like it was one of those human games where they threw balls at each other. (I’d had to stop a lot of those while on company contracts; they violated the company personal injury safety bonds.) (Yeah, it was super fun telling the humans they couldn’t do it because SecUnits always like giving their clients more reasons to hate them.) But Aylen also looked relieved. Like she was beginning to wonder if we were stupid or what. She muttered, “Thank the divine, can we talk about it like adults now?”
+
+Indah pointed the glare at her. “If the Port Authority systems weren’t hacked, then the files and camera data were altered by someone on station who has legitimate access, who knew how to cover their tracks.” She made an impatient gesture. “It even fits with the tool that was used to remove contact DNA from the body. The PA uses sterilizers for hazardous material safety, they’re all over the port offices.”
+
+Aylen nodded. “But who? Everyone’s worked here for years, grew up here.”
+
+I told Indah, “You thought it was me.”
+
+She snorted in exasperation. “We thought it was you when we thought Lutran was a GrayCris agent. But we disproved that—I forget how many hours ago that was, this has been a long damn day.”
+
+Aylen was annoyed. “If it was you, why would you tell us where the original crime scene was, which led to finding the Lalow and the refugees?”
+
+Indah added, “You are the most paranoid person I’ve ever met, and I’ve worked in criminal reform for twenty-six years.”
+
+I don’t even know how to react to that. She’s not wrong but hey, I need my paranoia. Speaking of which, I asked Aylen, “Where were you when Lutran was killed?”
+
+She didn’t blink. “I was on a shuttle, coming back from an assignment in FirstLanding.”
+
+“She was docking when the body was found.” Indah huffed impatiently. “Give me a little credit.”
+
+The responder had kept its channel open and we could hear the crew talking in the background. “SatAmratEye5 is in the best position … That one’s clear … If they aren’t local they probably don’t know our satellite placement … There we go. Senior Indah, we’ve got it. There’s a ship with a module attached hiding in station section zero, in the shadow of the Pressy’s upper hull.” They were sending data and I transferred it to the big display above our heads.
+
+It was a sensor schematic of a long shot view of the station, the curve of the ring tucked below the main structure and the shape of the giant colony ship it had been built out from. The view turned into a scan schematic and focused in on a shape huddled not far from the colony ship’s starboard hull.
+
+It wasn’t a modular transport, it was a ship more like the Lalow. A bulky tube with round parts sticking out, and the module clamped onto its hull stood out in the sensor view like a … like a weird thing that shouldn’t be there. Aylen swore in relief and Indah told the responder to hold position and wait for orders.
+
+Indah said, “The priority right now is to get to those people and if they’re alive, to get them out of there.”
+
+Aylen looked grim. “That’s not going to be easy. It’s close enough to the colony ship that we could reach it with a team in EVAC suits, but we can’t arrange that from here. If the BreharWallHan agents have someone in the Port Authority who can listen in on our comms and feed, they’re going to know what we’re doing.”
+
+Yeah, not we, me. I said, “This is the part that’s my job.”

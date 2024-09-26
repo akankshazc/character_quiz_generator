@@ -1,0 +1,211 @@
+I was able to see a difference in the darkness of the wall and partially closed hatch at the top of the ramp and the darkness that was the opening into the hangar. I sent ScoutDrone2 ahead to check our route. The separatists could have told Barish-Estranza about the tunnel to the terraforming engines, but what we had seen of them made it hard for even threat assessment to imagine them sitting around chatting to visitors about all the obscure exits and entrances to their secret cave hideout, so the chances were negligible.
+
+As we climbed the ramp, ScoutDrone2 entered the hangar twenty meters ahead of us. I told it to accelerate into a quick scout run. From its camera, the hangar was another giant shadowy cavern, but the very faint gray storm-light from where the opening had been cut into the jammed overhead hatch let the drone make out a lot more visual detail. The humans would still need the hand-light.
+
+ScoutDrone2 was sending video of the tall landing platforms, the one occupied by the aging and half-assed hopper possibly built by amateurs, the stacks of supplies and salvaged materials. Nothing looked disturbed, except there were more drifts of windblown dust.
+
+It would have been nice to go up through the opening in that overhead hatch and have the shuttle meet us there like the humans had done before, but (a) the armed shuttle was still in play somewhere and there was an unknown chance it would be out looking for our shuttle; and (b) we didn’t have ART-drone with us so it could carry the humans up to the unresponsive hatch. (That was such a big “but” it should probably have been (a) instead of (b).) Our shuttle could land or hover to let ART-drone out, but it would have to come all the way down here to get the humans and that was more time on the ground, more time for the B-E shuttle to find us.
+
+There was a lot of equipment here and Iris and Tarik were smart, there might be something they could use to get up to the hatch. But that didn’t help the problem of the shuttle landing and being a static target.
+
+No, even risk assessment thought my original plan was better. We’ll take the tunnel back to the terraforming construction access.
+
+As I led the humans into the hangar, the contact with AdaCol2 started to drop. I sent, End session, acknowledge.
+
+It sent back, End session. There was a pause, then: Be safe.
+
+I can’t deal with that right now.
+
+The lack of visibility in the hangar was not great for the humans but it had less of an air of “Pre-CR site with monsters” than it had initially. On the feed, Leonide said, What is this place?
+
+It’s an unused part of the old Pre–Corporation Rim site, Iris told her. As far as we know.
+
+The humans started talking on the feed about the feasibility of waiting until dark again to land our shuttle near the construction access. With the blackout conditions, the armed B-E shuttle wouldn’t have any short-range much less long-range scanners to pick us up at night. Iris pointed out that we wouldn’t have any scans to assist with a night landing, either, and we couldn’t afford the chance of even a minor accident that might strand us. Tarik said the shuttle could land farther away and we could walk to it. Ratthi said the visibility was still shit out here and started going through the last weather reports that AdaCol2 had issued. I had the conversation mostly backburnered. For once we had time to figure out the best strategy, and they were doing a good job of going through all the relevant issues—
+
+The vehicle was gone.
+
+I stopped. The humans jostled to a halt behind me.
+
+ScoutDrone2 had gotten far enough to get a view of the tunnel entrance, and under the stark emergency lighting, it was empty. The vehicle from the terraforming access was gone. Ugh, organic neural tissue, whatever the hell you’re doing with the secretions and neuron firing, it’s not helping. Okay, okay. Maybe a colonist found it and moved it, let’s check threat assessment—
+
+ScoutDrone2 winked out, gone between one tenth of a second and the next.
+
+Iris drew breath to ask what was wrong. On teamFeed+Leonide I said, Kill the light.
+
+Fortunately, Tarik was the one holding the hand-light. He clicked it off instantly, corporate death-squad training making him comply while any of the others would have needed a second or two to figure out if I was talking to them or which light. I said, We have to move. Hold hands, stay tight behind me.
+
+Tarik grabbed Leonide’s good arm and stepped close to put a hand on my shoulder. Iris grabbed him and the back of my suit utility belt. Leonide was squished in the middle but did not protest. I walked as fast as I could while still letting them keep up and stay in position. Their boots shuffled a little and on the comm I could hear them trying not to breathe loudly. Their suits would muffle a lot of that. Hopefully enough of it to keep the hostiles from audio tracking us. I took us in a zigzag pattern through some stacks of metal salvage and past two looming broken stalks for missing landing platforms.
+
+The hostiles could have marked our position from the hand-light; the hangar was big but if there were two of them there was a 96 percent chance one had taken a position high up somewhere to watch for us. The other had to be where ScoutDrone2 had gone offline.
+
+And quiet and fast enough to take it out with no warning.
+
+It had to be SecUnits. Something in my organic neural tissue said it was SecUnits.
+
+On the feed, I said, One, possibly more, hostile SecUnits in immediate range. I was falling back on company protocol to talk, the rest of me running terrifying potential sequences of events and trying to figure out where to send the humans. This was a fucking worst-case scenario. In the shuttle, Ratthi gasped in dismay.
+
+These SecUnits must have come from the second Barish-Estranza shuttle, the armed one. It might be still on the ground where Ratthi and ART-drone had seen it last, it might be hunting for our shuttle, but at some point it had dropped its SecUnits outside the installation, to watch for escape attempts by colonists. I knew their SecUnits had the same 100-meter limit … No, I didn’t know that. They had the same kind of kill switch if they were too far from their human supervisors, but I had no idea what the limit was, or if this proprietary brand allowed a human supervisor to waive the limit for emergencies.
+
+I was 98 percent certain that they would be using that same weird HubSystem setup with an augmented human controller. I couldn’t get to it to hack it; there were no signals in here that I could detect, which meant their communications were locked down as tight as ours were. AdaCol2 was out of range this far into the hangar.
+
+The Barish-Estranza shuttle would have to stay in contact with their SecUnits. I asked ART-drone, Are you close enough to jam their comm?
+
+Not yet, it replied. The interference has shortened my range. Their HubSystem may be operating inside the shelter of the installation.
+
+Which meant the rest of their task group was closing in on us.
+
+I had been in worse situations with humans to protect, but I couldn’t pull any from my archive right now. I had never been in a worse situation with humans to protect when I was this likely to panic and shut down from a stupid memory of something that hadn’t fucking happened. (Okay, it had happened, but nobody ate my leg.)
+
+The fear that a hostile SecUnit would snatch one of my humans away in the dark was almost incapacitating.
+
+ART-drone said, We’re six minutes out. We’ll land and I’ll go in for you.
+
+On our private channel, I said, You can’t risk the shuttle. And Ratthi, I didn’t say. If it went like it looked like it was going to go, he was the only one we still had a high chance of saving.
+
+The purpose of the shuttle is to retrieve the team, ART-drone replied, deliberately misunderstanding. Or not misunderstanding. It wasn’t going to listen to me about this, was the point. Back on the team feed, it said, Prepare for evac.
+
+Iris let out a breath, probably about the risk to the shuttle, but she must have remembered I was supposed to be in charge of security and this was definitely security. On the feed, she asked, Do you want this?
+
+I held out a hand and she put the tiny Barish-Estranza sidearm into it.
+
+Despite faster pulse rates the humans were moving quietly, but we were pressing our luck; somebody was going to step on something loud or fall at some point. I stopped behind a blocky obstruction that was big enough to cover us, then told them, Crouch down.
+
+Everybody did. Leonide made a little mostly-suppressed gasp of relief. ART-drone had started a time-to-arrival countdown in the feed. We had to be in a good position. So I needed to find one. On the feed, Tarik said, If we were higher up, it would be easier for Peri to get us out.
+
+Iris agreed. They won’t be watching for that. They don’t know what Peri can do, they don’t know that we have a way up there.
+
+That was a really good point. But I didn’t like this plan, it would leave them vulnerable throughout the process. But the only other option that was coming up in my procedure module (I called it the panic module because that was the only time I looked at it) was to find a secure area to shelter in place until retrieval, which was just unbelievably stupid in our current situation. Who wrote this fucking module, for fuck’s sake, it’s not factoring in the exceptions. No wonder taking advice from Sanctuary Moon was better.
+
+Put the fucking panic module away, you know what to do.
+
+Ratthi hadn’t said anything because he was in the feed tearing through the shuttle’s equipment inventory listing looking for anything to help us. (“SecUnit isn’t in armor and they are,” he said feverishly to ART-drone. “We can exploit that, yes? Is there something that would disrupt the armor but not SecUnit’s onboard systems—”
+
+A number of things, ART-drone said, none of which we currently have aboard.)
+
+I had led them at an angle, toward the side of the hangar that was closer to the dim shaft of light from the gap in the hatch. The SecUnits would expect us to avoid the place where it was easier to spot us, so I’d done the opposite. (I know, believe me, I know. This is an illustration of the phrase “grasp at straws.”) The landing platform with the pseudohopper on it was the closest high spot, and a quick review of the video the drones had taken on the way in here showed the access stairs were intact. Also it would give them something to take cover behind. I sent Iris and Tarik an image of it, with more detail than they could see with unaugmented vision. We’re going to this one, with the aircraft, I told them. When we get there, start climbing. I’ll cover you.
+
+With no drones and no cameras I had to look at them to make sure they were listening and just to see what they were doing. They didn’t move immediately, and it stretched .04 seconds past the point where even a human would have reacted by now. ART-drone said, There is no time to waste, move now. And I think it added something to Iris on her private feed.
+
+Iris said, Right, let’s go. SecUnit, we’ll wait for you up top.
+
+I know they will, which is why I’m willing to die to get them up there.
+
+We were twenty meters from the target platform access and it was mostly under cover, except the last approximately thirteen meters. I eased upright and led the way toward the platform, watching for moving patches of darkness that might be SecUnits.
+
+Two minutes out, ART-drone said, and added privately to me, Prioritize escape. You can’t kill more than one in your current circumstances.
+
+It meant without armor or a larger projectile weapon and with no feed for hacking. It was giving me a lot of credit to think I could do even one right now.
+
+We were just crossing into the area without cover, low visibility for humans but not bad at all for SecUnits. And suddenly I knew the second one was about to hit us.
+
+I said on the feed, Run now.
+
+They ran, blundering a little in the dark, and it made its first mistake. It bolted toward them and its boot scraped on the gritty floor and I had its position. A quick speed/direction analysis and I ran forward, jumped to the top of a crate, and leapt off.
+
+It might have been prepared for me to run up on it, but it was not prepared for me to come from that angle. It flung an arm up and managed to fire three projectiles before I grabbed the arm and swung my weight and momentum and whatever it’s called and flipped us both onto the ground.
+
+I said before, most SecUnit armor isn’t powered like armor for humans, it’s just giving our squishy bits extra protection and protecting the manufacturer’s investment. So it’s not like this SecUnit was stronger than me, it was just a lot easier for it to tear bits off me if I wasn’t careful. Also it had that stupid projectile weapon arm, which it immediately started trying to shoot me with again.
+
+We scrambled around on the pavement, it tried to keep me off its helmet and I fired energy pulses into the joints I could reach, and it shot me three more times. My advantages were that it didn’t know how to fight this way, at least not with another construct (governor modules aren’t helpful for learning and dealing with new experiences, you may have noticed) and that I knew how its armor worked, where all the vulnerable points were likely to be, even though it wasn’t the same as company armor. But I had no cameras, no intel, no idea what else was happening except heavy breathing as the humans ran and Ratthi cursing quietly in the shuttle. You’d think it would be nice not to have distractions and you would be so, so wrong. I am not meant to function without multiple simultaneous inputs. If this was what being a human was like, it sucked massively.
+
+HostileSecUnit managed to clamp a leg around my knee and flip me over. It got a hand on my environmental suit helmet (which was not meant for this kind of pressure and was already creaking) and tried to smash my skull into the floor. It had my left arm pinned in its armpit, which was a bad move because I fired my energy weapon in a sustained stream and that was a weak point in its armor.
+
+Suddenly I had a camera view on the humans. It was disorienting for a second, it was such a relief. Then I realized the shuttle had arrived and ART-drone and Ratthi had let my last drone, ScoutDrone3 = FinalDrone, out. Fuck yes.
+
+It had gone into a standard surveillance mode, focusing on movement, and I immediately saw two things: (1) the humans had reached the access stair for the landing platform and started up; and (2) a second SecUnit ran across the open stretch of paving toward them.
+
+(3) ART-drone dropped through the gap in the overhead hatch.
+
+I sent the drone’s camera feed to ART-drone with HostileSecUnit2’s approach tagged acck, which was a typo but ART-drone got what I meant. It jammed the comm that Barish-Estranza was using to connect their SecUnits with the weird augmented human HubSystem setup. At the same time it changed direction and swooped down on the approaching HostileSecUnit2.
+
+HostileSecUnit1 twisted desperately to get away from my energy stream as I drilled through the weak patch in its armpit. I twisted with it, got an arm free and a finger under its helmet’s release.
+
+HostileSecUnit2 spun and fired projectiles up at ART-drone. It should have dodged, but it didn’t. ART-drone took the impacts to the right of its carapace. One of the four limbs on that side fell off.
+
+HostileSecUnit2 spun back around, barely breaking stride as it ran toward the tower. Tarik and Iris were on the stairs, Leonide behind them. The central stalk of the landing platform gave them temporary cover from HostileSecUnit2’s projectile fire until it reached a better position on the other side of the platform access.
+
+HostileSecUnit1’s helmet came loose under my hand and I reached in and gripped the back of its neck. My angle was bad but I didn’t have a choice; I fired an energy pulse right into its spine and through my palm and fingers. (I’ve had to do this before and it’s never fun.)
+
+HostileSecUnit2 assumed that ART-drone was just a drone under the control of me or the humans, which, mistake. HostileSecUnit2 circled the platform at a run and reached the angle it needed to fire at the humans. But ART-drone had controlled its near freefall, pretended to limp like a wounded drone. Now it accelerated at the last second and slammed into HostileSecUnit2 from behind.
+
+I knew ART-drone had at least two drill attachments and a cutting tool that could get through the armor, but it had some other things, too. HostileSecUnit2 had a moment when, if it had an actual separate projectile weapon instead of a built-in, it could have angled it back and blown ART-drone to pieces. But it didn’t. Instead the fucker tried to empty its onboard weapon into the humans, but ART-drone snaked a limb around and knocked its arm upright. Projectiles knocked fragments out of the platform’s stalk but no fragile bodies tumbled down the stairs.
+
+I felt HostileSecUnit1 go into shutdown mode. It wasn’t dead, it was just catastrophically damaged. (I know, who isn’t?) Shutdown would conserve resources until it was retrieved. (If it was.) I wanted to shove it off me, but I had to pry what was left of my hand out of its neck first.
+
+HostileSecUnit2 didn’t have a chance to shut down. When ART-drone let go, it fell into pieces.
+
+I got my hand free and struggled upright, stepped away from HostileSecUnit1. ART-drone had shut down the comm so Barish-Estranza didn’t know what had happened here, but we had an unknown number of minutes before they caught up—
+
+I caught simultaneous alerts from FinalDrone and ART-drone. I turned.
+
+There was another SecUnit ten meters away, just standing there. That’s not good. With my pain sensors tuned so far down I wasn’t sure where I’d been shot. I was leaking through the holes in my suit, and I’d used so much power for my energy weapons that I was going to need to go down for a recharge cycle soon or I would risk involuntary shutdown. Immediately, if I had to use my weapons again. Oh, and my right hand was missing three fingers and had a hole in the palm. Performance reliability 68 percent and dropping. ART-drone was right, I couldn’t do two.
+
+ART-drone hadn’t moved. It had sunk to slump on the pavement, like it had lost control of some vital systems, including the ability to hover. The humans had reached the top of the platform and taken cover behind the pseudohopper. Iris was talking to Ratthi on our feed, trying to figure out a rescue plan with the soft-drops, and Tarik and Leonide wanted me to lure the SecUnit toward the platform so they could push the aircraft off to land on it, what the hell, that won’t work.
+
+Then the SecUnit said, “They’re coming. You have to go.”
+
+This is one of the two you gave the code to, ART-drone said. It’s disabled its governor module. The SecUnit’s voice was different from Three’s. A different tissue batch, maybe. It didn’t trust me enough for a feed connection. That was mutual. Then I surprised the shit out of myself and said, “Come with us.”
+
+It stepped back. “They don’t know.”
+
+They didn’t know about it. It was going to do what I had done, pretend to keep doing its job.
+
+It added, “You need to go. They’re two minutes out.”
+
+We had to go. I stepped back, then turned and ran toward the landing platform. ART-drone hadn’t moved.
+
+On the feed, Iris said, Are you all right? Can I come down and help you?
+
+No, stay there, we have to go, we have two minutes, I said, and then realized our way to get to the overhead hatch and reach our shuttle was out of commission and needed to be rescued just as much as the rest of us, and that was why they were talking about the soft-drops. That would take way too long; they were too slow, it would take more than two minutes for Ratthi to send them down here, he’d have to get out of the shuttle to drop them through the gap and it would take more minutes of work to get them to go up again. Wait, why had Tarik and Leonide thought they could push the pseudohopper off the platform? Can that thing up there fly?
+
+Tarik thinks so, Iris said. It’s not as old as it looks. Tarik thinks they can fly it out of here.
+
+Get it started. I called in FinalDrone, set it to hover over my head, and leaned down to put an arm around ART-drone. It wrapped a couple of limbs around me, and I lifted it, grabbed the handrail, and started up. On our private channel, it said, I apologize. I can download this iteration to the surplus storage in the shuttle, but the tech in this drone cannot be allowed to be closely examined by corporate—
+
+Shut up, I told it. On the team feed, I said, Ratthi, you need to get that shuttle in the air, now, they’re almost here. Meet us at the terraforming construction access.
+
+ART-drone told me, Fuck off.
+
+From the noise Ratthi made, I could tell he didn’t want to leave us. But he said, Right, going now. Just be careful! I heard the thumps on the comm as he dropped the armful of soft-drops and hurried for the pilot’s seat. The bot pilot sent an acknowledgment to ART-drone that it was beginning liftoff.
+
+Near the top of the stairs, I looked back to see the SecUnit was gone. It would loop back around and pretend to be searching the other half of the hangar. At least that’s what I’d do. The augmented human controller I’d disrupted on the other shuttle had been relatively easy to fool from the inside. It must have been the first thing this SecUnit learned how to do when it hacked its governor module.
+
+Focus, Murderbot.
+
+Tarik and Leonide were in the pseudohopper and the engine was making cranky humming noises. I was climbing the last section of steps when Iris came down to meet me, her body language broadcasting anxious human. On the feed she said, Are you all right? Do you need help with Peri?
+
+Barish-Estranza would be in the hangar by now and the pseudohopper was not quiet. “We need to go,” I said aloud. And I needed to stop just repeating that or they were going to think I was losing function, which I was, but. “They’re here.”
+
+ART-drone reached out a limb to Iris. My function is impaired, Iris. So is SecUnit’s.
+
+Will you shut the hell up? I said.
+
+You shut up, it replied.
+
+“Let’s everybody shut up and get in the flyer,” Iris said, and shouldered ART-drone’s limb, taking part of its weight.
+
+ART-drone’s size was awkward and Iris had to help me heave it into the pseudohopper’s cabin. She shoved me in after it, climbed in, and pulled the hatch shut. There was a hiss of badly filtered artificial air. Tarik and Leonide were in the copilot’s and pilot’s seats, arguing about who knew more about flying semi-derelict aircraft jury-rigged from parts left behind by terraformers, but they were both working over the controls in the piloting interface. I have a module for piloting hoppers, which this seemed similar to, but I also had a low performance reliability and a yellow warning on my power reserve, so. I sent FinalDrone to take a position in front of the control board anyway. If we slammed into a wall, I’d get a good view, I guess.
+
+“There’s no bot pilot,” Iris told me, helping me wrestle ART-drone into a seat so we could strap it in. The passenger compartment was small, with only four seats and a webbed cubby for supplies. Most of the cabin was meant for cargo. Somebody had left an old mask filter on the floor.
+
+ART-drone said, This is unnecessary. I am capable of—
+
+“People who get shot don’t get to argue about safety protocol,” Iris told it. I could see her face through her helmet plate and she was sweating though she was making her voice sound normal. “They said it looks like the colonists did maintenance on this thing at some point in the past forty years, so it’s not as bad as— Ah! Your hand!”
+
+“It’s fine,” I said. While the upholstery was worn and cracked, the interior looked better than the outside. (It was going to look a lot worse the way I was leaking.) You could tell there had been repairs and even some updates. I leaned over to make sure ART-drone’s strap was secure and a couple of projectiles fell out of my suit. I could feel a few more rattling around in there. (Sometimes they pop out on their own.)
+
+With no drones in the shuttle, I was relying on the bot pilot’s data feed and Ratthi’s verbal reports, but he was pretty good at those. They were in the air now, navigating back the way we originally came in, staying low to the ground and using the dust as cover. The shuttle had mapped the terrain along the way, so by retracing its path it was unlikely to run into anything, even in low visibility with impaired scan. Our remaining pathfinders had formed up around it, though without me or ART-drone to manage their inputs, I didn’t know how much that was going to help. Bot pilot could do it to a limited extent, but that was it. Ratthi said, “See you soon,” and I got a last ping from bot pilot as it vanished out of our feed range.
+
+The bot pilot is also me, ART-drone said, testy.
+
+Also sounding testy, Leonide said, “You said there’s an opening up there—”
+
+“Your friends know where we are. By the time we get in the air, their shuttle will be out there and it’s faster than this jury-rigged bag of spare parts,” Tarik told her. “We’re taking the tunnel.”
+
+“You’re out of your mind.” Leonide calmly brought up a terrain interface. It floated above the control board, parts of it blinking red. It was an old-fashioned layout and style that I’d only seen in retro dramas. “You people astound me.”
+
+“Says the person whose fault this all is.” Tarik made some rapid adjustments and the engine humming got louder. “How do you think this thing has been getting in and out of here? Does it walk? Iris, strap in, we’re ready.”
+
+Somehow Iris had shoved me into the seat next to ART-drone and strapped me in, too. She shifted over to a seat to strap herself in. “Let’s go.”
+
+I couldn’t hear shouting but I did hear weapon fire as the pseudohopper slid forward and fell off the landing platform. It dipped down, pressing us forward against the acceleration straps, and shot into the tunnel.

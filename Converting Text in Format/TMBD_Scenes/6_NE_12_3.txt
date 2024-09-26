@@ -1,0 +1,41 @@
+I didn’t know how long it would take to do this, so I had to ditch the humans quickly. Fortunately Thiago went to take another rest period (since he’d wasted part of the first one having a stupid argument with me), Overse and Arada went up to the control deck together, and Ratthi was sitting in the galley going over all the collected data from the Targets’ pathology scans and the material analysis of their gear again. Overse thought she had found evidence of alien remnant tech influence and he was trying to verify her results. Amena tried to follow me into the bunkroom and I told her, “Stay with Ratthi.”
+
+Amena stopped and frowned. “Why? What are you going to do?”
+
+I wanted to be in a physically private space instead of just a closed channel on the feed. It was a weird thing I was going to ask ART to do, and I didn’t want humans staring at my face while I did it, even if they couldn’t hear what I was saying. I was going to have to answer Amena and I was in a hurry so I just tried the truth. “I need to talk to ART in private.”
+
+Amena’s expression did something funny and she lifted her brows. “About your relationship?”
+
+I felt ART’s sharpened attention in the feed. I said, “Very funny.” I walked into the bunkroom, told the door to slide shut and set it on lock. I’d already cut the others out of the feed.
+
+ART said, Do you want to watch Timestream Defenders Orion?
+
+Of course I did, but first I had to do this. I said, “I have an idea about how to create a variable killware assault to deploy against the Targets’ systems. You can copy me and use me as the sentient component.” I’d put together a report on the sentient killware Palisade Security had deployed against the company gunship that had taken us off TranRollinHyfa, and now I sent it to ART. The analysis the company bot pilot and I had done during the incident suggested the sentient virus had been built using a construct consciousness, probably from a combat unit. Substituting a copy of my consciousness could produce the same results.
+
+I knew ART wasn’t going to like this, though I didn’t know how I knew that. ART wasn’t a human, or a construct. Humans and constructs were full of overwrought emotions like depression, anxiety, and anger (was anxiety an emotion? It sure felt like one) and I had no idea what ART was full of, except how much it cared about its crew.
+
+6.4 seconds dragged by (seriously, even a human would notice a pause that long) and ART hadn’t said anything. Then it said, That is a terrible idea.
+
+Which just pissed me off. “It’s a great idea.” It was a great idea. ART had been working on a virus code tailored for targetControlSystem and the structure it had built so far was stored in our shared workspace. ART had halted development when it became clear there was no point in continuing without a way to make it variable, because of the combination of targetControlSystem’s archaic architecture and the possibility of a connection to alien remnant tech.
+
+I couldn’t do this without ART’s help. On the company gunship, I’d moved my consciousness into the bot pilot’s processing space to help it fight the sentient killware, but this was different; I’d never copied myself and I wasn’t sure how to start, unless I had a place to put me. I couldn’t just stick Me.copy into ART’s semi-completed code, not without ART’s help. “And you thought of it first, you said we needed killware with a variable component.”
+
+ART said, I didn’t mean you.
+
+That sounds mild, putting it like that, like something ART would say in a normal tone. But it said it with so much force in the feed I sat down hard on the bunk. I said, “Stop yelling at me.”
+
+ART didn’t respond. It just existed there, glaring at me invisibly in the feed.
+
+Okay, I had known that ART wouldn’t like this, even though my threat assessment on the idea looked great. But I hadn’t known it would react like this. “You wouldn’t have to rip me out of my body, just copy me. It wouldn’t even be me. Me is a combination of my archives and my organic neural tissue and this would just be a copy of my kernel.”
+
+ART was quiet for another 3.4 seconds. Then it said, For a being as sophisticated as you are, it is baffling how little understanding you have of the composition of your own mind.
+
+Now I was getting more pissed off. “I know my composition, that’s why I’m sitting here arguing with a giant asshole and not stuck in a cubicle somewhere or guarding idiot humans on a mining contract.” Which, in retrospect, I should have stuck with that. That was a great comeback, it was to the point, it made sense, it was hard to argue with without sounding like an asshole. But I added, “Do you want to get your crew back or not?”
+
+Which turned it from an argument into a fight, and ART has no concept of how to fight fair.
+
+Which, granted, I didn’t really, either. I knew it as an abstract set of rules and guidelines from my shows and other media, and so should ART, but it seemed to have missed that part.
+
+(What I use when I fight/do security is a minimum level of response, which is meant to minimize damage to humans and augmented humans and the company’s property, which means taking into account a lot of factors. For example: what is an intentional attempt by a client to injure another client versus what is just humans being stupid and needing to be made to stop. Which is why you need SecUnits and not combat bots. And why humans doing their own security is a terrible idea, since they’re actually way more likely to flip out and shoot everybody for no reason than combat bots are. Anyway, what I’m getting at here is it’s not fair, because you don’t want to give a hostile a chance to stop you, right? That’s stupid. But you don’t want to kill/injure a client for walking in the wrong door.)
+
+I forgot where I was going with this, except that ART apparently has no concept of fairness, or minimum level of response, because the sense of ART’s almost full attention was overwhelming. Then the door slid open and Ratthi walked in with Amena right behind him. “What is going on?” he demanded. “Perihelion said you’re trying to copy yourself for a variable viral what?”

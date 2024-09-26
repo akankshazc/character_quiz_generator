@@ -1,0 +1,79 @@
+The hard part had been deciding who/what was going to be the bait. It couldn’t be me; the important part (the thesis? I guess?) of our theory was that the actor was a local, with access to Port Authority if not Station Security systems. This person would know what I was and that attempting to attack me was not a good idea. (I wasn’t in a great mood right now, so it was an even worse idea than it usually was.) And there had to be some explanation of how/why the bait human knew who the actor was, so it couldn’t be a Station Security officer or a random station resident. I suggested Target Four from the Lalow, who had all the characteristics of a human who could be talked into doing anything.
+
+Indah disagreed, on the grounds that Target Four had been talking to anybody who got within range while he was on detention in the station, and there was too high a chance that the actor would realize he didn’t know anything he hadn’t already told us. She thought it had to be one of the refugees, who had all had an opportunity to overhear/get information from the bounty-catchers. Which meant that even though it was my plan I couldn’t be in the middle of it. Which, whatever, I didn’t want to be in the middle of it where the excitement was, I wanted to be in an office working on a giant database in case the stupid plan didn’t work.
+
+For the refugee/bait, Indah chose Human Three, the one who had been convinced the armored hostile was a SecUnit. She went to talk to him with the new special investigation team she had conscripted from the responder’s crew. (They had all been in the responder, which had been undocked on picket, so they couldn’t have been in the transport to kill Lutran.) (The other special investigation team was still potentially compromised, except for Aylen and Indah.) (And me, I guess.)
+
+Human Three was in the responder’s medical compartment because he or someone else (I was betting it was him) had forcibly removed an interface from the skin of his forehead before leaving BreharWallHan and it had become infected. (Either the Lalow crew hadn’t offered the use of their MedUnit or with his curly head hair flopping over the wound, they hadn’t noticed.)
+
+He was sitting on the med platform listening to Indah explain what we wanted him to do, with the other members of the new team gathered around. (I wasn’t there because I’m an evil SecUnit. I was out in the responder’s secure bay waiting for Indah’s request for system processing space for our database to be approved, checking my inputs, pulling and sorting code out of my archive, and watching the conversation via drone.)
+
+Human Three, hair pulled back with a big patch of new skin on his forehead, said, “I’ll help you, but you got a SecUnit here. It’s probably passing tales to BreharWallHan.”
+
+This would bother me more if it wasn’t so fucking typical.
+
+So it surprised me when one of Indah’s conscripted responder team members said, “It was the SecUnit got you out of that module. You wanted to stay in it? It’s coming with the tug, you can hop back in.”
+
+“No, no, we’re not corporates, we have laws. One of which is it’s illegal to put people in transfer modules so he couldn’t get in it again even if he wanted to,” Indah said, leaning against the bulkhead with her arms folded, as if none of this was urgent. “What we should do is charge his friend for shooting a Station Security consultant.”
+
+Human Three (whose actual name was Mish) looked uneasy. “Are you going to do that?”
+
+Indah said, “No, because I understand she’s experienced extreme trauma and because the consultant refused to make a complaint. Now are you going to work with us so we can find our killer and I can clear the Lalow crew and send them back to their ship? Or is this just how your whole group treats people who get hurt trying to help you?”
+
+“I didn’t say I wouldn’t do it,” Mish grumbled. “I just want to know why you have a SecUnit if—”
+
+So that’s how that was going.
+
+It was the end of the day cycle and the station agencies were shutting down for their rest period, but I had asked Mensah to push through Station Security’s requests. By the time Indah came out into the bay, I’d gotten a feed message that Station Resource Allotment had approved the temporary processing and storage space we’d asked for. I’d already received a notice that I now had access to StationSec and provisional access to PortAuth. We still needed to arrange data dumps from the station mall systems we could get without needing permission from the judge-advocate, but even without those I thought we had enough to get started. If I was lucky, I could at least get the original special investigation team uncompromised with the data I had so far, once I could get it into a usable form. Their help would make the bait operation easier.
+
+Indah walked up to me, saying, “So that part’s done. I just got a feed message from Aylen, she wants you over in the Security Office. The responder team will be bringing Mish with them, and I’ll meet you there.”
+
+Threat assessment spiked. Huh.
+
+I said, “So you’re staying here?”
+
+Her expression turned hard. “Not that you have any right to ask, consultant, but I need to go to the Merchant Docks and try to stand down the search teams in a way that won’t alert our traitor.”
+
+“Because wandering off alone across the transit ring when we’re trying to bait a murderer to act sounds like a good idea to you.”
+
+Indah glared at me. “You talk to Dr. Mensah like that?”
+
+“Yes. That’s why she’s still alive.”
+
+She kept glaring. I was glaring at the air next to her head. She rubbed a spot between her eyes. “Fine. I’ll bring a couple of the responder crew with me.”
+
+I waited around long enough to make sure she did. I left with them through the secure entrance and the air wall, past the access for the responder’s dispatch station where I split off to cross the Public Docks toward the Security Office.
+
+It was quiet except for the whisper of the air flow and the low hum of active energy fields. Not anomalous since the last cargo transfer had been completed hours ago and there wasn’t any reason for anybody to hang around in here now. The transport crews were either on board their ships or in the station mall. It was perfectly normal and not creepy at all.
+
+I was poking at threat assessment, trying to get a breakdown of the factors that had caused that spike. I had a lot of drone inputs sending me video and other data, but the reaction had been to what Indah said, not anything to do with Mensah’s security or anything else I was monitoring. And it had spiked before I had seen how empty the Public Docks were, with the cargo bots all gone to the Merchant Docks to help with the search. Though on a normal work cycle, the cargo bots would be outside, launching and attaching modules.
+
+Huh. We knew Lutran had arranged for his module to be launched from the Merchant Docks and directed toward the Public Docks and his transport. We knew somebody, the actor inside the Port Authority, had redirected it toward the bounty-chasers’ ship. The bounty-chasers’ bot pilot had picked up the module just like a raider locked onto an unarmed ship, no cargo bot needed, but Lutran’s transport should have had a cargo bot assigned to help attach the module. The module’s transfer records had been deleted, but the cargo bots might have a record of the request for attachment and its cancellation. Indah had gotten me provisional access, and the cargo bots’ movements outside the station weren’t under any kind of privacy lock, so I ran a query.
+
+I was distracted, so it was a good thing I’d had my drones form an extra-large spherical perimeter.
+
+The three at the sphere’s apex picked up the sound of snapping metal and gave me a .5-second warning to move. The two further out on the sphere’s curve gave me an estimate of the dimensions of the falling object so I knew what direction to go in.
+
+I threw myself out of the way and hit the metal floor in the gap between the crane’s second and third arms. Nothing hit me but the sound of a heavy thing striking the floor all around and the vibration rattled the shit out of me. I’m hard to kill, but an entire hover crane landing on me would sure do it.
+
+My drones reported no additional falling objects and I scrambled away from the crane. I used my StationSec access to kill all surveillance on the embarkation floor so whoever it was couldn’t take a second shot.
+
+I sent an alert code to the responder team and directed my drones to form a perimeter again. With nothing else heavy about to fall on me, I did what I should have done before I left the secure bay, and used the comm to call Aylen.
+
+Farid answered, “Special Investigator Aylen can’t take your call, can I help—”
+
+“Farid, this is SecUnit, did Aylen send a feed message to Indah telling me to meet her in the Security Station Office?”
+
+“I don’t know.” He sounded startled. “Maybe? She’s not here yet and she’s off feed for a quick break. It took forever to talk the refugees out of the colony ship’s nav control and I think she just needed some personal time—”
+
+“Find her. Make sure she’s all right.” Hopefully Aylen was in a restroom and not dead somewhere in a corridor. Then I signed off because my query had returned results. The cargo bot scheduled to attach Lutran’s module to his transport had been cancelled by the Port Authority and directed to the opposite end of the Public Docks. Which wasn’t helpful because we knew our actor was in the Port Authority so …
+
+Oh. For fuck’s sake, you have to be kidding me.
+
+Pin-Lee tells me I have to make everything complicated, and wow, is she right this time.
+
+I established a secure feed connection with Indah and said, A crane almost fell on me in the Public Docks. Aylen didn’t send you a message, someone spoofed her ID. Did you tell Supervisor Gamila about the trap?
+
+No! She was startled. Of course not, I—Damn it, I told her we needed a Port Authority data dump. I had to, she had to authorize the transfer to the temp storage—It can’t be her. We grew up together—
+
+It’s not her, I said. But I know who it is.

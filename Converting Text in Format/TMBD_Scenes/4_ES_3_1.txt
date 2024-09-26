@@ -1,0 +1,69 @@
+THE HOTEL WAS AT the far end of the station mall, in a quieter area with 60 percent less foot and drone traffic, next to a multi-level plaza. All the structures around it were office blocks or hotels, all were shaped like giant cones or cylinders, except for one either iconoclast or outdated sphere, which seemed to be holding on to its real estate despite the fact that the station had tried to block it from view with a large holo forest display.
+
+I crossed one of the multi-level plazas, where humans and augmented humans were sitting singly and in groups at scattered tables and chairs, talking, viewing entertainment media on the displays, or working in their feeds. Surveillance was tight so I started one of the new codes I had written on the way here.
+
+I had been thinking about other ways to look less like a SecUnit. (An obvious option was to pretend to eat or drink something, but that was tricky. I can do that if I have to, but only for a limited time. I don’t have anything like a digestive system so I have to segregate a section of my lung to store it until I can expel it. Yes, it’s just as awful as it sounds.) I’d decided on something more subtle and less disgusting. Humans, even augmented humans, subvocalize when they speak on the feed. I had written a quick set of code that I could run in background to mimic those jaw movements. (I pulled a selection of conversations from Sanctuary Moon, Legends of the Fire, and Toward Tomorrow to use as a template for the movements.) As I crossed the plaza toward the hotel I made sure my shoulders were relaxed and my expression was distracted. I picked up a camera feed from one of the drones watching the plaza for a look. Operating in concert with my code to mimic human breathing patterns and small random movements, it was perfect. Well, perfect for me. Let’s say 98 percent perfect.
+
+The Preservation group’s hotel had a big terraced entrance with transparent walls and a wide doorway. A track for the station’s pipe transport ran through a transparent upper floor of the structure, so you could see passengers disembarking and boarding inside when the chain of pipe capsules arrived. (I could see them via the higher-flying drones; the other humans in the plaza couldn’t.)
+
+I identified two potential hostiles sitting at tables in the plaza.
+
+At the hotel entrance, I blended with a crowd of humans and augmented humans who were watching a floating advertising display that was showing funny short videos. (Some were pretty good so I saved them to permanent storage.) It also gave me a place to stand while I worked my way into the hotel’s security system. I had the improved version of my RaviHyral code routine to remove myself from camera views ready to deploy if needed.
+
+When the video display started to repeat, I followed another group of humans through the entrance. I probably sound confident, but the scan at the arched doorway made my human skin prickle. I knew the kind of chance I was taking in coming here.
+
+The lobby was a series of wide platforms with seating. It also had giant hanging biospheres full of simulated planetary skies, all displaying different weather. Ostensibly they were there to obscure the view of the seating platforms and provide some privacy, but they actually had the security system’s cameras and scanners along the rims. As I watched myself through the cameras I spotted four more potential hostiles, all augmented humans. One was clearly in the feed, reviewing the scan results, and the others were moving around, doing visual sweeps.
+
+No telling if they were GrayCris or Palisade, though if they were the hotel would know they were here. I couldn’t tell if they were looking for me; there were no standing alerts in the security comm feed. Though from their affect they were paying close attention to augmented humans wearing any kind of hood, hat, or scarf, or face-obscuring tattoos, cosmetics, or ornaments. Me, a generic type augmented human person with my hood folded down on my back, didn’t get a second glance.
+
+This is why humans shouldn’t do their own security.
+
+I went up the ramp to the check-in platform, followed the directional feed with its welcoming musical theme and instructions to a kiosk, and booked a room with one of Gerth’s hard currency cards.
+
+Yes, I did enjoy doing that.
+
+I took the rear exit off the platform to the pod junction and followed five humans into the first pod to arrive. It was a limited system, no outside connections, and would only take you to the room section now tied to your ID marker by the hotel’s feed, or the lobbies and public entertainment sections. The pod took us to our sections in order of arrival, so it gave me a chance to watch the system in operation and copy its code. It took me to my section and I followed the feed map to my room.
+
+It opened at the authorization the hotel had attached to my ID marker and at that brilliant moment I discovered there were no interior camera views or audio surveillance. Stupid hotel. I had probably even paid extra for it.
+
+Still, the room was bigger and much nicer than the cabins I’d had on the passenger transports. I did a quick walk-through to scan for anomalies, then dropped my bag and lay down on the bed. (It was huge. Why have a bed that could easily accommodate four medium to large humans when you only had one hook for towels in the bath facility? Were the humans supposed to share the towel?) The wall across from the unnecessarily large bed was all display surface. To keep me company, I sent an episode of Rise and Fall of Sanctuary Moon to it to play—holy shit, the humans were almost actual size in the long shots—and then I got to work.
+
+So there were no camera feeds from the rooms, but the cameras in the corridors were picking up humans and augmented humans as they moved through the connecting passages and used the transport pods to go to and from the lobbies and the three sections of food and club areas. (Whatever “clubs” were. The things going on there didn’t seem to match my lexicon definition.) There was also a transport link to the pipe train level.
+
+I worked my way carefully into the system, alert for traps. Without room cameras I was going to have to do this the hard way.
+
+Like most surveillance systems on non-secure installations, this one didn’t save their recordings permanently and supposedly deleted their archives after a waiting period. Note I said “supposedly.” Of course, the hotel was datamining.
+
+The mining was only on the conversations in the public areas and corridors, but then that was what I needed. I found the stored archives from the past twenty cycles, took over one of the routines that was processing it (it was separating out the boring bits from the juicy business conversations that would need to be sent to a human or bot monitor for review), and redirected it to search for my keyword set.
+
+Eight minutes and thirty-seven seconds later, my captured routine turned up a sizable set of hits. I got the timestamps, then released the routine back to its job of searching for proprietary financial information. The timestamps let me know which archives to check for the camera surveillance.
+
+I made some room in my temp storage, downloaded the first archive, and started my scans. I was reviewing it all myself instead of using a quicker and more efficient facial recognition scan on the collected data. That type of scan is only 62 percent reliable under most conditions and while that’s fine for half-assed company security work, I didn’t want to miss my targets. It turned out I could have started there instead of wasting the eight minutes, because in the first pass I caught an image of Ratthi in a corridor, walking toward a pod junction, timestamp sixteen hours and twenty-seven minutes minus present time.
+
+Gotcha.
+
+I kept reviewing the surveillance. Ratthi should have put in some time reviewing it, too, or at least looking around a little, because two potential hostiles followed him to the junction. They didn’t try to get on the same pod, but they clearly had access to the security system, because they were there when I picked Ratthi up in the lobby again. They followed him to the stores and vending areas in the hotel’s lower level, then back to his room. Now that I knew to focus on that section of the hotel, I was able to eliminate a lot of video from other camera feeds, and within three minutes I picked up both Gurathin and Pin-Lee. All three were being followed, whenever they went out.
+
+This wasn’t unexpected, given that GrayCris had to know they were here. But I’d been doing some risk assessments in background and there was a scenario where this was a trap for me, where the Preservation team was bait.
+
+Mensah might be the face of the group of political entities and companies determined to get GrayCris for killing their citizens/employees. But I was the one who had made the recordings of the most important evidence, I was the active component of the company SecSystem who had collected and stored all that data. If I was shown to be unreliable, compromised, whatever, then the SecSystem’s data could be called into question and that might help GrayCris’ case.
+
+Another possibility was that the Preservation team had been contacted by GrayCris and asked to lure me here in exchange for Mensah’s release. Yeah, that possibility was no fun at all.
+
+I watched Ratthi on the recordings, but the automated system had had no reason to zoom in and the resolution wasn’t good enough for a real evaluation. But I ran a few of my archived records from the survey mission: Ratthi walking when he was tired after a long day, absorbed in a conversation as he walked with Arada and Overse, laughing and pretending to defend himself as Pin-Lee threw a cushion at him, running as we frantically loaded a hopper to escape.
+
+I wanted to say he walked through this hotel like it was a prison, but I wasn’t sure. Real humans don’t act like the ones in the media.
+
+I’d just have to wait and see. (And yes, that was painfully stressful.)
+
+The surveillance was an interesting problem, but not unsolvable. Everywhere but in the lobby, the hotel had its own secured feed, which it charged extra to access. To encourage use, the hotel was choking the public feed. This meant the security system already had code in place to redirect feed accesses. That was convenient for me. I set some alerts on the various feeds in play and started picking which shows I wanted to watch on my gigantic display surface. I only picked old favorites I had watched before, though, because I really needed to buckle down and work on some new code. With luck, I wouldn’t need it, but … Let’s face it, I would probably need it.
+
+Five hours and seventeen minutes later Pin-Lee, Ratthi, and Gurathin left their room and headed toward the pod junction. Twenty-three seconds after they left their room, the system registered a door opening and closing in the same section. Two hostiles exited the room to follow the Preservation team, and I was able to set a redirect on the feed stream they were using to get orders and deliver reports.
+
+I waited to see if the Preservation team were just going to one of the food service or entertainment areas. It would be safer (for everybody, but especially me) to approach them outside the hotel.
+
+I checked the feed stream the two hostiles used to get their orders and saw my redirect had worked. They stopped at the pod junction, confused, waiting for the go-ahead from their controller. My redirect had sent that go-ahead to the housekeeping bots in another section. The redirect was set to expire and delete itself in two minutes and would look like a glitch due to the hotel’s feed-choking.
+
+The Preservation team took the pod to the lobby and headed out through the front entrance. I reluctantly shut down my giant display surface and rolled off the bed.
+
+Time to go to work.

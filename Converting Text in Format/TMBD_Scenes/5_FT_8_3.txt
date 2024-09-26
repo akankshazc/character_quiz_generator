@@ -1,0 +1,63 @@
+I had never been in a Port Authority office before, for the same reasons I had never been in a Station Security office. But there had been a lot of firsts for me on this contract.
+
+It was a multilevel structure, mostly private work spaces, with the public entrance on the second level opening inward to stationside, for humans who couldn’t/didn’t want to do their business over the feed. There were secure entrances I could have used, but I took the public one, sending my drones zipping ahead as the transparent doors slid open. I didn’t bother to remove myself from the surveillance camera at the doorway.
+
+I did remove the responder team and the special investigation team, who were coming in through the secure dock entrance on the lower level and evacuating Port Authority workers in case a big structural-integrity-imperiling fight started.
+
+I passed through a large open room with only two humans working with display surfaces. They looked up, startled, but I didn’t stop. I walked into Supervisor Gamila’s office, which had a wide curving window looking down into the Public Docks. The transparent material was interior port grade but not hatch grade. (I’d looked it up on the walk over here, along with the structure’s schematic.)
+
+Gamila sat at her desk, a half dozen documents and database results open in her feed and floating on the display surfaces around her. She was surprised to see me. Then her expression turned frightened when she saw the large projectile weapon I was holding. I said, “Run.”
+
+Balin stood beside the window, pretending to be dormant.
+
+Gamila shoved to her feet, bumped into the desk, and bolted out the door behind me. My drone video saw her run into Aylen, who caught her and hurried her out of the office after the other workers.
+
+I said to Balin, “The humans think you’re hacked, but we both know that’s not true.”
+
+Balin stood up and expanded its limbs, the top of its carapace almost brushing the curve of the high ceiling. It sent into the feed, query: would it make a difference if I was hacked? Then it launched a code attack to slam through my wall and hit my feed and comm connections and disrupt my processing. At the same instant it extended a limb at high speed right toward my chest.
+
+Nice try. I deflected the code attack and stepped to the side. The limb shot through the empty air where I had been standing and punched a hole in the office partition.
+
+My turn. I lifted my weapon and put three explosive projectiles into the center of Balin’s carapace. I was hoping that would do the trick but I had a bad feeling it wouldn’t. But it would still confirm my working theory.
+
+I had run a quick check of Balin’s records on the way here. It had been on Preservation Station for 43.7 local planetary years, and its original “guardian” had been the Port Authority supervisor at that time, who had taken it on when Balin jumped ship from a corporate cargo transport and asked for refuge. It had been the first and only bot to do that, which, you know, should have told the humans something.
+
+The projectiles broke through Balin’s carapace but barely dented the underlying shell. Yeah, I figured. In all its years on station, it had never requested maintenance. It couldn’t, because a maintenance scan would have revealed its interior structure. Even a Preservation human would have wondered why a general-purpose bot had been fitted with military-grade armor under its outer body.
+
+Balin dodged sideways and extended two more limbs to trap me in the corner. I ducked and rolled before another limb could pin me and fired three more bolts at its lower undercarriage. A non-standard configuration meant design flaws and gaps in its armor, and I only needed to find one.
+
+Whatever reason Balin had originally been sent here for, nothing had ever come of it as far as I could tell from the historical search. The corporation that deployed Balin had been killed off in a takeover 27.6 years ago; its second function must have remained dormant. Until somehow BreharWallHan had ended up with its command codes and, looking for a way to plug up the pipeline of escaping contract labor running through Preservation and the other non-corporate independent polities along these trade routes, they had decided to activate it.
+
+Possibly there had been two distinct bots in there, and Balin the general purpose bot had been erased once its secondary function had been activated by BreharWallHan. But this was why I didn’t want Station Security officers in here with me: Balin’s secondary function allowed it to kill humans and there is only one kind of bot made in the Corporation Rim with that function.
+
+Under Balin’s general purpose carapace, it was a CombatBot.
+
+My second hit on its undercarriage caused it to lurch erratically. I pushed up into a better firing position and oh, that had been a trick. It pounced forward to land on me but slammed into the floor when I rolled out of the way.
+
+It shot another limb at me and I went up the wall, fired at its extended limb joints and flipped down to land on my feet. The impacts shattered three joints before Balin slung itself around and jettisoned the broken limbs. It had more where they came from, though, and this was going to take a while. I sent, Are you trying another code attack on me? Because I’d think a CombatBot would know the difference between a helpless transport and a SecUnit.
+
+I wanted to provoke it into reacting and of course it did, because it was a bot and it made mistakes, like trying to kill me when it realized the database we were building was going to show an anomalous exit and reentry through one of the outer station airlocks.
+
+(Okay, so a human or augmented human might have made those same mistakes. Maybe exploring every possible outcome of each action in an inescapable loop of paranoia and anxiety wasn’t the most normal reaction-state but hey, if it was, there would be a lot fewer stupid murders. I don’t know what I’m trying to get at with this. I’d make a better corporate spy? Probably? Except not being a corporate spy left a lot more time for media so that was just never going to be an option.)
+
+(And also, I’d rather be disassembled while conscious, again.)
+
+I needed to get close if I was ever going to finish this, and I feinted toward the right. But Balin knew I needed to get close and decided to shift locations where it would have more room to run me down. It swung and dove for the window into the Public Docks. I’d told Station Security to keep the area clear but I had no eyes down there to make sure. So as Balin slung itself past me I grabbed a trailing limb.
+
+I hadn’t expected Balin to be able to smash through that window so fast but wow I was wrong. Falling with the shattered transparent material through the air wall and toward the transit ring floor, I jammed the projectile weapon right up against the undercarriage where Balin’s lower limbs connected and fired over and over again. Then we hit the floor.
+
+The impact knocked me off Balin and I landed two meters away. SecUnits don’t stun easily and I managed to hang on to the weapon, but I’d damaged an ankle joint and struggled to get upright. Then a giant scoop thing slammed down in front of me.
+
+For .05 of a second I had no clue what it was, then I picked up my drone inputs. JollyBaby the cargo bot had just put its hand down between me and Balin. This whole section of the ring was suddenly full of cargo bots. My drones picked up a dozen emergency medical bots, general purpose bots, even Tellus from the hostel, gathered at the public entrance on the other side of the Port Authority.
+
+They weren’t sending pings, they weren’t making any noise. I had JollyBaby’s hard address and sent it: query?
+
+JollyBaby sent back: Balin off network. Intruder destroyed Balin.
+
+For another .05 second I thought by intruder it meant me. Before the “oh shit” moment could sink in, I realized what it was actually saying.
+
+At some point during the fight Balin had dropped its wall and its designation as a CombatBot was now open on the feed. To the other bots it looked like one moment Balin was there, and the next its body was occupied by the CombatBot. They thought the CombatBot had killed Balin. I wasn’t sure they were wrong.
+
+Balin stood there, carapace broken open, armor dented and cracked from repeated close-range projectiles, broken limbs trailing, as the other bots waited. There were no threats, no communication on the feed or comm, but the message was clear: we know what you are. None of these bots knew how to fight, but they were high functioning and would move to protect humans and each other from a violent intruder. Balin could try to fight; a CombatBot could destroy a cargo bot, no problem. But it couldn’t destroy this many cargo bots plus one slightly banged up SecUnit, not all at once.
+
+Balin’s mission had depended on stealth. Now its mission was over. Its presence in the feed faded as it dropped into a resting configuration and shut itself down.

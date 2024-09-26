@@ -1,0 +1,143 @@
+Arada finally ordered the others to take a rest period, though it took her a while to really understand that ART and I would still be active and there was no reason for the humans to take shifts. (I finally had to tell her that I had a list of things I needed to get done and it would go much faster if they would all stay in one place and shut up for a while and sleeping was the most efficient use of that time.)
+
+Overse had finished repairing the repair drone and sent it off to begin the rebuilds of ART’s other drones. She was sleeping on a couch in the lounge next to the galley with Ratthi, who had finished the biohazard cleanup. There was snoring.
+
+Arada was sleeping in one of the station chairs on the control deck. (They’re very comfortable, so it’s not as bad as it sounds.)
+
+The medical scans had finished and Thiago walked Eletra back to her bunkroom. He hadn’t gotten much more out of her than Amena had, though his questions were more subtle. With his prompting, Eletra had gone over her augment clock and was now severely confused. It showed their transport had been in this system for forty-three corporation standard days. She was certain that was wrong. It was more support for the theory that Eletra had undergone some kind of memory manipulation. The initial scan analysis showed no genetic manipulation, no hidden devices or non-human biologicals.
+
+All my remaining drones were on sentry duty, but I made Amena go to an unused bunkroom near the galley because it was easier to defend if we were attacked by something. (It was unlikely, but so was everything unexpected that had happened so far. My risk assessment module had given up generating reports three hours ago.)
+
+Amena tried to just lie down on the bare bunk and pillow her head on the sealed bedding pack but I made her get up and unfold it and do it right. (“You’re mean,” she groaned.)
+
+I opened another bedding pack so my bunk would be more comfortable to sit on. I had a lot of coding and analysis to do so I wouldn’t be caught unprepared again. I needed to create workarounds for the drone-resistant camouflage on the targetDrones and countermeasures for the Target’s helmets and gear. I also needed to anticipate how targetControlSystem would countermeasure my countermeasures so I wouldn’t be screwed by an on-the-fly software update. I needed to analyze the solid-state screen device and find out if it really was a Pre–Corporation Rim relic. And I had to analyze the new data files I had just created from the shuttle’s logs.
+
+I pulled in the data Ratthi had uploaded to the feed during his pathology examinations and the scans of the Targets’ suits and helmets. Overse had also done some helpful hardware analysis of the targetDrones. Then I got my queries and processes running so I could get started on the code. I also split off an input and started World Hoppers episode 1. I’d seen it before (lots of times before) so I didn’t need to give it my full attention.
+
+(I really, really wanted some time to pull a new show out of longterm storage and watch a few episodes so I could really relax, but World Hoppers in background would help. It was also bait.)
+
+After twenty-seven minutes, it worked. I was aware of ART looming in my feed. (Imagine sitting in front of a display surface and someone eight times your size shoulders in and sits in the chair with you.) It was watching World Hoppers, and also backseat driving my coding and doing its own analysis of the data. The solid-state screen device does resemble known schematics of Pre–Corporation Rim technology, ART reported, showing me a scan and the matching examples. But it is not a factory-built unit; it was assembled from components gleaned from other devices of similar age. No trace of alien remnant or known strange synthetics detected.
+
+That made sense. It could have been a replacement unit built by humans in the Pre–Corporation Rim colony. Or a unit built by the later abandoned corporate humans, with parts desperately scavenged from the old colony, as their own tech resources failed and they struggled to survive.
+
+Yeah, corporations suck.
+
+I liked the code we were coming up with, but I didn’t think it was enough. None of it was making my threat assessment stats look any better. I told ART, Everything we’re doing is defensive. We need an attack.
+
+I’ve considered constructing a killware assault, but the data I managed to retain from targetControlSystem suggests it would be ineffective. ART displayed some analysis for me. Both Ratthi and Overse have theorized that some elements of the Targets’ Pre–Corporation Rim technology—for example, the implants—may be acting as receivers for esoteric alien remnant tech, like the object that affected my drive. A standard killware assault on the Pre-CR systems would not be able to take into account the alien system, not unless it was variable and could alter its behavior based on the protections and obstructions it encounters. I can’t code that with the resources I have available.
+
+It was talking about something similar to the self-aware virus that GrayCris and Palisade Security had deployed against the company gunship, where I’d crashed myself and nearly wrecked my memory archive helping the bot pilot fight it off. Which gave me an idea, but I didn’t know if it was something we could implement.
+
+Then Thiago crossed through the galley, came down our corridor, and leaned in the doorway. Watching him through ART’s camera view, I saw him glance at Amena, who at the moment was an inert pile of limbs under a blanket with a pillow jammed into her face. (Humans do everything weird, including rest.) Then he looked at me. Keeping his voice low, he said, “May I join you?”
+
+ART engaged the sound/privacy field on Amena’s bunk. I thought about saying “no.” But I thought he wanted to sleep on one of the bunks within sight of Amena because he didn’t trust me to take care of her. So I marked my killware idea as save-for-later and said, “Yes.”
+
+He sat down on the bunk across from me, pulled the bedding pack out from under it, but then set it aside.
+
+Oh good, we’re going to have a chat.
+
+“If you have a moment, I was hoping we could talk,” he said.
+
+I could have said that I didn’t have a moment what with writing code to save humans from whatever the stupid Targets were but I did have a moment. ART had constructed a simulation of the software fix that had protected the Targets’ helmets and gear from my drone strikes and was running tests of my new targeting code for my drones. The targetDrones’ camouflage was harder to crack due to being a physical effect rather than something caused by signal interference. None of the filters I’d come up with for the drones’ scan or targeting functions would work, at least according to the simulations. Continuing to ram my head into that particular wall wasn’t going to get me anywhere until I thought up an alternate approach. So instead of being an asshole, I just said, “Go ahead.”
+
+He said, “I know you don’t believe it, but I was glad you came along on this survey.”
+
+Oh, please. I could have played the audio recording I had of what he had said to Dr. Mensah about me, but that was a little incriminating with the whole listening to private conversations in secured spaces and personal dwellings thing. I said, “So you didn’t have serious reservations?”
+
+There was that little flash of surprise some humans have when I say something that doesn’t sound like what their idea of a SecUnit should say. He said, slowly, “I did.” It had been too long for a human to remember what he had said verbatim and he didn’t know I was quoting him. Still, his eyes narrowed a little. “And I know you’ve saved our lives.” He hesitated.
+
+There was an unvoiced “but” on the end of that sentence. I didn’t want to spend a lot of time on this, so I said, “But you don’t like the way I did it.”
+
+His gaze went hard and he said, “I don’t. And I don’t like the fact that Amena saw you do it. But that’s not the problem.”
+
+On our private connection, ART said, Don’t ask the question unless you already know the answer.
+
+Right, so I didn’t listen to ART. I said, “What problem?”
+
+ART did the feed equivalent of rolling its eyes and started another episode of World Hoppers.
+
+Thiago said, “You have leverage over Ayda.”
+
+That one got me. Fortunately ART was keeping track of the processes so I didn’t screw up the data analysis. It also provided a definition of the word leverage. I know what it means, I told ART privately. And I did, but not the way Thiago meant. I think. I said, “I don’t tell Dr. Mensah what to do.”
+
+Thiago’s jaw went tight. “I’m sure you didn’t. But she’s afraid to carry out her duties as council leader. She won’t apply to continue her term. That’s because of you. You’ve made her afraid of shadows. She never needed ‘security’ before you came to Preservation. Now she thinks she can’t do her job without it.”
+
+There were so many things wrong and unfair and yet true about that I started dropping inputs. ART picked them up and transferred them to our shared workspace. I said, “I didn’t come to Preservation. I was brought there in an inactive state after incurring a catastrophic failure while saving Dr. Mensah’s life.”
+
+“I know that.” Thiago waved a hand in frustration. “I’m saying—”
+
+No, I get to talk now. “There was a security threat. After Dr. Mensah returned to Preservation Station, three GrayCris operatives were sent to kill her. They failed but there was a sixty-five percent chance that more operatives would be sent. That percentage started to fall after the bond company destroyed Palisade Security and all of GrayCris’ operational facilities.”
+
+It was GrayCris’ own fault for ordering Palisade Security to attack an expensive company gunship and Palisade’s fault for escalating past standard operational parameters, but try telling GrayCris that. And it wasn’t like the company was afraid of GrayCris, but they had to teach them a lesson. (The lesson was: if you’re going to fuck with something bigger and meaner than you, use a quick targeted attack and then run away really fast. (This is the way I always try to operate, too.) GrayCris’ attack had not been quick and targeted and they had failed to run away effectively.)
+
+Thiago had his mouth open but I was still talking. “There was, and is, still a potential danger from individual dependents or employees of GrayCris but threat assessment determined that the percentage is low enough for Dr. Mensah to resume normal activities with the assistance of Preservation Station Security.”
+
+It took Thiago fourteen seconds to digest that. “There was an attack? Why didn’t she tell us— It would have been in the newsstream—”
+
+I pulled the video from my archive and quickly edited in the views from the Station Security helmet cams and the one lousy security cam in the lobby of the council offices on station. ART studied it curiously. I sent it to autoplay in Thiago’s feed.
+
+His gaze went distant, then startled, then increasingly appalled.
+
+ART watched the full video, running it back and forth. I had sent Thiago the part where I was on top of the council table trying to snap Hostile One’s neck while Hostile Two was on my back stabbing the absolute crap out of me. Six Station Security officers were draped around the room in various states of consciousness, with Officer Tifany, the only one still functional, hanging on to the stabbing arm of Hostile Two and punching him repeatedly in the head. ART commented, What is that human stabbing you with?
+
+Part of a broken chair.
+
+“They’re SecUnits?” Thiago asked, horrified.
+
+I can see why he might think that. I said, “They’re augmented humans who were chemically enhanced. They don’t feel pain, their reflexes and reaction times are accelerated. They have the physical strength of a SecUnit, but not the feed connectivity or processing capacity. So they’re harder to detect, and even more disposable.” To be fair, at this point GrayCris probably couldn’t get any other security companies licensed to produce and/or deploy SecUnits to contract with them. Between the high-risk assessment and the lack of operating funds and the cheating/attacking contract partners, GrayCris wasn’t a good client.
+
+Thiago took a breath, made himself calm down. “But they won’t send anyone else? You said the threat percentage dropped—”
+
+“It’s at an acceptable level.” And it hadn’t been easy to get it to that level, either.
+
+Thiago watched me with a concentrated intensity I didn’t like. ART’s camera didn’t have a full-face view, but it was obvious even with the angle. “Then why did she decide not to take a second term?”
+
+“She didn’t quit because she was afraid, you asshole, she quit because she needs to start the trauma support treatment at Central Medical. She didn’t tell anyone in her extended family because being taken hostage—”
+
+In our private connection, ART said, Stop.
+
+ART has different ways of telling you to stop doing what you’re doing, with different threat levels, and this was toward the top of the list.
+
+I stopped. ART explained, You’re violating her privacy.
+
+I was pissed off, because of course ART was right. I said, What do you know about it?
+
+My MedSystem is certified in emotional support and trauma recovery.
+
+Ugh, ART did know everything. It was so annoying. I finished, “She wanted me to go on Arada’s survey. I told her I would, but she had to agree to start the treatment. That was the leverage I had.”
+
+He was still watching me, and I couldn’t tell if he believed me. His expression was conflicted and I think he was still shocked at the recording. (It had looped through to the end of the clip where stupid Hostile One finally went inert and I rolled myself, Hostile Two, and Tifany off the table. Now Hostile Two was trying to strangle Tifany and I was prying him off her.)
+
+ART said aloud, in its polite-but-actually-not-a-suggestion voice, We have work to do, Thiago, and you’re missing your rest period. Perhaps you should go.
+
+It startled Thiago, but he pushed to his feet. He said, “You’re right, I’ll go.”
+
+I stopped the clip and watched him on ART’s cameras. He went back to the galley lounge and took one of the other couches. He sat there for a while rubbing his face, then got up to get water from the galley and take a medication tab.
+
+What is that? I asked ART.
+
+A mild pain reliever, for headaches and muscle discomfort.
+
+When Thiago went to lie down on the couch, I relaxed a little. He had thought I was taking advantage of Dr. Mensah? I still wasn’t even sure what he meant. Did he think I was making her feel sorry for me? Hey, I hadn’t asked her to buy me. I hadn’t even been there when it happened, I had been still stuck in a cubicle in reconstruction at that point.
+
+I wish I could feel all vindicated, but I didn’t think that confrontation had gone well for either me or Thiago. I think he knew now that his view of the situation was inaccurate but I had gotten mad and stupidly admitted to blackmailing Dr. Mensah to go start the trauma treatment. So. I didn’t know what was going to happen, if, you know, we survived and stuff and got back to Preservation. Like I needed something else to worry about right now.
+
+ART said, You haven’t seen the obvious solution to the targetDrone camouflage problem.
+
+Obvious? I said. (I know, I was just making it worse. ART wouldn’t have framed it that way if it wasn’t something that was going to make me feel like an idiot for missing.)
+
+ART said, Modify your drones with a camouflage field that will display the same interference pattern as the Targets’ helmets and gear. They still won’t be able to strike the targetDrones, but then your supply is so limited that attack is now no longer viable.
+
+Well, now I feel even more stupid.
+
+ART said, You have time for a recharge cycle.
+
+I was going to tell it I didn’t need one. And I really didn’t. But I knew what I did need. I shifted everything over to our shared workspace and pulled up the first episode of Timestream Defenders Orion. I asked ART, Do you want World Hoppers or something new?
+
+ART considered, poking thoughtfully at the tag data for the new show. It said, New, as long as it’s not realistic.
+
+I’d downloaded Timestream Defenders Orion off the Preservation media archives because it was pretty much the opposite of the whole concept of realistic. I started the first episode.
+
+We watched it while ART finished our code, occasionally sending sections to me to check over. (Possibly it was humoring me. ART might still have memory archive gaps, but there was nothing wrong with its other functions.)
+
+Twenty-six minutes to the end of the designated rest period, ART said, Using the data from the shuttle, I’ve located one of the Barish-Estranza vessels. My engine repairs are complete and I am moving to intercept.

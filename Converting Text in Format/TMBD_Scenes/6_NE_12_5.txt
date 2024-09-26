@@ -1,0 +1,113 @@
+When we arrived at the dock, the explorer wasn’t there.
+
+My threat assessment said there had only been a 40 percent chance that we would find the explorer in dock, but I could tell ART was disappointed and infuriated. Mostly infuriated.
+
+Arada, Overse, and Thiago were up on the control deck, and ART put up its scanner image on the big display surface in the center, and sent it into the feed.
+
+The dock was in a low orbit, attached to a planet via a structure called a lift tower, which held the shaft for the drop box used to reach the surface. The dock itself was a long structure with oblong protrusions where transports, shuttles, and other ships could dock. There were also inset rectangular slots that were module docks. The transports would deliver their modules of supplies, which would be moved from the dock into the drop box to be carried down to the surface.
+
+“Surely a ship-to-surface freight shuttle would be more economical,” Ratthi said, studying the scan images. He was with me and Amena in the meeting room off the galley. “Isn’t the Corporation Rim obsessed with how much things cost? Couldn’t they have used this material to make more habitable structures on the planet?”
+
+I had never been on a contract with a colony like this, but I knew the answer to that one. “It’s to keep the humans and augmented humans from leaving the planet.”
+
+Amena looked up at me, confused. “Huh?”
+
+I explained, “If they used shuttles, a group might organize, take over the shuttle, and use it to get up to the supply ship. Then they could escape.” Granted, the Targets had done that via the space dock, but they had had to find a way to force the Barish-Estranza contact party to help them. If a bunch of desperate colonists came up in the drop box, the ship could just do a quick detach from the dock’s airlock and it would be unreachable. It wasn’t a foolproof method but it was 90 percent effective. (Foolproof is another weird word. Shouldn’t it be smartproof? It’s not like you’re going to breach and seize control of a ship attached to a space dock by tripping or forgetting to bring your weapon or something.)
+
+Amena looked horrified. Ratthi’s expression did a whole progression. He said, “Are you telling us the colonists here were prisoners?”
+
+“It’s a possibility. Humans don’t want to be dumped on unimproved planets with no control over their air, water, and food resources.” I mean, who would? Mining installations are horrible, but at least the humans were getting paid for their work (sort of, mostly, sometimes) and the supplies were usually reliable. And mining installations were too expensive to just abandon.
+
+I didn’t know much about the kind of colonies meant to settle partially terraformed planets because the company had never bonded them. Which should tell you how dangerous they are right there, if the company thought the budget was so tight that the whole operation was unrealistic. Terraforming projects designed to get everything livable and ready way before the humans and augmented humans moved in were expensive longterm investments, but they didn’t fail like this.
+
+Ratthi shook his head and waved his arms. “I’m not even surprised anymore. I think I’ve been in the Corporation Rim too long.”
+
+Hey, me too.
+
+“So not only do they just dump the people on planets and leave them to die, but they force them to go there in the first place.” Amena’s expression was half boggled and half furious.
+
+“Theoretically not.” Theoretically the colony is continually supplied until it becomes self-sufficient and starts producing its own resources and the original colonists are released from indenture. But you know how that goes.
+
+“But the colonists are not volunteers,” Thiago clarified over the general feed.
+
+“Sometimes they are,” I said, because I didn’t want to talk about it anymore. There’s volunteering, going into something where you knew what it might be like but wanted to do it anyway, for whatever reason, like when I had gone to Milu. And then there was “volunteering,” where you did something you shouldn’t have to do because the alternative was getting your insides fried by your governor module, or whatever the human equivalent was.
+
+Thiago didn’t say anything, so that was a win.
+
+ART said, I’m also detecting debris, probably from a series of destroyed satellites.
+
+“Do you think it’s recent?” Up on the control deck, Arada stepped back as the scanner image passed through her head. She moved around, trying to angle for a better view.
+
+ART said, Analysis suggests the debris has been in orbit longer than forty corporate standard years.
+
+“I don’t suppose you can tell how it was destroyed?” Thiago asked.
+
+If I could, I would have said so already, ART said. It added, The dock is our best source of information. The active power levels aboard it suggest that it is/was in use, including life support. Possibly the explorer did return after its attack on me.
+
+Arada frowned up at the dock’s image. “But the explorer isn’t here now. And there’s no way to tell if anyone disembarked here without searching the place.”
+
+Overse didn’t look happy either. “I don’t know what I’m worried about most, having to find and search this colony, which is probably full of hostile alien-remnant-influenced people, or having to track down and board an armed ship.”
+
+“Also full of hostile alien-remnant-influenced people,” Arada murmured, distracted by reading ART’s figures on the dock’s power usage.
+
+Arada and Overse were back to getting along after spending time together in an unused bunkroom while we were traveling to the dock. I hadn’t bothered to monitor them on ART’s cameras or try to slip a drone in; the chances that they were having sex and/or a relationship discussion (either of which I would prefer to stab myself in the face than see) were far higher than the chance that they were saying anything I needed to know about.
+
+(I mean they might have been plotting against me, but you know, probably not.)
+
+(Around the same time, I had also caught part of a conversation between Thiago and Ratthi. Thiago had told Ratthi about our conversation in the bunkroom, and Ratthi had told him what he knew about the whole attempted assassination incident. Thiago had said he felt like he should apologize and talk to me more about it. Ratthi had said, “I think you should let it go for a while, at least until we get ourselves out of this situation. SecUnit is a very private person, it doesn’t like to discuss its feelings.”
+
+This is why Ratthi is my friend.)
+
+ART had gotten a far-range live scan of the planet. It had a lot of cloud cover in swirling patterns, some indicating massive storms. As the clouds whirled, there were glimpses of brown and gray and vivid red that seemed to be the surface. “Is it supposed to look like that?” I said.
+
+“You’re thinking of failed terraforming?” Ratthi said, frowning absently at the displays. “That red could be algae. They’re probably using air bubbles to hold in breathable atmosphere over their colony sites and agricultural zones. That’s what we did on Preservation before the terraforming completed.”
+
+The weather appears natural, ART said. I can detect no comm or feed signals, but that may be because they are using local, heavily shielded systems.
+
+“So we can’t just call down there and ask if there’s anybody who wants to talk.” Arada studied the scan results. “Perihelion, do you want to deploy those pathfinders you’ve been working on?”
+
+ART said, Not yet. After a second, it added, All evidence indicates the presence of hostile unknowns on the planet. The pathfinders would alert them to our presence.
+
+Arada grimaced in agreement. “Then let’s keep our focus on the dock for now. We’re going to have to go over there and take a look. Can we tell where the drop box is? Is it still up in the dock or did it go back down to the planet?”
+
+ART turned the image and increased magnification. There is an exterior sensor that shows the box is currently locked in place at the top of the docking shaft.
+
+At least that meant I only needed to worry about being attacked by something already hiding in the dock or coming aboard in a ship. “Can you get me a scanner image of the interior?” I asked ART. I woke my drones and told them to meet me at the EVAC suit locker. I could send the drones through the dock first to do my own mapping but the more intel the better. “The dock might have a resident SecSystem. If it’s been awake at any point during this situation it could tell us everything we need to know.”
+
+ART said, I can make a partial map based on detectable power systems.
+
+“You can’t go alone,” Thiago said from the control deck. “I’ll go with you.”
+
+Overse added, “Good idea, but it’ll be safer with three.”
+
+From Arada’s resigned but slightly annoyed expression, this must have been part of the sex/relationship conversation I hadn’t listened to. Overse must have insisted on taking her turn at the next opportunity to do something stupid with me. (So technically, they had been plotting against me.) Whatever, I didn’t care what they had decided, I was the stupid security consultant here. “It’s my job. I don’t need help.”
+
+Thiago looked annoyed. “I got you shot on our survey, I’m not letting you go alone.”
+
+Arada said, “No, don’t look like that, SecUnit, this is safer and you know it. You don’t want to die because of something simple and obvious like getting locked in a compartment and not having anyone with you out in the corridor to open the door.”
+
+(It sounds dumb, but it’s a good example of how humans get killed during explorations of abandoned structures. And yes, I’d used it as an example myself for clients who were anxious to find somewhere to get themselves killed, and yes, I hated having it turned back on me like that.)
+
+“And it’s in the survey contract,” Overse added with finality. She was giving the side of my head this determined glare that made me remember the conversation back on the facility about me being supportive of Arada. I was being supportive of Arada. I was being supportive of Arada’s marital partner staying on ART and not dying.
+
+I said, “That provision is for humans.” It was worth a shot.
+
+Ratthi corrected, “It says ‘all entities under contract,’” and sent me an excerpt of the relevant section from his feed storage.
+
+Now I was speechless with being pissed off with Pin-Lee. She had negotiated the contract for me and deliberately put that in.
+
+But Arada didn’t rub it in and nobody looked smug. Arada said firmly, “Thiago, SecUnit is in charge. You follow its orders immediately and without argument. If you can’t do that, I’ll go in your place.”
+
+Thiago lifted his hands, palm out. “I will.”
+
+I was desperate. I sent privately, ART, tell them I need to go alone. Back me up.
+
+ART said aloud, I concur, it will be safer if SecUnit is accompanied by two certified survey specialists.
+
+Why am I even surprised. I sent privately again, ART, you asshole.
+
+ART replied, only to me, It is safer. I’ve lost my crew, I won’t lose you.
+
+Amena said, not helpfully, “Your face just got really weird. Are you all right?”
+
+No, it was confusing. I was confused.

@@ -1,0 +1,255 @@
+HATCHWAYS DOWN INTO HIDDEN underground tunnels = not generally a great situation, on a survey. But this was attached to our Adamantine-era landing pad, and still way too close to the terraforming engines. I was pretty sure what we had here was a construction delivery access for the original engine build.
+
+The humans were disappointed. I was … not.
+
+Once Tarik and ART-drone used an air-blowing excavation tool to clear the surface dust away, we saw this was a large hatch, the size that would accommodate the kind of cargo bots and load haulers that might be used to supply terraforming engines. When I got the control pad open, there was also an Adamantine logo on the inside of the case. So this definitely wasn’t another Pre–Corporation Rim ruin, which I already knew, because the materials and assembly matched what we had seen of the other Adamantine installations, and because all indications said it wasn’t.
+
+That didn’t mean it wasn’t connected to a Pre-CR structure.
+
+Murderbot, you have got to stop this. Do your fucking job.
+
+“You’d think if they were down there, they’d have heard us by now.” Tarik sat on the ground trying to get power into the controls. There was no feed or comm associated with the hatch, and banging on it and yelling “hello” had done nothing.
+
+Yes, the humans had wanted to come down here and poke around. I had let Iris and Tarik secure their environmental suits and get out to look at the hatch, but made Ratthi stay at the controls. It was hard keeping him in there because he really likes to walk around on planets and he is also great at finding dangerous shit. The original planetary survey data that still existed was corrupted and incomplete, but so far the colonists hadn’t said anything about dangerous flora or fauna. Which meant I assumed there was some because humans have a bad habit of assuming that if they know a thing, all the other humans in the vicinity know it, too. Either that or they believe none of the other humans know anything that they don’t know. It’s either one or the other and both are potentially catastrophic and really fucking annoying.
+
+What this planet did have was at least one contingent of isolated colonists who might still be alive out here and if so, might react badly to unexpected visitors. Ratthi had asked how exactly he was supposed to fight off an attack on the shuttle and I told him he could just not open the door. ART-drone was outside with us, but bot pilot could fly the shuttle and follow Ratthi’s commands, one of which should be to take the shuttle out of the blackout zone where ART-prime would reestablish contact. Ratthi wasn’t happy, but he stayed in the shuttle. (I’m off my game, obviously, but I’m not dead.)
+
+Iris shook her head, her expression pinched in a worried way. “This is still too close to the terraforming engines. They couldn’t be living here.”
+
+From the shuttle comm, Ratthi said, “I don’t know, people have done weirder things. We think they left the main colony at least partly because of the first contamination incident. The way the engines disrupt scans and communications, maybe they thought this was a safer environment.”
+
+If I was a human trapped on this planet, I’d go live inside the terraforming engines.
+
+Something under the controls thunked and the small dusty interface lit up. Tarik sat back with a woof of breath and said, “Ready?”
+
+On our private connection, ART-drone said, SecUnit.
+
+Shit, I’m just standing here watching. “Tarik,” I said, “Get back. Toward the shuttle.”
+
+He looked up at me, frowning through the suit visor. Then he said, “Right, right.” He stood up and moved back.
+
+Iris was already out of the danger zone, walking backward so she could watch. “Be safe, SecUnit,” she said.
+
+I don’t know how to respond when humans say that. It was always my job to get hurt.
+
+There was still no feed connection for the controls, so I leaned down and hit the switch for manual access. The hatch creaked and started to slide open, and a small avalanche of the dust and rock chips piled up along the sides started to fall. The space below was a lightless void.
+
+I sent my two drones down into the darkness.
+
+Okay, anticlimactic news first, it was a big bare cargo receiving area. The drones circled, catching video of discolored stone walls with metal scaffolding to support the hatch mechanicals and various cables. No feed markers, but a few signs I translated via Thiago’s language module; all were cautions about the proximity to the engines and possible damage to unshielded sensor equipment. There were two dark openings leading off somewhere, probably access tunnels. Also more heavy equipment rails built onto the natural rock floor, as well as a big lift platform stored vertically up against one wall. Cargo transportation using permanently installed rails was usually cheaper, more power efficient, common for systems you’d only need while the engines were being constructed.
+
+The drones weren’t picking up any sign of current habitation—no trash, no belongings, no humans standing around wondering why the hatch had suddenly opened. But I needed to verify those two tunnels were just for equipment access to the terraforming engines.
+
+The hatch opening was wide enough now to reveal a space that a shuttle could land in, and it was still going. A lot of dirt was sliding in. Iris said, “We need to stop it. SecUnit, you okay with that?”
+
+Sure, whatever. I sent her an affirmative through the feed. Tarik hurried over and cut the power. Then we all kind of stood there for a second.
+
+Iris looked at me and I saw her hesitate, because her hesitation looked a lot like Dr. Mensah’s hesitation.
+
+And I realized I really didn’t want to go down there. Even though what we could see of it was clearly unused, and the hatch probably hadn’t been open since the terraforming installation had been completed however many years ago. But I wanted to let the drones do it.
+
+I had to go down there. It was stupid not to go down there. This was just a construction access point on a planet that would have a general risk assessment in the low 30s if not for the alien contamination. That’s not helping. All right, come on. If I couldn’t do this, I couldn’t do my job. I said, “Wait here until I check it out.”
+
+Iris smiled and did a good job pretending that she didn’t know anything was wrong. Tarik looked uncomfortable but stood up from the controls and stepped out of the way. Yeah, uh-huh, this is great.
+
+The lift platform controls were down at the bottom of the well and probably too much of a pain in the ass to make work anyway, but there was a manual access tube with a stairway thing to one side. It was covered with sandy dirt and dust but not blocked. I climbed down into it and then forced my right boot onto the first step of the stair.
+
+Okay, it was easier once I got started. I climbed down to the bottom of the well.
+
+The daylight coming down from the hatch above helped. I could see the two tunnel entrances, both big enough for folded construction cranes and bots and haulers. This time I remembered to send my camera view into the team feed.
+
+On the comm, Ratthi said what everyone was thinking: “This looks fairly normal. I wonder what the second tunnel is for?”
+
+Yeah, I wonder, too. The rail system led into the tunnel that headed west toward the base of the terraforming installation. I sent ScoutDrone1 down it to verify and kept ScoutDrone2 hovering over my head to watch my back. The other tunnel went off toward the northeast at an angle that was odd, considering the orientation of the rest of the space. I couldn’t see into it from here so I started across the floor, my boots losing traction in the soft dirt we’d just let in.
+
+“Storage, maybe,” Tarik said. He was at the access tube, leaning down as far as he could to see the space without violating my implicit instruction not to follow me. “If there are any admin offices down there with intact devices, do you think…”
+
+He trailed off, because ScoutDrone2 was getting video that I was still sending to the team feed.
+
+Yeah, that’s weird.
+
+I was picking up faint light, not much for an industrial-sized corridor, but still. If the terraformers had left emergency lighting on … There was an obstruction.
+
+I told myself it was unlikely to be an alien-contaminated bot. Really unlikely. Maybe a little likely. I made myself keep walking.
+
+Okay, it was a vehicle. A flat one with wide wheels designed for rough terrain, with benches instead of seats and the steering apparatus in front. It wasn’t for the surface, unless the humans were wearing protective suits, or unless whoever was transporting the humans didn’t give a crap whether they got hit by ground debris. So yeah, probably the latter. It was for the surface and the workers had used it down here where they were less likely to get injured. (And it being here wasn’t the weird thing; this had been a work site, there could be all kinds of equipment abandoned down here.)
+
+The weird thing was that just past it the mostly smooth curving sides of the tunnel stopped in a pile of rubble where there was another opening.
+
+The building crew for the terraforming cargo installation had encountered an existing tunnel, larger, square, made of smooth gray artificial stone that was mottled just a little for what had to be aesthetic reasons. I could see that, because there was active emergency lighting, little blue flat squares of it about three meters up the tunnel walls. My risk assessment finally caught up to what was happening and hit the roof.
+
+We were looking at a Pre–Corporation Rim site. A Pre–Corporation Rim site that was drawing power.
+
+
+
+* * *
+
+
+
+We didn’t know what had happened to the Pre–Corporation Rim colony that was on this planet long before Adamantine arrived. We just knew that at some point the Pre-CR group had encountered alien contamination, that it had been severe enough to result in “compulsive construction” of a structure over their original mostly underground habitation, and that nobody was here when Adamantine arrived however many years later to start terraforming. The fact that the Pre-CR group had left equipment, including an active central system, behind in that original habitation, indicated that they had left in what Arada had euphemistically described as “disarray.” If they had left, if they hadn’t all died or killed each other, their remains weathered to dust.
+
+And no, we couldn’t do a systematic archaeological survey of the Pre-CR site to discover what had happened to the Pre-CR colonists because the compulsive structure and the original habitation under it got blown up and buried in a whole big thing that happened. And the alien contamination was, you know, still under there. Waiting for more humans to forget or lose the records of it, and come back, and excavate the strange colony site to see what had happened there.
+
+Redacted
+
+Okay, alien contamination. The thing about it is that a large percentage of alien remnant materials are harmless and inert. The commonly identifiable ones are classified as strange synthetics, and you can get licenses in the Corporation Rim and multiple other independent polities to mine them and research them and work with them.
+
+But even for the ones that aren’t harmless and inert, a contamination incident is not an attack or a trap. It’s not actually considered hostile in the same way as someone shooting you or telling a CombatBot to shoot you or something trying to eat you or melt you or smash you or whatever. There’s no intentionality, as Ratthi explained once.
+
+It’s like if there was a hostile that killed us all and then a rockslide fell on us and buried us and then a couple of thousand corporate or Preservation standard years went by and then aliens showed up and dug us up, and they, I don’t know, touched the human food, or pulled apart the shuttle’s power source, and stuck their hands or fungus-tentacles or whatever in it, it might poison them. It might just kill them, it might make them very sick, it might affect their neural tissue, or do weird things to their cells and cause their bodies to change, or all of those things.
+
+Not all Pre–Corporation Rim sites are alien-contaminated, obviously. A lot of them became long-term occupation sites, the nucleus of what are now independent polities or Corporation Rim–owned planets (page 57, paragraph 6, Introduction to the History of Human Expansion, Volume I, eds. Bartheme, de la Vega, Shanmugam, et al, Cloud Sun Harbor University Press). But abandoned sites are sometimes abandoned for a good reason, and humans didn’t understand back then how careful they needed to be with alien remnants. (Or maybe they did and they just didn’t care. I mean, let’s be honest, which one is more likely? I’m just making an observation here.)
+
+Back on ART, during one of our strategy sessions for Plan A: Get the Hell Out of Here, Thiago had pulled some research about how so many of the known alien contamination sites were underground, were uncovered via construction or mining or exploratory digging. The idea was that maybe the contaminants were hazardous material the aliens had been disposing of, and they hadn’t expected anybody to come poking into the ground in those places. So that was even less intentionality and even more bad luck. I don’t know why that’s objectively better than ancient aliens out to get us. (How would that work? “We’re dead, but we’re taking you hapless fuckers who might wander by thousands of years later with us, ha!” Yeah, I don’t think so, either.) But it is better, weirdly enough. Shit happens, basically.
+
+On our private feed, ART-drone said, What the hell are you doing? Your stats are dropping.
+
+I was just thinking about alien contamination, I told it.
+
+Stop that immediately, ART-drone said.
+
+Right, good luck with that. I was thinking about it because I am currently standing in front of what is clearly a Pre–Corporation Rim site. A lot like the one where I redacted.
+
+
+
+* * *
+
+
+
+Yeah, this was where we’d started, back at the beginning of the file.
+
+“So it looks like the other colonists were right about this place,” Iris said, deeply reluctant. She had been held prisoner by colonists under the influence and direction of viral alien contamination that had given them a violent drive to get off the planet. She had escaped with only half her crew and one of her parents, and had to leave the other behind. She didn’t want to do this any more than I did, except somehow she had a lot more control over her neural tissue. “We have to check it out.”
+
+“Yeah.” Tarik had been with her for that whole thing and he didn’t look happy, either. He reached up like he was going to rub his face, then remembered his helmet and put his hand down again. He sighed. “Yeah.”
+
+I had already sent ScoutDrone2 ahead. It was able to go at nearly its top speed down the wide corridor, the lighting and width and breadth of the tunnel allowing it to take the turns without running into walls, though its flaky navigation scan was getting a little better the farther it got away from the terraforming engines. The Pre-CR corridor was continuing to head northeast, toward the foothills.
+
+I said, “Ratthi needs to stay in the shuttle.”
+
+Iris nodded. “Follow us from the air. Just not too close.”
+
+Ratthi’s sigh was audible over the comm. On ScoutDrone3’s camera view I could see him leaning back, wincing with worry. He said, “Ah, we don’t have a choice, do we.”
+
+Tarik kicked the tire of the vehicle. “Should we take this? If they are still alive down here somewhere, moving it might upset them.”
+
+Ratthi said, “But you’d be driving it toward them, not away. And we can put it back if this is where they want to keep it.”
+
+Humans from Preservation have no concept about what happens in the Corporation Rim to humans who borrow corporate property, even if they put it back when they’re done.
+
+You could make a case that I should have done this alone. (In the company, or any other corporate context where I still had a governor module, I would definitely be doing this alone.) But in this context the humans expected to go, and I wasn’t going to argue about it. If the colonists were still alive and I found them, I needed Iris and Tarik to talk to them, since Ratthi would be in the shuttle. Isolated as they were, the chances of them recognizing me as a SecUnit were low. But I just couldn’t talk to strange humans about important shit right now while pretending to be a human, I’d fuck it up. And fucking it up could mean Barish-Estranza hauling everybody off to be slave labor.
+
+Tarik got the vehicle running while Iris recorded a brief report for ART-drone to send to its bot pilot iteration. Bot pilot would upload it to a pathfinder that would then take the report out of the blackout zone for ART-prime to find. “The battery still has juice in it,” Tarik reported. He had climbed into the driver’s seat and was scrolling through the controls. “Either it’s a really good battery, or someone charged it within the past ten years or so.”
+
+Iris took the bench seat behind and to his left, looking around optimistically for safety restraints. “It doesn’t look like it’s been moved in a while.”
+
+I took a fold-out jump seat within arm’s reach of Iris so I could catch her if she fell out. It would be hard to get Tarik, too, from this angle, but ART-drone floated up and attached itself to the opposite side, within easy grabbing distance of him. (This was a gesture of trust from ART, I know that. Iris is its favorite and it was trusting me with her.)
+
+On the comm, Ratthi said, “This is killing me. Just be careful.”
+
+Tarik got the vehicle moving, slowly at first and then increasing the speed gradually as he got used to the controls and the traction. And we headed into the dark.
+
+41.32 minutes later, I said, “Stop.”
+
+Tarik hit the brake control on the steering device, not abruptly enough to throw us out. He and Iris didn’t slide forward because I grabbed the safety harness of Iris’s environmental suit and ART-drone grabbed Tarik. (Not so much grabbed as leisurely lifted an arm and extended it across his chest .02 of a second before the jolt as the vehicle stopped.) Iris glanced back at me, startled, and then smiled. “I forgot how fast you are.”
+
+(For a human, I was fast. For a SecUnit, I felt like I was moving in slow motion.)
+
+(The only reason I wasn’t panicking more about that is that ART-drone is slower than ART-prime but that is still really fucking fast.)
+
+On the comm, Ratthi said, “What is it? Are you all right?”
+
+He and Tarik had been having a rambling conversation about Pre-CR history and ruins; neither one of them had certifications in it, but they knew a lot about it, or at least they thought they did. Iris had been talking to ART-drone on their private feed; I couldn’t listen in but I could tell the connection was active. I was too tense to even think about media, let alone watch anything, or even run it in the background.
+
+Ratthi had access to the team video feed I was sharing, he had just forgotten about it because for the past forty minutes it had been so boring. I pulled it to the front of his interface and he said, “Oh!”
+
+ScoutDrone2, approximately three hundred meters ahead of us, had encountered an even larger space. It was still at the same depth as this tunnel. There had to be an opening to the surface somewhere in it because it looked like a hangar for aircraft and vehicles larger than our shuttle.
+
+I counted six landing platforms extending out from the walls or on pylons, fanned out to allow access from above. The light was inadequate, which suggested the light we had in the tunnel was an emergency backup system. The hatchway must be up in the ceiling somewhere, probably not unlike the one for the terraforming construction access, except maybe nicer and not made by the lowest bidder. But ScoutDrone2 couldn’t see the upper part of the chamber without going up there, and I wanted it to stay where it was in the tunnel entrance. If anything in this chamber came rushing out toward us, it would be nice to know what was coming our way.
+
+And something might come rushing out, because one of the platforms was occupied.
+
+The vehicle looked like an aircraft, sort of like the ones the main site colonists had built for themselves. A little like a hopper, if a hopper was bigger and had more things sticking up off it and more windows.
+
+All three humans were watching the video now in the team feed, as ScoutDrone2 turned slowly to get the best view, its stupid borked scan picking up sporadic metallurgy readings that ART-drone identified as being associated with Pre-CR builds. In case there was any doubt, which there pretty much wasn’t.
+
+Tarik did a little annoyed sigh. “Why in the name of everything holy did those colonists think coming up here was a good idea? After they’d already had a contamination incident?”
+
+“Maybe they didn’t understand how dangerous it was.” Iris sounded calm but she had both hands pressed to the chin plate of her helmet like she was willing something to happen, like maybe for the whole Pre-CR installation to just disappear. (I could have been projecting, there.) “If they’d had any idea … Surely they would have at least warned the other colonists, and not just described this place as a cave system.”
+
+On my shuttle drone-cam, I could see Ratthi’s face was worried, though he didn’t sound like it over the comm. “Even if they didn’t understand all the implications, so much of their trouble has stemmed from that bunker excavation under the first Pre-CR structure. They must have known.”
+
+So I wasn’t alone in my reaction, and they hadn’t even seen the horror show in the original Pre-CR structure except for the very end, via Three’s mission recording.
+
+Ugh.
+
+Okay, right, this whole thing might be a nonevent. There was still a 78 percent chance that the splinter group of colonists who had decided to live here were dead. They might have died long before the more serious contamination incident that produced the Targets.
+
+But we were going to have to find out. If they were still alive and needed medical intervention and decontam. If this was a clean site and they had managed to avoid the viral attacks. If they needed to evacuate before Barish-Estranza found them. If this was just a mass grave.
+
+I said, “You both should wait here with the vehicle. I’ll go ahead on foot.” Uh, should they wait? Or just take the vehicle back to the construction access and have the shuttle pick them up? I should know this. I used to be good at this, what the fuck happened to me. Oh right, that happened.
+
+They both turned in their seats to look at me. Even through the environmental suit faceplates, I could see objections coming in as big as cargo drop modules. Tarik said, “You know we’re all certified by the University in hazardous exploration, right?”
+
+Ratthi, maybe not unexpectedly, came in on my side. Through the comm, he said, “I have a specialist survey certificate from Preservation’s FirstLanding and seven years of on-planet experience, but it didn’t stop me from nearly being murdered on a survey. SecUnit stopped me from nearly being murdered.” He added, “If these people are still alive in there, we don’t know anything about them. If they were attacked by some of the other colonists under the influence of the contamination, or if they were in contact with the contamination and were affected themselves.”
+
+“We’ve done this kind of thing before,” Tarik said, not quite arguing, but not not arguing. And great, I know ART wants this to work out, but even if I were still capable of doing my fucking job, if they don’t listen to me, I’m useless.
+
+Then Iris said, “Tarik used to be in a corporate combat squad.”
+
+Wow. Okay. That was unexpected, and it caused a reaction in my organic parts. I had been staring forward down the tunnel while ScoutDrone1 circled my head, keeping watch. Now I and my drone turned to look at Tarik. Even ScoutDrone2 far ahead in the hangar entrance did a pivot.
+
+I still couldn’t read any expression through his face plate and I was pretty sure he couldn’t read mine, if I was making one, but he immediately held up his hands, palm out. He said, “I don’t want to fight you under any circumstances, period, end of story.”
+
+I wasn’t the only one who had reacted. On the shuttle’s comm, Ratthi had made a startled but somehow not startled noise, like an “ah.” Tarik’s head made a minute jerk, like he wanted to respond but didn’t let himself.
+
+ART-drone hadn’t reacted at all, so obviously it knew. It just hadn’t told me.
+
+His voice deliberately ironic, Tarik added, “And thanks, Iris, anything else you want to tell the new people about me?”
+
+“Yes.” Iris was looking at me. As far as I could tell, she was the only one not having a moment right now. “He hates corporates more than any of us. They made him kill.”
+
+It hadn’t seemed quiet before, even down here underground, with the hum of the vehicle’s motor and the humans talking and ART-drone. Now it was quiet.
+
+Iris added, “Sorry, Tarik, but I wanted to get that out in the open. I don’t like surprises and I’m assuming ex-SecUnits don’t like them either.” I remembered to tell ScoutDrone1 to go back on watch. She continued, “So Tarik does have some experience in these kind of situations, where we’re making contact with a group that might be perfectly friendly, might be hostile, or might have good reason to be terrified of strangers. You two should work together, but Dad and Peri were agreed that SecUnit would take point on all issues dealing with mission security.”
+
+(You were? I asked ART-drone on our private feed.
+
+Of course we fucking were, it said.)
+
+I needed to respond to Iris. I said, “Okay.”
+
+“It’s not an ex-SecUnit,” Ratthi corrected gently, before the quiet could get too quiet again. “You can’t be an ex-SecUnit until you’re dead. But thank you for your honesty.”
+
+So it was still my decision, and I needed to make it. At least the talking had given me time to process and check threat assessment. Did I want to go on alone, without ART-drone? Fuck no. Did I want to send Iris and Tarik back alone, without ART-drone? Fuck no. Fine, okay, fine. “We’ll go on to the entrance to the hanger.”
+
+Iris nodded. “Thank you for listening to us.”
+
+On the team feed, ART-drone said, You can have your emotional reactions and phatic communication after you restart the vehicle.
+
+Yes, it’s just as rude to its humans as it is to everybody else.
+
+Tarik lowered his hands, still looking at me. “Right. We should talk about this later.”
+
+We probably should but we absolutely are not going to, not if I can help it. Wait, had Tarik been ART’s mission security before me? Had I taken a human’s job?
+
+Under normal circumstances that would be kind of hilarious.
+
+He got the vehicle started again and we proceeded down the stupid tunnel, into the stupid danger. I sent ScoutDrone1 flying ahead at its highest speed, so it could at least scout the hangar a little before we arrived. I still didn’t want to move ScoutDrone2 from its watch position at the tunnel opening.
+
+ART-drone let go of the vehicle and flew a little ahead of it. It looked like the ominous, scary-looking bot from a horror drama that ends up trying to kill everybody in the deserted space station/deserted planetary installation/deserted generic underground habitation.
+
+Without good scan data I had to pay more attention to visual input, even though currently the tunnel was boring. The humans had stopped talking. (It should have been a relief, but it wasn’t. Weirdly, I’d gotten used to humans talking in background, like music that isn’t your favorite but is still vaguely nice to listen to.)
+
+ART-drone and I might be having our own awkward silence. On our private feed, I said, You knew that about Tarik.
+
+Yes. It’s been a complex situation. Seth registered an objection when Tarik was first assigned to me, and I seconded it. Seth thought he would be too rash, and that having been required and often compelled to display aggression toward humans in the same situations as those we were trying to help would be a habitual behavior that might recur under pressure, even for a human who was actively trying to suppress it. The faculty director persuaded us to give him a chance. They were correct, it has worked out. So far.
+
+The “so far” was interesting. The thing with ART is that it isn’t a construct, it has no human neural tissue, and the way it processes its emotions and impulses is completely different from the way I do it, let alone the way the humans do it. That’s why it prefers to watch media with me, because it can understand the emotional context better with me as a filter.
+
+Did I understand how it processed its emotions? No. But I don’t understand how I process my emotions, either.
+
+So with everything that was going on right now, it was particularly stupid that what I felt was, you know, whatever it was. Not jealousy. Sort of like jealousy. If Tarik after all the time he had been on the crew was still a “so far,” what was I? I said, If you already have a security consultant—
+
+ART-drone interrupted, He’s not a security consultant, he’s a mission specialist. He has a good knowledge of the tactics that corporates like Barish-Estranza employ. You are a security consultant.
+
+That would have been encouraging, before redacted.

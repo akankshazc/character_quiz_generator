@@ -1,0 +1,357 @@
+So I wish I could have stayed shut down through the whole thing and skipped all the painful parts, but no such luck.
+
+I restarted by the time we reached ART, so I was able to limp out of the shuttle on my own. Which was great, then I collapsed on the deck and had another involuntary shutdown.
+
+When I restarted again (and I don’t know if I’m underselling it but these rapid performance reliability drops and restarts were not pleasant or fun) I was still on the deck but surrounded by a bunch of unknown humans. One reached for my shoulder and I jerked away and almost restarted again.
+
+Amena’s voice said, “No, it doesn’t like to be touched!” And I realized these were not actually unknown humans.
+
+Ratthi and Arada sat on the deck in front of me with Amena hovering in the background. The others gathered around were Kaede, Iris, and Matteo. ART’s humans wore clean clothes and various medical stabilizing packs, and they all smelled a lot better. Two of ART’s big repair drones hovered nearby, and SecUnit 3 stood over to the side. It had taken its armor off, or been told to take its armor off. It wore a set of ART’s crew clothing and looked, if I was reading the body language right and I probably was, like it had absolutely no idea what to do.
+
+Iris told me, “It’s all right, take it easy.”
+
+Matteo was saying to Arada, “Kaede’s right, we’ll put together a run box so we can isolate the code—”
+
+“Then Peri should be able to delete it—” Kaede added.
+
+“Delete what?” I said.
+
+“The code in your system,” Ratthi explained, tapping his own forehead like maybe I had also forgotten where my brain was. “The contaminated code. We can’t use the medical platform, until Perihelion gets that code out of you. But Overse and Thiago are getting a portable med unit that will be cut off from the feed. We’re going to take care of your physical injuries right here, then by that point, Perihelion should be able to deal with the contamination.”
+
+Physical injuries. Oh right, I had been shot a lot and was still leaking. “What’s our situation?”
+
+“No one’s shooting at us and we aren’t sending armed pathfinders at anyone,” Ratthi told me. “Everyone is back on the ship. And we have some Barish-Estranza personnel to send back to their transport, but we want to make certain they’re free of the remnant contamination first.”
+
+Matteo asked Ratthi something technical about the biohazard testing and I stopped listening, mostly. From what they were saying, it looked like I/2.0 had been right about how the contamination was spread. So, it’s nice to be right, when you’re leaking and parts of you have fallen off.
+
+Arada turned to Iris. “I think I should mention … Perihelion told us why you were actually here, in this system.”
+
+ART’s humans were taken aback. Iris exchanged a low-key version of an “oh shit” look with Kaede. Matteo said hopefully, “Um, you mean the deep space mapping?”
+
+Were we going to have a problem? I really hope we wouldn’t have a problem. And I wish Arada hadn’t picked a moment when I was literally falling apart to bring this up.
+
+Arada said, “We’re not corporates. Everything Perihelion told us was in confidence and we won’t betray it, or you.” She made a little gesture. “I know contracts are important in the Corporation Rim, so we could sign one saying that we won’t talk about anything we were told, or what happened here, if that will help.”
+
+Ratthi looked doubtful. “Yes, but we’ll have to come up with some sort of explanation.”
+
+Amena added, “Yeah, my second mom is going to want to know what happened and she’s not exactly easy to lie to.”
+
+“Your second mom?” Kaede prompted.
+
+“She’s the head of the— She was the head of the Preservation Alliance Council,” Amena explained. “Dr. Mensah. She was in the newsfeeds a lot in the CR—she was kidnapped by a corporate called GrayCris and rescued by a SecUnit on TranRollinHyfa, and there was a company armed ship that was attacked and another ship from a security corporate that got blown up.”
+
+“Rescued by a…” Matteo trailed off and they all stared at me.
+
+Which was not what I needed right now, cut off from the feed and ART’s cameras and my drones. I said, “ART, I thought you told them about me.”
+
+ART said, I told them I had met a rogue SecUnit. I didn’t imply that you were every SecUnit ever mentioned in the newsfeeds.
+
+I think I was every SecUnit mentioned in the newsfeeds during that time, but whatever. SecUnit 3 had stopped trying to pretend to be an appliance and was now watching in fascination.
+
+“No, Peri didn’t…” Kaede exchanged a look with Iris again. “We heard a little about GrayCris going down but we weren’t really following the story…”
+
+Matteo’s eyebrows tilted. “So the rumor that it was a rogue SecUnit on TranRollinHyfa—”
+
+“Was true,” Ratthi finished. “I was one of the ‘unidentified conspirators’ who escaped and is to be held liable for ‘massive interference with commerce and property damage’ if I’m ever caught on that station again.” He shrugged. “So now we know things about each other.”
+
+Iris thought it over, then lifted her hands. “Look, we can work all this out later. Can we agree for now that we’re all allies who keep each other’s confidences?”
+
+“And we don’t like Barish-Estranza,” Matteo added.
+
+“Agreed,” Arada said.
+
+Thiago and Overse are here with the emergency medical kit. Great. I think I’m going to restart again.
+
+
+
+* * *
+
+
+
+I’m not going into detail because it was gross and involved a lot of leaking and removing projectiles and regenerating tissue the hard old-fashioned way with hand units and the emergency medical kit kept trying to spray everything with disinfectant.
+
+At one point, Martyn, who was Seth’s marital partner and Iris’s second parent, got called in from Medical to consult. He was a bio expert, too, but was still in isolation getting decontaminated himself. “Hello,” he said, peering at us via a display surface ART had generated. “How many SecUnit friends does Peri have?”
+
+Iris said, “No, Dad, this is the SecUnit Peri told us about, the one it was going to bomb the colony over.”
+
+“Bomb the colony?” I said. We were still in the shuttle bay because they couldn’t move me, and I was lying face down, my head propped on my arms, while Thiago, Ratthi, and Kaede rebuilt the organic components in my back. It was a long process and humans kept wandering in and out to watch, but I had my pain sensors tuned down and ART had directly connected an isolation box to my interfaces so I could download my video and audio of TargetContact, and more importantly so ART could play Timestream Defenders Orion for me. ART had also told me that SecUnit 3 had finally figured out that it could walk around wherever it wanted now and was doing that. I thought Iris was confused about when the bombing the colony thing had happened. I said, “That was the distraction so it could retrieve you.”
+
+“No, we were all in that maintenance capsule, the colonists didn’t know where we were,” Matteo said, pausing to make an adjustment to something. “Peri was going to bomb the colony with the armed pathfinders until they gave you up.” They picked up something (I suspect it was something that normally formed a vital part of my insides) and carried it off to show Martyn via the display surface.
+
+I had trouble believing that, but then I barely had the cognition to understand Timestream Defenders Orion right now (which is admittedly a pretty low bar) so maybe I was misunderstanding. “Are you sure? That doesn’t sound right.”
+
+ART hadn’t said anything, even to tell me how wrong I was, which was suspicious in itself.
+
+Ratthi said, “Oh no, it was very clear about it. Perihelion, why don’t you confirm what we’re saying to SecUnit?”
+
+ART said, That was Plan A01. I was persuaded that Plan B01, a more complicated but less violent approach, would be more effective.
+
+I said, “So … that whole retrieval with the explosions was for me?” Just for me?
+
+Thiago, with the tone of giving Ratthi a hint that he might want to shut up, said, “Maybe SecUnit is too tired to talk about this now.”
+
+Ratthi was determined. “Why don’t you share the video record with SecUnit, Perihelion? So it will be up to date with everything that happened.”
+
+This was confusing, but Ratthi was right, I wanted to see the video. “I want to see it.”
+
+ART didn’t respond for 2.3 seconds, then it paused Timestream Defenders Orion, and played the security archive of the event.
+
+I was glad I could pretend to be too overwhelmed by being reassembled to respond, because I kind of was overwhelmed. That was ART, and my humans, and humans I had known for maybe five minutes, and a Barish-Estranza SecUnit that 2.0 had randomly found, all cooperating to retrieve me.
+
+I’m going to stop talking for a while now.
+
+
+
+* * *
+
+
+
+So once the humans had gotten me put back together enough to be stable and to stop my performance reliability from dropping, we had to move my active consciousness into an isolation box so ART could get rid of the contaminated code string. I say “we” but I was mostly just along for the ride.
+
+It would have been lonely in the isolation box except ART kept a part of its consciousness in there with me and we watched the last episode of Timestream Defenders Orion.
+
+After it was over, ART said, That was satisfyingly unrealistic. Almost deliberately so.
+
+I said, I don’t know how they could have managed it accidentally. I’d had time to process everything, and there were parts I didn’t want to talk about yet. (No, I am not talking about Timestream Defenders Orion.) But this part I could say. You and Amena were right, 2.0 was a person. It wasn’t like a baby, but it was a person.
+
+ART reran a section of Timestream Defenders Orion where all the characters got shrunken to 1/25 of their original size. I’ve never had a module on physics, but I don’t think that would work. It was fun to watch, though. ART said, Do you regret my decision to deploy?
+
+No, I told it. I thought without 2.0, ART and I would have ended up connected to targetContact and the humans would be speaking Pre-CR languages and trying to off each other for not believing in the alien hivemind.
+
+ART reran another one of its favorite scenes, this one involving time travel. I said, You told your humans about me.
+
+ART knew exactly what I meant. I told them I helped an escaping SecUnit get to RaviHyral. I didn’t tell them about Tlacey and her employees in the shuttle.
+
+So you lied to them and made me sound … I didn’t know how to put it. Sound like the person Tapan, Maro, and Rami thought I was, and not like what I actually was. You made me sound safe.
+
+My humans are not members of a survey team from a non-corporate polity who have only recently begun to understand how dangerous corporates can be. Our missions are always calculated risks, and my humans must take steps to defend themselves, and occasionally me.
+
+Then it said, I have completed the removal of the contaminated code and started the process to return your consciousness to your body. While that completes, I have a proposal.
+
+I thought it meant that it wanted to watch all of World Hoppers again. Or that it had found a new series. Instead, it said, There is an upcoming mission under discussion where your help would be invaluable.
+
+Uh. I said the first thing that occurred to me, which was I don’t think your humans are going to like that.
+
+I will discuss it with them.
+
+I didn’t say anything. I didn’t even make a crack about ART’s idea of a discussion and forcing everybody else to do what it wanted.
+
+I didn’t know if I trusted ART’s humans or if I even wanted to try. But no one had ever rescued me before except Dr. Mensah, when she went into the DeltFall habitat after me, and ART had been willing to wipe a colony off a planet for me, and watching the security vid of a group of humans strategizing how best to get me out of there was … a lot, for me, considering the whole reason for me/constructs being created was so I/we could be abandoned in an emergency.
+
+ART said, I know you have difficulty making decisions so you don’t need to give your answer right away.
+
+I do not have difficulty making decisions, ART, you’re full of— I said, but it had already dropped me back in my body. And of course, my performance reliability crashed immediately and I had a forced shutdown.
+
+
+
+* * *
+
+
+
+When I came out of restart, I was on the platform in Medical. I was back on the feed, with five drones left, including the one retrieved from the space dock, and camera views all over the ship. Martyn, Karime, and Turi were still in Medical isolation in a nearby cabin, but they were on the feed with the other humans. Ratthi and Thiago were in the galley lounge with Seth. Overse was in the engineering pod with Matteo, Tarik, and Kaede, going over the scans of what little was left of the alien remnant from ART’s drive. (Basically ART was going to need help from its University’s decontam team before it could go into a wormhole again, which was not good news. If Barish-Estranza reinforcements showed up, we were in trouble.) Arada was in the control deck with Iris. SecUnit 3 was in the galley lounge, too, lurking in a corner and listening to the humans talk.
+
+Amena … Amena had carried a chair over next to the platform, and was browsing through the Pansystem University catalog in the feed. I said, “I’m back online.”
+
+She smiled. “I’ll warn everybody.”
+
+I sat up. The MedSystem had finished what the humans had started and my performance reliability was up around 98 percent. I was wearing the kind of soft smock thing that injured humans wear, but my drones spotted my clothes, cleaned and recycler-repaired, folded on a gurney. Before I could think about it too much, I said, “ART asked me to join its crew for a mission.”
+
+ART, as usual, was listening, and this was my way of telling it what I was thinking. It was easier telling Amena, for some reason. Maybe because she had somehow managed to put herself in the middle of my and ART’s quote-unquote relationship.
+
+Amena paused her feed and frowned. “For how long?”
+
+“For the duration of the mission.” But I had the feeling that ART meant for this to be the first step in a longer … association.
+
+Amena’s forehead indicated suspicion. “Just the one mission? Kind of like asking someone to come stay with your family for the break between the work seasons, to see if they all like each other before you get serious?”
+
+“I don’t know what that means,” I said. I was noticing ART hadn’t jumped in to tell her how wrong she was, and I knew it would have, if she was wrong. So she wasn’t wrong. “But yes, maybe.”
+
+Amena thought it over. “I guess I’m not surprised. How do you feel about it?” My expression must have changed because she rolled her eyes. “Oh sorry, I used the f word there.”
+
+Again, I have no idea why ART likes adolescent humans. “I don’t know,” I told her.
+
+“So … what do you think second mom will say?”
+
+I had no idea. “What do you say?”
+
+She snorted. “I was just getting used to you.” My drone watched her eyeing me. “I don’t think it’s a terrible idea. Except … ART works in the Corporation Rim sometimes, too, right? It’s not all missions out to these lost colonies.”
+
+“That’s a factor.” Though I wondered how often ART’s solo “cargo missions” were actually gathering intelligence in a way no corporation would ever suspect.
+
+Amena didn’t look happy about the idea of me going back to the Corporation Rim. I wasn’t wildly excited about it, either. She said slowly, “I think ART cares a lot about you. You should have heard … the only reason it went ahead and sent your killware to the explorer was because it thought if it didn’t, the only way to get Iris and everybody back was to send you. That sending the killware would mean you wouldn’t have to do something dangerous. Of course, you were already doing something dangerous but we didn’t know that at the time.” She hesitated, and added, “I don’t think it would invite you to come with it if it didn’t think it would be good for you, you know.”
+
+No, I still didn’t know.
+
+
+
+* * *
+
+
+
+After three more cycles, the rest of the humans were able to leave Medical isolation. The Barish-Estranza crew were sent back via their shuttle to Supervisor Leonide’s supply transport. Nobody tried to hold anybody else hostage, which was unusual for this situation, but then no Barish-Estranza reinforcements had shown up yet.
+
+The supply transport was still repairing its wormhole drive and hanging out within range of us just in case anything else showed up to attack. Also to make sure we didn’t somehow steal the planet out from under them. Which ART and its crew totally intended to still do. If they could manage it. The humans all spent most of their time talking about what to do about the colonists, how to handle decontaminating the colony site, would they/could they move everybody if they had to. ART wouldn’t be there for that part, but its crew would make recommendations about it when the university’s decontam facilities teams arrived.
+
+The one big problem was that because of the alien remnant contamination, Karime said the legal case prepared by the university no longer applied, so they needed help before they could contest Barish-Estranza’s claim. Barish-Estranza had sent a message buoy through the wormhole to their corporate base of operations, and ART had sent one to the University. So we were waiting to see who showed up first.
+
+Also, there was this whole thing where we had a rogue SecUnit aboard who wasn’t me.
+
+It was mostly doing what it had done on the Barish-Estranza explorer, which was to stand around on guard and patrol occasionally. Except ART had made it give up its armor and weapons and I suspect had given it some details about what might happen if it even thought about shooting any projectiles out of its arm.
+
+Amena and Ratthi kept suggesting that I should help it “adjust” whatever that is. I knew if I was in its position, I’d want to be left alone. And if it hadn’t even sat down in a chair voluntarily yet, it probably wasn’t ready to talk.
+
+(I know this sounds suspiciously like a rationale I had come up with to keep from doing something I didn’t want to do anyway, but hey, I can’t help that.)
+
+Then at the end of the third cycle, when most of the humans were sleeping, I noticed it was following me around. I figured that was a sign it wanted to talk. I stopped in an empty corridor, faced the wall, and said, “What?”
+
+It stood there for .6 of a second with the standard neutral-blank expression. Our drones went into a holding pattern, circling above our heads. Then its face relaxed a little and it said, “I saw your files.”
+
+“2.0 told me.”
+
+“The story was incomplete.”
+
+“Because I’m not dead.”
+
+“You continued to perform your duties after you neutralized your governor module.”
+
+“For thirty-five thousand hours.” I suddenly had a bad feeling about this. “You want to go back.”
+
+It hesitated again. “No, I don’t want to. I … won’t. But I don’t know what to do.”
+
+Okay, that was a relief. Just because we’re both rogue SecUnits doesn’t mean we’re going to be friends, but I knew if it went back, it would be dead. I’d hacked my governor module and kept doing my job because I didn’t know what else to do (except you know, a murderous rampage, but murderous rampages are overrated and interfere with one’s ability to keep watching media) but that was different from escaping and then going back. I said, “Because change is terrifying. Choices are terrifying. But having a thing in your head that kills you if you make a mistake is more terrifying.”
+
+It didn’t seem inclined to argue. “Your clients told me I could go with them to Preservation.”
+
+“You can do that. Or not. You don’t have to.”
+
+“They are your clients.”
+
+I said, “You can trust them.”
+
+I’m sure it thought I was delusional. Hey, I thought I was delusional. SecUnit 3 didn’t say anything because what could you say to that in this situation. Or any situation.
+
+Then it said, “The completed portion of the story.” I finally realized it wanted to ask me for it, but its experience at asking for things that weren’t contract-relevant data was nonexistent. “Viewing it would … help me come to a decision.”
+
+I was pretty sure I knew what decision it intended to come to. My files were a how-to manual for fugitive SecUnits. I said, “I’ll excerpt the relevant portions and send them to you.”
+
+It actually looked almost pleased for a second there. It said, “Thank you for that information.”
+
+
+
+* * *
+
+
+
+In the end, twenty cycles after we had arrived in this system, it was a Preservation ship, an armed station responder, which came through the wormhole.
+
+“They couldn’t possibly have gotten here in this amount of time,” Arada said, after the ship’s ID had been confirmed and the exclamations and arm waving in the galley lounge were over. “Not unless they left only a few hours after we did.”
+
+ART said, They may have. Before I was deleted, I prepared a message buoy, explaining what had happened and asking for assistance, and concealed its existence from targetControlSystem. I set it to jettison automatically when the wormhole drive engaged.
+
+There was more exclaiming. “But why didn’t you tell us?” Amena asked it.
+
+(Yes, Amena is still naive about what a monster ART is.)
+
+ART told her, Because then it would have been harder to force you to do as I wanted.
+
+(Yeah, like that.)
+
+“Can you contact it on comm?” I said. Because I had a feeling who was onboard and if I was right we could save a lot of time and a lot of aggravation. And by that I mean me being aggravated while humans talk to each other for an unnecessarily long amount of time.
+
+Seth gave me a thoughtful look. “We can. Peri?”
+
+Are they likely to deploy malware? ART asked.
+
+“You’re not funny,” I told it.
+
+Once ART secured a comm connection with the Preservation responder, I said, “This is SecUnit. Is Dr. Mensah aboard?”
+
+There was only a four second pause. Then Mensah’s voice said, “SecUnit, I’m here.”
+
+Amena bounced impatiently but I tapped her feed to wait. I said, “Coldstone, song, harvest.”
+
+“Acknowledged,” Mensah said immediately, sounding relieved. “Now will someone tell me what the hell happened?”
+
+Arada hastily took over. Seth asked me, “That was a stand down code, I take it?”
+
+Amena made an exasperated noise. “You have a special code with second mom.”
+
+It was actually stand down, clear, and no casualties. I just said, “Yes.” Now I’d have to change it.
+
+Between Arada and the others on the comm, by the time the responder reached ART all the pesky questions about kidnapping and trying to blow up Preservation survey facilities had been resolved.
+
+By this point, Thiago had convinced Seth and Iris to tell Mensah about ART’s actual mission. I think Mensah on the comm being all persuasive and reasonable had something to do with it. Plus along with the responder’s crew and a security team from the station, Pin-Lee had come with Mensah. Since ART’s crew needed someone who was good with Corporation Rim contract negotiation, the idea of an alliance with Preservation was looking better and better. Whatever, the humans worked it out while I watched Sanctuary Moon. ART watched with me for some of the episodes but the idea of Dr. Mensah coming aboard made it weirdly excited and it had its drones clean its whole interior again and was doing things like yelling at Turi to put their laundry in the recycler.
+
+The responder pulled up to ART’s module dock, and Mensah came aboard with Pin-Lee, and there was a lot of noisy greetings and hugging and exclamations and introductions. There was a lot of talking to me, with Pin-Lee asking me if I was all right, and Mensah thanking me for trying to get Amena off the baseship. Seth, as the captain, formally introduced them both to ART. He told them, “We normally aren’t able to do this, since Perihelion’s existence as anything other than a bot pilot has to be kept secret in the Corporation Rim.”
+
+“We understand,” Mensah said, her voice just a little dry. “We’re keeping a number of secrets from the Corporation Rim, too. I’m very glad to meet you, Perihelion.”
+
+It’s a pleasure to have you aboard, Dr. Mensah, ART said, and actually managed to sound like it meant it.
+
+Later, when everybody had settled down and Pin-Lee was consulting with Karime and Iris about documents to dispute Barish-Estranza’s claim on the colony, I got to talk to Dr. Mensah semi-privately. (Semi-privately because ART was impossible to avoid.) (But I was used to that.)
+
+She came and sat down next to me in the lounge and I adjusted a drone to be able to get a view of her face. I had things I wanted to say but had no idea how, so I blurted, “Did you get the trauma treatment?”
+
+Now her voice sounded very dry. “I had the first set of appointments, yes. Then my daughter and my brother-in-law and my friends were kidnapped and I had to drop everything to mount a rescue mission.”
+
+That was fair. “Was it…” I didn’t want to ask how she had been without me there. Okay, I did want to ask, obviously, but it was awkward, plus I was still aware of what ART had said about violating her privacy by talking about the therapy.
+
+She waited, eyes narrowing, then evidently decided that was as far as I was going to get. “It’s been fine. I know it will take time. But I’ve been fine.” Her expression turned ironic. “Right up until the mass kidnapping incident.”
+
+At least that part wasn’t my fault. Then, before I knew I was going to, I said, “Did Amena tell you about my emotional collapse?”
+
+Now she frowned for real. “No, she didn’t.”
+
+“Oh.” Yeah, well, I could have kept my mouth shut about that, but now it was too late. “It was when I thought ART was dead.”
+
+She still had a little worried forehead crease. “That’s understandable. Ratthi said Perihelion is a very close friend of yours.”
+
+“Ratthi has a vivid imagination.” This was an awkward thing and I might as well get it over with. “I didn’t tell you about ART.”
+
+The forehead crease actually went away. “I don’t tell you everything, either.”
+
+“That’s because I don’t want to know everything and you respect that.” I decided to just say it. “ART asked me to come on a mission with it.”
+
+“I see.” She considered it seriously. “Would this be a temporary job, or something more permanent?”
+
+“I don’t know.” This was incredibly weird and awkward. “I don’t want to not see you again.”
+
+She took a moment to sort out my verbs. “I don’t want to not see you again, either.” Her expression was still thoughtful. “But if you do find you want to spend more time with Perihelion, you could always come back and visit us.”
+
+It was getting easier to talk about this. “Preservation was the first place I was a part of and I don’t want to not be a part of it. But I like being with ART. I want to keep being with it.”
+
+She nodded to herself. “What about the rest of the crew?”
+
+Yeah, well, that was the potential problem. “I don’t know them yet.”
+
+“Working for them temporarily could take care of that problem. If you decide to do that.” She smiled a little. “The good thing is, you do know what you want.”
+
+I sort of did know. It was a weird feeling. “That’s new.”
+
+She smiled all the way. “I wasn’t going to put it quite that way, but yes.”
+
+
+
+* * *
+
+
+
+ART’s crew had settled in for a rest period, except for the humans who were working on the legal case. Mensah had taken Amena and Thiago back to the Preservation ship with her. (Amena told me Thiago felt he had some apologizing to do to Mensah for “misunderstanding her relationship with me” and that Amena would report back on it and I was just glad they were talking on the other ship where I didn’t have to risk hearing them.) Arada and Overse and Ratthi had stayed in the spare bunkroom aboard ART.
+
+I went up on ART’s control deck where it was quiet. It felt familiar in a good way, so I pulled the memory of my first time aboard so I could compare it. It was better without ART threatening to destroy my brain. I said, “If I do the mission with you, we’ll need more media.” We went through it pretty fast, and that was an understatement.
+
+I’ve been amassing a collection from the university’s archives, ART said.
+
+It sent me the index and I started searching through it. “Maybe we should give some to 3.” ART would know that I’d given 3 my relevant archive files. “It’s probably going to leave as soon as it gets a chance.”
+
+That’s not why 3 wanted your files, or not the only reason. I asked it why it wanted to help retrieve you, and it said, “stories in the HelpMe.file.” I think your memories are providing it with the sort of context you obtained from human media.
+
+I didn’t know what I thought about that. I would never have thought to just hand my files over to 3 the way 2.0 had. And if 2.0 hadn’t done that, targetControlSystem would have won.
+
+According to the report 2.0 had downloaded to me, 3 had actually seemed to like the other two SecUnits on the explorer, as if they had been friends, at least to the extent that they had been allowed to communicate with each other. I’d never thought that was possible.
+
+Maybe I’d always been a weird SecUnit; maybe 3 would have better luck communicating with other SecUnits.
+
+Maybe I needed to get 3 a copy of Dr. Bharadwaj’s documentary, too.
+
+Whatever. For now, keyword searching ART’s index, I think I’d found something even less realistic than Timestream Defenders Orion. I showed the description to ART, and it started the first episode.

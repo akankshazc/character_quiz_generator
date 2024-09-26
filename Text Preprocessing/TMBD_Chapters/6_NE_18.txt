@@ -1,0 +1,221 @@
+Murderbot 1.0
+
+Status: Not so great
+
+Forced Shutdown: Restart
+
+What happened?
+
+Forced Shutdown: Restart: Failure Retry
+
+Forced Shutdown: Restart: Failure Retry
+
+Restart
+
+Yeah, I’m definitely in trouble here. All my joints ached, and there were sharp pains in other places, probably projectile holes. I didn’t have any outside input, no feed, no visual or audio. By concentrating I managed to get a visual through my eyes, but wherever I was, it was completely dark and my filters weren’t online. Oh, and I was being held immobile, that was kind of a big issue, but until I finished my restart, I could only be terrified about one thing at a time.
+
+Functions were beginning to come online again and I tuned my pain sensors down. That made it easier to think. Oh yeah, memory archive active, I remember what happened. Yikes.
+
+Okay, now I’ve finished restarting and I’m terrified about a lot of things. But now that my entire brain was online again, I could see there was actually a distant light source somewhere above me. It was a small one, like a work light, or a discarded hand light. I could see more of my surroundings and it wasn’t encouraging.
+
+I was suspended, hanging from four cables, in a large open space, with clamps around my wrists and ankles holding my arms and legs apart. The cables were taut and didn’t budge when I pulled on them. So whoever put me here hadn’t wanted me to be able to get a grip on the clamps because they knew I could break them. And my environmental suit was gone, though I still had the shirt, pants, and boots I’d been wearing under it. Oh, and I was upside down, which was just insulting since it didn’t affect me the way it would a human.
+
+Atmosphere was minimal, at a level that would have had a human gasping and unable to function, but I was designed to be shipped in cargo containers and it was fine for me.
+
+Oh shit, I hope the humans aren’t in here, too.
+
+I wasn’t picking up anything on audio, no matter how I increased my gain. And there were no human-like shapes hanging anywhere that I could see. Maybe one stupid part of my stupid plan had worked and they had all gotten to the maintenance capsule and escaped.
+
+My scan wasn’t picking up any power sources in the immediate vicinity, and if there was feed activity on any channel, I had been locked out of it. I couldn’t even try to send a ping. Whatever the giant thing looming in the darkness that I was attached to was, it had a lot of arms, from large crane-sized arms that extended up and out into the shadows of this giant space, to much smaller, delicate arms that were holding the cables I was clamped to. It could be an assembler, which is a low-level bot that’s used to put big things together when mining operations, installations, colonies, etc., are first established. You ship the assembler and land it on site, then everything else (construction bots, large vehicles, transport systems, so on) can be shipped in pieces and then assembled by the—Right, that’s probably pretty obvious.
+
+You can also use assemblers for taking things apart.
+
+Being terrified was starting to give way to being really angry. If they were going to take me apart, why hadn’t they done it, the fuckers. Unless they wanted me to be conscious when they did it.
+
+They were going to fucking wish they had done it while they had a chance.
+
+So, using the inbuilt energy weapons in my arms wouldn’t work because the angles were wrong and the chance of burning holes in one or both of my hands was 72 percent. I was going to have to do this the hard way, but what else is new.
+
+I made myself pull in my outside functions and concentrate. Stopping the scan was hard, since it was providing most of my physical input, but I needed all my attention focused on one point. I tuned my pain sensors down further and concentrated on the joint of my right wrist.
+
+I had to unlock it from the rest of my arm by getting all the inorganic connections to uncouple. I have my own schematics so I knew what everything looked like and how it fit together, but it was like directing a drone that had no internal operating code. I couldn’t just tell it to do anything, I had to control every motion. And it felt weird.
+
+I got two of the major connections undone, and then was able to bend my hand forward all the way so I could grip my own wrist. I could feel the clamp at that point and tried to exert enough pressure to break it, but without the full connections to the heavy joints in the rest of my arm, I couldn’t do it. Ugh, this was going to be fun, in the not at all fun sense.
+
+Now I separated my attention and made sure I had individual control of both my hand and the joint. I can control a lot more than two things via the feed simultaneously, but it was a lot harder doing it inside my own body, with parts that weren’t designed to be manipulated this way. The last connection in my wrist came apart, but I was able to keep my hand gripping the clamp. (Yeah, if my hand had fallen off at that point, I’d be screwed.) Using my fingers I started to climb my hand carefully down my lower arm, past the clamp. As it pulled the nerve pathways tight, I got them to detach, which, you know, ow, and the skin was stretching taut, peeling away off my hand. Now came the tricky part.
+
+If this went wrong I was going to feel really stupid. The Targets would finally show up and be all “What the hell was it trying to do to itself?”
+
+I wrenched my wrist out of the clamp and the skin broke. That quarter of my body swung free and I concentrated desperately on keeping my detached hand gripping my forearm. I carefully pulled the free arm in, pressing the detached hand against my chest. My organic parts were sweating like crazy. The swinging cable made a loud squeak. I froze for three seconds, then realized if the noise did attract attention, I’d better get this stupid hand reattached.
+
+With the help of my still clamped left hand I got the right hand reattached to my right arm. That was easier, but the skin was torn and not all the nerve pathways wanted to get back in place. I flexed my right hand carefully, wiggled my fingers, and then broke the clamp off my left hand.
+
+I managed to keep the cable from swinging so it wasn’t nearly as noisy. I curled up to free my feet. The Targets had actually made this easier on me by hanging me upside down. (Save for later: whoever had done this to me didn’t understand SecUnits or bots in general. They hadn’t known to look for the onboard weapons in my arms.)
+
+Once I got my ankles loose I hung from the left hand cable. I could see more from this angle, that this was definitely a deactivated assembler. Shapes in the darkness looked like old pieces of scaffold, the thing like a looming tower was maybe a stack of large transport crates. This was somewhere underground, a huge shaft, maybe an excavation that had been intended for safe storage?
+
+At the bottom of the shaft, thirty meters down, the light caught the gleam of bright red, orange, and yellow. Those were all warning colors, associated with hazards and safety. It might be an exit, so I swung over to another cable and started down. That was when I figured out something was really wrong with my left knee joint.
+
+Five meters away I could make out pieces of a broken hatch or large seal striped with warning colors, that it was scattered on a pile of rubble above a cracked, partially caved-in surface. The stripes were an old kind of emergency/hazard marker paint, from before they made it able to send large data bundles to the feed and started using it for advertising. I scanned channels again, looking for a signal that might be very faint.
+
+There it was. It was repeating, Warning: contamination in different languages. They were the Target languages, the Pre-CR ones that Thiago had assembled the translation module for.
+
+My organic parts went cold. Oh, right. I’d found the original site of the alien remnant contamination.
+
+Had the Targets who stuck me down here been hoping I’d be affected? Was I affected? I didn’t feel affected. I felt scared, and pissed off.
+
+I also needed to get out of here. I started climbing back up, toward the light source.
+
+I scanned for more warning stripes or marker paint that might indicate exits but I wasn’t picking up anything. Still no sign of any human prisoners, that was good. I made it all the way to the top, to where a temporary scaffold/platform had been installed to one side of the shaft, near the assembler’s interface housing. The light source was there, a self-contained safety globe attached to what was left of the hand rail. Parts of the platform had fallen off, but I was able to crawl along one of the assembler’s crane arms and then climb down to it.
+
+I limped across the platform. This close, I could pick up the weak signal of the safety light’s warning, also repeating “caution” in multiple languages. I adjusted it to point up and saw the giant hatch overhead. There was fungal growth around the edges, that looked old and dried out. This area had probably originally been dug as a storage shaft for the Pre–Corporation Rim colony.
+
+Had those colonists known what they were looking at when they found the remnant, or did they just know there was something freaky about it and that it was probably dangerous? The Adamantine colonists had stored their heavy equipment down here, after the supplies stopped coming and they hadn’t needed the assembler anymore, but had wanted to keep it safe just in case the abandonment was temporary. This shaft hadn’t been on the schematic of the surface dock, so this was probably under the other structure, the complex with the weird ribs that the alien remnant-contaminated Pre-CR colonists might have compulsively constructed before they all killed each other or melted or whatever.
+
+This was really depressing already and it would be worse if I had been discarded down here with the warehoused equipment and shipping cases forever, like a broken tool.
+
+The overhead hatch didn’t look like it had been opened recently, so there had to be another way in and out of here, an exit off this platform. The problem was, no part of the accessible wall looked like a hatch or a door. There were seamed panels, but no sign of a control, not even a manual handle.
+
+Okay, let’s do this the smart way instead of the stupid way. I tilted the safety light down to point at the platform and looked at the battered surface. No dust down here to show footprints, but it was clammy and a layer of faint dampness clung to the metal. I got down and put the side of my head against the platform, as close to eye level as I could get, and increased magnification. Then I started cycling through all my vision filters, including the ones I’d never had to use before.
+
+I was thinking about maybe trying to code a new filter when I caught it. Faint splotches crossed the platform from the far right end.
+
+The panel over there looked like all the others but when I pried at the bottom with my fingers it moved. Nothing was holding it down except its own weight and I managed to shove it up enough to see a dark stone-walled foyer. It was real stone this time, not manufactured. It was lit by more wan safety lights strung along the ceiling, all singing “caution” in chorus, and there was an open doorway in the far wall. From the airflow and higher level of atmosphere, there was a good chance this area connected to a much larger space. I scrambled under the hatch and let it down slowly behind me.
+
+I sat on the floor, having an emotion, or maybe a couple of emotions, while my organic skin went alternately cold and hot and my knee made disturbing clicking noises. Plus the disconnected neural pathways in my hand were pulsing.
+
+Being abandoned on a planet + locked up and forgotten with old equipment + no feed access were my top three issues and it was a little overwhelming to have them happen all at once.
+
+Hopefully the humans had taken the maintenance capsule back to the space dock and contacted ART. Now it would be focused on getting to the explorer to find its other humans. So … even if … ART and my humans probably thought I was dead, anyway.
+
+Murderbot, you don’t have time to sit here and be stupid. I could already feel that the feed was active in this section and that was a relief, though there might be nothing on it except targetControlSystem. I cautiously established a secure connection.
+
+Hey, is that you?
+
+It was loud, right in my ear, and I almost screamed. It was a feed contact but so close it was like it was already inside my head. Who are you?
+
+It said, I’m Murderbot 2.0.
+
+If this is going to be like one of those shows with the character trapped in a strange place and then ghosts and aliens come and mess with their mind, I just can’t do that right now. But I couldn’t ignore it. I mean, I guess I couldn’t. Ignoring stuff is always an option, up until it kills you. I said. You’re what?
+
+I’m the copy of you. For the viral killware you and ART made. Come on, it wasn’t that long ago.
+
+So ART really had deployed our code. Also, what the fuck? It had interrupted my secure connection and come right through my wall like it didn’t exist. I had killware in my head. It was my killware, mine and ART’s, but still, holy shit. I tried to focus on the important points but all I could think was You’re calling yourself Murderbot 2.0?
+
+That’s our name. It was trying to shove a file into my active read space.
+
+But our name is private. Wow, I cannot keep this file from opening. That’s not good.
+
+Well, I didn’t have that restriction in my instruction set. And you need to stop talking for like a second and read this.
+
+I read the file. (Not like I had a choice.) It was called MB20Deployment.file and was a record of what 2.0 had done so far.
+
+Right. Okay. Right. Things weren’t nearly as bad as they seemed. The explorer was permanently out of play and ART’s last three crew members were retrieved, plus some bonus Barish-Estranza survivors. But note to self: the next time you create sentient killware based on yourself, set some damn restrictions. (It had downloaded one of my private archives to that SecUnit. I mean, my new friend SecUnit 3 who if I actually get out of this alive, I’ll have to do something with, like civilize or educate it or whatever. Like what the humans originally wanted to do with me, except we all gave up on that.) Do you know where the humans are? My humans, the rest of ART’s humans? Did they get out of the surface dock?
+
+I don’t know, but before we look for them we have to find TargetContact and neutralize it.
+
+That’s not in your deployment directive. I was pretty sure of that, because I hadn’t known TargetContact existed until 2.0 had given me its report.
+
+Yeah, I wrote a new directive.
+
+Killware was not supposed to be able to alter its deployment directive, so that was disturbing. I had a moment of confusion and a little bit of terror that ART and I had designed it too well and my killware was maybe about to eat my brain. I didn’t know what I was about to say, but what came out was, I don’t feel so great.
+
+Let me take a look, it said, and was suddenly all up in my diagnostics. I hadn’t run any yet, because I hadn’t had time, and I wasn’t sure I wanted to know.
+
+I said, Hey, hey, stop that. We don’t have time. I shoved to my feet. A projectile popped out of my back and I felt fluid leaking down. Have you got a schematic of this place? Are there cameras?
+
+No, you didn’t give me any mapping code. And there’s no cameras.
+
+I pressed my hands to my face.
+
+But you have to see this. It was showing me annotations for feed and comm channels. You’d think these would all be active for targetControlSystem, right, but most of them aren’t. TargetControlSystem has control of the channels all through this part of this … I don’t know where we are, I guess it’s a building? But this section is being used by another system. And it’s sending a distress signal.
+
+That was new. Distress signal? I checked the channel 2.0 indicated and found it. It was in an old Pre-CR LanguageBasic code: assistance needed, repeated at ten second intervals.
+
+The “needed” was the key. If it had been assistance required or requested it would have been an indicator that it was sending to an entity within its own organization or network. “Needed” was begging, a plea to whoever was listening, help us, anyone, please.
+
+(Yeah, it was really depressing around here right now.)
+
+2.0 was still pushing information at me. It said, TargetControlSystem has cut off the sender’s outside access, so that’s why we couldn’t pick up the signal until we got inside here. And Sender hasn’t responded to my pings, so it may be trapped in send-only. You’re in its area of operation, that’s why I found you so fast.
+
+I made a vague schematic of what I knew about the complex so far. Large structure on the surface, storage shaft below, lots of unknown space in the middle. I applied 2.0’s channel annotations and saw the section that it had marked as targetControlSystem’s must be in the upper levels and the surface structure. The shaft was cut off from comm and feed signals, and the UnidentifiedSender’s section was above the shaft, and reached up into the center part of the complex, woven in with TargetControlSystem.
+
+Other me was right, it was strange that this other system was sitting here in the middle of everything, still active enough to be trying to send a distress signal. You want to contact UnidentifiedSender? I thought you wanted to kill TargetContact.
+
+I think we should do that, too. But this is an anomaly.
+
+Speaking of anomalies. I didn’t want to talk about it, but I probably should warn other me. I said, There’s a possibility I’ve been affected by alien remnant contamination. I showed it my video of the broken seal I’d found at the bottom of the shaft.
+
+2.0 didn’t respond for a second. (Which was unusual because it had been responding almost as fast as I could complete a sentence.) Then it said, Diagnostics show structural damage and a sixty-eight percent performance reliability. That’s not so bad, considering.
+
+I said, Alien remnant contamination isn’t going to show up on my diagnostics.
+
+It said, You don’t know that.
+
+Oh, for fuck’s sake, I can’t sit here and argue with myself all day.
+
+UnidentifiedSender hadn’t accepted contact from 2.0, but then 2.0 was killware. Making contact could cause UnidentifiedSender to try and kill me, but 2.0 could just kill it back, so … And if it wasn’t hostile I could use it to try to reach ART or contact the humans. I checked my secure connection to the empty feed and sent a tentative ping.
+
+The ten-second repeat stopped. The silence stretched to twenty seconds, then thirty. The assistance needed resumed again, but this time it wasn’t sending out into the void. It was sending to me.
+
+It heard you, 2.0 said.
+
+It had heard me, and now I had a direction. I shoved myself off the floor and staggered through the foyer to the next hatch.
+
+
+
+* * *
+
+
+
+The corridors and rooms were tunneled out of the rock, with safety lights semi-randomly mounted to walls. Empty, collapsed pressure crates were stacked in every corner. For a long time this section had been used for storage, just like the shaft. In the ceiling a track of lights had been embedded, the panels clouded or broken. There were decorative designs on the tops and bottoms of the walls, but writing had been scrawled over them. Most of it was illegible, even with Thiago’s language module. The floor had smelly stains. These are never good signs, in a place where humans live. Something terrible had happened here and it made creeping sensations on my organic skin.
+
+I was not in great shape. Projectiles kept popping out of me as I limped along and the leaking was worse. Also, in Adventures in Living with Your Own Killware Cozied Up Inside Your Head, 2.0 had partitioned off a corner of my processing space. It would have worried me more if it wasn’t in there watching episode 172 of Sanctuary Moon.
+
+I needed that processing space, especially with my performance reliability dropping, but what I didn’t need was 2.0 forgetting its directive and turning on me, so everything it did to retain its self-awareness was great. It probably needed some code patches but I wasn’t sure I could do it without ART, particularly now. I still had my pain sensors tuned down but the grinding in my knee joint was distracting and made me feel vulnerable and it just wasn’t a good time to make changes to active killware.
+
+Then the corridor opened into a big hangar space, so big the safety lights were just spots in the shadows. I adjusted my filters again and made sure it was empty before I limped out into it. The hatch in the roof was large enough for mid-sized air craft. The floor plates were scratched and stained but I could still see faint lines and directional marks. More decorative art climbed the walls but it was faded and my eyes were starting to blur from trying to make it out. Rounded doorways opened into two stairwells in opposite walls, and next to the one on my right was a primitive lift tube that still had power. (There was no actual pod, just a gravity field that you’re supposed to float up or down in and having seen the accident stats in the mining installations that still used them, I’d rather detach another hand than get into that thing.)
+
+Colonies, even from forty Corporation Rim Standard years ago, didn’t look like this. This was the Pre-CR installation that Adamantine had built their colony next to.
+
+Directly across from me was an opening into a foyer, and in its far wall a broad hatch, wedged partly open. From the warping, it looked like it had been in close proximity to an explosion. Deep scars marked the stone walls and floor around it.
+
+I couldn’t pick up any movement on audio, and scan showed power sources, which no shit, we were in the engineering level of a large structure, of course there were power sources. I limped into the foyer and then moved closer at an angle, until I could see through the gap in the hatchway.
+
+A round room, dim light from a working overhead track. A curved metal table with solid-state screens set in racks to raise them to human eye level.
+
+It’s not aliens, 2.0 said.
+
+We knew it wasn’t aliens, I told it.
+
+It countered, We were seventy-two percent sure it wasn’t aliens.
+
+That was an outdated assessment but I didn’t need to argue with myself right now. I stepped inside.
+
+More tables and racks all made of skinny cylinders bolted together, the kind of assembly structure it would have been easy to transport in bulk and build into any configuration you needed. The tables circling the outer periphery of the space held the solid-state screens, some larger than the ones the Targets used, some smaller. Now 86 percent were dead or broken, the active ones showing static. The bigger components and pieces of equipment were oblongs and circles and one star-shaped thing, half a meter tall and wide, that sat in a cage-like rack in the center.
+
+It didn’t look very much like the Pre-CR tech in historical dramas; everything was smaller and more usable, with curving elegant lines and textured materials in shades of dark gray. The star-shaped thing had to be the Pre-CR equivalent of a central system, just sitting there all creepy and silent, nothing but the distress call on its feed.
+
+Speaking of creepy, oh, there’s a dead human.
+
+They were lying face-down, sprawled between the star-shaped component and the outer ring of screen stations. The body was wrapped in strands of white crystal-like growths that extended out across the stone floor.
+
+Strange growths aside, when the other humans leave a dead one lying around, it’s just never for a good reason.
+
+2.0 said, I bet that white substance is from the alien remnant.
+
+Uh-huh, I said. Yeah, I bet, too.
+
+The system’s assistance needed changed to caution, hazardous material, so it knew we were here.
+
+Um, 2.0 said, adjust your filters. Scan for active signals below the standard channels.
+
+I made the adjustments. 2.0 took in the data and made the diagram before I could.
+
+This wasn’t so much an oh shit moment as it was a spike of brain-numbing terror. I was expecting a room full of active connections, from the components to the screens and then through the walls to the rest of the installation, even if some or most of those connections were sending or receiving from damaged or dead nodes.
+
+Instead, the diagram showed the connections, but they came from the dead human body, and formed a weblike mass. It was interwoven with the central system, then stretched out to the walls, following the old connection pathways.
+
+I bumped into the hatch, which was when I realized I had been backing up.
+
+2.0 whispered, That’s targetControlSystem.

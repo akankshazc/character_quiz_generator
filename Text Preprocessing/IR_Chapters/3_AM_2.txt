@@ -1,0 +1,146 @@
+2
+
+
+
+I met Governor Giarod in her office, its cream-and-green silk hangings today covering even the broad window that looked out onto Athoek Station’s main concourse, where citizens crossed the scuffed white floor, came or went from Station Administration, or stood talking in front of the temple of Amaat with its huge reliefs of the four Emanations. Governor Giarod was tall, broad-shouldered, outwardly serene, but I knew from experience she was liable to misgivings, and to acting on those misgivings at the least convenient moments. She offered me a seat, which I took, and tea, which I refused. Kalr Five, who had met me at the docks, stood impassive just behind me. I considered ordering her to the door, or even out into the corridor, but decided that an obvious reminder of who I was and what resources I commanded might be useful.
+
+Governor Giarod couldn’t help but notice the soldier looming straight and stiff behind me, but pretended she did not. “Once the gravity came back on, Fleet Captain, Station Administrator Celar felt—and I agreed—that we should do a thorough inspection of the Undergarden, to be sure it was structurally sound.” A few days earlier the public gardens, just above the part of the station that had been named for them, had begun to collapse, almost flooding the four levels below them. Athoek Station’s AI had solved the immediate problem by turning off the entire station’s gravity while the Undergarden was evacuated.
+
+“Did you find dozens of unauthorized people hiding there, as you feared?” Every Radchaai had a tracker implanted at birth, so that no citizen was ever lost or invisible to any watching AI. Particularly here in the relatively small space of Athoek Station, the idea that anyone could be moving secretly, or here without Station’s knowledge, was patently ridiculous. And yet the belief that the Undergarden hid crowds of such people, all of them a threat to law-abiding citizens, was alarmingly common.
+
+“You think such fears are foolish,” replied Governor Giarod. “And yet our inspection turned up just such a person, hiding in the access tunnels between levels three and four.”
+
+I asked, voice even, “Only one?”
+
+Governor Giarod gestured acknowledgment of my point—one person was nowhere near what some—including, apparently, the governor—had feared. “She’s Ychana.” Most of the residents of the Undergarden had been Ychana. “No one will admit to knowing anything about her, though it’s fairly obvious some of them did know her. She’s in a cell in Security. I thought you might like to know, especially given the fact that the last person who did something like this was an alien.” Translator Dlique, the sort-of-human representative of the mysterious—and terrifying—Presger. Who before the treaty with the Radch—with, actually, all humanity, since the Presger didn’t make distinctions between one sort of human and another—had torn apart human ships, and humans, for sport. Who were so powerful no human force, not even a Radchaai one, could destroy them, or even defend against them. Presger Translator Dlique, it had turned out, could deceive Station’s sensors with alarming ease, and had had no patience for being safely confined to the governor’s residence. Her dead body lay in a suspension pod in Medical, waiting for the hopefully distant day when the Presger came looking for her, and we had to explain that a Sword of Atagaris ancillary had shot her, on the suspicion that she’d vandalized a wall in the Undergarden.
+
+At least the search that had turned up this one person ought to have allayed fears of a horde of murderous Ychana. “Did you look at her DNA? Is she closely related to anyone else in the Undergarden?”
+
+“What an odd question, Fleet Captain! Do you know something you haven’t shared with me?”
+
+“Many things,” I replied, “but most of them wouldn’t interest you. She isn’t, is she?”
+
+“She isn’t,” replied Governor Giarod. “And Medical tells me she’s carrying some markers that haven’t been seen since before the annexation of Athoek.” Annexation was the polite term for the Radchaai invasion and colonization of entire star systems. “Since she can’t possibly be recently descended from a line that went extinct centuries ago, the only other possibility—in the loosest sense of that word—is that she’s over six hundred years old.”
+
+There was another possibility, but Governor Giarod hadn’t seen it yet. “I imagine that’s probably the case. Though she’ll have been suspended for a fair amount of that time.”
+
+Governor Giarod frowned. “You know who she is?”
+
+“Not who,” I said, “not specifically. I have some suspicions as to what she is. May I speak to her?”
+
+“Are you going to share your suspicions with me?”
+
+“Not if they prove unfounded.” All I needed was for Governor Giarod to add another phantom enemy to her list. “I’d like to speak with her, and I’d like a medic to be brought to examine her again. Someone sensible, and discreet.”
+
+
+The cell was tiny, two meters by two, a grate and a water supply in one corner. The person squatting on the scuffed floor, staring at a bowl of skel, obviously her supper, seemed unremarkable at first examination. She wore the bright-colored loose shirt and trousers most of the Ychana in the Undergarden preferred, yellow and orange and green. But this person also wore plain gray gloves, suspiciously new-looking. Likely they had come quite recently from Station stores, and Security had insisted she put them on. Hardly anyone in the Undergarden wore gloves, it was just one more reason to believe the people who lived there were uncivilized, unsettlingly, perhaps even dangerously, foreign. Not Radchaai at all.
+
+There was no way to signal that I wanted to come in—not even the pretense of privacy, in Security’s custody. Station—the AI that controlled Athoek Station, that was for all intents and purposes the station itself—opened the door at my request. The person squatting on the floor didn’t even look up. “May I come in, citizen?” I asked. Though citizen was almost certainly the wrong term of address here, it was, in Radchaai, very nearly the only polite one possible.
+
+The person didn’t answer. I came in, a matter of a single step, and squatted across from her. Kalr Five stopped in the doorway. “What’s your name?” I asked. Governor Giarod had said that this person had refused to speak, from the moment she’d been arrested. She was scheduled for interrogation the next morning. But of course, for an interrogation to work, you had to know what questions to ask. Chances were, no one here did.
+
+“You won’t be able to keep your secret,” I continued, addressing the person squatting on the floor in front of me staring at her bowl of skel. They had left her no utensil to eat it with—fearing, perhaps, that she might do herself an injury with it. She would have to eat the thick leaves with her hands, or put her face into the bowl, either option unpleasant and demeaning, to a Radchaai. “You’re scheduled for an interrogation in the morning. I’m sure they’ll be as careful as they can, but I don’t think it’s ever a terribly pleasant experience.” And, like a lot of people annexed by the Radch, most Ychana were convinced that interrogation was inseparable from the re-education a convicted criminal would undergo to ensure she wouldn’t offend again. Certainly the drugs used were the same, and an incompetent interrogator could do a good deal of damage to a person. Even the most Radchaai of Radchaai had something of a horror of interrogation and re-education, and tried to avoid mentioning either one, would walk all around the topics even when they were obviously staring them in the face.
+
+Still no answer. She did not even look up. I was just as capable as this person was of sitting in silence. I thought of asking Station to show me what it could see of her—certainly temperature changes, possibly heart rate, possibly more. I didn’t doubt that what sensors existed here in Security were set to pick up as much information as possible from inmates. But I doubted I would see anything surprising in that data. “Do you know any songs?” I asked.
+
+Almost, I thought I saw a change, however small, in the set of her shoulders, in the way she held herself. My question had surprised her. It was, I had to admit, an inane one. Nearly everyone I had met, in my two-thousand-year life, had known at least a few songs. Station said, in my ear, “That surprised her, Fleet Captain.”
+
+“No doubt,” I responded, silently. Didn’t look up as Five stepped back into the corridor to make way for Eight, carrying a box, gold inlaid with red and blue and green. Before I had left the governor’s office, I had messaged to ask her to bring it. I gestured to her to set it on the floor beside me. And when she had done so, I opened the lid.
+
+The box had once held an antique tea set—flask, strainer, bowls for twelve—of blue and green glass, and gold. It had survived three thousand years unbroken—possibly more. Now it was in fragments, shattered, strewn around the box’s interior, or collected in the depressions that had once held its pieces snug and safe. Unbroken, it had been worth several fortunes. In pieces it was still a prize.
+
+The person squatting on the floor in front of me turned her head, finally, to look at it. Said, in an even voice, in Radchaai, “Who did this?”
+
+“Surely you knew,” I said, “when you traded it away, that something like this might happen. Surely you knew that no one else could possibly treasure it as much as you did.”
+
+“I don’t know what you’re talking about.” Still she stared at the broken tea set. Still her voice was even. She spoke Radchaai with the same accent I’d heard from other Ychana in the Undergarden. “This is obviously valuable, and whoever broke it was obviously someone entirely uncivilized.”
+
+“I think she’s upset, Fleet Captain,” said Station, in my ear. “She’s reacted emotionally, anyway. It’s hard to be more definite, with only externals, when I don’t know someone well.”
+
+I knew how that worked, from personal experience. But I didn’t say so. I replied, silently, “Thank you, Station, that’s good to know.” I knew, also from personal experience, just how helpful an AI could be when it liked you. And how obstructive and unhelpful one could be when it had some reason for dislike or resentment. I was genuinely, pleasantly surprised to find Station volunteering information for me. Aloud I said, to the person crouched in front of me, “What’s your name?”
+
+“Fuck you,” she said, even and bland. Still looking at that shattered tea set.
+
+“What was the captain’s name, that you removed before you traded the tea set away?” The inscription on the inside of the box lid had been altered to remove a name that, I suspected, might allow someone to trace it back to its origin.
+
+“Why wait until tomorrow to interrogate me?” she asked. “Do it now. Then you’ll have answers to all your questions.”
+
+“Heart rate increase,” said Station, into my ear. “Her respiration is faster.”
+
+Ah. Aloud I said, “There’s a fail-safe, then. The drugs will kill you. This part of you, anyway.”
+
+She looked at me, finally. Blinked, slowly. “Fleet Captain Breq Mianaai, are you sure you’re quite all right? That didn’t make any sense at all.”
+
+I closed the box. Picked it up, and rose. Said, “Captain Hetnys sold the set to a Citizen Fosyf Denche. Fosyf’s daughter broke it, and Fosyf decided it had lost all value, and threw it away.” I turned and handed the box to Five, who had replaced Eight in the doorway again. Properly speaking, the tea set was hers. She was the one who had gone to the trouble of fishing it, all of its pieces, out of the trash after Raughd Denche, in a devastated fury at her mother’s disowning her, had dashed it to the ground. “It was good to meet you. I hope to talk to you again soon.”
+
+
+As I exited Security onto the station’s main concourse, Kalr Five behind me, carrying her shattered tea set, Station said in my ear, “Fleet Captain, the head priest has just left Governor Giarod’s office and is looking for you.”
+
+In Radch space, head priest with no other modifiers meant the head priest of Amaat. On Athoek Station, the head priest of Amaat was a person named Ifian Wos. I had met her when she had officiated—somewhat resentfully—at Translator Dlique’s funeral. Beyond that I had not spoken to her.
+
+“Thank you, Station.” As I said it, Eminence Ifian exited the governor’s residence, turned immediately in my direction, and made her way toward me. Station had no doubt told her where I was.
+
+I didn’t want to talk to her just now. I wanted to talk to Governor Giarod about the person in custody in Security, and then see to some questions about my soldiers’ quarters. But Station fairly clearly hadn’t told me Head Priest Ifian was looking for me so that I could avoid her. And even if I attempted it now, I wouldn’t be able to do so forever, short of fleeing the station entirely.
+
+I walked to the middle of the scuffed, once-white floor of the concourse and stopped. “Fleet Captain!” called the head priest, and bowed as she reached me. A nicely calculated bow, I thought, not one millimeter deeper than my rank demanded. She was two centimeters shorter than I was, and slender, with a low and carrying voice, and held herself and spoke with the sure confidence of someone with the sort of connections and resources that made appointment to a high-ranking priesthood possible. Citizens passed to either side of us where we stood, their coats and jackets sparkling with jewelry, with memorial and associational pins. The ordinary, everyday traffic on the concourse. Most of those who came near us affected to ignore us, though some looked sidelong at us, curious. “Such shocking events, the past few days!” Eminence Ifian continued, as though we were merely friendly acquaintances, gossiping. “Though of course we’ve all known Captain Hetnys for years, and I don’t think anyone could have expected her to do anything untoward!” The many pins on Head Priest Ifian’s impeccably tailored purple coat flashed and sparkled, trembling momentarily in the extremity of the head priest’s doubt that Captain Hetnys might ever do wrong.
+
+Captain Hetnys, of course, had just days ago threatened to kill Horticulturist Basnaaid Elming in order to gain some sort of control over me. Horticulturist Basnaaid was the younger sister of someone who had been a lieutenant of mine, when I had been the troop carrier Justice of Toren. I had only consented to come to Athoek because Basnaaid was here, because I owed her long-dead sister a debt I could in fact never truly repay. “Indeed,” I replied, the most diplomatic response possible.
+
+“And I suppose you do have the authority to detain her,” Eminence Ifian continued, her tone just the smallest bit dubious. My confrontation with Captain Hetnys had ended with the Gardens a shambles and the entire station without gravity for several days. She now slept frozen in a suspension pod so that she couldn’t make any more spectacularly, foolishly dangerous moves. “Military matters no doubt. And Citizen Raughd. Such a nice, well-bred young person.” Raughd Denche had attempted to kill me, mere days before Captain Hetnys’s untoward behavior. “Surely they’ll have had reasons for what they did, surely that should be taken into account! But, Fleet Captain, that’s not what I wanted to talk to you about. And of course I don’t want to keep you standing here on the concourse. Perhaps we could have tea?”
+
+“I’m afraid, Eminence,” I replied, smooth and bland, “that I’m terribly busy. I’m on my way to meet with Governor Giarod, and then I very much need to see about my own soldiers, who have been sleeping at the end of a station corridor for the past few nights.” Station Administration was surely awash in complaints just now, and no one was going to look out for the interests of my own small household if I didn’t.
+
+“Yes, yes, Fleet Captain, that was one of the things I wanted to discuss with you! You know, the Undergarden used to be quite a fashionable neighborhood. Not, perhaps, as fashionable as the apartments overlooking the concourse.” She gestured around, upward, at the windows lining the second story of this, the center of station life and its largest open space besides the Gardens. “Perhaps if the Undergarden had been equally fashionable, it would have been repaired long ago! But things are as they are.” She made a pious gesture, submission to the will of God. “Lovely apartments, I’ve heard. I can only imagine what shape they’re in now, after so many years of Ychana squatting there. But I do hope the original assignments will be taken into account, now there’s a refit underway.”
+
+I wondered how many of those families were even still here. “I am unable to assist you, Eminence. I have no authority over housing assignments. You would do better to speak to Station Administrator Celar.”
+
+“I spoke to the station administrator, Fleet Captain, and she told me that you had insisted on current arrangements. I’m sure leaving everyone where they are seems practical to you, but really, there are special circumstances here. And this morning’s cast was quite concerning.”
+
+It was possible the head priest was championing this cause entirely out of concern for families who hoped to return to the Undergarden. But she was also a friend of Captain Hetnys’s—Captain Hetnys, who had been working for the part of the Lord of the Radch who had killed Lieutenant Awn Elming. The part of the Lord of the Radch who had destroyed the troop carrier Justice of Toren—that is to say, the part of the Lord of the Radch who had destroyed me. And the timing of this, just when it had become clear that I was not a supporter of that side of Anaander Mianaai, was suspicious. That, and the bringing to bear of the daily omen casting. I had met quite a few priests in my long life, and found that they were, by and large, like anyone else—some generous, some grasping; some kind, some cruel; some humble, some self-aggrandizing. Most were all of those things, in various proportions, at various times. Like anyone else, as I said. But I had learned to be wary whenever a priest suggested that her personal aims were, in fact, God’s will.
+
+“How comforting,” I replied, my voice and my expression steadily serious, “to think that in these difficult times God is still concerned with the details of housing assignments. I myself have no time to discuss them just now.” I bowed, as perfectly respectful as the head priest had been, and walked away from her, across the concourse toward the governor’s residence.
+
+“It’s interesting, isn’t it,” said Station in my ear, “that the gods are only now interested in refitting the Undergarden.”
+
+“Very interesting,” I replied, silently. “Thank you, Station.”
+
+
+“An ancillary!” Disbelief was obvious in Governor Giarod’s face, her voice. “Where’s the ship?”
+
+“On the other side of the Ghost Gate.” A gate that led to a dead-end system, where the Athoeki had intended to expand, before the annexation, but it had never happened. There were vague rumors that the system was haunted. Captain Hetnys and Sword of Atagaris had shown an unaccountable interest in that gate. Shortly after Mercy of Kalr had arrived in the system, an unbelievably old supply locker had come through it. I was convinced now that Kalr Five’s shattered tea set had also come through that gate, in exchange for shipments of suspended human beings. They were supposed to be cheap, unskilled labor for Athoek, but Captain Hetnys had stolen them, sold them to someone on the other side of the Ghost Gate. “You remember, a few days ago we talked about suspended transportees being stolen.” She could hardly have forgotten it, considering the events of the last few days. “And it was difficult to imagine what the purpose might be behind that theft. I think there’s been a ship on the other side of that gate for quite some time, and it’s been buying bodies to use as its ancillaries. It used to buy them from Athoeki slavers—which is how it had an Ychana body from before the annexation it could send here, and blend in.” More or less, at least. “When the annexation shut down its supply, it bought them from Radchaai officials who were corrupt and greedy enough to sell transportees.” I gestured to Five, standing behind where I sat, to open the tea set box.
+
+“That’s Fosyf’s,” said Governor Giarod. And then, realizing, “Captain Hetnys sold it to her.”
+
+“You never asked until now where Captain Hetnys got such a thing.” I gestured to the inscription on the inside of the lid. “You also never noticed that someone had very carefully removed the name of the original owner. If you read Notai”—the language in which that inscription was written—“or if you’d seen enough of these, you’d have noticed that immediately.”
+
+“What are you saying, Fleet Captain?”
+
+“It’s not a Radchaai ship we’re dealing with.” Or it was a Radchaai ship. There was the Radch, the birthplace of Anaander Mianaai more than three thousand years ago, when she’d been a single, very ambitious person in a single body. And then there was the enormous territory Anaander had built around that over the past three thousand years—Radch-controlled space, but what connection was there anymore, between those two? And the inhabitants of the Radch, and the space immediately around it, hadn’t all been in favor of what Mianaai had done. There had been battles over it. Wars. Ships and captains destroyed. Many of them had been Notai. From the Radch. “Not one of Anaander’s, I mean. It’s Notai.” The Notai were Radchaai, of course. People in Radch space—and outside it—tended to think of “Radchaai” as being one thing, when in fact it was a good deal more complicated than that, or at least it had been when Anaander had first begun to move outward from the Radch.
+
+“Fleet Captain.” Governor Giarod was aghast. Disbelieving. “Those are stories. Defeated ships from that war, wandering space for thousands of years…” She shook her head. “It’s the sort of thing you’d find in a melodramatic entertainment. It’s not real.”
+
+“I don’t know how long it’s been there,” I said. “Since before the annexation, at least.” It had to have been there since before the annexation, if it had been buying ancillary bodies from Athoeki slavers. “But it’s there. And,” I continued, relieved that the medic who had examined the captive ancillary hadn’t seen me in person, to turn her newly tuned implants on me, had given the governor her observations without betraying me, “it’s here. I doubt any Undergarden resident will say much about her.” The Undergarden had been damaged, years ago, in a way that made Station unable to sense much of what happened there. It was the perfect hiding place, for someone like this ancillary. So long as it avoided being seen by someone wired to send sensory data to Station—and that wasn’t very common, in the Undergarden, unlike the rest of the station—it could move unnoticed, with no one realizing it shouldn’t be there. “I’m guessing it realized something was going on, when communications were lost with the palaces, and when traffic was disrupted, so it sent an ancillary to see if it could find out what. Even if the ancillary was captured, its secret would likely have been safe. There’s a fail-safe that will kill it if interrogation drugs are administered. And the implants are hidden, and likely no one would think to look for them. Possibly the fail-safe is rigged to destroy what evidence there is to begin with.”
+
+“You guessed all this from Citizen Fosyf’s tea set.”
+
+“Yes, actually. I would have been clearer about my suspicion, earlier, but I wanted more proof. It is, as you’ve noted, rather difficult to believe.”
+
+Governor Giarod was silent a moment, frowning. Thinking, I hoped, of her part in the affair. Then she said, “So what do we do now?”
+
+“I recommend installing a tracker, and putting it on the ration list.”
+
+“But surely, Fleet Captain, if it’s an ancillary… an ancillary can’t be a citizen. A ship can’t.”
+
+I waited, just a fraction of a second, to see if Station would say anything to her, but there was no change in the governor’s expression. “I’m sure Security doesn’t want that cell permanently occupied. What else are we going to do with it?” I gestured irony. “Assign it a job,” I continued. “Nothing sensitive, of course, and nothing that gives it access to vulnerable station systems. Confirm its housing assignment in the Undergarden.”
+
+Governor Giarod’s expression changed, just the smallest bit. The head priest had brought the issue to her, then. “Fleet Captain, I realize housing assignments are Station Administrator Celar’s business, but I confess I don’t like rewarding illegal activity. No one should have been living in the Undergarden to begin with.” I said nothing, only looked at her. “It’s good you’ve taken an interest in your neighbors,” she went on after a pause, doubtfully, as though she wasn’t actually quite certain of that. “But I personally would much rather see those quarters assigned to law-abiding citizens.” Still I said nothing. “I think it might be more efficient to rethink the housing assignments in the Undergarden, rethink the refit, and consider sending some citizens downwell in the meantime.”
+
+Which would be fine if they wanted to go down to the planet, but I suspected that if the citizens in question were current Undergarden residents, what they wanted wouldn’t be a consideration. And likely most of them had spent their entire lives on the station, and didn’t want or weren’t suited for the kinds of jobs available downwell, on short notice. “This is, as you say, Governor, a matter for Station Administrator Celar.” Station Administrator Celar was in charge of Athoek Station’s operations. Things like residential assignments were under her authority, and though she technically answered to Governor Giarod, such fine-grained details of station life were usually beneath a system governor’s notice. And Administrator Celar was popular enough that Governor Giarod likely would much prefer to settle such a matter amicably, behind the scenes.
+
+Governor Giarod replied, smoothly, “But you’ve asked her to make those illicit Undergarden living arrangements official. I suspect she’d be more open to considering changing those arrangements, if you talked to her.” That was interesting. Almost I expected Station to comment, but it said nothing. Neither did I. “People are going to be unhappy about this.”
+
+I considered asking Station outright if the governor intended a deliberate threat. But Station’s silence now, when it had been almost chatty minutes before, was telling to me, and I knew it wouldn’t like my pushing too hard on the places where it felt uncomfortable or conflicted. And its offered goodwill was a new and delicate thing. “Undergarden residents aren’t people?”
+
+“You know what I mean, Fleet Captain.” Exasperated. “These are unsettled times, as you yourself reminded me not long ago. We can’t afford to be at war with our own citizens just now.”
+
+I smiled, a small, noncommittal expression. “Indeed, we can’t.” Governor Giarod’s relationship with Captain Hetnys had been, I was sure, somewhat ambivalent. That didn’t rule out her possibly being my enemy now. But if she was, she apparently wasn’t willing to move against me openly just yet. I was, after all, the one of us with the armed ship, and the soldiers. “Let’s be sure that includes all of our citizens, shall we, Governor?”

@@ -55,4 +55,8 @@ def preprocessing(input_dir, output_dir):
 
 
 # Example use:
-# preprocessing('test_input', 'test_preprocess')
+# preprocessing('Text_Preprocessing/IR_Chapters',
+#               'Text_Preprocessing/IR_Chapters_lemma')
+
+# preprocessing('Text_Preprocessing/TMBD_Chapters',
+#               'Text_Preprocessing/TMBD_Chapters_lemma')

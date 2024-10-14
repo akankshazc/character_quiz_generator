@@ -1,7 +1,9 @@
-Text_Preprocessing/IR_Chapters/
-Text_Preprocessing/TMBD_Chapters/
-Text_Preprocessing/test_input/
-Text_Preprocessing/IR_Chapters_lemma/
-Text_Preprocessing/TMBD_Chapters_lemma/
-Text_Preprocessing/IR_Chapters_sent_lemma
-Text_Preprocessing/TMBD_Chapters_sent_lemma
+2_Text_Preprocessing/IR_Chapters/
+2_Text_Preprocessing/TMBD_Chapters/
+2_Text_Preprocessing/test_input/
+2_Text_Preprocessing/IR_Chapters_lemma/
+2_Text_Preprocessing/TMBD_Chapters_lemma/
+2_Text_Preprocessing/IR_Chapters_sent_lemma
+2_Text_Preprocessing/TMBD_Chapters_sent_lemma
+2_Text_Preprocessing/metadata_lemma.csv
+2_Text_Preprocessing/metadata.csv

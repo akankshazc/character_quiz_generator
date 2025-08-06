@@ -1,9 +1,5 @@
-0_Data/MB_Books/
-0_Data/MB_Chapters/
-2_Text_Preprocessing/MB_Chapters/
-2_Text_Preprocessing/test_input/
-2_Text_Preprocessing/MB_Chapters_lemma/
-2_Text_Preprocessing/MB_Chapters_sent_lemma
-2_Text_Preprocessing/metadata_lemma.csv
-2_Text_Preprocessing/metadata.csv
+data/MB_Books/
+data/MB_Chapters/
+data/sample
+unused/
 venv/
